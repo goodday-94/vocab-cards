@@ -1,0 +1,233 @@
+/* ========== Theme ========== */
+:root {
+  --bg: #ffffff;
+  --bg-card: #f7f6f4;
+  --bg-hover: #efeeec;
+  --text: #1a1a1a;
+  --text-muted: #6b6b6b;
+  --border: rgba(0, 0, 0, 0.08);
+  --border-strong: rgba(0, 0, 0, 0.15);
+  --accent: #c96342;
+  --radius: 12px;
+  --radius-lg: 16px;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #1a1a1a;
+    --bg-card: #262624;
+    --bg-hover: #303030;
+    --text: #f0f0f0;
+    --text-muted: #a0a0a0;
+    --border: rgba(255, 255, 255, 0.10);
+    --border-strong: rgba(255, 255, 255, 0.20);
+    --accent: #d97757;
+  }
+}
+
+* { box-sizing: border-box; }
+
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, "PingFang SC", "Microsoft YaHei", sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* ========== Layout ========== */
+.container {
+  max-width: 920px;
+  margin: 0 auto;
+  padding: 32px 20px 60px;
+}
+
+.header {
+  text-align: center;
+  margin-bottom: 32px;
+  position: relative;
+  min-height: 50px;
+}
+
+h1 {
+  font-size: 28px;
+  font-weight: 500;
+  margin: 0 0 6px;
+  letter-spacing: -0.02em;
+}
+
+.subtitle {
+  margin: 0;
+  color: var(--text-muted);
+  font-size: 15px;
+}
+
+.back-btn {
+  position: absolute;
+  left: 0;
+  top: 4px;
+  background: transparent;
+  border: 0.5px solid var(--border-strong);
+  border-radius: 8px;
+  padding: 6px 12px;
+  color: var(--text);
+  cursor: pointer;
+  font-size: 14px;
+  font-family: inherit;
+  transition: background 0.15s;
+}
+.back-btn:hover { background: var(--bg-hover); }
+
+/* ========== Topic grid ========== */
+.topic-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+  gap: 14px;
+}
+
+.topic-card {
+  background: var(--bg-card);
+  border: 0.5px solid var(--border);
+  border-radius: var(--radius-lg);
+  padding: 24px 16px;
+  text-align: center;
+  cursor: pointer;
+  transition: transform 0.15s ease, background 0.15s;
+}
+.topic-card:hover {
+  background: var(--bg-hover);
+  transform: translateY(-2px);
+}
+.topic-card .icon {
+  font-size: 32px;
+  margin-bottom: 8px;
+  line-height: 1;
+}
+.topic-card .name {
+  font-size: 16px;
+  font-weight: 500;
+}
+.topic-card .count {
+  font-size: 12px;
+  color: var(--text-muted);
+  margin-top: 4px;
+}
+
+/* ========== Vocab grid ========== */
+.vocab-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 14px;
+}
+
+.vocab-card {
+  background: var(--bg-card);
+  border: 0.5px solid var(--border);
+  border-radius: var(--radius-lg);
+  padding: 20px 14px 18px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.illus {
+  width: 100px;
+  height: 84px;
+  margin-bottom: 10px;
+  cursor: pointer;
+  transition: transform 0.15s;
+}
+.illus:hover { transform: scale(1.06); }
+.illus:active { transform: scale(0.96); }
+.illus svg { width: 100%; height: 100%; display: block; }
+
+.word-row {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.word {
+  font-size: 22px;
+  font-weight: 500;
+  line-height: 1.2;
+}
+
+.spk {
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  padding: 4px;
+  border-radius: 50%;
+  color: var(--text-muted);
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  transition: background 0.15s, color 0.15s, transform 0.1s;
+}
+.spk:hover {
+  background: var(--bg-hover);
+  color: var(--text);
+}
+.spk:active { transform: scale(0.88); }
+.spk.playing { color: var(--accent); }
+.spk svg { width: 18px; height: 18px; }
+
+.ipa {
+  font-size: 13px;
+  color: var(--text-muted);
+  font-family: "SF Mono", Monaco, "Cascadia Code", Consolas, monospace;
+  margin-top: 2px;
+}
+
+.chinese {
+  font-size: 17px;
+  margin-top: 10px;
+  padding-top: 8px;
+  border-top: 0.5px solid var(--border);
+  width: 70%;
+}
+
+/* ========== Footer & misc ========== */
+.footer {
+  margin-top: 40px;
+  text-align: center;
+  font-size: 13px;
+  color: var(--text-muted);
+}
+
+.error {
+  padding: 24px;
+  background: var(--bg-card);
+  border: 0.5px solid var(--border);
+  border-radius: var(--radius-lg);
+  color: var(--text-muted);
+  text-align: center;
+  font-size: 14px;
+}
+.error code {
+  background: var(--bg-hover);
+  padding: 2px 6px;
+  border-radius: 4px;
+  font-size: 13px;
+}
+
+/* ========== Mobile tweaks ========== */
+@media (max-width: 600px) {
+  .container { padding: 24px 16px 40px; }
+  h1 { font-size: 24px; }
+  .back-btn {
+    position: static;
+    display: inline-block;
+    margin-bottom: 12px;
+  }
+  .header { text-align: center; }
+}
