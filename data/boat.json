@@ -3,18 +3,6 @@
   "title": "Boat & Sailing",
   "words": [
     {
-      "word": "boat",
-      "ipa": "/boʊt/",
-      "chinese": "船",
-      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M0 60 Q15 56 30 60 T60 60 T100 60 L100 72 L0 72 Z' fill='#7eb6d9' opacity='0.55'/><path d='M0 60 Q15 56 30 60 T60 60 T100 60' fill='none' stroke='#4a90c2' stroke-width='0.8'/><path d='M15 50 Q50 40 85 50 L78 63 L22 63 Z' fill='#a8825a' stroke='#5d4a30' stroke-width='1'/><path d='M20 54 Q50 47 80 54' fill='none' stroke='#5d4a30' stroke-width='0.5'/><line x1='35' y1='52' x2='65' y2='52' stroke='#5d4a30' stroke-width='1.5'/></svg>"
-    },
-    {
-      "word": "sail",
-      "ipa": "/seɪl/",
-      "chinese": "帆;航行",
-      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><line x1='35' y1='15' x2='35' y2='68' stroke='#5d4a30' stroke-width='2.5'/><path d='M37 18 L74 60 L37 60 Z' fill='#f0e6d2' stroke='#8b7d5a' stroke-width='1'/><line x1='37' y1='35' x2='54' y2='60' stroke='#c9b88a' stroke-width='0.5'/><line x1='37' y1='46' x2='64' y2='60' stroke='#c9b88a' stroke-width='0.5'/><path d='M15 65 L85 65 L78 73 L22 73 Z' fill='#a8825a' stroke='#5d4a30' stroke-width='0.8'/></svg>"
-    },
-    {
       "word": "anchor",
       "ipa": "/ˈæŋ.kər/",
       "chinese": "锚",
@@ -39,7 +27,7 @@
       "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><line x1='18' y1='20' x2='68' y2='56' stroke='#a8825a' stroke-width='3.5' stroke-linecap='round'/><ellipse cx='78' cy='62' rx='13' ry='7' fill='#c9a87c' stroke='#5d4a30' stroke-width='1' transform='rotate(35 78 62)'/><circle cx='18' cy='20' r='3.5' fill='#8b6f47'/></svg>"
     },
     {
-      "word": "harbor",
+      "word": "harbour",
       "ipa": "/ˈhɑːr.bər/",
       "chinese": "港口",
       "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='0' y='0' width='100' height='48' fill='#cee5f0' opacity='0.45'/><rect x='0' y='48' width='100' height='32' fill='#7eb6d9'/><path d='M0 56 Q15 54 30 56 T60 56 T100 56' stroke='#4a90c2' stroke-width='0.5' fill='none'/><path d='M0 64 Q15 62 30 64 T60 64 T100 64' stroke='#4a90c2' stroke-width='0.5' fill='none'/><rect x='0' y='44' width='28' height='5' fill='#8b6f47' stroke='#5d4a30' stroke-width='0.5'/><line x1='10' y1='49' x2='10' y2='63' stroke='#5d4a30' stroke-width='1'/><line x1='22' y1='49' x2='22' y2='63' stroke='#5d4a30' stroke-width='1'/><path d='M34 46 L58 46 L55 53 L38 53 Z' fill='#d8d8d8' stroke='#666' stroke-width='0.5'/><line x1='46' y1='28' x2='46' y2='46' stroke='#5d4a30' stroke-width='1'/><path d='M47 30 L55 46 L47 46 Z' fill='#f0e6d2' stroke='#a89a7a' stroke-width='0.5'/><path d='M68 49 L92 49 L88 55 L72 55 Z' fill='#e8d4a8' stroke='#5d4a30' stroke-width='0.5'/><line x1='80' y1='32' x2='80' y2='49' stroke='#5d4a30' stroke-width='1'/><path d='M81 34 L88 49 L81 49 Z' fill='#f0e6d2' stroke='#a89a7a' stroke-width='0.5'/></svg>"
