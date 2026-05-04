@@ -8,17 +8,47 @@
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
-<div class="container">
-  <header class="header">
-    <button id="back-btn" class="back-btn" hidden>← Back</button>
-    <h1 id="title">Vocabulary</h1>
-    <p id="subtitle" class="subtitle">Pick a topic to learn</p>
-  </header>
-  <main id="content" class="content"></main>
-  <footer class="footer">
-    <p>Click any picture or speaker icon to hear the word</p>
-  </footer>
+<div id="app">
+  <aside id="sidebar">
+    <div class="sidebar-header">
+      <h1>Vocab Cards</h1>
+      <button id="token-btn" class="token-btn" title="Set GitHub token to enable editing">🔑</button>
+    </div>
+    <div class="sort-bar">
+      <button id="sort-words" class="sort-btn">Words ↕</button>
+      <button id="sort-date" class="sort-btn">Date ↕</button>
+    </div>
+    <div id="topic-list"></div>
+    <div class="sidebar-credit">Made by Qilin Zhang, 04/05/2026</div>
+  </aside>
+  <div id="divider"></div>
+  <main id="content">
+    <div class="content-placeholder"><p>Select a topic to start learning</p></div>
+  </main>
 </div>
+
+<div id="modal" class="modal-overlay" hidden>
+  <div class="modal-box">
+    <h3>Edit Card</h3>
+    <div class="modal-field">
+      <label>Word</label>
+      <input id="modal-word" type="text" spellcheck="false">
+    </div>
+    <div class="modal-field">
+      <label>IPA</label>
+      <input id="modal-ipa" type="text" spellcheck="false">
+    </div>
+    <div class="modal-field">
+      <label>Chinese</label>
+      <input id="modal-chinese" type="text">
+    </div>
+    <div class="modal-actions">
+      <button id="modal-cancel">Cancel</button>
+      <button id="modal-save">Save</button>
+    </div>
+  </div>
+</div>
+
 <script src="app.js"></script>
 </body>
 </html>

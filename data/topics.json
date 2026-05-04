@@ -4,7 +4,15 @@
       "id": "boat",
       "title": "Boat & Sailing",
       "icon": "⛵",
-      "count": 8
+      "count": 57,
+      "updatedAt": "2026-05-01"
+    },
+    {
+      "id": "hiking",
+      "title": "Hiking",
+      "icon": "🥾",
+      "count": 105,
+      "updatedAt": "2026-05-04"
     }
   ]
 }
