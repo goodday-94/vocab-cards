@@ -90,11 +90,21 @@ body {
   gap: 8px;
 }
 
+.sidebar-title { display: flex; flex-direction: column; gap: 1px; min-width: 0; }
+
 .sidebar-header h1 {
   font-size: 17px;
   font-weight: 600;
   margin: 0;
   letter-spacing: -0.02em;
+}
+
+.sidebar-byline {
+  margin: 0;
+  font-size: 11px;
+  color: var(--text-muted);
+  font-weight: 400;
+  letter-spacing: 0.01em;
 }
 
 .token-btn {
@@ -168,13 +178,6 @@ body {
   white-space: nowrap;
 }
 
-.sidebar-credit {
-  padding: 12px 16px;
-  font-size: 11px;
-  color: var(--text-muted);
-  border-top: 0.5px solid var(--border);
-  margin-top: auto;
-}
 
 /* ========== Content top bar ========== */
 .content-top {
@@ -440,17 +443,74 @@ body {
   #app { flex-direction: column; height: auto; min-height: 100vh; }
   #sidebar { width: 100% !important; height: auto; border-right: none; border-bottom: 0.5px solid var(--border-strong); }
   #divider { display: none; }
-  #topic-list { display: flex; overflow-x: auto; overflow-y: hidden; }
-  .topic-row {
-    flex-direction: column;
-    align-items: center;
-    padding: 8px 12px;
-    min-width: 72px;
-    text-align: center;
-    border-left: none;
-    border-bottom: 3px solid transparent;
+
+  /* Compact sidebar header */
+  .sidebar-header { padding: 8px 12px; }
+  .sidebar-header h1 { font-size: 15px; }
+  .token-btn { padding: 7px 12px; font-size: 16px; min-height: 36px; }
+
+  /* Bigger touch targets for sort */
+  .sort-bar { padding: 4px 10px 6px; gap: 8px; }
+  .sort-btn { padding: 8px 14px; font-size: 13px; min-height: 36px; }
+
+  /* Horizontal topic strip with pill-style chips */
+  #topic-list {
+    display: flex;
+    overflow-x: auto;
+    overflow-y: hidden;
+    padding: 6px 10px 8px;
+    gap: 6px;
+    -webkit-overflow-scrolling: touch;
   }
-  .topic-row.active { border-left-color: transparent; border-bottom-color: var(--accent); }
+  .topic-row {
+    flex-direction: row;
+    align-items: center;
+    gap: 6px;
+    padding: 8px 12px;
+    text-align: left;
+    border-left: none;
+    border-bottom: none;
+    background: var(--bg-card);
+    border: 0.5px solid var(--border);
+    border-radius: 18px;
+    flex-shrink: 0;
+    min-height: 36px;
+  }
+  .topic-row.active { background: var(--accent); border-color: transparent; }
+  .topic-row.active .topic-name { color: white; }
+  .topic-icon { font-size: 16px; }
+  .topic-name { font-size: 13px; flex: none; }
   .topic-count, .topic-date { display: none; }
-  #content { height: auto; padding: 20px 16px 40px; }
+
+  .sidebar-byline { font-size: 10px; }
+
+  /* Compact content */
+  #content { height: auto; padding: 16px 12px 40px; }
+  .topic-heading { font-size: 17px; }
+  .content-top { margin-bottom: 14px; }
+  .type-section { margin-bottom: 18px; }
+  .type-label { font-size: 10px; margin-bottom: 8px; }
+
+  /* Smaller cards — 3 per row on iPhone */
+  .vocab-grid {
+    grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
+    gap: 8px;
+  }
+  .vocab-card { padding: 10px 6px 8px; border-radius: 10px; }
+  .illus { width: 60px; height: 50px; margin-bottom: 6px; }
+  .word { font-size: 14px; }
+  .ipa { font-size: 10px; }
+  .chinese { font-size: 13px; padding-top: 5px; margin-top: 6px; width: 80%; }
+  .spk { padding: 5px; }
+  .spk svg { width: 14px; height: 14px; }
+  .phrase-card { min-height: 56px; }
+  .phrase-card .word { font-size: 12px; }
+
+  /* Bigger touch targets for edit/delete buttons */
+  .card-btn { width: 28px; height: 28px; font-size: 14px; }
+
+  /* Modal — wider, bigger inputs (16px prevents iOS zoom on focus) */
+  .modal-box { width: calc(100vw - 24px); padding: 18px; }
+  .modal-field input { font-size: 16px; padding: 10px 12px; }
+  .modal-actions button { padding: 10px 18px; font-size: 14px; min-height: 40px; }
 }
