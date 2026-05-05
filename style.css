@@ -353,6 +353,15 @@ body {
   width: 70%;
 }
 
+/* ========== Study mode ========== */
+.vocab-card.study-mode { cursor: pointer; }
+.vocab-card.study-mode .chinese {
+  filter: blur(7px);
+  user-select: none;
+  transition: filter 0.2s ease;
+}
+.vocab-card.study-mode.revealed .chinese { filter: none; }
+
 /* ========== Misc ========== */
 .content-placeholder {
   display: flex;

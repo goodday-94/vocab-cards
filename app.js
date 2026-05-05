@@ -25,6 +25,7 @@
   let sortKey          = null;
   let sortDir          = "desc";
   let editMode         = false;
+  let studyMode        = false;
   let editingIndex     = -1;
   let dragSrcIndex     = -1;
 
@@ -88,6 +89,7 @@
     let html = '<div class="content-top">' +
       '<h2 class="topic-heading">' + escapeHTML(currentTopicData.title) + '</h2>' +
       '<div class="content-actions">';
+    html += '<button id="study-toggle" class="edit-toggle' + (studyMode ? ' active' : '') + '">Study</button>';
     if (token) {
       if (editMode) {
         html += '<button id="save-btn" class="save-btn">Save to GitHub</button>';
@@ -116,7 +118,8 @@
           const w = entry.w, i = entry.i;
           const wa = escapeHTML(w.word);
           const isPhrase = type === "phrase";
-          return '<div class="vocab-card' + (editMode ? " editable" : "") + (isPhrase ? " phrase-card" : "") +
+          const inStudy = studyMode && !editMode;
+          return '<div class="vocab-card' + (editMode ? " editable" : "") + (isPhrase ? " phrase-card" : "") + (inStudy ? " study-mode" : "") +
             '" data-index="' + i + '"' + (editMode ? ' draggable="true"' : "") + '>' +
             (editMode
               ? '<div class="card-toolbar">' +
@@ -145,6 +148,12 @@
       s.addEventListener("click", function () { speak(s.dataset.word, s.parentElement.querySelector(".spk")); });
     });
 
+    // Study toggle
+    const studyToggle = document.getElementById("study-toggle");
+    if (studyToggle) {
+      studyToggle.addEventListener("click", function () { studyMode = !studyMode; renderCards(); });
+    }
+
     // Edit toggle
     const editToggle = document.getElementById("edit-toggle");
     if (editToggle) {
@@ -154,6 +163,16 @@
     // Save button
     const saveBtn = document.getElementById("save-btn");
     if (saveBtn) saveBtn.addEventListener("click", saveToGitHub);
+
+    // Card reveal in study mode
+    if (studyMode && !editMode) {
+      content.querySelectorAll(".vocab-card.study-mode").forEach(function (card) {
+        card.addEventListener("click", function (e) {
+          if (e.target.closest(".spk")) return;
+          card.classList.toggle("revealed");
+        });
+      });
+    }
 
     // Edit / delete buttons
     content.querySelectorAll(".edit-btn").forEach(function (b) {

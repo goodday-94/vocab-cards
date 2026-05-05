@@ -13,6 +13,13 @@
       "icon": "🥾",
       "count": 105,
       "updatedAt": "2026-05-04"
+    },
+    {
+      "id": "symbols",
+      "title": "Symbols & Notation",
+      "icon": "⌨️",
+      "count": 103,
+      "updatedAt": "2026-05-05"
     }
   ]
 }
