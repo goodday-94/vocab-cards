@@ -1,80 +1,45 @@
-# Vocab Cards 📚
+# Vocab Cards
 
-A simple visual vocabulary learning app. Each word has a picture, IPA pronunciation, Chinese meaning, and click-to-hear audio.
+Visual vocabulary learning app. Each word card shows an illustration, IPA, Chinese meaning, and click-to-hear UK pronunciation.
 
-## Features
+Live: [goodday-94.github.io/vocab-cards](https://goodday-94.github.io/vocab-cards)
 
-- 🖼️ Visual cards (SVG illustrations) for memory association
-- 🔊 Click-to-pronounce using the browser's built-in Web Speech API (no API key, no cost, works offline)
-- 🌗 Light & dark mode (follows system preference)
-- 📱 Mobile responsive
-- 🗂️ Topics organized as separate JSON files — easy to extend
-
-## Project structure
-
-```
-vocab-app/
-├── index.html         # Entry point
-├── style.css          # Styles
-├── app.js             # Logic
-├── data/
-│   ├── topics.json    # Master list of all topics
-│   └── boat.json      # Topic data (one file per topic)
-└── README.md
-```
+---
 
 ## Run locally
 
-The app uses `fetch()` to load JSON files, which doesn't work when opening `index.html` directly via `file://`. You need a local web server.
-
-The easiest way (since you already have Python):
+Requires a local server (plain `file://` won't work).
 
 ```bash
-cd vocab-app
 python -m http.server 8000
+# then open http://localhost:8000
 ```
 
-Then open `http://localhost:8000` in your browser.
+Or in VS Code: install **Live Server**, right-click `index.html` → Open with Live Server.
 
-Other options:
-- VS Code: install the **Live Server** extension, right-click `index.html` → "Open with Live Server"
-- Node.js: `npx serve`
+---
 
-## Deploy to GitHub Pages
+## Edit cards in the browser
 
-1. **Create a new repo on GitHub** (e.g. `vocab-cards`).
+The app can save edits directly to GitHub — no local setup needed.
 
-2. **Push your code:**
+**Get a GitHub token:**
+1. GitHub → Settings → Developer settings → Personal access tokens → Tokens (classic)
+2. Generate new token → select `repo` scope → copy it
 
-   ```bash
-   cd vocab-app
-   git init
-   git add .
-   git commit -m "Initial commit"
-   git branch -M main
-   git remote add origin https://github.com/YOUR_USERNAME/vocab-cards.git
-   git push -u origin main
-   ```
+**Use it in the app:**
+1. Click the 🔑 button (top-left of sidebar)
+2. Paste your token — it's stored in session only, never saved
+3. An **Edit** button appears on the current topic
+4. Edit or delete any card, drag to reorder, then hit **Save to GitHub**
 
-3. **Enable GitHub Pages:**
-   - Go to your repo on GitHub
-   - **Settings** → **Pages** (in left sidebar)
-   - Under **Source**, select **Deploy from a branch**
-   - Branch: `main`, folder: `/ (root)`
-   - Click **Save**
+---
 
-4. **Wait ~1 minute**, then visit:
-   `https://YOUR_USERNAME.github.io/vocab-cards/`
+## Add a new topic
 
-   (Bookmark this on your phone — works like an app.)
+### 1. Create the data file
 
-## Adding a new topic
-
-Two steps:
-
-### 1. Create the topic data file
-
-Add a new file in `data/`, for example `data/kitchen.json`:
+Add `data/TOPICNAME.json`:
 
 ```json
 {
@@ -82,29 +47,31 @@ Add a new file in `data/`, for example `data/kitchen.json`:
   "title": "Kitchen",
   "words": [
     {
-      "word": "knife",
-      "ipa": "/naɪf/",
-      "chinese": "刀",
+      "word": "ladle",
+      "type": "noun",
+      "ipa": "/ˈleɪ.dəl/",
+      "chinese": "长柄勺",
       "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'>...</svg>"
+    },
+    {
+      "word": "chop finely",
+      "type": "phrase",
+      "chinese": "切碎",
+      "svg": ""
     }
   ]
 }
 ```
 
-### 2. Register the topic in `data/topics.json`
+Word types: `noun`, `verb`, `adj`, `phrase`. Phrases have no `ipa` and `"svg": ""`.
+
+### 2. Register in `data/topics.json`
 
 ```json
-{
-  "topics": [
-    { "id": "boat",    "title": "Boat & Sailing", "icon": "⛵", "count": 8 },
-    { "id": "kitchen", "title": "Kitchen",        "icon": "🍳", "count": 10 }
-  ]
-}
+{ "id": "kitchen", "title": "Kitchen", "icon": "🍳", "count": 12, "updatedAt": "2026-05-05" }
 ```
 
-The `id` must match the filename (without `.json`).
-
-### 3. Push to GitHub
+### 3. Push
 
 ```bash
 git add data/
@@ -112,27 +79,28 @@ git commit -m "Add kitchen topic"
 git push
 ```
 
-GitHub Pages will redeploy automatically.
+---
 
-## Tip: ask Claude to generate new topic JSON
+## Generate a new topic with AI
 
-The hardest part is drawing the SVG illustrations. The easy workflow:
+Ask Claude (or any AI) with this prompt:
 
-1. Open Claude
-2. Say: *"Generate a kitchen vocabulary topic JSON file for my vocab app, same format as boat.json"*
-3. Paste the result into `data/kitchen.json`
-4. Update `topics.json`
-5. Push
+```
+Generate a vocabulary JSON file for my vocab app on the topic: [TOPIC NAME].
 
-## Notes on speech synthesis
+Rules:
+- UK English spelling and IPA pronunciation
+- B1–B2 level (practical, not too basic)
+- 100+ items total: mix nouns, verbs, adjectives, and phrases
+- For each word: "word", "type" (noun/verb/adj/phrase), "ipa", "chinese", "svg"
+- SVG viewBox="0 0 100 80" — draw a simple illustration of the word
+- For phrases: no "ipa", set "svg": ""
+- Include collocations like "run out of", "make a decision"
 
-- Uses `window.speechSynthesis` (Web Speech API) — built into all modern browsers
-- Voice quality depends on your OS:
-  - macOS / iOS: very natural English voices
-  - Windows: clear but more robotic
-  - Android / Chrome: usually good
-- No internet needed once the page loads — speech is generated by your device
+Output the full JSON only, no explanation.
 
-## License
+Format reference:
+{ "topic": "kitchen", "title": "Kitchen", "words": [ ... ] }
+```
 
-MIT — do whatever you want with it.
+Then drop the file into `data/` and add an entry to `data/topics.json`.
