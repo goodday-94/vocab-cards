@@ -302,11 +302,7 @@ body {
   width: 80px;
   height: 68px;
   margin-bottom: 8px;
-  cursor: pointer;
-  transition: transform 0.15s;
 }
-.illus:hover { transform: scale(1.06); }
-.illus:active { transform: scale(0.96); }
 .illus svg { width: 100%; height: 100%; display: block; }
 
 .word-row {
@@ -352,15 +348,6 @@ body {
   border-top: 0.5px solid var(--border);
   width: 70%;
 }
-
-/* ========== Study mode ========== */
-.vocab-card.study-mode { cursor: pointer; }
-.vocab-card.study-mode .chinese {
-  filter: blur(7px);
-  user-select: none;
-  transition: filter 0.2s ease;
-}
-.vocab-card.study-mode.revealed .chinese { filter: none; }
 
 /* ========== Misc ========== */
 .content-placeholder {
@@ -413,7 +400,8 @@ body {
 
 .modal-field { margin-bottom: 12px; }
 .modal-field label { display: block; font-size: 11px; color: var(--text-muted); margin-bottom: 4px; text-transform: uppercase; letter-spacing: 0.04em; }
-.modal-field input {
+.modal-field input,
+.modal-field select {
   width: 100%;
   padding: 8px 10px;
   border: 0.5px solid var(--border-strong);
@@ -425,7 +413,8 @@ body {
   outline: none;
   transition: border-color 0.15s;
 }
-.modal-field input:focus { border-color: var(--accent); }
+.modal-field input:focus,
+.modal-field select:focus { border-color: var(--accent); }
 
 .modal-actions {
   display: flex;

@@ -12,12 +12,13 @@
   const sortWordsBtn = document.getElementById("sort-words");
   const sortDateBtn  = document.getElementById("sort-date");
   const tokenBtn    = document.getElementById("token-btn");
-  const modal       = document.getElementById("modal");
-  const modalWord   = document.getElementById("modal-word");
-  const modalIpa    = document.getElementById("modal-ipa");
+  const modal        = document.getElementById("modal");
+  const modalWord    = document.getElementById("modal-word");
+  const modalType    = document.getElementById("modal-type");
+  const modalIpa     = document.getElementById("modal-ipa");
   const modalChinese = document.getElementById("modal-chinese");
-  const modalSave   = document.getElementById("modal-save");
-  const modalCancel = document.getElementById("modal-cancel");
+  const modalSave    = document.getElementById("modal-save");
+  const modalCancel  = document.getElementById("modal-cancel");
 
   let allTopics        = [];
   let currentTopicData = null;
@@ -25,7 +26,6 @@
   let sortKey          = null;
   let sortDir          = "desc";
   let editMode         = false;
-  let studyMode        = false;
   let editingIndex     = -1;
   let dragSrcIndex     = -1;
 
@@ -89,9 +89,9 @@
     let html = '<div class="content-top">' +
       '<h2 class="topic-heading">' + escapeHTML(currentTopicData.title) + '</h2>' +
       '<div class="content-actions">';
-    html += '<button id="study-toggle" class="edit-toggle' + (studyMode ? ' active' : '') + '">Study</button>';
     if (token) {
       if (editMode) {
+        html += '<button id="add-btn" class="edit-toggle">+ Add</button>';
         html += '<button id="save-btn" class="save-btn">Save to GitHub</button>';
         html += '<button id="edit-toggle" class="edit-toggle active">Done</button>';
       } else {
@@ -118,8 +118,7 @@
           const w = entry.w, i = entry.i;
           const wa = escapeHTML(w.word);
           const isPhrase = type === "phrase";
-          const inStudy = studyMode && !editMode;
-          return '<div class="vocab-card' + (editMode ? " editable" : "") + (isPhrase ? " phrase-card" : "") + (inStudy ? " study-mode" : "") +
+          return '<div class="vocab-card' + (editMode ? " editable" : "") + (isPhrase ? " phrase-card" : "") +
             '" data-index="' + i + '"' + (editMode ? ' draggable="true"' : "") + '>' +
             (editMode
               ? '<div class="card-toolbar">' +
@@ -127,7 +126,7 @@
                 '<button class="card-btn delete-btn" data-index="' + i + '">×</button>' +
                 '</div>'
               : '') +
-            (!isPhrase && w.svg ? '<div class="illus" data-word="' + wa + '">' + w.svg + '</div>' : '') +
+            (!isPhrase && w.svg ? '<div class="illus">' + w.svg + '</div>' : '') +
             '<div class="word-row"><div class="word">' + escapeHTML(w.word) + '</div>' +
             (!isPhrase ? '<button class="spk" data-word="' + wa + '" aria-label="Pronounce ' + wa + '">' + speakerSVG + '</button>' : '') +
             '</div>' +
@@ -144,15 +143,10 @@
     content.querySelectorAll(".spk").forEach(function (b) {
       b.addEventListener("click", function (e) { e.stopPropagation(); speak(b.dataset.word, b); });
     });
-    content.querySelectorAll(".illus").forEach(function (s) {
-      s.addEventListener("click", function () { speak(s.dataset.word, s.parentElement.querySelector(".spk")); });
-    });
 
-    // Study toggle
-    const studyToggle = document.getElementById("study-toggle");
-    if (studyToggle) {
-      studyToggle.addEventListener("click", function () { studyMode = !studyMode; renderCards(); });
-    }
+    // Add card button
+    const addBtn = document.getElementById("add-btn");
+    if (addBtn) addBtn.addEventListener("click", function () { openModal(-1); });
 
     // Edit toggle
     const editToggle = document.getElementById("edit-toggle");
@@ -163,16 +157,6 @@
     // Save button
     const saveBtn = document.getElementById("save-btn");
     if (saveBtn) saveBtn.addEventListener("click", saveToGitHub);
-
-    // Card reveal in study mode
-    if (studyMode && !editMode) {
-      content.querySelectorAll(".vocab-card.study-mode").forEach(function (card) {
-        card.addEventListener("click", function (e) {
-          if (e.target.closest(".spk")) return;
-          card.classList.toggle("revealed");
-        });
-      });
-    }
 
     // Edit / delete buttons
     content.querySelectorAll(".edit-btn").forEach(function (b) {
@@ -223,19 +207,38 @@
   // ---------- Modal ----------
   function openModal(index) {
     editingIndex = index;
-    const w = currentTopicData.words[index];
-    modalWord.value = w.word;
-    modalIpa.value  = w.ipa;
-    modalChinese.value = w.chinese;
+    if (index === -1) {
+      modalWord.value    = "";
+      modalType.value    = "noun";
+      modalIpa.value     = "";
+      modalChinese.value = "";
+      document.querySelector(".modal-box h3").textContent = "Add Card";
+    } else {
+      const w = currentTopicData.words[index];
+      modalWord.value    = w.word;
+      modalType.value    = w.type || "noun";
+      modalIpa.value     = w.ipa || "";
+      modalChinese.value = w.chinese;
+      document.querySelector(".modal-box h3").textContent = "Edit Card";
+    }
     modal.hidden = false;
     modalWord.focus();
   }
 
   modalSave.addEventListener("click", function () {
-    if (editingIndex < 0) return;
-    currentTopicData.words[editingIndex].word    = modalWord.value.trim();
-    currentTopicData.words[editingIndex].ipa     = modalIpa.value.trim();
-    currentTopicData.words[editingIndex].chinese = modalChinese.value.trim();
+    const word    = modalWord.value.trim();
+    const type    = modalType.value;
+    const ipa     = modalIpa.value.trim();
+    const chinese = modalChinese.value.trim();
+    if (!word || !chinese) return;
+    if (editingIndex === -1) {
+      currentTopicData.words.push({ word: word, type: type, ipa: ipa, chinese: chinese, svg: "" });
+    } else {
+      currentTopicData.words[editingIndex].word    = word;
+      currentTopicData.words[editingIndex].type    = type;
+      currentTopicData.words[editingIndex].ipa     = ipa;
+      currentTopicData.words[editingIndex].chinese = chinese;
+    }
     modal.hidden = true;
     renderCards();
   });
@@ -246,6 +249,7 @@
   [modalWord, modalIpa, modalChinese].forEach(function (inp) {
     inp.addEventListener("keydown", function (e) { if (e.key === "Enter") modalSave.click(); });
   });
+
 
   // ---------- GitHub API save ----------
   function toBase64Unicode(str) {

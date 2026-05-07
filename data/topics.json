@@ -20,6 +20,13 @@
       "icon": "⌨️",
       "count": 103,
       "updatedAt": "2026-05-05"
+    },
+    {
+      "id": "confusables",
+      "title": "Confusable Words",
+      "icon": "🔀",
+      "count": 450,
+      "updatedAt": "2026-05-05"
     }
   ]
 }
