@@ -27,6 +27,13 @@
       "icon": "🔀",
       "count": 450,
       "updatedAt": "2026-05-05"
+    },
+    {
+      "id": "car-accident",
+      "title": "Car Accident & Insurance",
+      "icon": "🚗",
+      "count": 148,
+      "updatedAt": "2026-05-14"
     }
   ]
 }
