@@ -100,42 +100,75 @@
     }
     html += '</div></div>';
 
-    const typeOrder = ["noun", "verb", "adj", "phrase"];
-    const typeLabels = { noun: "Nouns", verb: "Verbs", adj: "Adjectives", phrase: "Phrases" };
-    const groups = {};
-    currentTopicData.words.forEach(function (w, i) {
-      const t = w.type || "noun";
-      if (!groups[t]) groups[t] = [];
-      groups[t].push({ w: w, i: i });
-    });
+    const hasSections = currentTopicData.words.some(function (w) { return w.section; });
 
-    typeOrder.forEach(function (type) {
-      if (!groups[type] || !groups[type].length) return;
-      html += '<div class="type-section">' +
-        '<div class="type-label">' + typeLabels[type] + '</div>' +
-        '<div class="vocab-grid">' +
-        groups[type].map(function (entry) {
-          const w = entry.w, i = entry.i;
-          const wa = escapeHTML(w.word);
-          const isPhrase = type === "phrase";
-          return '<div class="vocab-card' + (editMode ? " editable" : "") + (isPhrase ? " phrase-card" : "") +
-            '" data-index="' + i + '"' + (editMode ? ' draggable="true"' : "") + '>' +
-            (editMode
-              ? '<div class="card-toolbar">' +
-                '<button class="card-btn edit-btn" data-index="' + i + '">✎</button>' +
-                '<button class="card-btn delete-btn" data-index="' + i + '">×</button>' +
-                '</div>'
-              : '') +
-            (!isPhrase && w.svg ? '<div class="illus">' + w.svg + '</div>' : '') +
-            '<div class="word-row"><div class="word">' + escapeHTML(w.word) + '</div>' +
-            (!isPhrase ? '<button class="spk" data-word="' + wa + '" aria-label="Pronounce ' + wa + '">' + speakerSVG + '</button>' : '') +
-            '</div>' +
-            (!isPhrase && w.ipa ? '<div class="ipa">' + escapeHTML(w.ipa) + '</div>' : '') +
-            '<div class="chinese">' + escapeHTML(w.chinese) + '</div>' +
-            '</div>';
-        }).join('') +
-        '</div></div>';
-    });
+    if (hasSections) {
+      let inGrid = false;
+      currentTopicData.words.forEach(function (w, i) {
+        if (w.section) {
+          if (inGrid) { html += '</div></div>'; inGrid = false; }
+          html += '<div class="type-section"><div class="type-label">' + escapeHTML(w.section) + '</div><div class="vocab-grid">';
+          inGrid = true;
+          return;
+        }
+        if (!inGrid) { html += '<div class="type-section"><div class="vocab-grid">'; inGrid = true; }
+        const isPhrase = !w.ipa && !w.svg;
+        const wa = escapeHTML(w.word);
+        html += '<div class="vocab-card' + (editMode ? " editable" : "") + (isPhrase ? " phrase-card" : "") +
+          '" data-index="' + i + '"' + (editMode ? ' draggable="true"' : "") + '>' +
+          (editMode
+            ? '<div class="card-toolbar">' +
+              '<button class="card-btn edit-btn" data-index="' + i + '">✎</button>' +
+              '<button class="card-btn delete-btn" data-index="' + i + '">×</button>' +
+              '</div>'
+            : '') +
+          (w.num ? '<div class="card-num">' + w.num + '</div>' : '') +
+          (!isPhrase && w.svg ? '<div class="illus">' + w.svg + '</div>' : '') +
+          '<div class="word-row"><div class="word">' + escapeHTML(w.word) + '</div>' +
+          (!isPhrase ? '<button class="spk" data-word="' + wa + '" aria-label="Pronounce ' + wa + '">' + speakerSVG + '</button>' : '') +
+          '</div>' +
+          (!isPhrase && w.ipa ? '<div class="ipa">' + escapeHTML(w.ipa) + '</div>' : '') +
+          '<div class="chinese">' + escapeHTML(w.chinese) + '</div>' +
+          '</div>';
+      });
+      if (inGrid) html += '</div></div>';
+    } else {
+      const typeOrder = ["noun", "verb", "adj", "phrase"];
+      const typeLabels = { noun: "Nouns", verb: "Verbs", adj: "Adjectives", phrase: "Phrases" };
+      const groups = {};
+      currentTopicData.words.forEach(function (w, i) {
+        const t = w.type || "noun";
+        if (!groups[t]) groups[t] = [];
+        groups[t].push({ w: w, i: i });
+      });
+      typeOrder.forEach(function (type) {
+        if (!groups[type] || !groups[type].length) return;
+        html += '<div class="type-section">' +
+          '<div class="type-label">' + typeLabels[type] + '</div>' +
+          '<div class="vocab-grid">' +
+          groups[type].map(function (entry) {
+            const w = entry.w, i = entry.i;
+            const wa = escapeHTML(w.word);
+            const isPhrase = type === "phrase";
+            return '<div class="vocab-card' + (editMode ? " editable" : "") + (isPhrase ? " phrase-card" : "") +
+              '" data-index="' + i + '"' + (editMode ? ' draggable="true"' : "") + '>' +
+              (editMode
+                ? '<div class="card-toolbar">' +
+                  '<button class="card-btn edit-btn" data-index="' + i + '">✎</button>' +
+                  '<button class="card-btn delete-btn" data-index="' + i + '">×</button>' +
+                  '</div>'
+                : '') +
+              (!isPhrase && w.svg ? '<div class="illus">' + w.svg + '</div>' : '') +
+              '<div class="word-row"><div class="word">' + escapeHTML(w.word) + '</div>' +
+              (!isPhrase ? '<button class="spk" data-word="' + wa + '" aria-label="Pronounce ' + wa + '">' + speakerSVG + '</button>' : '') +
+              '</div>' +
+              (!isPhrase && w.ipa ? '<div class="ipa">' + escapeHTML(w.ipa) + '</div>' : '') +
+              '<div class="chinese">' + escapeHTML(w.chinese) + '</div>' +
+              '</div>';
+          }).join('') +
+          '</div></div>';
+      });
+    }
 
     content.innerHTML = html;
 
