@@ -122,13 +122,12 @@
               '<button class="card-btn delete-btn" data-index="' + i + '">×</button>' +
               '</div>'
             : '') +
-          (w.num ? '<div class="card-num">' + w.num + '</div>' : '') +
           (!isPhrase && w.svg ? '<div class="illus">' + w.svg + '</div>' : '') +
           '<div class="word-row"><div class="word">' + escapeHTML(w.word) + '</div>' +
           (!isPhrase ? '<button class="spk" data-word="' + wa + '" aria-label="Pronounce ' + wa + '">' + speakerSVG + '</button>' : '') +
           '</div>' +
           (!isPhrase && w.ipa ? '<div class="ipa">' + escapeHTML(w.ipa) + '</div>' : '') +
-          '<div class="chinese">' + escapeHTML(w.chinese) + '</div>' +
+          '<div class="chinese">' + (w.num ? w.num + '. ' : '') + escapeHTML(w.chinese) + '</div>' +
           '</div>';
       });
       if (inGrid) html += '</div></div>';
