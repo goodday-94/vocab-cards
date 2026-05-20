@@ -22,18 +22,25 @@
       "updatedAt": "2026-05-05"
     },
     {
-      "id": "confusables",
-      "title": "Confusable Words",
-      "icon": "🔀",
-      "count": 450,
-      "updatedAt": "2026-05-05"
-    },
-    {
       "id": "car-accident",
       "title": "Car Accident & Insurance",
       "icon": "🚗",
       "count": 144,
       "updatedAt": "2026-05-14"
+    },
+    {
+      "id": "confusables",
+      "title": "Easily Confused Words",
+      "icon": "🔀",
+      "count": 310,
+      "updatedAt": "2026-05-14"
+    },
+    {
+      "id": "cooking",
+      "title": "Cooking",
+      "icon": "🍳",
+      "count": 107,
+      "updatedAt": "2026-05-20"
     }
   ]
 }

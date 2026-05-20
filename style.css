@@ -257,7 +257,6 @@ body {
   position: relative;
 }
 
-.phrase-card { justify-content: center; min-height: 70px; }
 .phrase-card .word { font-size: 14px; font-weight: 500; }
 
 .vocab-card.editable {
@@ -501,7 +500,6 @@ body {
   .chinese { font-size: 13px; padding-top: 5px; margin-top: 6px; width: 80%; }
   .spk { padding: 5px; }
   .spk svg { width: 14px; height: 14px; }
-  .phrase-card { min-height: 56px; }
   .phrase-card .word { font-size: 12px; }
 
   /* Bigger touch targets for edit/delete buttons */

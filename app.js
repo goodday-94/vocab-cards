@@ -86,8 +86,10 @@
     if (!currentTopicData) return;
     const token = getToken();
 
+    const topicMeta = allTopics.find(function (t) { return t.id === activeTopicId; });
+    const heading = currentTopicData.title || (topicMeta && topicMeta.title) || "";
     let html = '<div class="content-top">' +
-      '<h2 class="topic-heading">' + escapeHTML(currentTopicData.title) + '</h2>' +
+      '<h2 class="topic-heading">' + escapeHTML(heading) + '</h2>' +
       '<div class="content-actions">';
     if (token) {
       if (editMode) {
@@ -122,7 +124,7 @@
               '<button class="card-btn delete-btn" data-index="' + i + '">×</button>' +
               '</div>'
             : '') +
-          (!isPhrase && w.svg ? '<div class="illus">' + w.svg + '</div>' : '') +
+          '<div class="illus">' + (w.svg || '') + '</div>' +
           '<div class="word-row"><div class="word">' + escapeHTML(w.word) + '</div>' +
           (!isPhrase ? '<button class="spk" data-word="' + wa + '" aria-label="Pronounce ' + wa + '">' + speakerSVG + '</button>' : '') +
           '</div>' +
@@ -157,7 +159,7 @@
                   '<button class="card-btn delete-btn" data-index="' + i + '">×</button>' +
                   '</div>'
                 : '') +
-              (!isPhrase && w.svg ? '<div class="illus">' + w.svg + '</div>' : '') +
+              '<div class="illus">' + (w.svg || '') + '</div>' +
               '<div class="word-row"><div class="word">' + escapeHTML(w.word) + '</div>' +
               (!isPhrase ? '<button class="spk" data-word="' + wa + '" aria-label="Pronounce ' + wa + '">' + speakerSVG + '</button>' : '') +
               '</div>' +
