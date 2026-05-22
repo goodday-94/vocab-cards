@@ -1,0 +1,1209 @@
+{
+  "topic": "daily-chat",
+  "title": "Daily Chat",
+  "words": [
+    {
+      "section": "1. Reactions & Responses"
+    },
+    {
+      "num": 1,
+      "word": "fair enough",
+      "ipa": "/feə(r) ɪˈnʌf/",
+      "chinese": "有道理；行",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><circle cx='50' cy='40' r='28' fill='#f5d040' stroke='#a08010' stroke-width='2'/><circle cx='40' cy='34' r='3' fill='#333'/><circle cx='60' cy='34' r='3' fill='#333'/><path d='M36 52 Q44 56 56 52 Q62 50 64 46' stroke='#333' stroke-width='2.5' fill='none' stroke-linecap='round'/></svg>"
+    },
+    {
+      "num": 2,
+      "word": "exactly",
+      "ipa": "/ɪɡˈzæktli/",
+      "chinese": "正是；没错",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><circle cx='50' cy='40' r='32' fill='#6abf50' stroke='#3a8a20' stroke-width='2'/><path d='M32 40 L44 52 L68 28' fill='none' stroke='#fff' stroke-width='5' stroke-linecap='round' stroke-linejoin='round'/></svg>"
+    },
+    {
+      "num": 3,
+      "word": "totally",
+      "ipa": "/ˈtəʊtəli/",
+      "chinese": "完全；绝对",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='32' y='32' width='14' height='32' rx='3' fill='#f0c090' stroke='#a07050' stroke-width='1.5'/><path d='M44 32 L48 16 Q54 12 56 18 L56 30 L70 30 Q76 30 76 36 L74 56 Q72 64 64 64 L46 64 Z' fill='#f0c090' stroke='#a07050' stroke-width='1.5'/></svg>"
+    },
+    {
+      "num": 4,
+      "word": "gotcha",
+      "ipa": "/ˈɡɒtʃə/",
+      "chinese": "明白了；抓到你",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M20 50 L40 50 L40 30 Q40 24 46 24 Q52 24 52 30 L52 50 L78 50 Q84 50 84 56 Q84 62 78 62 L30 62 Q20 62 20 56 Z' fill='#f0c090' stroke='#a07050' stroke-width='1.5'/></svg>"
+    },
+    {
+      "num": 5,
+      "word": "wow",
+      "ipa": "/waʊ/",
+      "chinese": "哇",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><circle cx='50' cy='40' r='28' fill='#f0e0c0' stroke='#a08040' stroke-width='2'/><circle cx='40' cy='34' r='5' fill='#fff' stroke='#333' stroke-width='1.5'/><circle cx='60' cy='34' r='5' fill='#fff' stroke='#333' stroke-width='1.5'/><circle cx='40' cy='34' r='2' fill='#333'/><circle cx='60' cy='34' r='2' fill='#333'/><ellipse cx='50' cy='54' rx='6' ry='8' fill='#333'/></svg>"
+    },
+    {
+      "num": 6,
+      "word": "ugh",
+      "ipa": "/ʌɡ/",
+      "chinese": "唉；讨厌",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><circle cx='50' cy='40' r='28' fill='#90c060' stroke='#506020' stroke-width='2'/><path d='M34 34 L46 30' stroke='#333' stroke-width='2.5' stroke-linecap='round'/><path d='M66 34 L54 30' stroke='#333' stroke-width='2.5' stroke-linecap='round'/><path d='M40 52 Q50 56 60 52' stroke='#333' stroke-width='2.5' fill='none' stroke-linecap='round'/><path d='M45 58 Q48 70 42 74' stroke='#90c060' stroke-width='4' fill='none' stroke-linecap='round'/></svg>"
+    },
+    {
+      "num": 7,
+      "word": "oops",
+      "ipa": "/uːps/",
+      "chinese": "哎呀；糟了",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><circle cx='50' cy='40' r='28' fill='#f0c060' stroke='#a06020' stroke-width='2'/><path d='M34 32 Q40 28 46 32' stroke='#333' stroke-width='2.5' fill='none' stroke-linecap='round'/><path d='M54 32 Q60 28 66 32' stroke='#333' stroke-width='2.5' fill='none' stroke-linecap='round'/><path d='M36 54 L42 50 L48 54 L54 50 L60 54 L64 52' stroke='#333' stroke-width='2.5' fill='none' stroke-linecap='round' stroke-linejoin='round'/></svg>"
+    },
+    {
+      "num": 8,
+      "word": "yikes",
+      "ipa": "/jaɪks/",
+      "chinese": "哎呀；糟糕",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><circle cx='50' cy='40' r='28' fill='#f0c060' stroke='#a06020' stroke-width='2'/><path d='M34 32 Q40 28 46 32' stroke='#333' stroke-width='2.5' fill='none' stroke-linecap='round'/><path d='M54 32 Q60 28 66 32' stroke='#333' stroke-width='2.5' fill='none' stroke-linecap='round'/><path d='M36 54 L42 50 L48 54 L54 50 L60 54 L64 52' stroke='#333' stroke-width='2.5' fill='none' stroke-linecap='round' stroke-linejoin='round'/></svg>"
+    },
+    {
+      "num": 9,
+      "word": "meh",
+      "ipa": "/mɛ/",
+      "chinese": "一般般；无所谓",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><circle cx='50' cy='40' r='28' fill='#e0e0c0' stroke='#888' stroke-width='2'/><line x1='36' y1='34' x2='44' y2='34' stroke='#333' stroke-width='2.5' stroke-linecap='round'/><line x1='56' y1='34' x2='64' y2='34' stroke='#333' stroke-width='2.5' stroke-linecap='round'/><line x1='38' y1='52' x2='62' y2='52' stroke='#333' stroke-width='2.5' stroke-linecap='round'/></svg>"
+    },
+    {
+      "num": 10,
+      "word": "nah",
+      "ipa": "/nɑː/",
+      "chinese": "不",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><circle cx='50' cy='40' r='28' fill='#e0e0c0' stroke='#888' stroke-width='2'/><line x1='36' y1='34' x2='44' y2='34' stroke='#333' stroke-width='2.5' stroke-linecap='round'/><line x1='56' y1='34' x2='64' y2='34' stroke='#333' stroke-width='2.5' stroke-linecap='round'/><line x1='38' y1='52' x2='62' y2='52' stroke='#333' stroke-width='2.5' stroke-linecap='round'/></svg>"
+    },
+    {
+      "num": 11,
+      "word": "yep",
+      "ipa": "/jɛp/",
+      "chinese": "是的",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='8' y='10' width='84' height='46' rx='10' fill='#6abf50' stroke='#3a8a20' stroke-width='1.5'/><path d='M28 56 L24 70 L42 56 Z' fill='#6abf50' stroke='#3a8a20' stroke-width='1.5'/><text x='50' y='40' font-size='16' text-anchor='middle' fill='white' font-weight='bold' font-family='Arial, sans-serif' dominant-baseline='middle'>YEP</text></svg>"
+    },
+    {
+      "num": 12,
+      "word": "nope",
+      "ipa": "/nəʊp/",
+      "chinese": "不",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='8' y='10' width='84' height='46' rx='10' fill='#c84040' stroke='#7a2020' stroke-width='1.5'/><path d='M28 56 L24 70 L42 56 Z' fill='#c84040' stroke='#7a2020' stroke-width='1.5'/><text x='50' y='40' font-size='18' text-anchor='middle' fill='white' font-weight='bold' font-family='Arial, sans-serif' dominant-baseline='middle'>NOPE</text></svg>"
+    },
+    {
+      "num": 13,
+      "word": "blimey",
+      "ipa": "/ˈblaɪmi/",
+      "chinese": "天哪",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><circle cx='50' cy='40' r='28' fill='#f0e0c0' stroke='#a08040' stroke-width='2'/><circle cx='40' cy='34' r='5' fill='#fff' stroke='#333' stroke-width='1.5'/><circle cx='60' cy='34' r='5' fill='#fff' stroke='#333' stroke-width='1.5'/><circle cx='40' cy='34' r='2' fill='#333'/><circle cx='60' cy='34' r='2' fill='#333'/><ellipse cx='50' cy='54' rx='6' ry='8' fill='#333'/></svg>"
+    },
+    {
+      "num": 14,
+      "word": "jeez",
+      "ipa": "/dʒiːz/",
+      "chinese": "天哪",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><circle cx='50' cy='40' r='28' fill='#f0e0c0' stroke='#a08040' stroke-width='2'/><circle cx='40' cy='34' r='5' fill='#fff' stroke='#333' stroke-width='1.5'/><circle cx='60' cy='34' r='5' fill='#fff' stroke='#333' stroke-width='1.5'/><circle cx='40' cy='34' r='2' fill='#333'/><circle cx='60' cy='34' r='2' fill='#333'/><ellipse cx='50' cy='54' rx='6' ry='8' fill='#333'/></svg>"
+    },
+    {
+      "num": 15,
+      "word": "duh",
+      "ipa": "/dʌ/",
+      "chinese": "废话；显而易见",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><circle cx='50' cy='40' r='28' fill='#e0e0c0' stroke='#888' stroke-width='2'/><line x1='36' y1='34' x2='44' y2='34' stroke='#333' stroke-width='2.5' stroke-linecap='round'/><line x1='56' y1='34' x2='64' y2='34' stroke='#333' stroke-width='2.5' stroke-linecap='round'/><line x1='38' y1='52' x2='62' y2='52' stroke='#333' stroke-width='2.5' stroke-linecap='round'/></svg>"
+    },
+    {
+      "num": 16,
+      "word": "no worries",
+      "chinese": "没事；不用谢"
+    },
+    {
+      "num": 17,
+      "word": "for sure",
+      "chinese": "当然；肯定"
+    },
+    {
+      "num": 18,
+      "word": "makes sense",
+      "chinese": "有道理"
+    },
+    {
+      "num": 19,
+      "word": "got it",
+      "chinese": "明白了"
+    },
+    {
+      "num": 20,
+      "word": "fair point",
+      "chinese": "说得对"
+    },
+    {
+      "num": 21,
+      "word": "you bet",
+      "chinese": "当然；没问题"
+    },
+    {
+      "num": 22,
+      "word": "pretty much",
+      "chinese": "差不多"
+    },
+    {
+      "num": 23,
+      "word": "kind of",
+      "chinese": "算是；有点"
+    },
+    {
+      "num": 24,
+      "word": "sort of",
+      "chinese": "算是；有点"
+    },
+    {
+      "num": 25,
+      "word": "my bad",
+      "chinese": "我的错"
+    },
+    {
+      "num": 26,
+      "word": "no biggie",
+      "chinese": "没什么大不了"
+    },
+    {
+      "num": 27,
+      "word": "oh well",
+      "chinese": "算了；没办法"
+    },
+    {
+      "section": "2. British Casual Slang"
+    },
+    {
+      "num": 28,
+      "word": "knackered",
+      "ipa": "/ˈnækəd/",
+      "chinese": "精疲力尽的",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><circle cx='50' cy='40' r='28' fill='#d0c0a0' stroke='#806040' stroke-width='2'/><path d='M34 32 L46 36' stroke='#333' stroke-width='2.5' stroke-linecap='round' fill='none'/><path d='M66 32 L54 36' stroke='#333' stroke-width='2.5' stroke-linecap='round' fill='none'/><path d='M36 36 Q40 32 44 36' stroke='#333' stroke-width='2' fill='none'/><path d='M56 36 Q60 32 64 36' stroke='#333' stroke-width='2' fill='none'/><line x1='40' y1='52' x2='60' y2='52' stroke='#333' stroke-width='2.5' stroke-linecap='round'/></svg>"
+    },
+    {
+      "num": 29,
+      "word": "gutted",
+      "ipa": "/ˈɡʌtɪd/",
+      "chinese": "极度失望的",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><circle cx='50' cy='40' r='28' fill='#a0c0e0' stroke='#406090' stroke-width='2'/><circle cx='40' cy='36' r='3' fill='#333'/><circle cx='60' cy='36' r='3' fill='#333'/><path d='M36 56 Q44 48 50 50 Q56 48 64 56' stroke='#333' stroke-width='2.5' fill='none' stroke-linecap='round'/><path d='M38 42 L42 46' stroke='#5a90c0' stroke-width='2' stroke-linecap='round'/><path d='M58 42 L62 46' stroke='#5a90c0' stroke-width='2' stroke-linecap='round'/></svg>"
+    },
+    {
+      "num": 30,
+      "word": "chuffed",
+      "ipa": "/tʃʌft/",
+      "chinese": "非常高兴的",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><circle cx='50' cy='40' r='28' fill='#f5d040' stroke='#a08010' stroke-width='2'/><circle cx='40' cy='34' r='3' fill='#333'/><circle cx='60' cy='34' r='3' fill='#333'/><path d='M36 48 Q44 58 50 56 Q56 58 64 48' stroke='#333' stroke-width='2.5' fill='none' stroke-linecap='round'/></svg>"
+    },
+    {
+      "num": 31,
+      "word": "cheeky",
+      "ipa": "/ˈtʃiːki/",
+      "chinese": "调皮的；放肆的",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><circle cx='50' cy='40' r='28' fill='#f5d040' stroke='#a08010' stroke-width='2'/><circle cx='40' cy='34' r='3' fill='#333'/><circle cx='60' cy='34' r='3' fill='#333'/><path d='M36 52 Q44 56 56 52 Q62 50 64 46' stroke='#333' stroke-width='2.5' fill='none' stroke-linecap='round'/></svg>"
+    },
+    {
+      "num": 32,
+      "word": "dodgy",
+      "ipa": "/ˈdɒdʒi/",
+      "chinese": "可疑的；不靠谱的",
+      "svg": ""
+    },
+    {
+      "num": 33,
+      "word": "faff",
+      "ipa": "/fæf/",
+      "chinese": "瞎忙；磨蹭",
+      "svg": ""
+    },
+    {
+      "num": 34,
+      "word": "kip",
+      "ipa": "/kɪp/",
+      "chinese": "小睡",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><text x='30' y='60' font-size='28' fill='#4a6aa4' font-weight='bold' font-family='Arial'>Z</text><text x='48' y='44' font-size='22' fill='#4a6aa4' font-weight='bold' font-family='Arial'>z</text><text x='64' y='30' font-size='16' fill='#4a6aa4' font-weight='bold' font-family='Arial'>z</text><path d='M10 68 Q20 60 30 66 Q40 70 50 66 Q60 60 70 64 Q80 68 90 64' fill='none' stroke='#888' stroke-width='1.5'/></svg>"
+    },
+    {
+      "num": 35,
+      "word": "skint",
+      "ipa": "/skɪnt/",
+      "chinese": "没钱的",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='16' y='24' width='68' height='40' rx='4' fill='#6a4020' stroke='#3a1a00' stroke-width='1.5'/><rect x='16' y='32' width='68' height='8' fill='#4a2a10' stroke='#3a1a00' stroke-width='1'/><circle cx='70' cy='44' r='4' fill='#a07040' stroke='#3a1a00' stroke-width='1'/><line x1='30' y1='52' x2='60' y2='52' stroke='#3a1a00' stroke-width='1' stroke-dasharray='2 2'/><text x='50' y='18' font-size='12' text-anchor='middle' fill='#888' font-weight='bold' font-family='Arial'>£0</text></svg>"
+    },
+    {
+      "num": 36,
+      "word": "peckish",
+      "ipa": "/ˈpɛkɪʃ/",
+      "chinese": "有点饿的",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><circle cx='40' cy='44' r='24' fill='#f0c090' stroke='#a07050' stroke-width='2'/><circle cx='34' cy='38' r='2.5' fill='#333'/><circle cx='46' cy='38' r='2.5' fill='#333'/><path d='M32 52 Q40 58 48 52' stroke='#333' stroke-width='2' fill='none' stroke-linecap='round'/><rect x='70' y='30' width='20' height='24' rx='2' fill='#c87040' stroke='#804010' stroke-width='1.5'/><rect x='72' y='34' width='16' height='6' fill='#f0e0a0' stroke='none'/><rect x='72' y='42' width='16' height='4' fill='#6abf50' stroke='none'/><rect x='72' y='48' width='16' height='4' fill='#c87040' stroke='none'/></svg>"
+    },
+    {
+      "num": 37,
+      "word": "gobsmacked",
+      "ipa": "/ˈɡɒbsmækt/",
+      "chinese": "目瞪口呆的",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><circle cx='50' cy='40' r='28' fill='#f0e0c0' stroke='#a08040' stroke-width='2'/><circle cx='40' cy='34' r='5' fill='#fff' stroke='#333' stroke-width='1.5'/><circle cx='60' cy='34' r='5' fill='#fff' stroke='#333' stroke-width='1.5'/><circle cx='40' cy='34' r='2' fill='#333'/><circle cx='60' cy='34' r='2' fill='#333'/><ellipse cx='50' cy='54' rx='6' ry='8' fill='#333'/></svg>"
+    },
+    {
+      "num": 38,
+      "word": "bonkers",
+      "ipa": "/ˈbɒŋkəz/",
+      "chinese": "疯狂的",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><circle cx='50' cy='40' r='28' fill='#e0a0e0' stroke='#804080' stroke-width='2'/><path d='M40 34 m-5 0 a5 5 0 1 0 10 0 a5 5 0 1 0 -10 0 M37 32 L43 36 M43 32 L37 36' stroke='#333' stroke-width='2' fill='none'/><path d='M60 34 m-5 0 a5 5 0 1 0 10 0 a5 5 0 1 0 -10 0 M57 32 L63 36 M63 32 L57 36' stroke='#333' stroke-width='2' fill='none'/><path d='M38 54 Q42 48 46 54 Q50 60 54 54 Q58 48 62 54' stroke='#333' stroke-width='2.5' fill='none'/></svg>"
+    },
+    {
+      "num": 39,
+      "word": "naff",
+      "ipa": "/næf/",
+      "chinese": "俗气的；没品的",
+      "svg": ""
+    },
+    {
+      "num": 40,
+      "word": "mate",
+      "ipa": "/meɪt/",
+      "chinese": "哥们；伙计",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M16 40 L40 32 L46 42 L36 50 Z' fill='#f0c090' stroke='#a07050' stroke-width='1.5'/><path d='M84 40 L60 32 L54 42 L64 50 Z' fill='#f0c090' stroke='#a07050' stroke-width='1.5'/><path d='M40 32 L60 32 L54 42 L46 42 Z' fill='#e0b080' stroke='#a07050' stroke-width='1.5'/><line x1='10' y1='42' x2='22' y2='38' stroke='#4a6aa4' stroke-width='6' stroke-linecap='round'/><line x1='90' y1='42' x2='78' y2='38' stroke='#a04040' stroke-width='6' stroke-linecap='round'/></svg>"
+    },
+    {
+      "num": 41,
+      "word": "proper",
+      "ipa": "/ˈprɒpə/",
+      "chinese": "真的；非常",
+      "svg": ""
+    },
+    {
+      "num": 42,
+      "word": "telly",
+      "ipa": "/ˈtɛli/",
+      "chinese": "电视",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='10' y='14' width='80' height='50' rx='4' fill='#2a2a2a' stroke='#000' stroke-width='1.5'/><rect x='16' y='20' width='68' height='38' rx='2' fill='#5a9ad4'/><line x1='40' y1='64' x2='60' y2='64' stroke='#000' stroke-width='2'/><line x1='35' y1='72' x2='65' y2='72' stroke='#2a2a2a' stroke-width='3' stroke-linecap='round'/><circle cx='28' cy='32' r='4' fill='#fff' opacity='0.4'/></svg>"
+    },
+    {
+      "num": 43,
+      "word": "brolly",
+      "ipa": "/ˈbrɒli/",
+      "chinese": "雨伞",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M14 36 Q14 18 50 14 Q86 18 86 36 Z' fill='#c84040' stroke='#7a2020' stroke-width='1.5'/><path d='M14 36 Q28 30 32 36 Q40 30 50 36 Q60 30 68 36 Q72 30 86 36' fill='none' stroke='#7a2020' stroke-width='1'/><line x1='50' y1='14' x2='50' y2='66' stroke='#5a3a10' stroke-width='2.5'/><path d='M50 66 Q50 74 58 72' fill='none' stroke='#5a3a10' stroke-width='2.5' stroke-linecap='round'/></svg>"
+    },
+    {
+      "num": 44,
+      "word": "loo",
+      "ipa": "/luː/",
+      "chinese": "厕所",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><ellipse cx='40' cy='44' rx='22' ry='14' fill='#f0f0f0' stroke='#888' stroke-width='1.5'/><ellipse cx='40' cy='44' rx='14' ry='8' fill='#a0c0e0' stroke='#6090b0' stroke-width='1'/><rect x='30' y='52' width='20' height='14' rx='2' fill='#e0e0e0' stroke='#888' stroke-width='1.5'/><rect x='62' y='10' width='22' height='30' rx='3' fill='#f0f0f0' stroke='#888' stroke-width='1.5'/><line x1='62' y1='18' x2='84' y2='18' stroke='#888' stroke-width='1'/></svg>"
+    },
+    {
+      "num": 45,
+      "word": "brekkie",
+      "ipa": "/ˈbrɛki/",
+      "chinese": "早餐",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><circle cx='50' cy='44' r='30' fill='#f8f8f0' stroke='#888' stroke-width='1.5'/><circle cx='50' cy='44' r='24' fill='#fff' stroke='#aaa' stroke-width='1'/><circle cx='40' cy='40' r='8' fill='#fff' stroke='#aaa' stroke-width='1'/><circle cx='40' cy='40' r='4' fill='#f5c020'/><ellipse cx='58' cy='44' rx='10' ry='5' fill='#c87040' stroke='#804010' stroke-width='1'/><ellipse cx='44' cy='52' rx='8' ry='4' fill='#a05010' stroke='#602000' stroke-width='1'/></svg>"
+    },
+    {
+      "num": 46,
+      "word": "uni",
+      "ipa": "/ˈjuːni/",
+      "chinese": "大学",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M50 18 L88 30 L50 42 L12 30 Z' fill='#222' stroke='#000' stroke-width='1.5'/><rect x='30' y='30' width='40' height='14' fill='#222' stroke='#000' stroke-width='1.5'/><line x1='75' y1='30' x2='80' y2='58' stroke='#c8a040' stroke-width='2'/><circle cx='80' cy='60' r='4' fill='#c8a040'/></svg>"
+    },
+    {
+      "num": 47,
+      "word": "nick",
+      "ipa": "/nɪk/",
+      "chinese": "偷；警局",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='28' y='28' width='44' height='28' rx='2' fill='#2a4a8a' stroke='#10204a' stroke-width='1.5'/><rect x='22' y='22' width='56' height='10' rx='2' fill='#1a3a7a' stroke='#10204a' stroke-width='1.5'/><rect x='38' y='10' width='24' height='14' rx='2' fill='#2a4a8a' stroke='#10204a' stroke-width='1.5'/><rect x='44' y='14' width='12' height='8' fill='#1a3a7a'/><circle cx='50' cy='42' r='6' fill='#c8a040' stroke='#806010' stroke-width='1'/><path d='M50 38 L52 42 L50 46 L48 42 Z' fill='#fff'/></svg>"
+    },
+    {
+      "num": 48,
+      "word": "banter",
+      "ipa": "/ˈbæntə/",
+      "chinese": "玩笑话；逗趣",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='6' y='14' width='42' height='30' rx='6' fill='#4a9ad4' stroke='#2a6aa4' stroke-width='1.5'/><path d='M20 44 L16 56 L30 44 Z' fill='#4a9ad4' stroke='#2a6aa4' stroke-width='1.5'/><rect x='52' y='36' width='42' height='30' rx='6' fill='#6abf50' stroke='#3a8a20' stroke-width='1.5'/><path d='M76 66 L72 76 L88 66 Z' fill='#6abf50' stroke='#3a8a20' stroke-width='1.5'/></svg>"
+    },
+    {
+      "num": 49,
+      "word": "mug",
+      "ipa": "/mʌɡ/",
+      "chinese": "容易上当的人；马克杯",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='22' y='20' width='44' height='50' rx='4' fill='#f0f0f0' stroke='#888' stroke-width='1.5'/><ellipse cx='44' cy='20' rx='22' ry='5' fill='#c87040' stroke='#888' stroke-width='1'/><path d='M66 32 Q82 32 82 46 Q82 60 66 60' fill='none' stroke='#888' stroke-width='3'/><path d='M30 14 Q32 6 36 12 M44 12 Q46 4 50 10 M58 14 Q60 6 64 12' fill='none' stroke='#aaa' stroke-width='1.5' stroke-linecap='round'/></svg>"
+    },
+    {
+      "num": 50,
+      "word": "chinwag",
+      "ipa": "/ˈtʃɪnwæɡ/",
+      "chinese": "闲聊",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='6' y='14' width='42' height='30' rx='6' fill='#4a9ad4' stroke='#2a6aa4' stroke-width='1.5'/><path d='M20 44 L16 56 L30 44 Z' fill='#4a9ad4' stroke='#2a6aa4' stroke-width='1.5'/><rect x='52' y='36' width='42' height='30' rx='6' fill='#6abf50' stroke='#3a8a20' stroke-width='1.5'/><path d='M76 66 L72 76 L88 66 Z' fill='#6abf50' stroke='#3a8a20' stroke-width='1.5'/></svg>"
+    },
+    {
+      "num": 51,
+      "word": "gaff",
+      "ipa": "/ɡæf/",
+      "chinese": "家；地方",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M14 40 L50 14 L86 40 L86 70 L14 70 Z' fill='#d4a060' stroke='#8a5020' stroke-width='1.5'/><path d='M14 40 L50 14 L86 40 Z' fill='#a05030' stroke='#5a2000' stroke-width='1.5'/><rect x='42' y='48' width='16' height='22' fill='#5a3a10' stroke='#2a1000' stroke-width='1'/><rect x='22' y='48' width='12' height='12' fill='#a0c0e0' stroke='#5a80a0' stroke-width='1'/><rect x='66' y='48' width='12' height='12' fill='#a0c0e0' stroke='#5a80a0' stroke-width='1'/></svg>"
+    },
+    {
+      "section": "3. Fillers & Softeners"
+    },
+    {
+      "num": 52,
+      "word": "like",
+      "ipa": "/laɪk/",
+      "chinese": "那啥；好像",
+      "svg": ""
+    },
+    {
+      "num": 53,
+      "word": "basically",
+      "ipa": "/ˈbeɪsɪkli/",
+      "chinese": "基本上",
+      "svg": ""
+    },
+    {
+      "num": 54,
+      "word": "literally",
+      "ipa": "/ˈlɪtərəli/",
+      "chinese": "字面上；真的",
+      "svg": ""
+    },
+    {
+      "num": 55,
+      "word": "honestly",
+      "ipa": "/ˈɒnɪstli/",
+      "chinese": "老实说",
+      "svg": ""
+    },
+    {
+      "num": 56,
+      "word": "actually",
+      "ipa": "/ˈæktʃʊəli/",
+      "chinese": "实际上；其实",
+      "svg": ""
+    },
+    {
+      "num": 57,
+      "word": "anyway",
+      "ipa": "/ˈɛniweɪ/",
+      "chinese": "不管怎样",
+      "svg": ""
+    },
+    {
+      "num": 58,
+      "word": "-ish",
+      "ipa": "/ɪʃ/",
+      "chinese": "（后缀）大约；有点",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='8' y='10' width='84' height='46' rx='10' fill='#4a9ad4' stroke='#2a6aa4' stroke-width='1.5'/><path d='M28 56 L24 70 L42 56 Z' fill='#4a9ad4' stroke='#2a6aa4' stroke-width='1.5'/><text x='50' y='40' font-size='20' text-anchor='middle' fill='white' font-weight='bold' font-family='Arial, sans-serif' dominant-baseline='middle'>-ISH</text></svg>"
+    },
+    {
+      "num": 59,
+      "word": "I mean",
+      "chinese": "我是说"
+    },
+    {
+      "num": 60,
+      "word": "you know",
+      "chinese": "你知道吧"
+    },
+    {
+      "num": 61,
+      "word": "to be fair",
+      "chinese": "公平地说"
+    },
+    {
+      "num": 62,
+      "word": "I guess",
+      "chinese": "我猜"
+    },
+    {
+      "num": 63,
+      "word": "I suppose",
+      "chinese": "我想"
+    },
+    {
+      "section": "4. Conversational Phrasal Verbs"
+    },
+    {
+      "num": 64,
+      "word": "crash",
+      "ipa": "/kræʃ/",
+      "chinese": "倒头就睡；借宿",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><text x='30' y='60' font-size='28' fill='#4a6aa4' font-weight='bold' font-family='Arial'>Z</text><text x='48' y='44' font-size='22' fill='#4a6aa4' font-weight='bold' font-family='Arial'>z</text><text x='64' y='30' font-size='16' fill='#4a6aa4' font-weight='bold' font-family='Arial'>z</text><path d='M10 68 Q20 60 30 66 Q40 70 50 66 Q60 60 70 64 Q80 68 90 64' fill='none' stroke='#888' stroke-width='1.5'/></svg>"
+    },
+    {
+      "num": 65,
+      "word": "ditch",
+      "ipa": "/dɪtʃ/",
+      "chinese": "抛弃；翘掉",
+      "svg": ""
+    },
+    {
+      "num": 66,
+      "word": "hang out",
+      "chinese": "闲逛；玩"
+    },
+    {
+      "num": 67,
+      "word": "chill out",
+      "chinese": "放松"
+    },
+    {
+      "num": 68,
+      "word": "bail on",
+      "chinese": "放鸽子；临阵脱逃"
+    },
+    {
+      "num": 69,
+      "word": "pop in",
+      "chinese": "顺便进来"
+    },
+    {
+      "num": 70,
+      "word": "pop out",
+      "chinese": "出去一下"
+    },
+    {
+      "num": 71,
+      "word": "head off",
+      "chinese": "出发；走了"
+    },
+    {
+      "num": 72,
+      "word": "catch up",
+      "chinese": "赶上；聊近况"
+    },
+    {
+      "num": 73,
+      "word": "wrap up",
+      "chinese": "结束；收尾"
+    },
+    {
+      "num": 74,
+      "word": "freak out",
+      "chinese": "抓狂"
+    },
+    {
+      "num": 75,
+      "word": "stress out",
+      "chinese": "紧张焦虑"
+    },
+    {
+      "num": 76,
+      "word": "mess up",
+      "chinese": "搞砸"
+    },
+    {
+      "num": 77,
+      "word": "pull off",
+      "chinese": "成功完成"
+    },
+    {
+      "num": 78,
+      "word": "show up",
+      "chinese": "出现；露面"
+    },
+    {
+      "num": 79,
+      "word": "show off",
+      "chinese": "炫耀"
+    },
+    {
+      "num": 80,
+      "word": "figure out",
+      "chinese": "弄明白"
+    },
+    {
+      "num": 81,
+      "word": "work out",
+      "chinese": "锻炼；想出"
+    },
+    {
+      "num": 82,
+      "word": "come up with",
+      "chinese": "想出（点子）"
+    },
+    {
+      "num": 83,
+      "word": "hang on",
+      "chinese": "等一下"
+    },
+    {
+      "num": 84,
+      "word": "drop by",
+      "chinese": "顺便来访"
+    },
+    {
+      "num": 85,
+      "word": "watch out",
+      "chinese": "小心"
+    },
+    {
+      "num": 86,
+      "word": "get over",
+      "chinese": "克服；走出来"
+    },
+    {
+      "num": 87,
+      "word": "get along",
+      "chinese": "相处"
+    },
+    {
+      "num": 88,
+      "word": "run out of",
+      "chinese": "用完"
+    },
+    {
+      "num": 89,
+      "word": "run into",
+      "chinese": "偶遇"
+    },
+    {
+      "num": 90,
+      "word": "end up",
+      "chinese": "最终变成"
+    },
+    {
+      "num": 91,
+      "word": "settle down",
+      "chinese": "安顿；稳定"
+    },
+    {
+      "num": 92,
+      "word": "calm down",
+      "chinese": "冷静"
+    },
+    {
+      "num": 93,
+      "word": "cheer up",
+      "chinese": "振作起来"
+    },
+    {
+      "section": "5. Casual Adjectives & Moods"
+    },
+    {
+      "num": 94,
+      "word": "weird",
+      "ipa": "/wɪəd/",
+      "chinese": "奇怪的",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><circle cx='50' cy='40' r='28' fill='#f0c060' stroke='#a06020' stroke-width='2'/><path d='M34 32 Q40 28 46 32' stroke='#333' stroke-width='2.5' fill='none' stroke-linecap='round'/><path d='M54 32 Q60 28 66 32' stroke='#333' stroke-width='2.5' fill='none' stroke-linecap='round'/><path d='M36 54 L42 50 L48 54 L54 50 L60 54 L64 52' stroke='#333' stroke-width='2.5' fill='none' stroke-linecap='round' stroke-linejoin='round'/></svg>"
+    },
+    {
+      "num": 95,
+      "word": "random",
+      "ipa": "/ˈrændəm/",
+      "chinese": "随便的；莫名其妙的",
+      "svg": ""
+    },
+    {
+      "num": 96,
+      "word": "sketchy",
+      "ipa": "/ˈskɛtʃi/",
+      "chinese": "可疑的；不靠谱的",
+      "svg": ""
+    },
+    {
+      "num": 97,
+      "word": "shady",
+      "ipa": "/ˈʃeɪdi/",
+      "chinese": "阴险的；可疑的",
+      "svg": ""
+    },
+    {
+      "num": 98,
+      "word": "awesome",
+      "ipa": "/ˈɔːsəm/",
+      "chinese": "棒极了",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M50 12 L58 32 L80 34 L62 48 L68 70 L50 58 L32 70 L38 48 L20 34 L42 32 Z' fill='#f0c020' stroke='#a07010' stroke-width='2'/></svg>"
+    },
+    {
+      "num": 99,
+      "word": "lame",
+      "ipa": "/leɪm/",
+      "chinese": "逊；无聊",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='32' y='16' width='14' height='32' rx='3' fill='#f0c090' stroke='#a07050' stroke-width='1.5'/><path d='M44 48 L48 64 Q54 68 56 62 L56 50 L70 50 Q76 50 76 44 L74 24 Q72 16 64 16 L46 16 Z' fill='#f0c090' stroke='#a07050' stroke-width='1.5'/></svg>"
+    },
+    {
+      "num": 100,
+      "word": "cringe",
+      "ipa": "/krɪndʒ/",
+      "chinese": "尴尬",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><circle cx='50' cy='40' r='28' fill='#f0c060' stroke='#a06020' stroke-width='2'/><path d='M34 32 Q40 28 46 32' stroke='#333' stroke-width='2.5' fill='none' stroke-linecap='round'/><path d='M54 32 Q60 28 66 32' stroke='#333' stroke-width='2.5' fill='none' stroke-linecap='round'/><path d='M36 54 L42 50 L48 54 L54 50 L60 54 L64 52' stroke='#333' stroke-width='2.5' fill='none' stroke-linecap='round' stroke-linejoin='round'/></svg>"
+    },
+    {
+      "num": 101,
+      "word": "cringy",
+      "ipa": "/ˈkrɪndʒi/",
+      "chinese": "令人尴尬的",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><circle cx='50' cy='40' r='28' fill='#f0c060' stroke='#a06020' stroke-width='2'/><path d='M34 32 Q40 28 46 32' stroke='#333' stroke-width='2.5' fill='none' stroke-linecap='round'/><path d='M54 32 Q60 28 66 32' stroke='#333' stroke-width='2.5' fill='none' stroke-linecap='round'/><path d='M36 54 L42 50 L48 54 L54 50 L60 54 L64 52' stroke='#333' stroke-width='2.5' fill='none' stroke-linecap='round' stroke-linejoin='round'/></svg>"
+    },
+    {
+      "num": 102,
+      "word": "chill",
+      "ipa": "/tʃɪl/",
+      "chinese": "随和的；放松的",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><circle cx='50' cy='42' r='28' fill='#f0c090' stroke='#a07050' stroke-width='2'/><rect x='20' y='32' width='25' height='14' rx='4' fill='#222' stroke='#000' stroke-width='1.5'/><rect x='55' y='32' width='25' height='14' rx='4' fill='#222' stroke='#000' stroke-width='1.5'/><line x1='45' y1='38' x2='55' y2='38' stroke='#222' stroke-width='2'/><path d='M40 56 Q50 62 60 56' stroke='#333' stroke-width='2.5' fill='none' stroke-linecap='round'/></svg>"
+    },
+    {
+      "num": 103,
+      "word": "decent",
+      "ipa": "/ˈdiːs(ə)nt/",
+      "chinese": "还不错",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='32' y='32' width='14' height='32' rx='3' fill='#f0c090' stroke='#a07050' stroke-width='1.5'/><path d='M44 32 L48 16 Q54 12 56 18 L56 30 L70 30 Q76 30 76 36 L74 56 Q72 64 64 64 L46 64 Z' fill='#f0c090' stroke='#a07050' stroke-width='1.5'/></svg>"
+    },
+    {
+      "num": 104,
+      "word": "solid",
+      "ipa": "/ˈsɒlɪd/",
+      "chinese": "靠谱的；扎实的",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M20 64 Q14 44 26 32 Q40 22 56 26 Q74 30 80 46 Q84 60 70 66 Z' fill='#888' stroke='#444' stroke-width='1.5'/><path d='M30 50 Q40 44 50 48' fill='none' stroke='#666' stroke-width='1'/><path d='M50 56 Q60 50 70 54' fill='none' stroke='#666' stroke-width='1'/></svg>"
+    },
+    {
+      "num": 105,
+      "word": "legit",
+      "ipa": "/ləˈdʒɪt/",
+      "chinese": "真的；正当的",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><circle cx='50' cy='40' r='32' fill='#6abf50' stroke='#3a8a20' stroke-width='2'/><path d='M32 40 L44 52 L68 28' fill='none' stroke='#fff' stroke-width='5' stroke-linecap='round' stroke-linejoin='round'/></svg>"
+    },
+    {
+      "num": 106,
+      "word": "posh",
+      "ipa": "/pɒʃ/",
+      "chinese": "高档的；上流的",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='34' y='14' width='32' height='34' fill='#222' stroke='#000' stroke-width='1.5'/><rect x='26' y='48' width='48' height='6' fill='#222' stroke='#000' stroke-width='1.5'/><rect x='34' y='32' width='32' height='6' fill='#a02020' stroke='#000' stroke-width='1'/><circle cx='50' cy='66' r='8' fill='#f0c090' stroke='#a07050' stroke-width='1.5'/></svg>"
+    },
+    {
+      "num": 107,
+      "word": "tacky",
+      "ipa": "/ˈtæki/",
+      "chinese": "俗气的；劣质的",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='32' y='16' width='14' height='32' rx='3' fill='#f0c090' stroke='#a07050' stroke-width='1.5'/><path d='M44 48 L48 64 Q54 68 56 62 L56 50 L70 50 Q76 50 76 44 L74 24 Q72 16 64 16 L46 16 Z' fill='#f0c090' stroke='#a07050' stroke-width='1.5'/></svg>"
+    },
+    {
+      "num": 108,
+      "word": "classy",
+      "ipa": "/ˈklɑːsi/",
+      "chinese": "高雅的",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='34' y='14' width='32' height='34' fill='#222' stroke='#000' stroke-width='1.5'/><rect x='26' y='48' width='48' height='6' fill='#222' stroke='#000' stroke-width='1.5'/><rect x='34' y='32' width='32' height='6' fill='#a02020' stroke='#000' stroke-width='1'/><circle cx='50' cy='66' r='8' fill='#f0c090' stroke='#a07050' stroke-width='1.5'/></svg>"
+    },
+    {
+      "num": 109,
+      "word": "cheesy",
+      "ipa": "/ˈtʃiːzi/",
+      "chinese": "俗套的；肉麻的",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><circle cx='50' cy='40' r='28' fill='#f0c060' stroke='#a06020' stroke-width='2'/><path d='M34 32 Q40 28 46 32' stroke='#333' stroke-width='2.5' fill='none' stroke-linecap='round'/><path d='M54 32 Q60 28 66 32' stroke='#333' stroke-width='2.5' fill='none' stroke-linecap='round'/><path d='M36 54 L42 50 L48 54 L54 50 L60 54 L64 52' stroke='#333' stroke-width='2.5' fill='none' stroke-linecap='round' stroke-linejoin='round'/></svg>"
+    },
+    {
+      "num": 110,
+      "word": "corny",
+      "ipa": "/ˈkɔːni/",
+      "chinese": "老套的；矫情的",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><circle cx='50' cy='40' r='28' fill='#f0c060' stroke='#a06020' stroke-width='2'/><path d='M34 32 Q40 28 46 32' stroke='#333' stroke-width='2.5' fill='none' stroke-linecap='round'/><path d='M54 32 Q60 28 66 32' stroke='#333' stroke-width='2.5' fill='none' stroke-linecap='round'/><path d='M36 54 L42 50 L48 54 L54 50 L60 54 L64 52' stroke='#333' stroke-width='2.5' fill='none' stroke-linecap='round' stroke-linejoin='round'/></svg>"
+    },
+    {
+      "num": 111,
+      "word": "gross",
+      "ipa": "/ɡrəʊs/",
+      "chinese": "恶心的",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><circle cx='50' cy='40' r='28' fill='#90c060' stroke='#506020' stroke-width='2'/><path d='M34 34 L46 30' stroke='#333' stroke-width='2.5' stroke-linecap='round'/><path d='M66 34 L54 30' stroke='#333' stroke-width='2.5' stroke-linecap='round'/><path d='M40 52 Q50 56 60 52' stroke='#333' stroke-width='2.5' fill='none' stroke-linecap='round'/><path d='M45 58 Q48 70 42 74' stroke='#90c060' stroke-width='4' fill='none' stroke-linecap='round'/></svg>"
+    },
+    {
+      "num": 112,
+      "word": "fishy",
+      "ipa": "/ˈfɪʃi/",
+      "chinese": "可疑的",
+      "svg": ""
+    },
+    {
+      "num": 113,
+      "word": "wicked",
+      "ipa": "/ˈwɪkɪd/",
+      "chinese": "太棒了（UK）",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M50 12 L58 32 L80 34 L62 48 L68 70 L50 58 L32 70 L38 48 L20 34 L42 32 Z' fill='#f0c020' stroke='#a07010' stroke-width='2'/></svg>"
+    },
+    {
+      "num": 114,
+      "word": "brilliant",
+      "ipa": "/ˈbrɪljənt/",
+      "chinese": "极好的（UK）",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M50 12 L58 32 L80 34 L62 48 L68 70 L50 58 L32 70 L38 48 L20 34 L42 32 Z' fill='#f0c020' stroke='#a07010' stroke-width='2'/></svg>"
+    },
+    {
+      "num": 115,
+      "word": "stoked",
+      "ipa": "/stəʊkt/",
+      "chinese": "兴奋的",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><circle cx='50' cy='40' r='28' fill='#f5a020' stroke='#a06010' stroke-width='2'/><path d='M34 30 L42 36' stroke='#333' stroke-width='3' stroke-linecap='round'/><path d='M66 30 L58 36' stroke='#333' stroke-width='3' stroke-linecap='round'/><path d='M36 46 Q50 62 64 46 Z' fill='#333'/><path d='M40 50 L40 56 L60 56 L60 50 Z' fill='#fff'/><line x1='10' y1='12' x2='18' y2='20' stroke='#f0c020' stroke-width='2.5' stroke-linecap='round'/><line x1='90' y1='12' x2='82' y2='20' stroke='#f0c020' stroke-width='2.5' stroke-linecap='round'/></svg>"
+    },
+    {
+      "num": 116,
+      "word": "miffed",
+      "ipa": "/mɪft/",
+      "chinese": "微怒的",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><circle cx='50' cy='40' r='28' fill='#f0c060' stroke='#a07020' stroke-width='2'/><path d='M32 28 L46 34' stroke='#333' stroke-width='3' stroke-linecap='round'/><path d='M68 28 L54 34' stroke='#333' stroke-width='3' stroke-linecap='round'/><circle cx='40' cy='38' r='2.5' fill='#333'/><circle cx='60' cy='38' r='2.5' fill='#333'/><path d='M40 54 Q50 50 60 54' stroke='#333' stroke-width='2.5' fill='none' stroke-linecap='round'/></svg>"
+    },
+    {
+      "num": 117,
+      "word": "fuming",
+      "ipa": "/ˈfjuːmɪŋ/",
+      "chinese": "怒火中烧的",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><circle cx='50' cy='40' r='28' fill='#e04040' stroke='#a02020' stroke-width='2'/><path d='M32 28 L46 34' stroke='#333' stroke-width='3' stroke-linecap='round'/><path d='M68 28 L54 34' stroke='#333' stroke-width='3' stroke-linecap='round'/><circle cx='40' cy='38' r='2.5' fill='#333'/><circle cx='60' cy='38' r='2.5' fill='#333'/><path d='M40 54 Q50 50 60 54' stroke='#333' stroke-width='2.5' fill='none' stroke-linecap='round'/></svg>"
+    },
+    {
+      "num": 118,
+      "word": "buzzing",
+      "ipa": "/ˈbʌzɪŋ/",
+      "chinese": "兴奋的；激动的",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><circle cx='50' cy='40' r='28' fill='#f5a020' stroke='#a06010' stroke-width='2'/><path d='M34 30 L42 36' stroke='#333' stroke-width='3' stroke-linecap='round'/><path d='M66 30 L58 36' stroke='#333' stroke-width='3' stroke-linecap='round'/><path d='M36 46 Q50 62 64 46 Z' fill='#333'/><path d='M40 50 L40 56 L60 56 L60 50 Z' fill='#fff'/><line x1='10' y1='12' x2='18' y2='20' stroke='#f0c020' stroke-width='2.5' stroke-linecap='round'/><line x1='90' y1='12' x2='82' y2='20' stroke='#f0c020' stroke-width='2.5' stroke-linecap='round'/></svg>"
+    },
+    {
+      "section": "6. Everyday Idioms"
+    },
+    {
+      "num": 119,
+      "word": "no big deal",
+      "chinese": "没什么大不了"
+    },
+    {
+      "num": 120,
+      "word": "piece of cake",
+      "chinese": "小菜一碟"
+    },
+    {
+      "num": 121,
+      "word": "a pain in the neck",
+      "chinese": "烦人的事/人"
+    },
+    {
+      "num": 122,
+      "word": "spot on",
+      "chinese": "完全正确"
+    },
+    {
+      "num": 123,
+      "word": "rings a bell",
+      "chinese": "有点印象"
+    },
+    {
+      "num": 124,
+      "word": "long story short",
+      "chinese": "长话短说"
+    },
+    {
+      "num": 125,
+      "word": "the thing is",
+      "chinese": "问题是"
+    },
+    {
+      "num": 126,
+      "word": "come to think of it",
+      "chinese": "仔细想想"
+    },
+    {
+      "num": 127,
+      "word": "speaking of which",
+      "chinese": "说起这个"
+    },
+    {
+      "num": 128,
+      "word": "hit the road",
+      "chinese": "出发；上路"
+    },
+    {
+      "num": 129,
+      "word": "on the dot",
+      "chinese": "准时"
+    },
+    {
+      "num": 130,
+      "word": "fair play",
+      "chinese": "佩服；公平"
+    },
+    {
+      "num": 131,
+      "word": "get the hang of",
+      "chinese": "掌握；上手"
+    },
+    {
+      "num": 132,
+      "word": "hit the sack",
+      "chinese": "去睡觉"
+    },
+    {
+      "num": 133,
+      "word": "hit it off",
+      "chinese": "一见如故"
+    },
+    {
+      "num": 134,
+      "word": "call it a day",
+      "chinese": "收工；今天到此"
+    },
+    {
+      "num": 135,
+      "word": "take it easy",
+      "chinese": "放轻松；慢慢来"
+    },
+    {
+      "num": 136,
+      "word": "my treat",
+      "chinese": "我请客"
+    },
+    {
+      "num": 137,
+      "word": "under the weather",
+      "chinese": "身体不舒服"
+    },
+    {
+      "num": 138,
+      "word": "out of the blue",
+      "chinese": "突然地；意外地"
+    },
+    {
+      "num": 139,
+      "word": "at the end of the day",
+      "chinese": "归根结底"
+    },
+    {
+      "num": 140,
+      "word": "more or less",
+      "chinese": "差不多；或多或少"
+    },
+    {
+      "section": "7. Vague / Filler Nouns"
+    },
+    {
+      "num": 141,
+      "word": "stuff",
+      "ipa": "/stʌf/",
+      "chinese": "东西；事情",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='14' y='40' width='30' height='28' rx='2' fill='#c8a060' stroke='#8a5a20' stroke-width='1.5'/><rect x='44' y='44' width='28' height='24' rx='2' fill='#a08050' stroke='#6a4010' stroke-width='1.5'/><rect x='32' y='20' width='26' height='22' rx='2' fill='#d4b070' stroke='#8a5a20' stroke-width='1.5'/><rect x='60' y='28' width='24' height='18' rx='2' fill='#b89060' stroke='#7a4a10' stroke-width='1.5'/><line x1='14' y1='52' x2='44' y2='52' stroke='#8a5a20' stroke-width='1'/><line x1='32' y1='30' x2='58' y2='30' stroke='#8a5a20' stroke-width='1'/></svg>"
+    },
+    {
+      "num": 142,
+      "word": "thingy",
+      "ipa": "/ˈθɪŋi/",
+      "chinese": "那个东西；玩意儿",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='30' y='30' width='40' height='30' rx='6' fill='#a0a0a0' stroke='#555' stroke-width='1.5'/><circle cx='50' cy='20' r='10' fill='#c8c8c8' stroke='#555' stroke-width='1.5'/><text x='50' y='52' font-size='24' text-anchor='middle' fill='#fff' font-weight='bold' font-family='Arial, sans-serif'>?</text></svg>"
+    },
+    {
+      "num": 143,
+      "word": "whatsit",
+      "ipa": "/ˈwɒtsɪt/",
+      "chinese": "那玩意儿",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='30' y='30' width='40' height='30' rx='6' fill='#a0a0a0' stroke='#555' stroke-width='1.5'/><circle cx='50' cy='20' r='10' fill='#c8c8c8' stroke='#555' stroke-width='1.5'/><text x='50' y='52' font-size='24' text-anchor='middle' fill='#fff' font-weight='bold' font-family='Arial, sans-serif'>?</text></svg>"
+    },
+    {
+      "num": 144,
+      "word": "whatchamacallit",
+      "ipa": "/ˈwɒtʃəməkɔːlɪt/",
+      "chinese": "那啥玩意儿",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='30' y='30' width='40' height='30' rx='6' fill='#a0a0a0' stroke='#555' stroke-width='1.5'/><circle cx='50' cy='20' r='10' fill='#c8c8c8' stroke='#555' stroke-width='1.5'/><text x='50' y='52' font-size='24' text-anchor='middle' fill='#fff' font-weight='bold' font-family='Arial, sans-serif'>?</text></svg>"
+    },
+    {
+      "num": 145,
+      "word": "whatever",
+      "ipa": "/wɒtˈɛvə/",
+      "chinese": "随便；无所谓",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><circle cx='50' cy='40' r='28' fill='#e0e0c0' stroke='#888' stroke-width='2'/><line x1='36' y1='34' x2='44' y2='34' stroke='#333' stroke-width='2.5' stroke-linecap='round'/><line x1='56' y1='34' x2='64' y2='34' stroke='#333' stroke-width='2.5' stroke-linecap='round'/><line x1='38' y1='52' x2='62' y2='52' stroke='#333' stroke-width='2.5' stroke-linecap='round'/></svg>"
+    },
+    {
+      "num": 146,
+      "word": "a bunch of",
+      "chinese": "一堆"
+    },
+    {
+      "num": 147,
+      "word": "loads of",
+      "chinese": "很多；一大堆"
+    },
+    {
+      "section": "8. Texting / Internet Shorthand"
+    },
+    {
+      "num": 148,
+      "word": "omg",
+      "ipa": "/ˌəʊ ɛm ˈdʒiː/",
+      "chinese": "天哪（oh my god）",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='8' y='10' width='84' height='46' rx='10' fill='#4a9ad4' stroke='#2a6aa4' stroke-width='1.5'/><path d='M28 56 L24 70 L42 56 Z' fill='#4a9ad4' stroke='#2a6aa4' stroke-width='1.5'/><text x='50' y='40' font-size='18' text-anchor='middle' fill='white' font-weight='bold' font-family='Arial, sans-serif' dominant-baseline='middle'>OMG</text></svg>"
+    },
+    {
+      "num": 149,
+      "word": "tbh",
+      "ipa": "/ˌtiː biː ˈeɪtʃ/",
+      "chinese": "老实说（to be honest）",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='8' y='10' width='84' height='46' rx='10' fill='#4a9ad4' stroke='#2a6aa4' stroke-width='1.5'/><path d='M28 56 L24 70 L42 56 Z' fill='#4a9ad4' stroke='#2a6aa4' stroke-width='1.5'/><text x='50' y='40' font-size='18' text-anchor='middle' fill='white' font-weight='bold' font-family='Arial, sans-serif' dominant-baseline='middle'>TBH</text></svg>"
+    },
+    {
+      "num": 150,
+      "word": "ngl",
+      "ipa": "/ˌɛn dʒiː ˈɛl/",
+      "chinese": "不骗你（not gonna lie）",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='8' y='10' width='84' height='46' rx='10' fill='#4a9ad4' stroke='#2a6aa4' stroke-width='1.5'/><path d='M28 56 L24 70 L42 56 Z' fill='#4a9ad4' stroke='#2a6aa4' stroke-width='1.5'/><text x='50' y='40' font-size='18' text-anchor='middle' fill='white' font-weight='bold' font-family='Arial, sans-serif' dominant-baseline='middle'>NGL</text></svg>"
+    },
+    {
+      "num": 151,
+      "word": "btw",
+      "ipa": "/ˌbiː tiː ˈdʌbljuː/",
+      "chinese": "顺便说（by the way）",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='8' y='10' width='84' height='46' rx='10' fill='#4a9ad4' stroke='#2a6aa4' stroke-width='1.5'/><path d='M28 56 L24 70 L42 56 Z' fill='#4a9ad4' stroke='#2a6aa4' stroke-width='1.5'/><text x='50' y='40' font-size='18' text-anchor='middle' fill='white' font-weight='bold' font-family='Arial, sans-serif' dominant-baseline='middle'>BTW</text></svg>"
+    },
+    {
+      "num": 152,
+      "word": "fyi",
+      "ipa": "/ˌɛf waɪ ˈaɪ/",
+      "chinese": "供你参考（for your information）",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='8' y='10' width='84' height='46' rx='10' fill='#4a9ad4' stroke='#2a6aa4' stroke-width='1.5'/><path d='M28 56 L24 70 L42 56 Z' fill='#4a9ad4' stroke='#2a6aa4' stroke-width='1.5'/><text x='50' y='40' font-size='18' text-anchor='middle' fill='white' font-weight='bold' font-family='Arial, sans-serif' dominant-baseline='middle'>FYI</text></svg>"
+    },
+    {
+      "num": 153,
+      "word": "imo",
+      "ipa": "/ˌaɪ ɛm ˈəʊ/",
+      "chinese": "我觉得（in my opinion）",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='8' y='10' width='84' height='46' rx='10' fill='#4a9ad4' stroke='#2a6aa4' stroke-width='1.5'/><path d='M28 56 L24 70 L42 56 Z' fill='#4a9ad4' stroke='#2a6aa4' stroke-width='1.5'/><text x='50' y='40' font-size='18' text-anchor='middle' fill='white' font-weight='bold' font-family='Arial, sans-serif' dominant-baseline='middle'>IMO</text></svg>"
+    },
+    {
+      "num": 154,
+      "word": "idk",
+      "ipa": "/ˌaɪ diː ˈkeɪ/",
+      "chinese": "我不知道（I don't know）",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='8' y='10' width='84' height='46' rx='10' fill='#4a9ad4' stroke='#2a6aa4' stroke-width='1.5'/><path d='M28 56 L24 70 L42 56 Z' fill='#4a9ad4' stroke='#2a6aa4' stroke-width='1.5'/><text x='50' y='40' font-size='18' text-anchor='middle' fill='white' font-weight='bold' font-family='Arial, sans-serif' dominant-baseline='middle'>IDK</text></svg>"
+    },
+    {
+      "num": 155,
+      "word": "lol",
+      "ipa": "/lɒl/",
+      "chinese": "哈哈（laugh out loud）",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='8' y='10' width='84' height='46' rx='10' fill='#6abf50' stroke='#3a8a20' stroke-width='1.5'/><path d='M28 56 L24 70 L42 56 Z' fill='#6abf50' stroke='#3a8a20' stroke-width='1.5'/><text x='50' y='40' font-size='16' text-anchor='middle' fill='white' font-weight='bold' font-family='Arial, sans-serif' dominant-baseline='middle'>LOL</text></svg>"
+    },
+    {
+      "num": 156,
+      "word": "lmao",
+      "ipa": "/ləˈmeɪoʊ/",
+      "chinese": "笑死了（laughing my arse off）",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='8' y='10' width='84' height='46' rx='10' fill='#6abf50' stroke='#3a8a20' stroke-width='1.5'/><path d='M28 56 L24 70 L42 56 Z' fill='#6abf50' stroke='#3a8a20' stroke-width='1.5'/><text x='50' y='40' font-size='16' text-anchor='middle' fill='white' font-weight='bold' font-family='Arial, sans-serif' dominant-baseline='middle'>LMAO</text></svg>"
+    },
+    {
+      "num": 157,
+      "word": "jk",
+      "ipa": "/ˌdʒeɪ ˈkeɪ/",
+      "chinese": "开玩笑（just kidding）",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='8' y='10' width='84' height='46' rx='10' fill='#4a9ad4' stroke='#2a6aa4' stroke-width='1.5'/><path d='M28 56 L24 70 L42 56 Z' fill='#4a9ad4' stroke='#2a6aa4' stroke-width='1.5'/><text x='50' y='40' font-size='20' text-anchor='middle' fill='white' font-weight='bold' font-family='Arial, sans-serif' dominant-baseline='middle'>JK</text></svg>"
+    },
+    {
+      "num": 158,
+      "word": "smh",
+      "ipa": "/ˌɛs ɛm ˈeɪtʃ/",
+      "chinese": "无语；服了（shaking my head）",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='8' y='10' width='84' height='46' rx='10' fill='#4a9ad4' stroke='#2a6aa4' stroke-width='1.5'/><path d='M28 56 L24 70 L42 56 Z' fill='#4a9ad4' stroke='#2a6aa4' stroke-width='1.5'/><text x='50' y='40' font-size='18' text-anchor='middle' fill='white' font-weight='bold' font-family='Arial, sans-serif' dominant-baseline='middle'>SMH</text></svg>"
+    },
+    {
+      "num": 159,
+      "word": "wtf",
+      "ipa": "/ˌdʌbljuː tiː ˈɛf/",
+      "chinese": "搞什么（what the f***）",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='8' y='10' width='84' height='46' rx='10' fill='#c84040' stroke='#7a2020' stroke-width='1.5'/><path d='M28 56 L24 70 L42 56 Z' fill='#c84040' stroke='#7a2020' stroke-width='1.5'/><text x='50' y='40' font-size='18' text-anchor='middle' fill='white' font-weight='bold' font-family='Arial, sans-serif' dominant-baseline='middle'>WTF</text></svg>"
+    },
+    {
+      "num": 160,
+      "word": "lmk",
+      "ipa": "/ˌɛl ɛm ˈkeɪ/",
+      "chinese": "告诉我（let me know）",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='8' y='10' width='84' height='46' rx='10' fill='#4a9ad4' stroke='#2a6aa4' stroke-width='1.5'/><path d='M28 56 L24 70 L42 56 Z' fill='#4a9ad4' stroke='#2a6aa4' stroke-width='1.5'/><text x='50' y='40' font-size='18' text-anchor='middle' fill='white' font-weight='bold' font-family='Arial, sans-serif' dominant-baseline='middle'>LMK</text></svg>"
+    },
+    {
+      "num": 161,
+      "word": "tldr",
+      "ipa": "/ˌtiː ɛl diː ˈɑː/",
+      "chinese": "太长不看（too long didn't read）",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='8' y='10' width='84' height='46' rx='10' fill='#4a9ad4' stroke='#2a6aa4' stroke-width='1.5'/><path d='M28 56 L24 70 L42 56 Z' fill='#4a9ad4' stroke='#2a6aa4' stroke-width='1.5'/><text x='50' y='40' font-size='14' text-anchor='middle' fill='white' font-weight='bold' font-family='Arial, sans-serif' dominant-baseline='middle'>TLDR</text></svg>"
+    },
+    {
+      "num": 162,
+      "word": "irl",
+      "ipa": "/ˌaɪ ɑːr ˈɛl/",
+      "chinese": "现实中（in real life）",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='8' y='10' width='84' height='46' rx='10' fill='#4a9ad4' stroke='#2a6aa4' stroke-width='1.5'/><path d='M28 56 L24 70 L42 56 Z' fill='#4a9ad4' stroke='#2a6aa4' stroke-width='1.5'/><text x='50' y='40' font-size='18' text-anchor='middle' fill='white' font-weight='bold' font-family='Arial, sans-serif' dominant-baseline='middle'>IRL</text></svg>"
+    },
+    {
+      "num": 163,
+      "word": "rn",
+      "ipa": "/ˌɑːr ˈɛn/",
+      "chinese": "现在（right now）",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='8' y='10' width='84' height='46' rx='10' fill='#4a9ad4' stroke='#2a6aa4' stroke-width='1.5'/><path d='M28 56 L24 70 L42 56 Z' fill='#4a9ad4' stroke='#2a6aa4' stroke-width='1.5'/><text x='50' y='40' font-size='22' text-anchor='middle' fill='white' font-weight='bold' font-family='Arial, sans-serif' dominant-baseline='middle'>RN</text></svg>"
+    },
+    {
+      "num": 164,
+      "word": "atm",
+      "ipa": "/ˌeɪ tiː ˈɛm/",
+      "chinese": "此刻（at the moment）",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='8' y='10' width='84' height='46' rx='10' fill='#4a9ad4' stroke='#2a6aa4' stroke-width='1.5'/><path d='M28 56 L24 70 L42 56 Z' fill='#4a9ad4' stroke='#2a6aa4' stroke-width='1.5'/><text x='50' y='40' font-size='18' text-anchor='middle' fill='white' font-weight='bold' font-family='Arial, sans-serif' dominant-baseline='middle'>ATM</text></svg>"
+    },
+    {
+      "num": 165,
+      "word": "ofc",
+      "ipa": "/ˌəʊ ɛf ˈsiː/",
+      "chinese": "当然（of course）",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='8' y='10' width='84' height='46' rx='10' fill='#4a9ad4' stroke='#2a6aa4' stroke-width='1.5'/><path d='M28 56 L24 70 L42 56 Z' fill='#4a9ad4' stroke='#2a6aa4' stroke-width='1.5'/><text x='50' y='40' font-size='18' text-anchor='middle' fill='white' font-weight='bold' font-family='Arial, sans-serif' dominant-baseline='middle'>OFC</text></svg>"
+    },
+    {
+      "num": 166,
+      "word": "istg",
+      "ipa": "/ˌaɪ ɛs tiː ˈdʒiː/",
+      "chinese": "我发誓（I swear to god）",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='8' y='10' width='84' height='46' rx='10' fill='#4a9ad4' stroke='#2a6aa4' stroke-width='1.5'/><path d='M28 56 L24 70 L42 56 Z' fill='#4a9ad4' stroke='#2a6aa4' stroke-width='1.5'/><text x='50' y='40' font-size='14' text-anchor='middle' fill='white' font-weight='bold' font-family='Arial, sans-serif' dominant-baseline='middle'>ISTG</text></svg>"
+    },
+    {
+      "num": 167,
+      "word": "ily",
+      "ipa": "/ˌaɪ ɛl ˈwaɪ/",
+      "chinese": "我爱你（I love you）",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='8' y='10' width='84' height='46' rx='10' fill='#e04060' stroke='#a02030' stroke-width='1.5'/><path d='M28 56 L24 70 L42 56 Z' fill='#e04060' stroke='#a02030' stroke-width='1.5'/><text x='50' y='40' font-size='18' text-anchor='middle' fill='white' font-weight='bold' font-family='Arial, sans-serif' dominant-baseline='middle'>ILY</text></svg>"
+    },
+    {
+      "num": 168,
+      "word": "thx",
+      "ipa": "/θæŋks/",
+      "chinese": "谢谢（thanks）",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='8' y='10' width='84' height='46' rx='10' fill='#6abf50' stroke='#3a8a20' stroke-width='1.5'/><path d='M28 56 L24 70 L42 56 Z' fill='#6abf50' stroke='#3a8a20' stroke-width='1.5'/><text x='50' y='40' font-size='16' text-anchor='middle' fill='white' font-weight='bold' font-family='Arial, sans-serif' dominant-baseline='middle'>THX</text></svg>"
+    },
+    {
+      "section": "9. Mild Swear-adjacent (UK)"
+    },
+    {
+      "num": 169,
+      "word": "bloody",
+      "ipa": "/ˈblʌdi/",
+      "chinese": "（加强语气）该死的；真是",
+      "svg": ""
+    },
+    {
+      "num": 170,
+      "word": "crap",
+      "ipa": "/kræp/",
+      "chinese": "糟糕；垃圾",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M30 64 Q24 56 32 50 Q26 42 36 38 Q32 28 44 28 Q50 18 58 28 Q70 28 64 38 Q72 44 66 50 Q74 56 68 64 Z' fill='#6a3010' stroke='#3a1000' stroke-width='1.5'/><circle cx='42' cy='44' r='2' fill='#fff'/><circle cx='42' cy='44' r='1' fill='#000'/><circle cx='56' cy='44' r='2' fill='#fff'/><circle cx='56' cy='44' r='1' fill='#000'/><path d='M44 54 Q50 58 56 54' fill='none' stroke='#fff' stroke-width='1.5'/></svg>"
+    },
+    {
+      "num": 171,
+      "word": "bugger",
+      "ipa": "/ˈbʌɡə/",
+      "chinese": "见鬼；糟糕",
+      "svg": ""
+    },
+    {
+      "num": 172,
+      "word": "bollocks",
+      "ipa": "/ˈbɒləks/",
+      "chinese": "胡扯；废话",
+      "svg": ""
+    },
+    {
+      "num": 173,
+      "word": "arse",
+      "ipa": "/ɑːs/",
+      "chinese": "屁股（英式）",
+      "svg": ""
+    },
+    {
+      "num": 174,
+      "word": "flipping",
+      "ipa": "/ˈflɪpɪŋ/",
+      "chinese": "（委婉的f**king）真是",
+      "svg": ""
+    },
+    {
+      "num": 175,
+      "word": "pissed",
+      "ipa": "/pɪst/",
+      "chinese": "喝醉的（英式注意）",
+      "svg": ""
+    },
+    {
+      "num": 176,
+      "word": "bloody hell",
+      "chinese": "我的天"
+    },
+    {
+      "num": 177,
+      "word": "damn it",
+      "chinese": "该死；糟了"
+    },
+    {
+      "num": 178,
+      "word": "sod it",
+      "chinese": "算了；去他的"
+    },
+    {
+      "num": 179,
+      "word": "piss off",
+      "chinese": "滚开；惹恼"
+    },
+    {
+      "num": 180,
+      "word": "what the hell",
+      "chinese": "搞什么"
+    },
+    {
+      "num": 181,
+      "word": "for God's sake",
+      "chinese": "看在上帝份上；拜托"
+    },
+    {
+      "section": "10. Casual Spoken Contractions"
+    },
+    {
+      "num": 182,
+      "word": "gonna",
+      "ipa": "/ˈɡɒnə/",
+      "chinese": "要（going to）",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='8' y='10' width='84' height='46' rx='10' fill='#4a9ad4' stroke='#2a6aa4' stroke-width='1.5'/><path d='M28 56 L24 70 L42 56 Z' fill='#4a9ad4' stroke='#2a6aa4' stroke-width='1.5'/><text x='50' y='40' font-size='15' text-anchor='middle' fill='white' font-weight='bold' font-family='Arial, sans-serif' dominant-baseline='middle'>GONNA</text></svg>"
+    },
+    {
+      "num": 183,
+      "word": "wanna",
+      "ipa": "/ˈwɒnə/",
+      "chinese": "想要（want to）",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='8' y='10' width='84' height='46' rx='10' fill='#4a9ad4' stroke='#2a6aa4' stroke-width='1.5'/><path d='M28 56 L24 70 L42 56 Z' fill='#4a9ad4' stroke='#2a6aa4' stroke-width='1.5'/><text x='50' y='40' font-size='15' text-anchor='middle' fill='white' font-weight='bold' font-family='Arial, sans-serif' dominant-baseline='middle'>WANNA</text></svg>"
+    },
+    {
+      "num": 184,
+      "word": "gotta",
+      "ipa": "/ˈɡɒtə/",
+      "chinese": "必须（got to / have to）",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='8' y='10' width='84' height='46' rx='10' fill='#4a9ad4' stroke='#2a6aa4' stroke-width='1.5'/><path d='M28 56 L24 70 L42 56 Z' fill='#4a9ad4' stroke='#2a6aa4' stroke-width='1.5'/><text x='50' y='40' font-size='15' text-anchor='middle' fill='white' font-weight='bold' font-family='Arial, sans-serif' dominant-baseline='middle'>GOTTA</text></svg>"
+    },
+    {
+      "num": 185,
+      "word": "kinda",
+      "ipa": "/ˈkaɪndə/",
+      "chinese": "有点（kind of）",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='8' y='10' width='84' height='46' rx='10' fill='#4a9ad4' stroke='#2a6aa4' stroke-width='1.5'/><path d='M28 56 L24 70 L42 56 Z' fill='#4a9ad4' stroke='#2a6aa4' stroke-width='1.5'/><text x='50' y='40' font-size='15' text-anchor='middle' fill='white' font-weight='bold' font-family='Arial, sans-serif' dominant-baseline='middle'>KINDA</text></svg>"
+    },
+    {
+      "num": 186,
+      "word": "sorta",
+      "ipa": "/ˈsɔːtə/",
+      "chinese": "算是（sort of）",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='8' y='10' width='84' height='46' rx='10' fill='#4a9ad4' stroke='#2a6aa4' stroke-width='1.5'/><path d='M28 56 L24 70 L42 56 Z' fill='#4a9ad4' stroke='#2a6aa4' stroke-width='1.5'/><text x='50' y='40' font-size='15' text-anchor='middle' fill='white' font-weight='bold' font-family='Arial, sans-serif' dominant-baseline='middle'>SORTA</text></svg>"
+    },
+    {
+      "num": 187,
+      "word": "dunno",
+      "ipa": "/dəˈnəʊ/",
+      "chinese": "不知道（don't know）",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='8' y='10' width='84' height='46' rx='10' fill='#4a9ad4' stroke='#2a6aa4' stroke-width='1.5'/><path d='M28 56 L24 70 L42 56 Z' fill='#4a9ad4' stroke='#2a6aa4' stroke-width='1.5'/><text x='50' y='40' font-size='15' text-anchor='middle' fill='white' font-weight='bold' font-family='Arial, sans-serif' dominant-baseline='middle'>DUNNO</text></svg>"
+    },
+    {
+      "num": 188,
+      "word": "lemme",
+      "ipa": "/ˈlɛmi/",
+      "chinese": "让我（let me）",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='8' y='10' width='84' height='46' rx='10' fill='#4a9ad4' stroke='#2a6aa4' stroke-width='1.5'/><path d='M28 56 L24 70 L42 56 Z' fill='#4a9ad4' stroke='#2a6aa4' stroke-width='1.5'/><text x='50' y='40' font-size='15' text-anchor='middle' fill='white' font-weight='bold' font-family='Arial, sans-serif' dominant-baseline='middle'>LEMME</text></svg>"
+    },
+    {
+      "num": 189,
+      "word": "gimme",
+      "ipa": "/ˈɡɪmi/",
+      "chinese": "给我（give me）",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='8' y='10' width='84' height='46' rx='10' fill='#4a9ad4' stroke='#2a6aa4' stroke-width='1.5'/><path d='M28 56 L24 70 L42 56 Z' fill='#4a9ad4' stroke='#2a6aa4' stroke-width='1.5'/><text x='50' y='40' font-size='15' text-anchor='middle' fill='white' font-weight='bold' font-family='Arial, sans-serif' dominant-baseline='middle'>GIMME</text></svg>"
+    }
+  ]
+}
