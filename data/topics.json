@@ -48,6 +48,20 @@
       "icon": "💬",
       "count": 189,
       "updatedAt": "2026-05-20"
+    },
+    {
+      "id": "speaking-phrases",
+      "title": "Daily Speaking Phrases",
+      "icon": "🗣️",
+      "count": 447,
+      "updatedAt": "2026-05-20"
+    },
+    {
+      "id": "body-medical",
+      "title": "Body, Health & Medical",
+      "icon": "🩺",
+      "count": 256,
+      "updatedAt": "2026-05-20"
     }
   ]
 }

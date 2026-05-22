@@ -1,0 +1,2379 @@
+{
+  "topic": "speaking-phrases",
+  "title": "Daily Speaking Phrases",
+  "words": [
+    {
+      "section": "1. Greetings & Small Talk"
+    },
+    {
+      "num": 1,
+      "word": "How's it going?",
+      "chinese": "怎么样？"
+    },
+    {
+      "num": 2,
+      "word": "How have you been?",
+      "chinese": "你最近怎么样？"
+    },
+    {
+      "num": 3,
+      "word": "What have you been up to?",
+      "chinese": "最近都在忙什么？"
+    },
+    {
+      "num": 4,
+      "word": "Long time no see",
+      "chinese": "好久不见"
+    },
+    {
+      "num": 5,
+      "word": "Not much, you?",
+      "chinese": "没什么，你呢？"
+    },
+    {
+      "num": 6,
+      "word": "Same old, same old",
+      "chinese": "老样子"
+    },
+    {
+      "num": 7,
+      "word": "Can't complain",
+      "chinese": "还行；没什么好抱怨的"
+    },
+    {
+      "num": 8,
+      "word": "What's new?",
+      "chinese": "最近有什么新鲜事？"
+    },
+    {
+      "num": 9,
+      "word": "Nothing much",
+      "chinese": "没什么"
+    },
+    {
+      "num": 10,
+      "word": "How's life treating you?",
+      "chinese": "生活怎么样？"
+    },
+    {
+      "num": 11,
+      "word": "Good to see you",
+      "chinese": "很高兴见到你"
+    },
+    {
+      "num": 12,
+      "word": "Keeping busy",
+      "chinese": "挺忙的"
+    },
+    {
+      "section": "2. Saying Goodbye"
+    },
+    {
+      "num": 13,
+      "word": "Take care",
+      "chinese": "保重"
+    },
+    {
+      "num": 14,
+      "word": "Catch you later",
+      "chinese": "回头见"
+    },
+    {
+      "num": 15,
+      "word": "See you around",
+      "chinese": "改天见"
+    },
+    {
+      "num": 16,
+      "word": "Talk soon",
+      "chinese": "改天聊"
+    },
+    {
+      "num": 17,
+      "word": "Have a good one",
+      "chinese": "祝你愉快"
+    },
+    {
+      "num": 18,
+      "word": "Take it easy",
+      "chinese": "保重；放轻松"
+    },
+    {
+      "num": 19,
+      "word": "I'd better get going",
+      "chinese": "我该走了"
+    },
+    {
+      "num": 20,
+      "word": "I'll be off",
+      "chinese": "我先走了"
+    },
+    {
+      "num": 21,
+      "word": "Until next time",
+      "chinese": "下次见"
+    },
+    {
+      "num": 22,
+      "word": "Look after yourself",
+      "chinese": "照顾好自己"
+    },
+    {
+      "section": "3. Agreeing & Disagreeing"
+    },
+    {
+      "num": 23,
+      "word": "I couldn't agree more",
+      "chinese": "我完全同意"
+    },
+    {
+      "num": 24,
+      "word": "Tell me about it",
+      "chinese": "可不是嘛"
+    },
+    {
+      "num": 25,
+      "word": "You can say that again",
+      "chinese": "你说得太对了"
+    },
+    {
+      "num": 26,
+      "word": "Same here",
+      "chinese": "我也是"
+    },
+    {
+      "num": 27,
+      "word": "I'm with you on that",
+      "chinese": "我同意你的看法"
+    },
+    {
+      "num": 28,
+      "word": "I feel you",
+      "chinese": "我懂你"
+    },
+    {
+      "num": 29,
+      "word": "I hear you",
+      "chinese": "我明白你的意思"
+    },
+    {
+      "num": 30,
+      "word": "That makes two of us",
+      "chinese": "我也一样"
+    },
+    {
+      "num": 31,
+      "word": "You're not wrong",
+      "chinese": "你说得没错"
+    },
+    {
+      "num": 32,
+      "word": "True that",
+      "chinese": "确实"
+    },
+    {
+      "num": 33,
+      "word": "I'm not so sure about that",
+      "chinese": "我不太确定"
+    },
+    {
+      "num": 34,
+      "word": "I see your point, but...",
+      "chinese": "我理解你的意思，但是…"
+    },
+    {
+      "num": 35,
+      "word": "I beg to differ",
+      "chinese": "恕我不能苟同"
+    },
+    {
+      "num": 36,
+      "word": "I'm not convinced",
+      "chinese": "我不太信服"
+    },
+    {
+      "num": 37,
+      "word": "I have to disagree",
+      "chinese": "我必须反对"
+    },
+    {
+      "num": 38,
+      "word": "With all due respect",
+      "chinese": "恕我直言"
+    },
+    {
+      "section": "4. Surprise & Emotional Reactions"
+    },
+    {
+      "num": 39,
+      "word": "No way!",
+      "chinese": "不会吧！"
+    },
+    {
+      "num": 40,
+      "word": "You're kidding!",
+      "chinese": "你开玩笑吧！"
+    },
+    {
+      "num": 41,
+      "word": "Get out of here!",
+      "chinese": "不会吧！；少来了！"
+    },
+    {
+      "num": 42,
+      "word": "Are you for real?",
+      "chinese": "你是认真的吗？"
+    },
+    {
+      "num": 43,
+      "word": "I can't believe it",
+      "chinese": "我不敢相信"
+    },
+    {
+      "num": 44,
+      "word": "That's wild",
+      "chinese": "太离谱了"
+    },
+    {
+      "num": 45,
+      "word": "That's mental",
+      "chinese": "太疯狂了 (UK)"
+    },
+    {
+      "num": 46,
+      "word": "Oh come on!",
+      "chinese": "拜托！；得了吧！"
+    },
+    {
+      "num": 47,
+      "word": "Give me a break",
+      "chinese": "饶了我吧"
+    },
+    {
+      "num": 48,
+      "word": "Are you serious?",
+      "chinese": "你认真的吗？"
+    },
+    {
+      "num": 49,
+      "word": "For crying out loud",
+      "chinese": "拜托；天哪"
+    },
+    {
+      "num": 50,
+      "word": "This is doing my head in",
+      "chinese": "搞得我快疯了 (UK)"
+    },
+    {
+      "num": 51,
+      "word": "Wait, what?",
+      "chinese": "等等，什么？"
+    },
+    {
+      "num": 52,
+      "word": "That's insane",
+      "chinese": "太疯狂了"
+    },
+    {
+      "num": 53,
+      "word": "Shut up!",
+      "chinese": "不会吧！（惊讶时）"
+    },
+    {
+      "section": "5. Sharing Opinions"
+    },
+    {
+      "num": 54,
+      "word": "If you ask me",
+      "chinese": "要我说"
+    },
+    {
+      "num": 55,
+      "word": "The way I see it",
+      "chinese": "在我看来"
+    },
+    {
+      "num": 56,
+      "word": "As far as I'm concerned",
+      "chinese": "就我而言"
+    },
+    {
+      "num": 57,
+      "word": "Personally, I think",
+      "chinese": "我个人觉得"
+    },
+    {
+      "num": 58,
+      "word": "I reckon",
+      "chinese": "我觉得 (UK)"
+    },
+    {
+      "num": 59,
+      "word": "I'd say",
+      "chinese": "我会说"
+    },
+    {
+      "num": 60,
+      "word": "To be honest",
+      "chinese": "老实说"
+    },
+    {
+      "num": 61,
+      "word": "From my point of view",
+      "chinese": "从我的角度看"
+    },
+    {
+      "num": 62,
+      "word": "In my book",
+      "chinese": "在我看来"
+    },
+    {
+      "num": 63,
+      "word": "Truth be told",
+      "chinese": "实话说"
+    },
+    {
+      "section": "6. Clarification & Hesitation"
+    },
+    {
+      "num": 64,
+      "word": "Sorry, what was that?",
+      "chinese": "抱歉，你说什么？"
+    },
+    {
+      "num": 65,
+      "word": "Could you say that again?",
+      "chinese": "你能再说一遍吗？"
+    },
+    {
+      "num": 66,
+      "word": "What do you mean by that?",
+      "chinese": "你这是什么意思？"
+    },
+    {
+      "num": 67,
+      "word": "I don't follow",
+      "chinese": "我没跟上"
+    },
+    {
+      "num": 68,
+      "word": "You lost me",
+      "chinese": "你说得我糊涂了"
+    },
+    {
+      "num": 69,
+      "word": "Run that by me again",
+      "chinese": "再说一遍"
+    },
+    {
+      "num": 70,
+      "word": "Hold on, let me get this straight",
+      "chinese": "等等，让我理清楚"
+    },
+    {
+      "num": 71,
+      "word": "Are you saying...?",
+      "chinese": "你是说…？"
+    },
+    {
+      "num": 72,
+      "word": "Just to be clear",
+      "chinese": "我澄清一下"
+    },
+    {
+      "num": 73,
+      "word": "I'll see how it goes",
+      "chinese": "我看情况吧"
+    },
+    {
+      "num": 74,
+      "word": "We'll play it by ear",
+      "chinese": "到时候再说"
+    },
+    {
+      "num": 75,
+      "word": "I'm in two minds about it",
+      "chinese": "我犹豫不决"
+    },
+    {
+      "section": "7. Apologising, Thanking & Politeness"
+    },
+    {
+      "num": 76,
+      "word": "My bad",
+      "chinese": "我的错"
+    },
+    {
+      "num": 77,
+      "word": "Sorry about that",
+      "chinese": "抱歉"
+    },
+    {
+      "num": 78,
+      "word": "I didn't mean to",
+      "chinese": "我不是故意的"
+    },
+    {
+      "num": 79,
+      "word": "No offence",
+      "chinese": "没有冒犯的意思"
+    },
+    {
+      "num": 80,
+      "word": "Don't take it the wrong way",
+      "chinese": "别误解"
+    },
+    {
+      "num": 81,
+      "word": "For what it's worth",
+      "chinese": "不管怎么说"
+    },
+    {
+      "num": 82,
+      "word": "I appreciate it",
+      "chinese": "感激不尽"
+    },
+    {
+      "num": 83,
+      "word": "Thanks a million",
+      "chinese": "万分感谢"
+    },
+    {
+      "num": 84,
+      "word": "Cheers",
+      "chinese": "谢啦 (UK)"
+    },
+    {
+      "num": 85,
+      "word": "Don't mention it",
+      "chinese": "不用谢"
+    },
+    {
+      "num": 86,
+      "word": "Anytime",
+      "chinese": "随时"
+    },
+    {
+      "num": 87,
+      "word": "Happy to help",
+      "chinese": "乐意效劳"
+    },
+    {
+      "num": 88,
+      "word": "It's the least I could do",
+      "chinese": "这是我应该做的"
+    },
+    {
+      "num": 89,
+      "word": "I owe you one",
+      "chinese": "我欠你一个人情"
+    },
+    {
+      "section": "8. Encouraging & Suggesting"
+    },
+    {
+      "num": 90,
+      "word": "Hang in there",
+      "chinese": "坚持住"
+    },
+    {
+      "num": 91,
+      "word": "You've got this",
+      "chinese": "你能行的"
+    },
+    {
+      "num": 92,
+      "word": "Don't sweat it",
+      "chinese": "别担心"
+    },
+    {
+      "num": 93,
+      "word": "It'll work out",
+      "chinese": "会好起来的"
+    },
+    {
+      "num": 94,
+      "word": "I'm here for you",
+      "chinese": "我支持你"
+    },
+    {
+      "num": 95,
+      "word": "I've got your back",
+      "chinese": "我挺你"
+    },
+    {
+      "num": 96,
+      "word": "Keep your chin up",
+      "chinese": "振作起来"
+    },
+    {
+      "num": 97,
+      "word": "Don't beat yourself up",
+      "chinese": "别自责"
+    },
+    {
+      "num": 98,
+      "word": "How about we...?",
+      "chinese": "我们…怎么样？"
+    },
+    {
+      "num": 99,
+      "word": "Why don't we...?",
+      "chinese": "我们不如…？"
+    },
+    {
+      "num": 100,
+      "word": "Fancy a drink?",
+      "chinese": "想喝一杯吗？(UK)"
+    },
+    {
+      "num": 101,
+      "word": "Are you up for it?",
+      "chinese": "你愿意吗？"
+    },
+    {
+      "num": 102,
+      "word": "Let's grab a coffee",
+      "chinese": "我们去喝杯咖啡"
+    },
+    {
+      "num": 103,
+      "word": "I'm in if you are",
+      "chinese": "你去我就去"
+    },
+    {
+      "num": 104,
+      "word": "It's not the end of the world",
+      "chinese": "不是世界末日"
+    },
+    {
+      "section": "9. Phone, Text & Work-Casual"
+    },
+    {
+      "num": 105,
+      "word": "Give me a sec",
+      "chinese": "稍等一下"
+    },
+    {
+      "num": 106,
+      "word": "Hold on a moment",
+      "chinese": "稍等片刻"
+    },
+    {
+      "num": 107,
+      "word": "Can I call you back?",
+      "chinese": "我能稍后回你电话吗？"
+    },
+    {
+      "num": 108,
+      "word": "I'll get back to you",
+      "chinese": "我稍后回复你"
+    },
+    {
+      "num": 109,
+      "word": "You're breaking up",
+      "chinese": "你那边信号断断续续"
+    },
+    {
+      "num": 110,
+      "word": "Shoot me a message",
+      "chinese": "给我发个消息"
+    },
+    {
+      "num": 111,
+      "word": "Keep me posted",
+      "chinese": "随时告诉我"
+    },
+    {
+      "num": 112,
+      "word": "Let's circle back",
+      "chinese": "我们晚点再谈"
+    },
+    {
+      "num": 113,
+      "word": "Touch base",
+      "chinese": "保持联系；碰个头"
+    },
+    {
+      "num": 114,
+      "word": "Loop me in",
+      "chinese": "把我也加进来"
+    },
+    {
+      "num": 115,
+      "word": "Heads up",
+      "chinese": "提个醒"
+    },
+    {
+      "num": 116,
+      "word": "Just so you know",
+      "chinese": "顺便告诉你一声"
+    },
+    {
+      "num": 117,
+      "word": "Quick question",
+      "chinese": "问个简短的问题"
+    },
+    {
+      "num": 118,
+      "word": "On the same page",
+      "chinese": "想法一致"
+    },
+    {
+      "num": 119,
+      "word": "Ping me when you're free",
+      "chinese": "你有空时找我"
+    },
+    {
+      "section": "10. Conversation Connectors"
+    },
+    {
+      "num": 120,
+      "word": "You know what I mean?",
+      "chinese": "你懂我意思吗？"
+    },
+    {
+      "num": 121,
+      "word": "Does that make sense?",
+      "chinese": "这样说清楚吗？"
+    },
+    {
+      "num": 122,
+      "word": "To cut a long story short",
+      "chinese": "长话短说"
+    },
+    {
+      "num": 123,
+      "word": "Speaking of which",
+      "chinese": "说到这个"
+    },
+    {
+      "num": 124,
+      "word": "Come to think of it",
+      "chinese": "仔细想想"
+    },
+    {
+      "num": 125,
+      "word": "Anyway, moving on",
+      "chinese": "总之，继续"
+    },
+    {
+      "num": 126,
+      "word": "The thing is",
+      "chinese": "问题是"
+    },
+    {
+      "num": 127,
+      "word": "Now that I think about it",
+      "chinese": "现在想想"
+    },
+    {
+      "section": "11. Restaurant & Cafe"
+    },
+    {
+      "num": 128,
+      "word": "Could I see the menu?",
+      "chinese": "可以看一下菜单吗？"
+    },
+    {
+      "num": 129,
+      "word": "What do you recommend?",
+      "chinese": "你推荐什么？"
+    },
+    {
+      "num": 130,
+      "word": "I'll have the chicken",
+      "chinese": "我要点鸡肉"
+    },
+    {
+      "num": 131,
+      "word": "Could we have a table for two?",
+      "chinese": "两人桌可以吗？"
+    },
+    {
+      "num": 132,
+      "word": "We'll need a few more minutes",
+      "chinese": "我们再考虑一下"
+    },
+    {
+      "num": 133,
+      "word": "Could I get the bill, please?",
+      "chinese": "可以买单吗？"
+    },
+    {
+      "num": 134,
+      "word": "To take away, please",
+      "chinese": "打包，谢谢 (UK)"
+    },
+    {
+      "num": 135,
+      "word": "Could you split the bill?",
+      "chinese": "可以分开结账吗？"
+    },
+    {
+      "num": 136,
+      "word": "Keep the change",
+      "chinese": "不用找零了"
+    },
+    {
+      "num": 137,
+      "word": "Same again, please",
+      "chinese": "再来一份/一杯"
+    },
+    {
+      "section": "12. Shopping & Service"
+    },
+    {
+      "num": 138,
+      "word": "Just looking, thanks",
+      "chinese": "我只是看看，谢谢"
+    },
+    {
+      "num": 139,
+      "word": "Do you have this in a different size?",
+      "chinese": "这件有别的尺码吗？"
+    },
+    {
+      "num": 140,
+      "word": "How much is this?",
+      "chinese": "这个多少钱？"
+    },
+    {
+      "num": 141,
+      "word": "I'll take it",
+      "chinese": "我买了"
+    },
+    {
+      "num": 142,
+      "word": "Do you accept card?",
+      "chinese": "可以刷卡吗？"
+    },
+    {
+      "num": 143,
+      "word": "I'll think about it",
+      "chinese": "我考虑一下"
+    },
+    {
+      "num": 144,
+      "word": "Could I get a refund?",
+      "chinese": "我可以退款吗？"
+    },
+    {
+      "num": 145,
+      "word": "Could I try this on?",
+      "chinese": "我可以试穿吗？"
+    },
+    {
+      "num": 146,
+      "word": "It's a bit too tight",
+      "chinese": "有点太紧了"
+    },
+    {
+      "num": 147,
+      "word": "Could you wrap it up?",
+      "chinese": "可以帮我包起来吗？"
+    },
+    {
+      "section": "13. Directions & Transport"
+    },
+    {
+      "num": 148,
+      "word": "Excuse me, do you know where ... is?",
+      "chinese": "打扰一下，请问…在哪里？"
+    },
+    {
+      "num": 149,
+      "word": "Could you point me to ...?",
+      "chinese": "能指给我…在哪吗？"
+    },
+    {
+      "num": 150,
+      "word": "Is it far from here?",
+      "chinese": "离这里远吗？"
+    },
+    {
+      "num": 151,
+      "word": "Which way is ...?",
+      "chinese": "…往哪边走？"
+    },
+    {
+      "num": 152,
+      "word": "I'm lost",
+      "chinese": "我迷路了"
+    },
+    {
+      "num": 153,
+      "word": "Could you take me to ...?",
+      "chinese": "能带我去…吗？"
+    },
+    {
+      "num": 154,
+      "word": "Could you drop me off here?",
+      "chinese": "可以在这里下车吗？"
+    },
+    {
+      "num": 155,
+      "word": "I'm in a bit of a rush",
+      "chinese": "我有点赶时间"
+    },
+    {
+      "num": 156,
+      "word": "Does this go to ...?",
+      "chinese": "这趟去…吗？"
+    },
+    {
+      "num": 157,
+      "word": "I missed my stop",
+      "chinese": "我坐过站了"
+    },
+    {
+      "section": "14. Health & Feeling Unwell"
+    },
+    {
+      "num": 158,
+      "word": "I'm not feeling well",
+      "chinese": "我不太舒服"
+    },
+    {
+      "num": 159,
+      "word": "I'm coming down with something",
+      "chinese": "我好像要生病了"
+    },
+    {
+      "num": 160,
+      "word": "I've got a sore throat",
+      "chinese": "我嗓子疼"
+    },
+    {
+      "num": 161,
+      "word": "Could I make an appointment?",
+      "chinese": "我可以预约吗？"
+    },
+    {
+      "num": 162,
+      "word": "I'm a bit run down",
+      "chinese": "我有点虚弱"
+    },
+    {
+      "num": 163,
+      "word": "I need to lie down",
+      "chinese": "我需要躺一下"
+    },
+    {
+      "num": 164,
+      "word": "It's just a cold",
+      "chinese": "只是感冒而已"
+    },
+    {
+      "num": 165,
+      "word": "I'll sleep it off",
+      "chinese": "睡一觉就好了"
+    },
+    {
+      "section": "15. Complaining Politely"
+    },
+    {
+      "num": 166,
+      "word": "I'm sorry to say, but...",
+      "chinese": "我不得不说…"
+    },
+    {
+      "num": 167,
+      "word": "I'd like to make a complaint",
+      "chinese": "我想投诉"
+    },
+    {
+      "num": 168,
+      "word": "This isn't what I ordered",
+      "chinese": "这不是我点的"
+    },
+    {
+      "num": 169,
+      "word": "Could I speak to the manager?",
+      "chinese": "我能找经理吗？"
+    },
+    {
+      "num": 170,
+      "word": "There's been a mix-up",
+      "chinese": "有点搞错了"
+    },
+    {
+      "num": 171,
+      "word": "I'd appreciate a refund",
+      "chinese": "希望能退款"
+    },
+    {
+      "num": 172,
+      "word": "This isn't quite right",
+      "chinese": "这有点不对劲"
+    },
+    {
+      "num": 173,
+      "word": "I'm afraid there's a problem",
+      "chinese": "恐怕有点问题"
+    },
+    {
+      "section": "16. Common Idioms"
+    },
+    {
+      "num": 174,
+      "word": "a no-brainer",
+      "chinese": "理所当然的事；显而易见"
+    },
+    {
+      "num": 175,
+      "word": "pep in your step",
+      "chinese": "精神饱满；步伐轻快"
+    },
+    {
+      "num": 176,
+      "word": "bite the bullet",
+      "chinese": "硬着头皮做"
+    },
+    {
+      "num": 177,
+      "word": "on the same page",
+      "chinese": "想法一致"
+    },
+    {
+      "num": 178,
+      "word": "get cold feet",
+      "chinese": "临阵退缩"
+    },
+    {
+      "num": 179,
+      "word": "pulling your leg",
+      "chinese": "开你玩笑"
+    },
+    {
+      "num": 180,
+      "word": "cut to the chase",
+      "chinese": "直奔主题"
+    },
+    {
+      "num": 181,
+      "word": "spill the beans",
+      "chinese": "泄密；说出真相"
+    },
+    {
+      "num": 182,
+      "word": "hit the nail on the head",
+      "chinese": "一针见血"
+    },
+    {
+      "num": 183,
+      "word": "give it a shot",
+      "chinese": "试一下"
+    },
+    {
+      "num": 184,
+      "word": "read the room",
+      "chinese": "察言观色"
+    },
+    {
+      "num": 185,
+      "word": "the ball is in your court",
+      "chinese": "看你的了"
+    },
+    {
+      "num": 186,
+      "word": "back to square one",
+      "chinese": "回到原点"
+    },
+    {
+      "num": 187,
+      "word": "a silver lining",
+      "chinese": "一线希望"
+    },
+    {
+      "num": 188,
+      "word": "the elephant in the room",
+      "chinese": "没人愿提的问题"
+    },
+    {
+      "section": "17. At the Doctor's"
+    },
+    {
+      "num": 189,
+      "word": "I've been having headaches",
+      "chinese": "我一直头痛"
+    },
+    {
+      "num": 190,
+      "word": "It's been a few days now",
+      "chinese": "已经好几天了"
+    },
+    {
+      "num": 191,
+      "word": "Could you write me a prescription?",
+      "chinese": "你能给我开个处方吗？"
+    },
+    {
+      "num": 192,
+      "word": "Is it serious?",
+      "chinese": "严重吗？"
+    },
+    {
+      "num": 193,
+      "word": "Should I be worried?",
+      "chinese": "我需要担心吗？"
+    },
+    {
+      "num": 194,
+      "word": "How long until I feel better?",
+      "chinese": "多久才能好？"
+    },
+    {
+      "num": 195,
+      "word": "Any side effects?",
+      "chinese": "有什么副作用吗？"
+    },
+    {
+      "num": 196,
+      "word": "I'm allergic to penicillin",
+      "chinese": "我对青霉素过敏"
+    },
+    {
+      "section": "18. Lawyer / Legal"
+    },
+    {
+      "num": 197,
+      "word": "I'd like to seek legal advice",
+      "chinese": "我想咨询法律意见"
+    },
+    {
+      "num": 198,
+      "word": "Could you draw up a contract?",
+      "chinese": "你能起草一份合同吗？"
+    },
+    {
+      "num": 199,
+      "word": "I want to press charges",
+      "chinese": "我要起诉"
+    },
+    {
+      "num": 200,
+      "word": "I'd like to make a statement",
+      "chinese": "我想做笔录"
+    },
+    {
+      "num": 201,
+      "word": "I'll take you to court",
+      "chinese": "我要告你"
+    },
+    {
+      "num": 202,
+      "word": "It's in the small print",
+      "chinese": "都在小字条款里"
+    },
+    {
+      "num": 203,
+      "word": "Could I get this in writing?",
+      "chinese": "可以书面写下来吗？"
+    },
+    {
+      "num": 204,
+      "word": "I'd like to file a claim",
+      "chinese": "我想提出索赔"
+    },
+    {
+      "section": "19. Police / Emergency"
+    },
+    {
+      "num": 205,
+      "word": "I'd like to report a crime",
+      "chinese": "我要报案"
+    },
+    {
+      "num": 206,
+      "word": "Someone broke into my car",
+      "chinese": "有人闯入了我的车"
+    },
+    {
+      "num": 207,
+      "word": "I've been robbed",
+      "chinese": "我被抢了"
+    },
+    {
+      "num": 208,
+      "word": "Call an ambulance, quick!",
+      "chinese": "快叫救护车！"
+    },
+    {
+      "num": 209,
+      "word": "There's been an accident",
+      "chinese": "出事故了"
+    },
+    {
+      "num": 210,
+      "word": "Officer, what's the problem?",
+      "chinese": "警官，怎么了？"
+    },
+    {
+      "num": 211,
+      "word": "Am I being arrested?",
+      "chinese": "你要逮捕我吗？"
+    },
+    {
+      "num": 212,
+      "word": "I'd like to give a statement",
+      "chinese": "我想做个口供"
+    },
+    {
+      "num": 213,
+      "word": "I want to call my lawyer",
+      "chinese": "我要打电话给律师"
+    },
+    {
+      "num": 214,
+      "word": "I lost my wallet",
+      "chinese": "我丢了钱包"
+    },
+    {
+      "section": "20. Tradies (Plumber / Electrician / Builder)"
+    },
+    {
+      "num": 215,
+      "word": "The boiler's not working",
+      "chinese": "锅炉坏了"
+    },
+    {
+      "num": 216,
+      "word": "The drain's blocked",
+      "chinese": "下水道堵了"
+    },
+    {
+      "num": 217,
+      "word": "There's a leak under the sink",
+      "chinese": "水槽下面漏水"
+    },
+    {
+      "num": 218,
+      "word": "The fuse keeps tripping",
+      "chinese": "保险丝总跳闸"
+    },
+    {
+      "num": 219,
+      "word": "Could you come round and take a look?",
+      "chinese": "你能过来看一下吗？"
+    },
+    {
+      "num": 220,
+      "word": "Can you give me a quote?",
+      "chinese": "能给我报个价吗？"
+    },
+    {
+      "num": 221,
+      "word": "When can you fit it in?",
+      "chinese": "你什么时候能抽空？"
+    },
+    {
+      "num": 222,
+      "word": "It's a bit of an emergency",
+      "chinese": "有点紧急"
+    },
+    {
+      "num": 223,
+      "word": "Could you sort it out?",
+      "chinese": "你能搞定吗？"
+    },
+    {
+      "num": 224,
+      "word": "Is it under warranty?",
+      "chinese": "还在保修期内吗？"
+    },
+    {
+      "section": "21. Wedding"
+    },
+    {
+      "num": 225,
+      "word": "Congratulations to the happy couple!",
+      "chinese": "祝贺这对幸福的新人！"
+    },
+    {
+      "num": 226,
+      "word": "You make a lovely couple",
+      "chinese": "你们真是般配"
+    },
+    {
+      "num": 227,
+      "word": "I'd like to propose a toast",
+      "chinese": "我想提议干杯"
+    },
+    {
+      "num": 228,
+      "word": "Here's to the bride and groom!",
+      "chinese": "敬新郎新娘！"
+    },
+    {
+      "num": 229,
+      "word": "Raise your glasses",
+      "chinese": "举起酒杯"
+    },
+    {
+      "num": 230,
+      "word": "All the best to you both",
+      "chinese": "祝你们一切顺利"
+    },
+    {
+      "num": 231,
+      "word": "I do",
+      "chinese": "我愿意"
+    },
+    {
+      "num": 232,
+      "word": "Could I have this dance?",
+      "chinese": "可以请你跳一支舞吗？"
+    },
+    {
+      "section": "22. Funeral & Sympathy"
+    },
+    {
+      "num": 233,
+      "word": "I'm so sorry for your loss",
+      "chinese": "节哀顺变"
+    },
+    {
+      "num": 234,
+      "word": "My deepest condolences",
+      "chinese": "致以最深切的哀悼"
+    },
+    {
+      "num": 235,
+      "word": "He/She will be greatly missed",
+      "chinese": "他/她将被深深怀念"
+    },
+    {
+      "num": 236,
+      "word": "May they rest in peace",
+      "chinese": "愿他们安息"
+    },
+    {
+      "num": 237,
+      "word": "Our thoughts are with you",
+      "chinese": "我们与你同在"
+    },
+    {
+      "num": 238,
+      "word": "If there's anything I can do",
+      "chinese": "如果有我能帮忙的"
+    },
+    {
+      "num": 239,
+      "word": "He had a good innings",
+      "chinese": "他这辈子也算圆满 (UK)"
+    },
+    {
+      "num": 240,
+      "word": "She passed away peacefully",
+      "chinese": "她安详地离世了"
+    },
+    {
+      "section": "23. Job Interview"
+    },
+    {
+      "num": 241,
+      "word": "Tell me a bit about yourself",
+      "chinese": "介绍一下你自己"
+    },
+    {
+      "num": 242,
+      "word": "What are your strengths and weaknesses?",
+      "chinese": "你的优缺点是什么？"
+    },
+    {
+      "num": 243,
+      "word": "Where do you see yourself in five years?",
+      "chinese": "你五年后想做什么？"
+    },
+    {
+      "num": 244,
+      "word": "I'm a quick learner",
+      "chinese": "我学得很快"
+    },
+    {
+      "num": 245,
+      "word": "I work well under pressure",
+      "chinese": "我能承受压力"
+    },
+    {
+      "num": 246,
+      "word": "I'm a team player",
+      "chinese": "我有团队精神"
+    },
+    {
+      "num": 247,
+      "word": "Could you walk me through your CV?",
+      "chinese": "你能介绍一下你的简历吗？"
+    },
+    {
+      "num": 248,
+      "word": "Do you have any questions for us?",
+      "chinese": "你有什么问题要问我们吗？"
+    },
+    {
+      "num": 249,
+      "word": "We'll be in touch",
+      "chinese": "我们会再联系你"
+    },
+    {
+      "num": 250,
+      "word": "Why should we hire you?",
+      "chinese": "为什么我们要录用你？"
+    },
+    {
+      "section": "24. At the Bank"
+    },
+    {
+      "num": 251,
+      "word": "I'd like to open an account",
+      "chinese": "我想开个账户"
+    },
+    {
+      "num": 252,
+      "word": "Could I withdraw some cash?",
+      "chinese": "我可以取点现金吗？"
+    },
+    {
+      "num": 253,
+      "word": "What's my balance?",
+      "chinese": "我的余额是多少？"
+    },
+    {
+      "num": 254,
+      "word": "I've lost my card",
+      "chinese": "我的卡丢了"
+    },
+    {
+      "num": 255,
+      "word": "Could I report a fraud?",
+      "chinese": "我可以举报欺诈吗？"
+    },
+    {
+      "num": 256,
+      "word": "I'd like to transfer some money",
+      "chinese": "我想转账"
+    },
+    {
+      "num": 257,
+      "word": "What's the exchange rate?",
+      "chinese": "汇率是多少？"
+    },
+    {
+      "num": 258,
+      "word": "Could I get this in smaller notes?",
+      "chinese": "可以换成小面额的吗？"
+    },
+    {
+      "section": "25. Hotel & Stay"
+    },
+    {
+      "num": 259,
+      "word": "I have a reservation under [name]",
+      "chinese": "我以…名字订了房"
+    },
+    {
+      "num": 260,
+      "word": "Could I check in?",
+      "chinese": "可以办入住吗？"
+    },
+    {
+      "num": 261,
+      "word": "Is breakfast included?",
+      "chinese": "含早餐吗？"
+    },
+    {
+      "num": 262,
+      "word": "What time is check-out?",
+      "chinese": "几点退房？"
+    },
+    {
+      "num": 263,
+      "word": "Could I get a wake-up call?",
+      "chinese": "可以叫醒服务吗？"
+    },
+    {
+      "num": 264,
+      "word": "The room's a bit cold",
+      "chinese": "房间有点冷"
+    },
+    {
+      "num": 265,
+      "word": "Could I get more towels?",
+      "chinese": "可以再加一些毛巾吗？"
+    },
+    {
+      "num": 266,
+      "word": "Is there free Wi-Fi?",
+      "chinese": "有免费Wi-Fi吗？"
+    },
+    {
+      "num": 267,
+      "word": "Could you call me a taxi?",
+      "chinese": "可以帮我叫辆出租车吗？"
+    },
+    {
+      "num": 268,
+      "word": "Is there a late check-out option?",
+      "chinese": "可以延迟退房吗？"
+    },
+    {
+      "section": "26. Airport & Flying"
+    },
+    {
+      "num": 269,
+      "word": "Could I see your boarding pass?",
+      "chinese": "请出示登机牌"
+    },
+    {
+      "num": 270,
+      "word": "Aisle or window?",
+      "chinese": "靠走道还是靠窗？"
+    },
+    {
+      "num": 271,
+      "word": "Any bags to check in?",
+      "chinese": "有行李要托运吗？"
+    },
+    {
+      "num": 272,
+      "word": "What's the purpose of your visit?",
+      "chinese": "您此次访问的目的是？"
+    },
+    {
+      "num": 273,
+      "word": "I'm here on holiday",
+      "chinese": "我来度假"
+    },
+    {
+      "num": 274,
+      "word": "Where's the gate?",
+      "chinese": "登机口在哪里？"
+    },
+    {
+      "num": 275,
+      "word": "The flight's been delayed",
+      "chinese": "航班延误了"
+    },
+    {
+      "num": 276,
+      "word": "I missed my connection",
+      "chinese": "我错过了转机"
+    },
+    {
+      "section": "27. Mechanic / Car Trouble"
+    },
+    {
+      "num": 277,
+      "word": "The car's making a funny noise",
+      "chinese": "车有奇怪的声音"
+    },
+    {
+      "num": 278,
+      "word": "The engine won't start",
+      "chinese": "发动机打不着"
+    },
+    {
+      "num": 279,
+      "word": "It's overheating",
+      "chinese": "过热了"
+    },
+    {
+      "num": 280,
+      "word": "Could you have a look?",
+      "chinese": "你能看一下吗？"
+    },
+    {
+      "num": 281,
+      "word": "When can you get it done?",
+      "chinese": "什么时候能修好？"
+    },
+    {
+      "num": 282,
+      "word": "It needs an MOT",
+      "chinese": "需要做年检 (UK)"
+    },
+    {
+      "num": 283,
+      "word": "How much will it set me back?",
+      "chinese": "要花多少钱？"
+    },
+    {
+      "num": 284,
+      "word": "I think it's the battery",
+      "chinese": "我觉得是电池的问题"
+    },
+    {
+      "section": "28. Hairdresser / Barber"
+    },
+    {
+      "num": 285,
+      "word": "Just a trim, please",
+      "chinese": "稍微修一下就好"
+    },
+    {
+      "num": 286,
+      "word": "Take a bit off the sides",
+      "chinese": "两边剪短一点"
+    },
+    {
+      "num": 287,
+      "word": "Same as last time",
+      "chinese": "和上次一样"
+    },
+    {
+      "num": 288,
+      "word": "A bit shorter at the back",
+      "chinese": "后面再短一点"
+    },
+    {
+      "num": 289,
+      "word": "How would you like it?",
+      "chinese": "您想剪成什么样？"
+    },
+    {
+      "section": "29. Negotiating / Haggling"
+    },
+    {
+      "num": 290,
+      "word": "Is there any wiggle room on the price?",
+      "chinese": "价格还能商量吗？"
+    },
+    {
+      "num": 291,
+      "word": "Could you do any better?",
+      "chinese": "能再便宜点吗？"
+    },
+    {
+      "num": 292,
+      "word": "That's a bit steep",
+      "chinese": "有点贵了"
+    },
+    {
+      "num": 293,
+      "word": "I'll meet you halfway",
+      "chinese": "我们各让一步"
+    },
+    {
+      "num": 294,
+      "word": "It's a deal",
+      "chinese": "成交"
+    },
+    {
+      "num": 295,
+      "word": "Take it or leave it",
+      "chinese": "买不买随你"
+    },
+    {
+      "section": "30. Dating & Relationships"
+    },
+    {
+      "num": 296,
+      "word": "Could I get your number?",
+      "chinese": "可以给我你电话号码吗？"
+    },
+    {
+      "num": 297,
+      "word": "I really like you",
+      "chinese": "我真的很喜欢你"
+    },
+    {
+      "num": 298,
+      "word": "Would you go out with me?",
+      "chinese": "你愿意和我约会吗？"
+    },
+    {
+      "num": 299,
+      "word": "We've been seeing each other",
+      "chinese": "我们在谈恋爱"
+    },
+    {
+      "num": 300,
+      "word": "Are you single?",
+      "chinese": "你单身吗？"
+    },
+    {
+      "num": 301,
+      "word": "It's complicated",
+      "chinese": "一言难尽"
+    },
+    {
+      "num": 302,
+      "word": "I think we should break up",
+      "chinese": "我觉得我们该分手"
+    },
+    {
+      "num": 303,
+      "word": "It's not you, it's me",
+      "chinese": "不是你的问题，是我的问题"
+    },
+    {
+      "num": 304,
+      "word": "We need to talk",
+      "chinese": "我们需要谈谈"
+    },
+    {
+      "num": 305,
+      "word": "I'm seeing someone",
+      "chinese": "我有对象了"
+    },
+    {
+      "section": "31. Family & Home Life"
+    },
+    {
+      "num": 306,
+      "word": "How are the kids?",
+      "chinese": "孩子们怎么样？"
+    },
+    {
+      "num": 307,
+      "word": "The wife says hi",
+      "chinese": "我老婆问候你"
+    },
+    {
+      "num": 308,
+      "word": "We're family",
+      "chinese": "我们是一家人"
+    },
+    {
+      "num": 309,
+      "word": "Family comes first",
+      "chinese": "家人最重要"
+    },
+    {
+      "num": 310,
+      "word": "Are you coming for dinner?",
+      "chinese": "你来吃晚饭吗？"
+    },
+    {
+      "num": 311,
+      "word": "Dinner's ready!",
+      "chinese": "晚饭好了！"
+    },
+    {
+      "num": 312,
+      "word": "Tuck in",
+      "chinese": "请慢用 (UK)"
+    },
+    {
+      "num": 313,
+      "word": "Set the table",
+      "chinese": "摆好餐具"
+    },
+    {
+      "num": 314,
+      "word": "Pass the salt",
+      "chinese": "把盐递给我"
+    },
+    {
+      "num": 315,
+      "word": "Could you do the dishes?",
+      "chinese": "你能洗一下碗吗？"
+    },
+    {
+      "section": "32. Pets & Vet"
+    },
+    {
+      "num": 316,
+      "word": "Could I make a vet appointment?",
+      "chinese": "我可以预约兽医吗？"
+    },
+    {
+      "num": 317,
+      "word": "She's been off her food",
+      "chinese": "她不太吃东西"
+    },
+    {
+      "num": 318,
+      "word": "Has he had his jabs?",
+      "chinese": "他打疫苗了吗？(UK)"
+    },
+    {
+      "num": 319,
+      "word": "He's a rescue",
+      "chinese": "他是领养的"
+    },
+    {
+      "num": 320,
+      "word": "She's house-trained",
+      "chinese": "她已经训练好不在家里乱拉了"
+    },
+    {
+      "num": 321,
+      "word": "Walkies!",
+      "chinese": "去遛狗啦！(UK)"
+    },
+    {
+      "num": 322,
+      "word": "Good boy",
+      "chinese": "好孩子；乖"
+    },
+    {
+      "num": 323,
+      "word": "He needs his nails clipped",
+      "chinese": "他需要剪指甲了"
+    },
+    {
+      "section": "33. Tech / IT Problems"
+    },
+    {
+      "num": 324,
+      "word": "Have you tried turning it off and on again?",
+      "chinese": "你重启过了吗？"
+    },
+    {
+      "num": 325,
+      "word": "The internet's down",
+      "chinese": "网断了"
+    },
+    {
+      "num": 326,
+      "word": "My screen's frozen",
+      "chinese": "屏幕卡住了"
+    },
+    {
+      "num": 327,
+      "word": "The Wi-Fi's playing up",
+      "chinese": "Wi-Fi有点问题"
+    },
+    {
+      "num": 328,
+      "word": "I'm not very tech-savvy",
+      "chinese": "我对技术不太懂"
+    },
+    {
+      "num": 329,
+      "word": "Could you reset my password?",
+      "chinese": "能帮我重置密码吗？"
+    },
+    {
+      "num": 330,
+      "word": "It keeps crashing",
+      "chinese": "总是死机/崩溃"
+    },
+    {
+      "num": 331,
+      "word": "I lost my data",
+      "chinese": "我数据丢了"
+    },
+    {
+      "num": 332,
+      "word": "Could you walk me through it?",
+      "chinese": "你能一步一步教我吗？"
+    },
+    {
+      "num": 333,
+      "word": "It's a bug, not a feature",
+      "chinese": "这是bug，不是功能"
+    },
+    {
+      "section": "34. Weather Small Talk"
+    },
+    {
+      "num": 334,
+      "word": "Lovely day, isn't it?",
+      "chinese": "今天天气真好，不是吗？"
+    },
+    {
+      "num": 335,
+      "word": "Bit nippy today",
+      "chinese": "今天有点冷"
+    },
+    {
+      "num": 336,
+      "word": "It's chucking it down",
+      "chinese": "雨下得真大 (UK)"
+    },
+    {
+      "num": 337,
+      "word": "It's pissing it down",
+      "chinese": "下大雨了 (UK 粗俗)"
+    },
+    {
+      "num": 338,
+      "word": "Looks like rain",
+      "chinese": "好像要下雨"
+    },
+    {
+      "num": 339,
+      "word": "Boiling out there",
+      "chinese": "外面热死了"
+    },
+    {
+      "num": 340,
+      "word": "Brass monkeys",
+      "chinese": "冷死了 (UK)"
+    },
+    {
+      "num": 341,
+      "word": "Glorious weather we're having",
+      "chinese": "我们这天气真好"
+    },
+    {
+      "section": "35. Government / Council / Tax"
+    },
+    {
+      "num": 342,
+      "word": "I'd like to renew my passport",
+      "chinese": "我想续护照"
+    },
+    {
+      "num": 343,
+      "word": "Could you help me fill this out?",
+      "chinese": "你能帮我填一下吗？"
+    },
+    {
+      "num": 344,
+      "word": "I'd like to file a tax return",
+      "chinese": "我想报税"
+    },
+    {
+      "num": 345,
+      "word": "Is this the right form?",
+      "chinese": "是这张表吗？"
+    },
+    {
+      "num": 346,
+      "word": "How long does it take?",
+      "chinese": "需要多久？"
+    },
+    {
+      "num": 347,
+      "word": "I've been waiting ages",
+      "chinese": "我等了好久了"
+    },
+    {
+      "num": 348,
+      "word": "Could I speak to someone in charge?",
+      "chinese": "我能找负责人吗？"
+    },
+    {
+      "num": 349,
+      "word": "Where do I sign?",
+      "chinese": "我在哪里签字？"
+    },
+    {
+      "section": "36. At the Pub / Bar"
+    },
+    {
+      "num": 350,
+      "word": "What can I get you?",
+      "chinese": "你要喝什么？"
+    },
+    {
+      "num": 351,
+      "word": "I'll get the next round",
+      "chinese": "下一轮我请"
+    },
+    {
+      "num": 352,
+      "word": "This one's on me",
+      "chinese": "这杯我请"
+    },
+    {
+      "num": 353,
+      "word": "Same again, please",
+      "chinese": "再来一杯一样的"
+    },
+    {
+      "num": 354,
+      "word": "Last orders!",
+      "chinese": "最后点单时间！"
+    },
+    {
+      "num": 355,
+      "word": "Cheers, mate",
+      "chinese": "干杯，兄弟"
+    },
+    {
+      "num": 356,
+      "word": "Could I get a pint?",
+      "chinese": "可以来一品脱吗？"
+    },
+    {
+      "num": 357,
+      "word": "Are you driving?",
+      "chinese": "你开车吗？"
+    },
+    {
+      "num": 358,
+      "word": "I'd better make it a soft drink",
+      "chinese": "我喝软饮料就行"
+    },
+    {
+      "num": 359,
+      "word": "Pint of the usual",
+      "chinese": "老样子，一品脱"
+    },
+    {
+      "section": "37. At the Gym / Sports"
+    },
+    {
+      "num": 360,
+      "word": "Are you using this?",
+      "chinese": "你在用这个器械吗？"
+    },
+    {
+      "num": 361,
+      "word": "Could I work in?",
+      "chinese": "我能跟你交替用吗？"
+    },
+    {
+      "num": 362,
+      "word": "I'm just doing one more set",
+      "chinese": "我再做一组"
+    },
+    {
+      "num": 363,
+      "word": "Feeling the burn",
+      "chinese": "感受到肌肉的灼热感"
+    },
+    {
+      "num": 364,
+      "word": "I've pulled a muscle",
+      "chinese": "我拉伤肌肉了"
+    },
+    {
+      "num": 365,
+      "word": "I'm shattered",
+      "chinese": "我累垮了 (UK)"
+    },
+    {
+      "num": 366,
+      "word": "It's leg day",
+      "chinese": "今天是练腿日"
+    },
+    {
+      "num": 367,
+      "word": "I'm trying to bulk up",
+      "chinese": "我在增肌"
+    },
+    {
+      "section": "38. Cinema / Theatre / Music"
+    },
+    {
+      "num": 368,
+      "word": "Have you seen it?",
+      "chinese": "你看过了吗？"
+    },
+    {
+      "num": 369,
+      "word": "It's a real tearjerker",
+      "chinese": "真是一部催泪片"
+    },
+    {
+      "num": 370,
+      "word": "Don't spoil it!",
+      "chinese": "别剧透！"
+    },
+    {
+      "num": 371,
+      "word": "No spoilers, please",
+      "chinese": "请不要剧透"
+    },
+    {
+      "num": 372,
+      "word": "It was a real banger",
+      "chinese": "真是超棒的"
+    },
+    {
+      "num": 373,
+      "word": "The acting was top-notch",
+      "chinese": "演技一流"
+    },
+    {
+      "num": 374,
+      "word": "It dragged on a bit",
+      "chinese": "有点拖沓"
+    },
+    {
+      "num": 375,
+      "word": "It's a slow burn",
+      "chinese": "慢热型；后劲十足"
+    },
+    {
+      "section": "39. Asking Favours"
+    },
+    {
+      "num": 376,
+      "word": "Could you do me a favour?",
+      "chinese": "你能帮我个忙吗？"
+    },
+    {
+      "num": 377,
+      "word": "I hate to ask, but...",
+      "chinese": "我不想麻烦你，但是…"
+    },
+    {
+      "num": 378,
+      "word": "Would you mind...?",
+      "chinese": "你介意…吗？"
+    },
+    {
+      "num": 379,
+      "word": "I owe you one",
+      "chinese": "我欠你一次"
+    },
+    {
+      "num": 380,
+      "word": "Just this once",
+      "chinese": "就这一次"
+    },
+    {
+      "num": 381,
+      "word": "Could I impose?",
+      "chinese": "我能麻烦一下吗？"
+    },
+    {
+      "num": 382,
+      "word": "Would it be too much trouble?",
+      "chinese": "会很麻烦吗？"
+    },
+    {
+      "num": 383,
+      "word": "I'll make it up to you",
+      "chinese": "我会补偿你的"
+    },
+    {
+      "section": "40. Busy / Stressed / Time Pressure"
+    },
+    {
+      "num": 384,
+      "word": "I'm swamped",
+      "chinese": "我忙到不行"
+    },
+    {
+      "num": 385,
+      "word": "I've got a lot on my plate",
+      "chinese": "我事情很多"
+    },
+    {
+      "num": 386,
+      "word": "I'm under the pump",
+      "chinese": "我压力很大"
+    },
+    {
+      "num": 387,
+      "word": "It's down to the wire",
+      "chinese": "就在最后关头"
+    },
+    {
+      "num": 388,
+      "word": "Crunch time",
+      "chinese": "关键时刻；冲刺时期"
+    },
+    {
+      "num": 389,
+      "word": "The clock's ticking",
+      "chinese": "时间紧迫"
+    },
+    {
+      "num": 390,
+      "word": "I'm running on fumes",
+      "chinese": "我已经精疲力尽了"
+    },
+    {
+      "num": 391,
+      "word": "I'm spread too thin",
+      "chinese": "我顾不过来"
+    },
+    {
+      "num": 392,
+      "word": "I'm cutting it fine",
+      "chinese": "时间很紧"
+    },
+    {
+      "num": 393,
+      "word": "I need a break",
+      "chinese": "我需要休息一下"
+    },
+    {
+      "section": "41. Compliments & Praise"
+    },
+    {
+      "num": 394,
+      "word": "You look great today",
+      "chinese": "你今天看起来真好"
+    },
+    {
+      "num": 395,
+      "word": "Have you done something with your hair?",
+      "chinese": "你头发是不是弄了什么？"
+    },
+    {
+      "num": 396,
+      "word": "I love your shoes",
+      "chinese": "我喜欢你的鞋子"
+    },
+    {
+      "num": 397,
+      "word": "You clean up nicely",
+      "chinese": "你打扮起来真好看"
+    },
+    {
+      "num": 398,
+      "word": "Well done!",
+      "chinese": "干得好！"
+    },
+    {
+      "num": 399,
+      "word": "You smashed it",
+      "chinese": "你太厉害了 (UK)"
+    },
+    {
+      "num": 400,
+      "word": "You nailed it",
+      "chinese": "你做到了；做得漂亮"
+    },
+    {
+      "num": 401,
+      "word": "Hats off to you",
+      "chinese": "对你致敬"
+    },
+    {
+      "num": 402,
+      "word": "I'm proud of you",
+      "chinese": "我为你骄傲"
+    },
+    {
+      "num": 403,
+      "word": "Keep it up",
+      "chinese": "继续保持"
+    },
+    {
+      "section": "42. Confusion & Boredom"
+    },
+    {
+      "num": 404,
+      "word": "I'm completely lost",
+      "chinese": "我完全搞不懂"
+    },
+    {
+      "num": 405,
+      "word": "I haven't a clue",
+      "chinese": "我一点头绪都没有"
+    },
+    {
+      "num": 406,
+      "word": "I'm in the dark",
+      "chinese": "我啥也不知道"
+    },
+    {
+      "num": 407,
+      "word": "It's all Greek to me",
+      "chinese": "我完全看不懂"
+    },
+    {
+      "num": 408,
+      "word": "I can't make head nor tail of it",
+      "chinese": "我一点也搞不明白"
+    },
+    {
+      "num": 409,
+      "word": "I'm bored to tears",
+      "chinese": "我无聊死了"
+    },
+    {
+      "num": 410,
+      "word": "Like watching paint dry",
+      "chinese": "无聊得要命"
+    },
+    {
+      "num": 411,
+      "word": "Killing time",
+      "chinese": "打发时间"
+    },
+    {
+      "num": 412,
+      "word": "I'm twiddling my thumbs",
+      "chinese": "我闲得发慌"
+    },
+    {
+      "num": 413,
+      "word": "Snore-fest",
+      "chinese": "无聊得让人想睡觉"
+    },
+    {
+      "section": "43. Drinks Night / Hangover"
+    },
+    {
+      "num": 414,
+      "word": "I'm hungover",
+      "chinese": "我宿醉了"
+    },
+    {
+      "num": 415,
+      "word": "I'm dying",
+      "chinese": "我难受死了"
+    },
+    {
+      "num": 416,
+      "word": "Hair of the dog",
+      "chinese": "以毒攻毒（再喝一杯解酒）"
+    },
+    {
+      "num": 417,
+      "word": "I had one too many",
+      "chinese": "我多喝了一杯"
+    },
+    {
+      "num": 418,
+      "word": "I was completely smashed",
+      "chinese": "我喝得烂醉"
+    },
+    {
+      "num": 419,
+      "word": "I'm never drinking again",
+      "chinese": "我再也不喝了"
+    },
+    {
+      "num": 420,
+      "word": "Let's get a round in",
+      "chinese": "我们来一轮"
+    },
+    {
+      "num": 421,
+      "word": "I'm calling it a night",
+      "chinese": "今晚到此为止"
+    },
+    {
+      "section": "44. Driving / On the Road"
+    },
+    {
+      "num": 422,
+      "word": "Where do I park?",
+      "chinese": "我在哪里停车？"
+    },
+    {
+      "num": 423,
+      "word": "Pay and display",
+      "chinese": "投币停车并贴票 (UK)"
+    },
+    {
+      "num": 424,
+      "word": "The lights are red",
+      "chinese": "红灯"
+    },
+    {
+      "num": 425,
+      "word": "He cut me off",
+      "chinese": "他抢我道了"
+    },
+    {
+      "num": 426,
+      "word": "I'm running on empty",
+      "chinese": "我车快没油了"
+    },
+    {
+      "num": 427,
+      "word": "Fill her up, please",
+      "chinese": "请加满"
+    },
+    {
+      "num": 428,
+      "word": "Watch the speed",
+      "chinese": "注意车速"
+    },
+    {
+      "num": 429,
+      "word": "Mind the gap",
+      "chinese": "小心间隙 (UK 地铁)"
+    },
+    {
+      "num": 430,
+      "word": "Are we there yet?",
+      "chinese": "我们到了吗？"
+    },
+    {
+      "num": 431,
+      "word": "Buckle up",
+      "chinese": "系好安全带"
+    },
+    {
+      "section": "45. Moving House"
+    },
+    {
+      "num": 432,
+      "word": "I'm moving next month",
+      "chinese": "我下个月搬家"
+    },
+    {
+      "num": 433,
+      "word": "We're packing up",
+      "chinese": "我们在打包"
+    },
+    {
+      "num": 434,
+      "word": "The movers are coming",
+      "chinese": "搬家公司要来了"
+    },
+    {
+      "num": 435,
+      "word": "Could you give me a hand with the boxes?",
+      "chinese": "你能帮我搬箱子吗？"
+    },
+    {
+      "num": 436,
+      "word": "It's a bit of a fixer-upper",
+      "chinese": "这房子需要好好整修一下"
+    },
+    {
+      "num": 437,
+      "word": "I'm renting",
+      "chinese": "我是租的"
+    },
+    {
+      "num": 438,
+      "word": "We just exchanged contracts",
+      "chinese": "我们刚交换合同 (UK)"
+    },
+    {
+      "num": 439,
+      "word": "Welcome to the neighbourhood",
+      "chinese": "欢迎来到我们社区"
+    },
+    {
+      "section": "46. Online / Social Media"
+    },
+    {
+      "num": 440,
+      "word": "Did you see that post?",
+      "chinese": "你看到那条帖子了吗？"
+    },
+    {
+      "num": 441,
+      "word": "I'll DM you",
+      "chinese": "我私信你"
+    },
+    {
+      "num": 442,
+      "word": "Going viral",
+      "chinese": "刷屏；走红"
+    },
+    {
+      "num": 443,
+      "word": "Don't read the comments",
+      "chinese": "别看评论"
+    },
+    {
+      "num": 444,
+      "word": "Pics or it didn't happen",
+      "chinese": "没图没真相"
+    },
+    {
+      "num": 445,
+      "word": "Stop scrolling and go to bed",
+      "chinese": "别刷了，快睡觉"
+    },
+    {
+      "num": 446,
+      "word": "Got cancelled",
+      "chinese": "被取消了；被封了"
+    },
+    {
+      "num": 447,
+      "word": "Caught me on a bad day",
+      "chinese": "我那天状态不好"
+    }
+  ]
+}

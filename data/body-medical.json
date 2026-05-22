@@ -1,0 +1,1844 @@
+{
+  "topic": "body-medical",
+  "title": "Body, Health & Medical",
+  "words": [
+    {
+      "section": "1. Head & Face"
+    },
+    {
+      "num": 1,
+      "word": "eye",
+      "ipa": "/aɪ/",
+      "chinese": "眼睛",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><ellipse cx='50' cy='40' rx='34' ry='18' fill='#fff' stroke='#333' stroke-width='1.5'/><circle cx='50' cy='40' r='12' fill='#4a8ad4' stroke='#2a6aa4' stroke-width='1'/><circle cx='50' cy='40' r='6' fill='#222'/><circle cx='53' cy='37' r='2' fill='#fff'/></svg>"
+    },
+    {
+      "num": 2,
+      "word": "ear",
+      "ipa": "/ɪə/",
+      "chinese": "耳朵",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M40 16 Q26 18 24 38 Q24 56 36 68 Q44 70 50 60 Q50 50 56 48 Q66 44 64 32 Q60 18 40 16 Z' fill='#f0c090' stroke='#a07050' stroke-width='1.5'/><path d='M40 30 Q40 46 46 52' fill='none' stroke='#a07050' stroke-width='1.5'/></svg>"
+    },
+    {
+      "num": 3,
+      "word": "nose",
+      "ipa": "/nəʊz/",
+      "chinese": "鼻子",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M50 14 Q42 26 38 50 Q38 62 50 64 Q62 62 62 50 Q58 26 50 14 Z' fill='#f0c090' stroke='#a07050' stroke-width='1.5'/><ellipse cx='45' cy='56' rx='4' ry='3' fill='#a07050'/><ellipse cx='55' cy='56' rx='4' ry='3' fill='#a07050'/></svg>"
+    },
+    {
+      "num": 4,
+      "word": "mouth",
+      "ipa": "/maʊθ/",
+      "chinese": "嘴巴",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M16 38 Q50 22 84 38 Q80 50 50 56 Q20 50 16 38 Z' fill='#d04060' stroke='#7a1030' stroke-width='1.5'/><path d='M16 38 Q50 40 84 38' fill='none' stroke='#7a1030' stroke-width='1.5'/><rect x='32' y='32' width='6' height='7' fill='#fff' stroke='#888' stroke-width='0.5'/><rect x='40' y='30' width='6' height='8' fill='#fff' stroke='#888' stroke-width='0.5'/><rect x='48' y='30' width='6' height='8' fill='#fff' stroke='#888' stroke-width='0.5'/><rect x='56' y='30' width='6' height='8' fill='#fff' stroke='#888' stroke-width='0.5'/></svg>"
+    },
+    {
+      "num": 5,
+      "word": "lips",
+      "ipa": "/lɪps/",
+      "chinese": "嘴唇",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M14 40 Q30 26 50 32 Q70 26 86 40 Q84 50 50 52 Q16 50 14 40 Z' fill='#d04060' stroke='#7a1030' stroke-width='1.5'/><path d='M14 40 Q30 44 50 40 Q70 44 86 40' fill='none' stroke='#7a1030' stroke-width='1.5'/></svg>"
+    },
+    {
+      "num": 6,
+      "word": "tongue",
+      "ipa": "/tʌŋ/",
+      "chinese": "舌头",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M30 18 Q18 22 22 42 Q26 64 50 68 Q74 64 78 42 Q82 22 70 18 Q60 22 50 22 Q40 22 30 18 Z' fill='#e04060' stroke='#8a2030' stroke-width='1.5'/><path d='M50 22 Q50 56 50 68' fill='none' stroke='#8a2030' stroke-width='1.5'/></svg>"
+    },
+    {
+      "num": 7,
+      "word": "teeth",
+      "ipa": "/tiːθ/",
+      "chinese": "牙齿",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='12' y='24' width='13' height='32' rx='3' fill='#fff' stroke='#888' stroke-width='1.5'/><rect x='27' y='22' width='13' height='34' rx='3' fill='#fff' stroke='#888' stroke-width='1.5'/><rect x='42' y='20' width='13' height='36' rx='3' fill='#fff' stroke='#888' stroke-width='1.5'/><rect x='57' y='22' width='13' height='34' rx='3' fill='#fff' stroke='#888' stroke-width='1.5'/><rect x='72' y='24' width='13' height='32' rx='3' fill='#fff' stroke='#888' stroke-width='1.5'/></svg>"
+    },
+    {
+      "num": 8,
+      "word": "gums",
+      "ipa": "/ɡʌmz/",
+      "chinese": "牙龈",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M10 20 Q50 12 90 20 L90 36 Q50 28 10 36 Z' fill='#e08090' stroke='#a04060' stroke-width='1.5'/><rect x='20' y='36' width='10' height='20' rx='2' fill='#fff' stroke='#888' stroke-width='1'/><rect x='34' y='36' width='10' height='22' rx='2' fill='#fff' stroke='#888' stroke-width='1'/><rect x='48' y='36' width='10' height='22' rx='2' fill='#fff' stroke='#888' stroke-width='1'/><rect x='62' y='36' width='10' height='22' rx='2' fill='#fff' stroke='#888' stroke-width='1'/><rect x='76' y='36' width='10' height='20' rx='2' fill='#fff' stroke='#888' stroke-width='1'/></svg>"
+    },
+    {
+      "num": 9,
+      "word": "jaw",
+      "ipa": "/dʒɔː/",
+      "chinese": "下巴；颌",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M16 24 Q16 60 50 72 Q84 60 84 24 Q70 30 50 30 Q30 30 16 24 Z' fill='none' stroke='#a07050' stroke-width='3'/><circle cx='50' cy='48' r='2' fill='#a07050'/></svg>"
+    },
+    {
+      "num": 10,
+      "word": "chin",
+      "ipa": "/tʃɪn/",
+      "chinese": "下巴尖",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><circle cx='50' cy='40' r='28' fill='#f0c090' stroke='#a07050' stroke-width='1.5'/><path d='M38 60 Q50 70 62 60' fill='none' stroke='#a07050' stroke-width='3' stroke-linecap='round'/></svg>"
+    },
+    {
+      "num": 11,
+      "word": "cheek",
+      "ipa": "/tʃiːk/",
+      "chinese": "脸颊",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><circle cx='50' cy='42' r='28' fill='#f0c090' stroke='#a07050' stroke-width='1.5'/><circle cx='30' cy='46' r='8' fill='#e8a0a0' stroke='none'/><circle cx='70' cy='46' r='8' fill='#e8a0a0' stroke='none'/></svg>"
+    },
+    {
+      "num": 12,
+      "word": "forehead",
+      "ipa": "/ˈfɒrɪd/",
+      "chinese": "额头",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><circle cx='50' cy='44' r='28' fill='#f0c090' stroke='#a07050' stroke-width='1.5'/><path d='M22 38 Q26 18 50 16 Q74 18 78 38' fill='#5a3010' stroke='#3a1000' stroke-width='1.5'/><path d='M30 36 Q50 30 70 36' fill='none' stroke='#c0a070' stroke-width='1.5'/><path d='M30 42 Q50 38 70 42' fill='none' stroke='#c0a070' stroke-width='1.5'/></svg>"
+    },
+    {
+      "num": 13,
+      "word": "eyebrow",
+      "ipa": "/ˈaɪbraʊ/",
+      "chinese": "眉毛",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><circle cx='50' cy='44' r='28' fill='#f0c090' stroke='#a07050' stroke-width='1.5'/><path d='M30 30 Q38 24 46 30' stroke='#5a3010' stroke-width='4' fill='none' stroke-linecap='round'/><path d='M54 30 Q62 24 70 30' stroke='#5a3010' stroke-width='4' fill='none' stroke-linecap='round'/><circle cx='38' cy='40' r='2' fill='#333'/><circle cx='62' cy='40' r='2' fill='#333'/></svg>"
+    },
+    {
+      "num": 14,
+      "word": "eyelash",
+      "ipa": "/ˈaɪlæʃ/",
+      "chinese": "睫毛",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><ellipse cx='50' cy='44' rx='30' ry='14' fill='#fff' stroke='#333' stroke-width='1.5'/><circle cx='50' cy='44' r='8' fill='#333'/><line x1='22' y1='34' x2='18' y2='28' stroke='#333' stroke-width='1.5' stroke-linecap='round'/><line x1='30' y1='30' x2='28' y2='22' stroke='#333' stroke-width='1.5' stroke-linecap='round'/><line x1='40' y1='28' x2='40' y2='20' stroke='#333' stroke-width='1.5' stroke-linecap='round'/><line x1='50' y1='28' x2='50' y2='20' stroke='#333' stroke-width='1.5' stroke-linecap='round'/><line x1='60' y1='28' x2='60' y2='20' stroke='#333' stroke-width='1.5' stroke-linecap='round'/><line x1='70' y1='30' x2='72' y2='22' stroke='#333' stroke-width='1.5' stroke-linecap='round'/><line x1='78' y1='34' x2='82' y2='28' stroke='#333' stroke-width='1.5' stroke-linecap='round'/></svg>"
+    },
+    {
+      "num": 15,
+      "word": "eyelid",
+      "ipa": "/ˈaɪlɪd/",
+      "chinese": "眼皮",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><ellipse cx='50' cy='44' rx='30' ry='14' fill='#f0c090' stroke='#a07050' stroke-width='1.5'/><path d='M20 44 Q50 32 80 44' fill='none' stroke='#a07050' stroke-width='2.5'/></svg>"
+    },
+    {
+      "num": 16,
+      "word": "scalp",
+      "ipa": "/skælp/",
+      "chinese": "头皮",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><circle cx='50' cy='44' r='28' fill='#f0c090' stroke='#a07050' stroke-width='1.5'/><path d='M22 38 Q26 16 50 14 Q74 16 78 38' fill='#5a3010' stroke='#3a1000' stroke-width='1.5'/><path d='M30 26 L32 18 M40 22 L40 14 M50 20 L50 12 M60 22 L60 14 M70 26 L68 18' stroke='#3a1000' stroke-width='1' stroke-linecap='round'/></svg>"
+    },
+    {
+      "num": 17,
+      "word": "temple",
+      "ipa": "/ˈtɛmp(ə)l/",
+      "chinese": "太阳穴",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><circle cx='50' cy='42' r='28' fill='#f0c090' stroke='#a07050' stroke-width='1.5'/><circle cx='22' cy='34' r='4' fill='none' stroke='#c84040' stroke-width='2'/><circle cx='78' cy='34' r='4' fill='none' stroke='#c84040' stroke-width='2'/></svg>"
+    },
+    {
+      "num": 18,
+      "word": "skull",
+      "ipa": "/skʌl/",
+      "chinese": "头骨",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M22 36 Q22 16 50 14 Q78 16 78 36 L78 50 L70 50 L70 60 L62 60 L60 50 L40 50 L38 60 L30 60 L30 50 L22 50 Z' fill='#eeeec0' stroke='#888' stroke-width='1.5'/><circle cx='38' cy='34' r='5' fill='#222'/><circle cx='62' cy='34' r='5' fill='#222'/><path d='M44 42 L48 50 L52 50 L56 42' fill='#222'/></svg>"
+    },
+    {
+      "num": 19,
+      "word": "neck",
+      "ipa": "/nɛk/",
+      "chinese": "脖子",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><circle cx='50' cy='28' r='18' fill='#f0c090' stroke='#a07050' stroke-width='1.5'/><rect x='38' y='42' width='24' height='24' fill='#f0c090' stroke='#a07050' stroke-width='1.5'/><line x1='38' y1='52' x2='62' y2='52' stroke='#c0a070' stroke-width='1'/></svg>"
+    },
+    {
+      "num": 20,
+      "word": "throat",
+      "ipa": "/θrəʊt/",
+      "chinese": "喉咙",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M30 12 Q30 30 36 50 L36 70 L64 70 L64 50 Q70 30 70 12 Z' fill='#f0c090' stroke='#a07050' stroke-width='1.5'/><circle cx='50' cy='40' r='6' fill='#e08090'/><line x1='50' y1='14' x2='50' y2='66' stroke='#a07050' stroke-width='1' stroke-dasharray='2 2'/></svg>"
+    },
+    {
+      "section": "2. Upper Body & Arms"
+    },
+    {
+      "num": 21,
+      "word": "shoulder",
+      "ipa": "/ˈʃəʊldə/",
+      "chinese": "肩膀",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><circle cx='50' cy='20' r='10' fill='#f0c090' stroke='#a07050' stroke-width='1.5'/><path d='M14 38 Q18 26 50 26 Q82 26 86 38 L80 56 L20 56 Z' fill='#4060c8' stroke='#2a4080' stroke-width='1.5'/><circle cx='20' cy='38' r='6' fill='#f0c090' stroke='#a07050' stroke-width='1.5'/><circle cx='80' cy='38' r='6' fill='#f0c090' stroke='#a07050' stroke-width='1.5'/></svg>"
+    },
+    {
+      "num": 22,
+      "word": "chest",
+      "ipa": "/tʃɛst/",
+      "chinese": "胸部",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M22 22 Q22 60 50 70 Q78 60 78 22 Z' fill='#f0c090' stroke='#a07050' stroke-width='1.5'/><circle cx='38' cy='40' r='4' fill='#a07050'/><circle cx='62' cy='40' r='4' fill='#a07050'/><path d='M50 28 L50 58' stroke='#c0a070' stroke-width='1.5'/></svg>"
+    },
+    {
+      "num": 23,
+      "word": "breast",
+      "ipa": "/brɛst/",
+      "chinese": "乳房",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><circle cx='32' cy='42' r='18' fill='#f0c090' stroke='#a07050' stroke-width='1.5'/><circle cx='68' cy='42' r='18' fill='#f0c090' stroke='#a07050' stroke-width='1.5'/><circle cx='32' cy='42' r='4' fill='#a07050'/><circle cx='68' cy='42' r='4' fill='#a07050'/></svg>"
+    },
+    {
+      "num": 24,
+      "word": "back",
+      "ipa": "/bæk/",
+      "chinese": "背部",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M28 12 Q28 64 50 70 Q72 64 72 12 Z' fill='#f0c090' stroke='#a07050' stroke-width='1.5'/><line x1='50' y1='14' x2='50' y2='68' stroke='#a07050' stroke-width='2' stroke-dasharray='2 2'/><circle cx='50' cy='22' r='2' fill='#a07050'/><circle cx='50' cy='32' r='2' fill='#a07050'/><circle cx='50' cy='42' r='2' fill='#a07050'/><circle cx='50' cy='52' r='2' fill='#a07050'/><circle cx='50' cy='62' r='2' fill='#a07050'/></svg>"
+    },
+    {
+      "num": 25,
+      "word": "spine",
+      "ipa": "/spaɪn/",
+      "chinese": "脊柱",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='44' y='12' width='12' height='10' rx='2' fill='#eeeec0' stroke='#888' stroke-width='1'/><rect x='44' y='24' width='12' height='10' rx='2' fill='#eeeec0' stroke='#888' stroke-width='1'/><rect x='44' y='36' width='12' height='10' rx='2' fill='#eeeec0' stroke='#888' stroke-width='1'/><rect x='44' y='48' width='12' height='10' rx='2' fill='#eeeec0' stroke='#888' stroke-width='1'/><rect x='44' y='60' width='12' height='10' rx='2' fill='#eeeec0' stroke='#888' stroke-width='1'/></svg>"
+    },
+    {
+      "num": 26,
+      "word": "ribs",
+      "ipa": "/rɪbz/",
+      "chinese": "肋骨",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><line x1='50' y1='14' x2='50' y2='70' stroke='#888' stroke-width='3'/><path d='M50 20 Q26 24 22 36 M50 20 Q74 24 78 36' fill='none' stroke='#eeeec0' stroke-width='4'/><path d='M50 30 Q26 34 22 46 M50 30 Q74 34 78 46' fill='none' stroke='#eeeec0' stroke-width='4'/><path d='M50 40 Q26 44 22 56 M50 40 Q74 44 78 56' fill='none' stroke='#eeeec0' stroke-width='4'/><path d='M50 50 Q28 54 24 64 M50 50 Q72 54 76 64' fill='none' stroke='#eeeec0' stroke-width='4'/></svg>"
+    },
+    {
+      "num": 27,
+      "word": "waist",
+      "ipa": "/weɪst/",
+      "chinese": "腰部",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M20 12 L24 30 Q14 42 24 54 L20 70 L80 70 L76 54 Q86 42 76 30 L80 12 Z' fill='#f0c090' stroke='#a07050' stroke-width='1.5'/><rect x='18' y='40' width='64' height='6' fill='#5a3010' stroke='#3a1000' stroke-width='1'/><rect x='46' y='39' width='8' height='8' fill='#a08040' stroke='#3a1000' stroke-width='1'/></svg>"
+    },
+    {
+      "num": 28,
+      "word": "armpit",
+      "ipa": "/ˈɑːmpɪt/",
+      "chinese": "腋下",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M14 36 Q24 22 36 28 L40 60 L30 70 L14 60 Z' fill='#f0c090' stroke='#a07050' stroke-width='1.5'/><circle cx='28' cy='38' r='2' fill='#3a1000'/><circle cx='32' cy='42' r='2' fill='#3a1000'/><circle cx='26' cy='44' r='2' fill='#3a1000'/><circle cx='30' cy='48' r='2' fill='#3a1000'/><path d='M50 30 Q70 30 84 50' fill='none' stroke='#a07050' stroke-width='1.5'/></svg>"
+    },
+    {
+      "num": 29,
+      "word": "arm",
+      "ipa": "/ɑːm/",
+      "chinese": "手臂",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='42' y='12' width='16' height='28' rx='8' fill='#f0c090' stroke='#a07050' stroke-width='1.5'/><circle cx='50' cy='44' r='6' fill='#f0c090' stroke='#a07050' stroke-width='1.5'/><rect x='42' y='48' width='16' height='24' rx='8' fill='#f0c090' stroke='#a07050' stroke-width='1.5'/></svg>"
+    },
+    {
+      "num": 30,
+      "word": "elbow",
+      "ipa": "/ˈɛlbəʊ/",
+      "chinese": "手肘",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='14' y='30' width='30' height='14' rx='7' fill='#f0c090' stroke='#a07050' stroke-width='1.5'/><circle cx='50' cy='40' r='14' fill='#f0c090' stroke='#a07050' stroke-width='2.5'/><rect x='56' y='30' width='30' height='14' rx='7' fill='#f0c090' stroke='#a07050' stroke-width='1.5'/></svg>"
+    },
+    {
+      "num": 31,
+      "word": "forearm",
+      "ipa": "/ˈfɔːrɑːm/",
+      "chinese": "前臂",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='14' y='34' width='72' height='14' rx='7' fill='#f0c090' stroke='#a07050' stroke-width='1.5'/><circle cx='14' cy='41' r='6' fill='#e0b080' stroke='#a07050' stroke-width='1.5'/><path d='M76 30 Q90 41 76 52' fill='#e0b080' stroke='#a07050' stroke-width='1.5'/></svg>"
+    },
+    {
+      "num": 32,
+      "word": "wrist",
+      "ipa": "/rɪst/",
+      "chinese": "手腕",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='12' y='32' width='44' height='16' rx='4' fill='#f0c090' stroke='#a07050' stroke-width='1.5'/><rect x='56' y='28' width='14' height='24' rx='4' fill='#f0c090' stroke='#a07050' stroke-width='1.5'/><path d='M70 28 L84 28 L86 36 L80 36 L82 44 L76 44 L78 52 L70 52 Z' fill='#f0c090' stroke='#a07050' stroke-width='1.5'/></svg>"
+    },
+    {
+      "num": 33,
+      "word": "hand",
+      "ipa": "/hænd/",
+      "chinese": "手",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M30 50 L30 32 Q30 26 36 26 Q42 26 42 32 L42 14 Q42 8 48 8 Q54 8 54 14 L54 28 L60 14 Q66 12 68 18 L62 32 L70 22 Q76 22 76 28 L70 40 Q70 60 60 68 L30 68 Z' fill='#f0c090' stroke='#a07050' stroke-width='1.5'/></svg>"
+    },
+    {
+      "num": 34,
+      "word": "palm",
+      "ipa": "/pɑːm/",
+      "chinese": "手掌",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M22 58 L22 28 Q22 22 28 22 Q34 22 34 28 L34 10 Q34 4 40 4 Q46 4 46 10 L46 22 L52 10 Q58 6 62 12 L56 28 L66 18 Q72 16 74 22 L66 36 Q66 56 56 64 L22 64 Z' fill='#f0c090' stroke='#a07050' stroke-width='1.5'/><path d='M30 50 Q40 44 50 48 Q60 50 64 56' fill='none' stroke='#a07050' stroke-width='1.5'/><path d='M34 54 Q42 52 52 56' fill='none' stroke='#a07050' stroke-width='1'/></svg>"
+    },
+    {
+      "num": 35,
+      "word": "fingers",
+      "ipa": "/ˈfɪŋɡəz/",
+      "chinese": "手指",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='14' y='12' width='10' height='44' rx='5' fill='#f0c090' stroke='#a07050' stroke-width='1.5'/><rect x='28' y='8' width='10' height='48' rx='5' fill='#f0c090' stroke='#a07050' stroke-width='1.5'/><rect x='42' y='6' width='10' height='50' rx='5' fill='#f0c090' stroke='#a07050' stroke-width='1.5'/><rect x='56' y='10' width='10' height='46' rx='5' fill='#f0c090' stroke='#a07050' stroke-width='1.5'/><rect x='10' y='52' width='62' height='14' rx='4' fill='#f0c090' stroke='#a07050' stroke-width='1.5'/></svg>"
+    },
+    {
+      "num": 36,
+      "word": "thumb",
+      "ipa": "/θʌm/",
+      "chinese": "拇指",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M30 64 L30 36 Q30 24 42 22 Q56 18 62 28 L68 38 Q70 50 60 56 L30 60 Z' fill='#f0c090' stroke='#a07050' stroke-width='1.5'/><path d='M62 28 L74 22 L72 32' fill='none' stroke='#a07050' stroke-width='1.5'/></svg>"
+    },
+    {
+      "num": 37,
+      "word": "knuckle",
+      "ipa": "/ˈnʌk(ə)l/",
+      "chinese": "指关节",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='14' y='30' width='14' height='24' rx='4' fill='#f0c090' stroke='#a07050' stroke-width='1.5'/><rect x='32' y='30' width='14' height='24' rx='4' fill='#f0c090' stroke='#a07050' stroke-width='1.5'/><rect x='50' y='30' width='14' height='24' rx='4' fill='#f0c090' stroke='#a07050' stroke-width='1.5'/><rect x='68' y='30' width='14' height='24' rx='4' fill='#f0c090' stroke='#a07050' stroke-width='1.5'/><circle cx='21' cy='30' r='4' fill='#e08080'/><circle cx='39' cy='30' r='4' fill='#e08080'/><circle cx='57' cy='30' r='4' fill='#e08080'/><circle cx='75' cy='30' r='4' fill='#e08080'/></svg>"
+    },
+    {
+      "section": "3. Lower Body & Legs"
+    },
+    {
+      "num": 38,
+      "word": "hip",
+      "ipa": "/hɪp/",
+      "chinese": "髋部；屁股",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M30 16 L30 30 Q14 38 18 56 Q22 70 38 70 L62 70 Q78 70 82 56 Q86 38 70 30 L70 16 Z' fill='#f0c090' stroke='#a07050' stroke-width='1.5'/><circle cx='28' cy='42' r='4' fill='#a07050'/><circle cx='72' cy='42' r='4' fill='#a07050'/></svg>"
+    },
+    {
+      "num": 39,
+      "word": "buttocks",
+      "ipa": "/ˈbʌtəks/",
+      "chinese": "臀部",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M14 30 Q14 60 30 68 Q40 70 50 60 Q60 70 70 68 Q86 60 86 30 Q70 36 50 36 Q30 36 14 30 Z' fill='#f0c090' stroke='#a07050' stroke-width='1.5'/><line x1='50' y1='36' x2='50' y2='66' stroke='#a07050' stroke-width='2'/></svg>"
+    },
+    {
+      "num": 40,
+      "word": "belly",
+      "ipa": "/ˈbɛli/",
+      "chinese": "肚子",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><circle cx='50' cy='40' r='30' fill='#f0c090' stroke='#a07050' stroke-width='1.5'/><circle cx='50' cy='40' r='4' fill='#a07050'/><path d='M30 60 Q50 70 70 60' fill='none' stroke='#c0a070' stroke-width='1.5'/></svg>"
+    },
+    {
+      "num": 41,
+      "word": "groin",
+      "ipa": "/ɡrɔɪn/",
+      "chinese": "腹股沟",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M14 14 L30 30 L50 40 L70 30 L86 14 L86 40 Q70 70 50 70 Q30 70 14 40 Z' fill='#f0c090' stroke='#a07050' stroke-width='1.5'/><path d='M30 30 Q50 50 70 30' fill='none' stroke='#a07050' stroke-width='2'/></svg>"
+    },
+    {
+      "num": 42,
+      "word": "thigh",
+      "ipa": "/θaɪ/",
+      "chinese": "大腿",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M28 8 L28 60 Q34 70 50 70 Q66 70 72 60 L72 8 Z' fill='#f0c090' stroke='#a07050' stroke-width='1.5'/></svg>"
+    },
+    {
+      "num": 43,
+      "word": "leg",
+      "ipa": "/lɛɡ/",
+      "chinese": "腿",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='40' y='8' width='20' height='40' rx='6' fill='#f0c090' stroke='#a07050' stroke-width='1.5'/><circle cx='50' cy='48' r='9' fill='#f0c090' stroke='#a07050' stroke-width='1.5'/><rect x='42' y='54' width='16' height='20' rx='6' fill='#f0c090' stroke='#a07050' stroke-width='1.5'/></svg>"
+    },
+    {
+      "num": 44,
+      "word": "knee",
+      "ipa": "/niː/",
+      "chinese": "膝盖",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='40' y='6' width='20' height='22' rx='6' fill='#f0c090' stroke='#a07050' stroke-width='1.5'/><circle cx='50' cy='40' r='16' fill='#f0c090' stroke='#a07050' stroke-width='2.5'/><circle cx='50' cy='40' r='8' fill='#eeeec0' stroke='#a07050' stroke-width='1.5'/><rect x='40' y='52' width='20' height='22' rx='6' fill='#f0c090' stroke='#a07050' stroke-width='1.5'/></svg>"
+    },
+    {
+      "num": 45,
+      "word": "calf",
+      "ipa": "/kɑːf/",
+      "chinese": "小腿肚",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M36 6 Q26 30 30 56 L46 70 L54 70 L70 56 Q74 30 64 6 Z' fill='#f0c090' stroke='#a07050' stroke-width='1.5'/><path d='M50 20 Q44 32 48 50' fill='none' stroke='#c0a070' stroke-width='2'/></svg>"
+    },
+    {
+      "num": 46,
+      "word": "shin",
+      "ipa": "/ʃɪn/",
+      "chinese": "胫；小腿前面",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='38' y='6' width='24' height='66' rx='6' fill='#f0c090' stroke='#a07050' stroke-width='1.5'/><line x1='50' y1='10' x2='50' y2='68' stroke='#eeeec0' stroke-width='3'/></svg>"
+    },
+    {
+      "num": 47,
+      "word": "ankle",
+      "ipa": "/ˈæŋk(ə)l/",
+      "chinese": "脚踝",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='40' y='6' width='20' height='20' rx='4' fill='#f0c090' stroke='#a07050' stroke-width='1.5'/><circle cx='50' cy='36' r='14' fill='#f0c090' stroke='#a07050' stroke-width='2'/><circle cx='36' cy='34' r='4' fill='#eeeec0' stroke='#a07050' stroke-width='1'/><circle cx='64' cy='34' r='4' fill='#eeeec0' stroke='#a07050' stroke-width='1'/><path d='M30 48 Q50 56 80 48 L80 58 L30 58 Z' fill='#f0c090' stroke='#a07050' stroke-width='1.5'/></svg>"
+    },
+    {
+      "num": 48,
+      "word": "foot",
+      "ipa": "/fʊt/",
+      "chinese": "脚",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M14 56 Q12 36 28 32 L40 28 Q56 22 70 28 L82 36 Q88 42 86 50 Q84 60 70 60 L20 60 Q14 60 14 56 Z' fill='#f0c090' stroke='#a07050' stroke-width='1.5'/><circle cx='72' cy='36' r='3' fill='#f0c090' stroke='#a07050'/><circle cx='66' cy='32' r='3' fill='#f0c090' stroke='#a07050'/><circle cx='58' cy='30' r='3' fill='#f0c090' stroke='#a07050'/><circle cx='50' cy='30' r='3' fill='#f0c090' stroke='#a07050'/><circle cx='42' cy='32' r='3' fill='#f0c090' stroke='#a07050'/></svg>"
+    },
+    {
+      "num": 49,
+      "word": "toe",
+      "ipa": "/təʊ/",
+      "chinese": "脚趾",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><circle cx='16' cy='32' r='10' fill='#f0c090' stroke='#a07050' stroke-width='1.5'/><circle cx='34' cy='28' r='9' fill='#f0c090' stroke='#a07050' stroke-width='1.5'/><circle cx='50' cy='26' r='9' fill='#f0c090' stroke='#a07050' stroke-width='1.5'/><circle cx='66' cy='28' r='8' fill='#f0c090' stroke='#a07050' stroke-width='1.5'/><circle cx='80' cy='32' r='7' fill='#f0c090' stroke='#a07050' stroke-width='1.5'/><rect x='8' y='42' width='80' height='20' rx='8' fill='#f0c090' stroke='#a07050' stroke-width='1.5'/><ellipse cx='14' cy='28' rx='4' ry='2' fill='#fff' stroke='#a07050' stroke-width='0.5'/><ellipse cx='34' cy='24' rx='3' ry='1.5' fill='#fff' stroke='#a07050' stroke-width='0.5'/><ellipse cx='50' cy='22' rx='3' ry='1.5' fill='#fff' stroke='#a07050' stroke-width='0.5'/></svg>"
+    },
+    {
+      "num": 50,
+      "word": "heel",
+      "ipa": "/hiːl/",
+      "chinese": "脚跟",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M20 30 Q30 18 50 22 Q70 24 78 38 L82 52 Q70 64 50 62 L26 56 Q14 50 14 42 Z' fill='#f0c090' stroke='#a07050' stroke-width='1.5'/><path d='M16 38 Q22 48 30 50 L20 52 Z' fill='#e0a080' stroke='#a07050' stroke-width='1.5'/></svg>"
+    },
+    {
+      "num": 51,
+      "word": "sole",
+      "ipa": "/səʊl/",
+      "chinese": "脚底",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M28 8 Q14 14 16 34 Q18 50 28 60 Q40 72 60 70 Q78 64 84 50 Q86 32 76 18 Q60 6 28 8 Z' fill='#f0c090' stroke='#a07050' stroke-width='1.5'/><circle cx='40' cy='22' r='5' fill='#e0a080' stroke='none'/><circle cx='58' cy='22' r='4' fill='#e0a080' stroke='none'/><ellipse cx='40' cy='50' rx='14' ry='8' fill='#e0a080' stroke='none'/></svg>"
+    },
+    {
+      "section": "4. Skin, Hair & Nails"
+    },
+    {
+      "num": 52,
+      "word": "skin",
+      "ipa": "/skɪn/",
+      "chinese": "皮肤",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='14' y='14' width='72' height='52' rx='6' fill='#f0c090' stroke='#a07050' stroke-width='1.5'/><circle cx='26' cy='28' r='1.5' fill='#a07050'/><circle cx='44' cy='24' r='1.5' fill='#a07050'/><circle cx='60' cy='30' r='1.5' fill='#a07050'/><circle cx='34' cy='42' r='1.5' fill='#a07050'/><circle cx='52' cy='46' r='1.5' fill='#a07050'/><circle cx='70' cy='42' r='1.5' fill='#a07050'/><circle cx='40' cy='56' r='1.5' fill='#a07050'/><circle cx='62' cy='58' r='1.5' fill='#a07050'/></svg>"
+    },
+    {
+      "num": 53,
+      "word": "hair",
+      "ipa": "/heə/",
+      "chinese": "头发",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><circle cx='50' cy='44' r='28' fill='#f0c090' stroke='#a07050' stroke-width='1.5'/><path d='M22 38 Q22 8 50 8 Q78 8 78 38 L74 32 L70 36 L66 28 L60 36 L56 28 L50 36 L44 28 L40 36 L34 28 L30 36 L26 32 Z' fill='#5a3010' stroke='#3a1000' stroke-width='1.5'/></svg>"
+    },
+    {
+      "num": 54,
+      "word": "fingernail",
+      "ipa": "/ˈfɪŋɡəneɪl/",
+      "chinese": "指甲",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='30' y='30' width='40' height='40' rx='8' fill='#f0c090' stroke='#a07050' stroke-width='1.5'/><path d='M34 32 Q34 18 50 18 Q66 18 66 32 L66 52 L34 52 Z' fill='#fff0e0' stroke='#a07050' stroke-width='1.5'/><path d='M34 32 Q50 26 66 32' fill='none' stroke='#c0a070' stroke-width='1'/></svg>"
+    },
+    {
+      "num": 55,
+      "word": "toenail",
+      "ipa": "/ˈtəʊneɪl/",
+      "chinese": "脚指甲",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='20' y='30' width='60' height='40' rx='8' fill='#f0c090' stroke='#a07050' stroke-width='1.5'/><rect x='30' y='34' width='40' height='20' rx='6' fill='#fff0e0' stroke='#a07050' stroke-width='1.5'/></svg>"
+    },
+    {
+      "num": 56,
+      "word": "pore",
+      "ipa": "/pɔː/",
+      "chinese": "毛孔",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='10' y='10' width='80' height='60' rx='4' fill='#f0c090' stroke='#a07050' stroke-width='1'/><circle cx='25' cy='25' r='3' fill='#fff' stroke='#a07050' stroke-width='1'/><circle cx='45' cy='30' r='3' fill='#fff' stroke='#a07050' stroke-width='1'/><circle cx='65' cy='22' r='3' fill='#fff' stroke='#a07050' stroke-width='1'/><circle cx='30' cy='48' r='3' fill='#fff' stroke='#a07050' stroke-width='1'/><circle cx='55' cy='52' r='3' fill='#fff' stroke='#a07050' stroke-width='1'/><circle cx='75' cy='46' r='3' fill='#fff' stroke='#a07050' stroke-width='1'/><circle cx='40' cy='62' r='3' fill='#fff' stroke='#a07050' stroke-width='1'/></svg>"
+    },
+    {
+      "num": 57,
+      "word": "freckle",
+      "ipa": "/ˈfrɛk(ə)l/",
+      "chinese": "雀斑",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><circle cx='50' cy='40' r='28' fill='#f0c090' stroke='#a07050' stroke-width='1.5'/><circle cx='38' cy='34' r='2.5' fill='#333'/><circle cx='62' cy='34' r='2.5' fill='#333'/><path d='M40 50 Q50 56 60 50' fill='none' stroke='#333' stroke-width='1.5'/><circle cx='34' cy='42' r='1.5' fill='#8a4010'/><circle cx='42' cy='44' r='1.5' fill='#8a4010'/><circle cx='52' cy='42' r='1.5' fill='#8a4010'/><circle cx='58' cy='44' r='1.5' fill='#8a4010'/><circle cx='66' cy='42' r='1.5' fill='#8a4010'/></svg>"
+    },
+    {
+      "num": 58,
+      "word": "mole",
+      "ipa": "/məʊl/",
+      "chinese": "痣",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='10' y='10' width='80' height='60' rx='6' fill='#f0c090' stroke='#a07050' stroke-width='1.5'/><circle cx='50' cy='40' r='8' fill='#3a1000' stroke='#1a0500' stroke-width='1.5'/><path d='M48 36 L52 36' stroke='#3a1000' stroke-width='1'/></svg>"
+    },
+    {
+      "num": 59,
+      "word": "sweat",
+      "ipa": "/swɛt/",
+      "chinese": "汗",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><circle cx='50' cy='38' r='24' fill='#f0c090' stroke='#a07050' stroke-width='1.5'/><circle cx='42' cy='34' r='2' fill='#333'/><circle cx='58' cy='34' r='2' fill='#333'/><path d='M42 46 Q50 50 58 46' fill='none' stroke='#333' stroke-width='1.5'/><path d='M28 16 Q26 22 30 24 Q34 22 32 16 Z' fill='#4a9ad4' stroke='#2a6aa4' stroke-width='1'/><path d='M72 18 Q70 24 74 26 Q78 24 76 18 Z' fill='#4a9ad4' stroke='#2a6aa4' stroke-width='1'/><path d='M50 14 Q48 20 52 22 Q56 20 54 14 Z' fill='#4a9ad4' stroke='#2a6aa4' stroke-width='1'/></svg>"
+    },
+    {
+      "num": 60,
+      "word": "dandruff",
+      "ipa": "/ˈdændrʌf/",
+      "chinese": "头皮屑",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><circle cx='50' cy='44' r='26' fill='#f0c090' stroke='#a07050' stroke-width='1.5'/><path d='M24 38 Q24 14 50 12 Q76 14 76 38 L74 30 L70 36 L66 30 L60 38 L56 30 L50 38 L44 30 L40 38 L34 30 L30 36 L26 30 Z' fill='#3a1000'/><circle cx='30' cy='52' r='2' fill='#fff'/><circle cx='42' cy='62' r='2' fill='#fff'/><circle cx='60' cy='60' r='2' fill='#fff'/><circle cx='72' cy='54' r='2' fill='#fff'/><circle cx='52' cy='66' r='2' fill='#fff'/></svg>"
+    },
+    {
+      "num": 61,
+      "word": "wrinkle",
+      "ipa": "/ˈrɪŋk(ə)l/",
+      "chinese": "皱纹",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><circle cx='50' cy='40' r='28' fill='#f0c090' stroke='#a07050' stroke-width='1.5'/><path d='M22 30 Q34 26 46 30' fill='none' stroke='#a07050' stroke-width='1'/><path d='M22 36 Q34 32 46 36' fill='none' stroke='#a07050' stroke-width='1'/><path d='M54 30 Q66 26 78 30' fill='none' stroke='#a07050' stroke-width='1'/><path d='M54 36 Q66 32 78 36' fill='none' stroke='#a07050' stroke-width='1'/><circle cx='38' cy='40' r='2' fill='#333'/><circle cx='62' cy='40' r='2' fill='#333'/><path d='M30 56 Q50 60 70 56' fill='none' stroke='#333' stroke-width='1.5'/><path d='M30 62 Q50 66 70 62' fill='none' stroke='#a07050' stroke-width='1'/></svg>"
+    },
+    {
+      "section": "5. Internal Organs"
+    },
+    {
+      "num": 62,
+      "word": "heart",
+      "ipa": "/hɑːt/",
+      "chinese": "心脏",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M50 68 L18 38 Q14 22 28 16 Q42 14 50 28 Q58 14 72 16 Q86 22 82 38 Z' fill='#c84040' stroke='#7a1010' stroke-width='1.5'/><path d='M38 30 L42 38 L48 28 L52 42 L58 32 L62 40' fill='none' stroke='#fff' stroke-width='2' stroke-linecap='round'/></svg>"
+    },
+    {
+      "num": 63,
+      "word": "lungs",
+      "ipa": "/lʌŋz/",
+      "chinese": "肺",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M20 22 Q12 38 18 60 Q24 70 36 66 L40 30 Q40 22 30 20 Z' fill='#e08070' stroke='#7a2010' stroke-width='1.5'/><path d='M80 22 Q88 38 82 60 Q76 70 64 66 L60 30 Q60 22 70 20 Z' fill='#e08070' stroke='#7a2010' stroke-width='1.5'/><rect x='46' y='10' width='8' height='28' fill='#a0a0a0' stroke='#555' stroke-width='1.5'/><line x1='46' y1='20' x2='54' y2='20' stroke='#555' stroke-width='1'/><line x1='46' y1='28' x2='54' y2='28' stroke='#555' stroke-width='1'/></svg>"
+    },
+    {
+      "num": 64,
+      "word": "brain",
+      "ipa": "/breɪn/",
+      "chinese": "脑",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M22 32 Q18 16 36 14 Q44 8 50 14 Q56 8 64 14 Q82 16 78 32 Q90 40 82 52 Q84 66 70 66 Q60 72 50 66 Q40 72 30 66 Q16 66 18 52 Q10 40 22 32 Z' fill='#f0a0a0' stroke='#a04040' stroke-width='1.5'/><path d='M50 14 L50 66' fill='none' stroke='#a04040' stroke-width='1.5'/><path d='M30 30 Q40 30 30 38 Q40 38 30 46 Q40 46 30 54' fill='none' stroke='#a04040' stroke-width='1'/><path d='M70 30 Q60 30 70 38 Q60 38 70 46 Q60 46 70 54' fill='none' stroke='#a04040' stroke-width='1'/></svg>"
+    },
+    {
+      "num": 65,
+      "word": "stomach",
+      "ipa": "/ˈstʌmək/",
+      "chinese": "胃",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M30 14 Q20 18 22 36 Q24 60 40 66 Q60 70 70 58 Q80 46 76 30 Q72 18 60 18 Q50 22 50 16 Q44 10 30 14 Z' fill='#e08080' stroke='#7a2020' stroke-width='1.5'/><path d='M40 24 L30 16' fill='none' stroke='#7a2020' stroke-width='3'/><path d='M68 60 L74 66' fill='none' stroke='#7a2020' stroke-width='3'/></svg>"
+    },
+    {
+      "num": 66,
+      "word": "intestines",
+      "ipa": "/ɪnˈtɛstɪnz/",
+      "chinese": "肠子",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M30 14 Q14 22 24 38 Q34 50 22 56 Q14 62 28 68 Q40 70 48 60 Q56 50 70 56 Q86 62 78 50 Q70 40 78 30 Q86 18 70 14 Q58 14 52 26 Q46 38 40 26 Q34 14 30 14 Z' fill='#e0a080' stroke='#a05030' stroke-width='1.5'/></svg>"
+    },
+    {
+      "num": 67,
+      "word": "liver",
+      "ipa": "/ˈlɪvə/",
+      "chinese": "肝脏",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M14 24 Q14 16 30 16 L70 16 Q86 18 86 36 Q84 50 74 56 Q60 62 50 58 Q40 62 30 56 Q14 50 14 24 Z' fill='#8a2020' stroke='#400000' stroke-width='1.5'/><path d='M50 18 L50 58' fill='none' stroke='#400000' stroke-width='1.5'/><circle cx='40' cy='30' r='2' fill='#400000'/><circle cx='62' cy='34' r='2' fill='#400000'/></svg>"
+    },
+    {
+      "num": 68,
+      "word": "kidney",
+      "ipa": "/ˈkɪdni/",
+      "chinese": "肾脏",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M30 14 Q14 20 14 40 Q14 62 32 66 Q44 64 42 50 Q44 36 38 30 Q44 18 30 14 Z' fill='#8a4040' stroke='#400000' stroke-width='1.5'/><path d='M70 14 Q86 20 86 40 Q86 62 68 66 Q56 64 58 50 Q56 36 62 30 Q56 18 70 14 Z' fill='#8a4040' stroke='#400000' stroke-width='1.5'/><circle cx='32' cy='40' r='3' fill='#fff'/><circle cx='68' cy='40' r='3' fill='#fff'/></svg>"
+    },
+    {
+      "num": 69,
+      "word": "pancreas",
+      "ipa": "/ˈpæŋkriəs/",
+      "chinese": "胰腺",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M14 36 Q26 30 40 40 Q52 50 70 44 Q86 38 88 28 Q80 26 70 32 Q56 38 44 30 Q30 22 16 28 Z' fill='#e0a060' stroke='#8a5020' stroke-width='1.5'/><circle cx='30' cy='34' r='1.5' fill='#8a5020'/><circle cx='50' cy='40' r='1.5' fill='#8a5020'/><circle cx='70' cy='38' r='1.5' fill='#8a5020'/></svg>"
+    },
+    {
+      "num": 70,
+      "word": "gallbladder",
+      "ipa": "/ˈɡɔːlblædə/",
+      "chinese": "胆囊",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M40 14 Q34 20 38 30 L42 60 Q46 70 50 70 Q54 70 58 60 L62 30 Q66 20 60 14 Z' fill='#6abf50' stroke='#3a8a20' stroke-width='1.5'/><path d='M44 22 L56 22' stroke='#3a8a20' stroke-width='1.5'/></svg>"
+    },
+    {
+      "num": 71,
+      "word": "spleen",
+      "ipa": "/spliːn/",
+      "chinese": "脾脏",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><ellipse cx='50' cy='40' rx='30' ry='22' fill='#7a2040' stroke='#400020' stroke-width='1.5' transform='rotate(-20 50 40)'/><path d='M30 30 Q50 26 70 38' fill='none' stroke='#400020' stroke-width='1'/></svg>"
+    },
+    {
+      "num": 72,
+      "word": "bladder",
+      "ipa": "/ˈblædə/",
+      "chinese": "膀胱",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M22 30 Q14 50 26 64 Q40 72 60 70 Q80 64 78 46 Q76 30 60 24 Q40 22 22 30 Z' fill='#f5d040' stroke='#a08010' stroke-width='1.5'/><path d='M44 20 L42 26 M50 18 L50 24 M56 20 L58 26' stroke='#a08010' stroke-width='2'/></svg>"
+    },
+    {
+      "num": 73,
+      "word": "bowel",
+      "ipa": "/ˈbaʊəl/",
+      "chinese": "肠；大便",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M20 14 Q12 30 22 42 Q14 54 26 64 Q40 70 52 60 Q66 50 78 60 Q88 50 80 38 Q88 24 76 18 Q60 14 50 24 Q40 14 20 14 Z' fill='#c87850' stroke='#603010' stroke-width='1.5'/><path d='M28 24 Q32 32 28 38 M44 28 Q48 36 44 42 M68 28 Q72 36 68 44' fill='none' stroke='#603010' stroke-width='1'/></svg>"
+    },
+    {
+      "num": 74,
+      "word": "windpipe",
+      "ipa": "/ˈwɪn(d)paɪp/",
+      "chinese": "气管",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='42' y='8' width='16' height='64' rx='6' fill='#f5d8c8' stroke='#a07050' stroke-width='1.5'/><line x1='42' y1='16' x2='58' y2='16' stroke='#a07050' stroke-width='1'/><line x1='42' y1='24' x2='58' y2='24' stroke='#a07050' stroke-width='1'/><line x1='42' y1='32' x2='58' y2='32' stroke='#a07050' stroke-width='1'/><line x1='42' y1='40' x2='58' y2='40' stroke='#a07050' stroke-width='1'/><line x1='42' y1='48' x2='58' y2='48' stroke='#a07050' stroke-width='1'/><line x1='42' y1='56' x2='58' y2='56' stroke='#a07050' stroke-width='1'/><line x1='42' y1='64' x2='58' y2='64' stroke='#a07050' stroke-width='1'/></svg>"
+    },
+    {
+      "num": 75,
+      "word": "appendix",
+      "ipa": "/əˈpɛndɪks/",
+      "chinese": "阑尾",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M28 28 Q14 36 18 50 Q22 60 38 60 Q54 60 56 50 L60 30 Z' fill='#c87850' stroke='#603010' stroke-width='1.5'/><path d='M58 30 Q66 40 64 56 Q60 70 50 66 L54 50' fill='#e08060' stroke='#a02010' stroke-width='1.5'/></svg>"
+    },
+    {
+      "section": "6. Bones, Muscles & Joints"
+    },
+    {
+      "num": 76,
+      "word": "bone",
+      "ipa": "/bəʊn/",
+      "chinese": "骨头",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M14 40 Q14 24 28 24 Q34 24 34 30 L66 30 Q66 24 72 24 Q86 24 86 40 Q86 50 76 50 Q66 50 66 44 L34 44 Q34 50 24 50 Q14 50 14 40 Z' fill='#eeeec0' stroke='#888' stroke-width='1.5'/></svg>"
+    },
+    {
+      "num": 77,
+      "word": "muscle",
+      "ipa": "/ˈmʌs(ə)l/",
+      "chinese": "肌肉",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M14 40 Q14 22 36 22 Q44 22 44 32 Q44 38 60 38 Q72 38 78 22 Q88 24 86 38 Q82 56 60 56 Q44 56 44 50 Q44 42 36 42 Q14 50 14 40 Z' fill='#c84040' stroke='#7a1010' stroke-width='1.5'/><path d='M30 32 Q34 40 30 50' fill='none' stroke='#7a1010' stroke-width='1.5'/></svg>"
+    },
+    {
+      "num": 78,
+      "word": "joint",
+      "ipa": "/dʒɔɪnt/",
+      "chinese": "关节",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='14' y='34' width='28' height='16' rx='6' fill='#eeeec0' stroke='#888' stroke-width='1.5'/><rect x='58' y='34' width='28' height='16' rx='6' fill='#eeeec0' stroke='#888' stroke-width='1.5'/><circle cx='50' cy='42' r='14' fill='#f8d870' stroke='#888' stroke-width='1.5'/><path d='M40 42 L60 42' stroke='#888' stroke-width='1' stroke-dasharray='2 2'/></svg>"
+    },
+    {
+      "num": 79,
+      "word": "ligament",
+      "ipa": "/ˈlɪɡəm(ə)nt/",
+      "chinese": "韧带",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='14' y='34' width='24' height='14' rx='4' fill='#eeeec0' stroke='#888' stroke-width='1.5'/><rect x='62' y='34' width='24' height='14' rx='4' fill='#eeeec0' stroke='#888' stroke-width='1.5'/><path d='M38 40 Q50 32 62 40' fill='none' stroke='#f8d098' stroke-width='4'/><path d='M38 42 Q50 50 62 42' fill='none' stroke='#f8d098' stroke-width='4'/></svg>"
+    },
+    {
+      "num": 80,
+      "word": "tendon",
+      "ipa": "/ˈtɛnd(ə)n/",
+      "chinese": "肌腱",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M40 8 L60 8 L60 24 Q58 36 60 50 L70 70 L30 70 L40 50 Q42 36 40 24 Z' fill='#f0c090' stroke='#a07050' stroke-width='1.5'/><rect x='44' y='12' width='12' height='44' rx='5' fill='#fff0c0' stroke='#a08040' stroke-width='1.5'/></svg>"
+    },
+    {
+      "num": 81,
+      "word": "cartilage",
+      "ipa": "/ˈkɑːtɪlɪdʒ/",
+      "chinese": "软骨",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='14' y='34' width='28' height='14' rx='4' fill='#eeeec0' stroke='#888' stroke-width='1.5'/><rect x='58' y='34' width='28' height='14' rx='4' fill='#eeeec0' stroke='#888' stroke-width='1.5'/><ellipse cx='50' cy='40' rx='10' ry='6' fill='#a0e0e0' stroke='#508080' stroke-width='1.5'/></svg>"
+    },
+    {
+      "num": 82,
+      "word": "rib",
+      "ipa": "/rɪb/",
+      "chinese": "肋骨",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><line x1='50' y1='10' x2='50' y2='70' stroke='#888' stroke-width='3'/><path d='M50 18 Q26 22 22 34 M50 18 Q74 22 78 34' fill='none' stroke='#eeeec0' stroke-width='4'/><path d='M50 30 Q26 34 22 46 M50 30 Q74 34 78 46' fill='none' stroke='#eeeec0' stroke-width='4'/><path d='M50 42 Q26 46 22 58 M50 42 Q74 46 78 58' fill='none' stroke='#eeeec0' stroke-width='4'/></svg>"
+    },
+    {
+      "num": 83,
+      "word": "back bone",
+      "ipa": "/ˈbæk bəʊn/",
+      "chinese": "脊椎骨",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='44' y='12' width='12' height='10' rx='2' fill='#eeeec0' stroke='#888' stroke-width='1'/><rect x='44' y='24' width='12' height='10' rx='2' fill='#eeeec0' stroke='#888' stroke-width='1'/><rect x='44' y='36' width='12' height='10' rx='2' fill='#eeeec0' stroke='#888' stroke-width='1'/><rect x='44' y='48' width='12' height='10' rx='2' fill='#eeeec0' stroke='#888' stroke-width='1'/><rect x='44' y='60' width='12' height='10' rx='2' fill='#eeeec0' stroke='#888' stroke-width='1'/></svg>"
+    },
+    {
+      "num": 84,
+      "word": "kneecap",
+      "ipa": "/ˈniːkæp/",
+      "chinese": "膝盖骨",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='40' y='6' width='20' height='22' rx='6' fill='#f0c090' stroke='#a07050' stroke-width='1.5'/><ellipse cx='50' cy='40' rx='16' ry='14' fill='#eeeec0' stroke='#888' stroke-width='1.5'/><circle cx='50' cy='40' r='6' fill='#fff' stroke='#888' stroke-width='1'/><rect x='40' y='52' width='20' height='22' rx='6' fill='#f0c090' stroke='#a07050' stroke-width='1.5'/></svg>"
+    },
+    {
+      "num": 85,
+      "word": "jawbone",
+      "ipa": "/ˈdʒɔːbəʊn/",
+      "chinese": "下颌骨",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M18 22 Q22 60 50 70 Q78 60 82 22 Q70 28 50 28 Q30 28 18 22 Z' fill='#eeeec0' stroke='#888' stroke-width='1.5'/><rect x='28' y='32' width='6' height='12' fill='#fff' stroke='#888' stroke-width='1'/><rect x='38' y='34' width='6' height='14' fill='#fff' stroke='#888' stroke-width='1'/><rect x='48' y='34' width='6' height='14' fill='#fff' stroke='#888' stroke-width='1'/><rect x='58' y='34' width='6' height='14' fill='#fff' stroke='#888' stroke-width='1'/><rect x='68' y='32' width='6' height='12' fill='#fff' stroke='#888' stroke-width='1'/></svg>"
+    },
+    {
+      "num": 86,
+      "word": "collarbone",
+      "ipa": "/ˈkɒləbəʊn/",
+      "chinese": "锁骨",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><circle cx='50' cy='18' r='10' fill='#f0c090' stroke='#a07050' stroke-width='1.5'/><path d='M10 36 Q30 30 50 36 Q70 30 90 36' fill='none' stroke='#eeeec0' stroke-width='6' stroke-linecap='round'/><path d='M10 40 Q30 34 50 40 Q70 34 90 40' fill='none' stroke='#888' stroke-width='1.5'/></svg>"
+    },
+    {
+      "section": "7. Blood & Nerves"
+    },
+    {
+      "num": 87,
+      "word": "blood",
+      "ipa": "/blʌd/",
+      "chinese": "血",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M50 10 Q32 30 32 50 Q32 68 50 70 Q68 68 68 50 Q68 30 50 10 Z' fill='#c84040' stroke='#7a1010' stroke-width='1.5'/><ellipse cx='44' cy='40' rx='6' ry='4' fill='#fff' opacity='0.4'/></svg>"
+    },
+    {
+      "num": 88,
+      "word": "vein",
+      "ipa": "/veɪn/",
+      "chinese": "静脉",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='10' y='14' width='80' height='52' rx='6' fill='#f0c090' stroke='#a07050' stroke-width='1'/><path d='M14 28 Q40 32 56 24 Q74 18 88 26' fill='none' stroke='#4060c8' stroke-width='3'/><path d='M14 44 Q34 40 50 48 Q70 56 88 50' fill='none' stroke='#4060c8' stroke-width='3'/><path d='M30 14 Q34 30 28 50 Q24 60 30 66' fill='none' stroke='#4060c8' stroke-width='2'/></svg>"
+    },
+    {
+      "num": 89,
+      "word": "artery",
+      "ipa": "/ˈɑːtəri/",
+      "chinese": "动脉",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='10' y='14' width='80' height='52' rx='6' fill='#f0c090' stroke='#a07050' stroke-width='1'/><path d='M14 28 Q40 32 56 24 Q74 18 88 26' fill='none' stroke='#c84040' stroke-width='4'/><path d='M14 50 Q34 46 50 54 Q70 62 88 56' fill='none' stroke='#c84040' stroke-width='4'/></svg>"
+    },
+    {
+      "num": 90,
+      "word": "blood vessel",
+      "ipa": "/ˈblʌd ˌvɛs(ə)l/",
+      "chinese": "血管",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='10' y='14' width='80' height='52' rx='6' fill='#f0c090' stroke='#a07050' stroke-width='1'/><path d='M14 28 Q40 32 56 24 Q74 18 88 26' fill='none' stroke='#c84040' stroke-width='3'/><path d='M14 44 Q34 40 50 48 Q70 56 88 50' fill='none' stroke='#4060c8' stroke-width='3'/></svg>"
+    },
+    {
+      "num": 91,
+      "word": "nerve",
+      "ipa": "/nɜːv/",
+      "chinese": "神经",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><circle cx='30' cy='40' r='10' fill='#f8d098' stroke='#a07020' stroke-width='1.5'/><path d='M40 40 Q60 38 78 40' stroke='#a07020' stroke-width='3' fill='none' stroke-linecap='round'/><path d='M78 40 L90 32 M78 40 L92 40 M78 40 L90 48' stroke='#a07020' stroke-width='2' fill='none' stroke-linecap='round'/><path d='M20 40 L8 32 M20 40 L6 40 M20 40 L8 48' stroke='#a07020' stroke-width='2' fill='none' stroke-linecap='round'/></svg>"
+    },
+    {
+      "num": 92,
+      "word": "pulse",
+      "ipa": "/pʌls/",
+      "chinese": "脉搏",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><line x1='10' y1='40' x2='30' y2='40' stroke='#c84040' stroke-width='2.5'/><path d='M30 40 L36 20 L44 60 L52 30 L60 50 L66 40 L90 40' fill='none' stroke='#c84040' stroke-width='2.5'/></svg>"
+    },
+    {
+      "num": 93,
+      "word": "blood pressure",
+      "ipa": "/ˈblʌd ˌprɛʃə/",
+      "chinese": "血压",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='14' y='30' width='40' height='40' rx='4' fill='#f0f0f0' stroke='#555' stroke-width='1.5'/><text x='34' y='52' font-size='14' text-anchor='middle' fill='#c84040' font-weight='bold' font-family='Arial'>120/80</text><rect x='60' y='40' width='30' height='12' rx='3' fill='#c8a060' stroke='#888' stroke-width='1.5'/><path d='M60 46 L54 46 Q48 46 48 36 Q48 30 56 30' fill='none' stroke='#888' stroke-width='2'/></svg>"
+    },
+    {
+      "num": 94,
+      "word": "heart rate",
+      "ipa": "/ˈhɑːt reɪt/",
+      "chinese": "心率",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='10' y='20' width='80' height='40' rx='4' fill='#222' stroke='#555' stroke-width='1.5'/><path d='M14 40 L26 40 L32 28 L40 52 L48 32 L54 44 L62 40 L86 40' fill='none' stroke='#6abf50' stroke-width='2'/></svg>"
+    },
+    {
+      "section": "8. Common Symptoms"
+    },
+    {
+      "num": 95,
+      "word": "fever",
+      "ipa": "/ˈfiːvə/",
+      "chinese": "发烧",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='44' y='10' width='12' height='52' rx='6' fill='#fff' stroke='#888' stroke-width='1.5'/><rect x='46' y='14' width='8' height='40' fill='#c84040'/><circle cx='50' cy='62' r='10' fill='#c84040' stroke='#7a1010' stroke-width='1.5'/><line x1='44' y1='22' x2='40' y2='22' stroke='#888' stroke-width='1'/><line x1='44' y1='32' x2='40' y2='32' stroke='#888' stroke-width='1'/><line x1='44' y1='42' x2='40' y2='42' stroke='#888' stroke-width='1'/></svg>"
+    },
+    {
+      "num": 96,
+      "word": "chills",
+      "ipa": "/tʃɪlz/",
+      "chinese": "发冷；打寒颤",
+      "svg": ""
+    },
+    {
+      "num": 97,
+      "word": "sweats",
+      "ipa": "/swɛts/",
+      "chinese": "出汗",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><circle cx='50' cy='38' r='24' fill='#f0c090' stroke='#a07050' stroke-width='1.5'/><circle cx='42' cy='34' r='2' fill='#333'/><circle cx='58' cy='34' r='2' fill='#333'/><path d='M42 46 Q50 50 58 46' fill='none' stroke='#333' stroke-width='1.5'/><path d='M28 16 Q26 22 30 24 Q34 22 32 16 Z' fill='#4a9ad4' stroke='#2a6aa4' stroke-width='1'/><path d='M72 18 Q70 24 74 26 Q78 24 76 18 Z' fill='#4a9ad4' stroke='#2a6aa4' stroke-width='1'/><path d='M50 14 Q48 20 52 22 Q56 20 54 14 Z' fill='#4a9ad4' stroke='#2a6aa4' stroke-width='1'/></svg>"
+    },
+    {
+      "num": 98,
+      "word": "nausea",
+      "ipa": "/ˈnɔːsiə/",
+      "chinese": "恶心",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><circle cx='50' cy='40' r='28' fill='#90c060' stroke='#506020' stroke-width='1.5'/><path d='M40 34 L44 30 M44 34 L40 30' stroke='#333' stroke-width='2'/><path d='M56 34 L60 30 M60 34 L56 30' stroke='#333' stroke-width='2'/><path d='M38 56 Q50 50 62 56' stroke='#333' stroke-width='2' fill='none'/><path d='M46 60 Q44 68 38 70' stroke='#90c060' stroke-width='4' fill='none' stroke-linecap='round'/></svg>"
+    },
+    {
+      "num": 99,
+      "word": "dizzy",
+      "ipa": "/ˈdɪzi/",
+      "chinese": "头晕的",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><circle cx='50' cy='40' r='28' fill='#f0c090' stroke='#a07050' stroke-width='1.5'/><path d='M36 32 m-5 0 a5 5 0 1 0 10 0 a5 5 0 1 0 -10 0' stroke='#333' stroke-width='1.5' fill='none'/><path d='M64 32 m-5 0 a5 5 0 1 0 10 0 a5 5 0 1 0 -10 0' stroke='#333' stroke-width='1.5' fill='none'/><path d='M38 54 Q44 48 50 54 Q56 60 62 54' stroke='#333' stroke-width='2' fill='none'/><path d='M12 14 Q18 18 14 22 Q10 26 16 30' stroke='#888' stroke-width='1.5' fill='none'/><path d='M82 14 Q88 18 84 22 Q80 26 86 30' stroke='#888' stroke-width='1.5' fill='none'/></svg>"
+    },
+    {
+      "num": 100,
+      "word": "faint",
+      "ipa": "/feɪnt/",
+      "chinese": "晕倒；快昏倒",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><circle cx='50' cy='40' r='28' fill='#e0e0e0' stroke='#888' stroke-width='1.5'/><line x1='36' y1='32' x2='44' y2='32' stroke='#333' stroke-width='2.5'/><line x1='56' y1='32' x2='64' y2='32' stroke='#333' stroke-width='2.5'/><line x1='38' y1='54' x2='62' y2='54' stroke='#333' stroke-width='2.5'/><text x='75' y='20' font-size='12' fill='#888' font-family='Arial'>Z</text><text x='82' y='14' font-size='10' fill='#888' font-family='Arial'>z</text></svg>"
+    },
+    {
+      "num": 101,
+      "word": "fatigue",
+      "ipa": "/fəˈtiːɡ/",
+      "chinese": "疲劳",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><circle cx='50' cy='38' r='24' fill='#d0c0a0' stroke='#806040' stroke-width='1.5'/><path d='M34 28 L44 32 M56 28 L46 32' stroke='#333' stroke-width='2'/><line x1='36' y1='34' x2='44' y2='34' stroke='#333' stroke-width='2'/><line x1='56' y1='34' x2='64' y2='34' stroke='#333' stroke-width='2'/><path d='M38 50 Q50 46 62 50' stroke='#333' stroke-width='2' fill='none'/><text x='75' y='20' font-size='14' fill='#888' font-family='Arial'>Z</text><text x='84' y='12' font-size='10' fill='#888' font-family='Arial'>z</text></svg>"
+    },
+    {
+      "num": 102,
+      "word": "headache",
+      "ipa": "/ˈhɛdeɪk/",
+      "chinese": "头痛",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><circle cx='50' cy='44' r='28' fill='#f0c090' stroke='#a07050' stroke-width='1.5'/><line x1='40' y1='32' x2='44' y2='36' stroke='#333' stroke-width='2'/><line x1='44' y1='32' x2='40' y2='36' stroke='#333' stroke-width='2'/><line x1='56' y1='32' x2='60' y2='36' stroke='#333' stroke-width='2'/><line x1='60' y1='32' x2='56' y2='36' stroke='#333' stroke-width='2'/><path d='M40 54 Q50 50 60 54' stroke='#333' stroke-width='2' fill='none'/><path d='M28 18 L34 24 M50 12 L50 20 M72 18 L66 24' stroke='#c84040' stroke-width='2.5' stroke-linecap='round'/></svg>"
+    },
+    {
+      "num": 103,
+      "word": "sore throat",
+      "ipa": "/sɔː θrəʊt/",
+      "chinese": "嗓子疼",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M30 10 Q34 30 38 50 L38 70 L62 70 L62 50 Q66 30 70 10 Z' fill='#f0c090' stroke='#a07050' stroke-width='1.5'/><circle cx='50' cy='40' r='10' fill='#c84040' stroke='#7a1010' stroke-width='1.5'/><line x1='44' y1='28' x2='48' y2='32' stroke='#fff' stroke-width='1.5'/><line x1='56' y1='28' x2='52' y2='32' stroke='#fff' stroke-width='1.5'/></svg>"
+    },
+    {
+      "num": 104,
+      "word": "runny nose",
+      "ipa": "/ˈrʌni nəʊz/",
+      "chinese": "流鼻涕",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><circle cx='50' cy='38' r='24' fill='#f0c090' stroke='#a07050' stroke-width='1.5'/><circle cx='42' cy='34' r='2' fill='#333'/><circle cx='58' cy='34' r='2' fill='#333'/><path d='M50 38 L46 50 L54 50 Z' fill='#a07050'/><path d='M48 52 L46 64 M52 52 L54 64' stroke='#4a9ad4' stroke-width='2.5' stroke-linecap='round'/></svg>"
+    },
+    {
+      "num": 105,
+      "word": "cough",
+      "ipa": "/kɒf/",
+      "chinese": "咳嗽",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><circle cx='40' cy='40' r='22' fill='#f0c090' stroke='#a07050' stroke-width='1.5'/><circle cx='34' cy='36' r='2' fill='#333'/><circle cx='46' cy='36' r='2' fill='#333'/><ellipse cx='40' cy='48' rx='6' ry='4' fill='#222'/><path d='M62 30 Q72 28 80 32 M64 40 Q76 38 86 40 M62 50 Q72 52 80 50' stroke='#888' stroke-width='2' fill='none' stroke-linecap='round'/></svg>"
+    },
+    {
+      "num": 106,
+      "word": "sneeze",
+      "ipa": "/sniːz/",
+      "chinese": "打喷嚏",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><circle cx='40' cy='38' r='22' fill='#f0c090' stroke='#a07050' stroke-width='1.5'/><line x1='32' y1='30' x2='40' y2='34' stroke='#333' stroke-width='2'/><line x1='48' y1='30' x2='40' y2='34' stroke='#333' stroke-width='2'/><path d='M32 48 Q40 52 48 48' stroke='#333' stroke-width='1.5' fill='none'/><path d='M58 36 Q66 32 70 36 M62 42 Q70 38 76 42 M64 50 Q74 46 80 50' stroke='#4a9ad4' stroke-width='2' fill='none'/></svg>"
+    },
+    {
+      "num": 107,
+      "word": "congestion",
+      "ipa": "/kənˈdʒɛstʃ(ə)n/",
+      "chinese": "鼻塞",
+      "svg": ""
+    },
+    {
+      "num": 108,
+      "word": "bloated",
+      "ipa": "/ˈbləʊtɪd/",
+      "chinese": "腹胀的",
+      "svg": ""
+    },
+    {
+      "num": 109,
+      "word": "swollen",
+      "ipa": "/ˈswəʊlən/",
+      "chinese": "肿胀的",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><circle cx='50' cy='40' r='30' fill='#e88a8a' stroke='#a04040' stroke-width='1.5'/><path d='M22 28 Q26 22 30 26 M70 28 Q74 22 78 26 M22 56 Q26 62 30 58 M70 56 Q74 62 78 58' stroke='#a04040' stroke-width='2' fill='none'/></svg>"
+    },
+    {
+      "num": 110,
+      "word": "itchy",
+      "ipa": "/ˈɪtʃi/",
+      "chinese": "痒的",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='10' y='30' width='50' height='30' rx='4' fill='#f0c090' stroke='#a07050' stroke-width='1.5'/><circle cx='22' cy='42' r='2' fill='#c84040'/><circle cx='32' cy='48' r='2' fill='#c84040'/><circle cx='42' cy='40' r='2' fill='#c84040'/><circle cx='50' cy='50' r='2' fill='#c84040'/><path d='M60 16 L72 28 L84 14 L80 28 L88 36 L74 40 L78 52 L66 46 L60 56 L58 44 L46 40 L60 30 Z' fill='#f0c090' stroke='#a07050' stroke-width='1.5'/></svg>"
+    },
+    {
+      "num": 111,
+      "word": "tender",
+      "ipa": "/ˈtɛndə/",
+      "chinese": "(按压时)疼痛的",
+      "svg": ""
+    },
+    {
+      "num": 112,
+      "word": "numb",
+      "ipa": "/nʌm/",
+      "chinese": "麻木的",
+      "svg": ""
+    },
+    {
+      "num": 113,
+      "word": "short of breath",
+      "ipa": "/ʃɔːt əv brɛθ/",
+      "chinese": "气短；呼吸困难",
+      "svg": ""
+    },
+    {
+      "num": 114,
+      "word": "lump",
+      "ipa": "/lʌmp/",
+      "chinese": "肿块",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='10' y='40' width='80' height='30' fill='#f0c090' stroke='#a07050' stroke-width='1.5'/><path d='M30 40 Q40 14 50 14 Q60 14 70 40 Z' fill='#d0a070' stroke='#a07050' stroke-width='1.5'/><circle cx='50' cy='26' r='4' fill='#a07050' opacity='0.5'/></svg>"
+    },
+    {
+      "section": "9. Respiratory Issues"
+    },
+    {
+      "num": 115,
+      "word": "cold",
+      "ipa": "/kəʊld/",
+      "chinese": "感冒",
+      "svg": ""
+    },
+    {
+      "num": 116,
+      "word": "flu",
+      "ipa": "/fluː/",
+      "chinese": "流感",
+      "svg": ""
+    },
+    {
+      "num": 117,
+      "word": "asthma",
+      "ipa": "/ˈæsmə/",
+      "chinese": "哮喘",
+      "svg": ""
+    },
+    {
+      "num": 118,
+      "word": "bronchitis",
+      "ipa": "/brɒŋˈkaɪtɪs/",
+      "chinese": "支气管炎",
+      "svg": ""
+    },
+    {
+      "num": 119,
+      "word": "pneumonia",
+      "ipa": "/njuːˈməʊniə/",
+      "chinese": "肺炎",
+      "svg": ""
+    },
+    {
+      "num": 120,
+      "word": "sinusitis",
+      "ipa": "/ˌsaɪnəˈsaɪtɪs/",
+      "chinese": "鼻窦炎",
+      "svg": ""
+    },
+    {
+      "num": 121,
+      "word": "hay fever",
+      "ipa": "/ˈheɪ ˌfiːvə/",
+      "chinese": "花粉症",
+      "svg": ""
+    },
+    {
+      "num": 122,
+      "word": "tonsillitis",
+      "ipa": "/ˌtɒnsɪˈlaɪtɪs/",
+      "chinese": "扁桃体炎",
+      "svg": ""
+    },
+    {
+      "num": 123,
+      "word": "laryngitis",
+      "ipa": "/ˌlærɪnˈdʒaɪtɪs/",
+      "chinese": "喉炎",
+      "svg": ""
+    },
+    {
+      "num": 124,
+      "word": "COVID",
+      "ipa": "/ˈkəʊvɪd/",
+      "chinese": "新冠",
+      "svg": ""
+    },
+    {
+      "section": "10. Digestive Issues"
+    },
+    {
+      "num": 125,
+      "word": "indigestion",
+      "ipa": "/ˌɪndɪˈdʒɛstʃ(ə)n/",
+      "chinese": "消化不良",
+      "svg": ""
+    },
+    {
+      "num": 126,
+      "word": "heartburn",
+      "ipa": "/ˈhɑːtbɜːn/",
+      "chinese": "胃灼热",
+      "svg": ""
+    },
+    {
+      "num": 127,
+      "word": "acid reflux",
+      "ipa": "/ˈæsɪd ˌriːflʌks/",
+      "chinese": "胃酸反流",
+      "svg": ""
+    },
+    {
+      "num": 128,
+      "word": "constipation",
+      "ipa": "/ˌkɒnstɪˈpeɪʃ(ə)n/",
+      "chinese": "便秘",
+      "svg": ""
+    },
+    {
+      "num": 129,
+      "word": "diarrhoea",
+      "ipa": "/ˌdaɪəˈrɪə/",
+      "chinese": "腹泻",
+      "svg": ""
+    },
+    {
+      "num": 130,
+      "word": "IBS",
+      "ipa": "/ˌaɪ biː ˈɛs/",
+      "chinese": "肠易激综合征",
+      "svg": ""
+    },
+    {
+      "num": 131,
+      "word": "food poisoning",
+      "ipa": "/ˈfuːd ˌpɔɪz(ə)nɪŋ/",
+      "chinese": "食物中毒",
+      "svg": ""
+    },
+    {
+      "num": 132,
+      "word": "stomach bug",
+      "ipa": "/ˈstʌmək bʌɡ/",
+      "chinese": "肠胃感染",
+      "svg": ""
+    },
+    {
+      "num": 133,
+      "word": "ulcer",
+      "ipa": "/ˈʌlsə/",
+      "chinese": "溃疡",
+      "svg": ""
+    },
+    {
+      "num": 134,
+      "word": "appendicitis",
+      "ipa": "/əˌpɛndɪˈsaɪtɪs/",
+      "chinese": "阑尾炎",
+      "svg": ""
+    },
+    {
+      "section": "11. Cardiovascular Issues"
+    },
+    {
+      "num": 135,
+      "word": "high blood pressure",
+      "ipa": "/haɪ blʌd ˈprɛʃə/",
+      "chinese": "高血压",
+      "svg": ""
+    },
+    {
+      "num": 136,
+      "word": "high cholesterol",
+      "ipa": "/haɪ kəˈlɛst(ə)rɒl/",
+      "chinese": "高胆固醇",
+      "svg": ""
+    },
+    {
+      "num": 137,
+      "word": "heart attack",
+      "ipa": "/ˈhɑːt əˌtæk/",
+      "chinese": "心脏病发作",
+      "svg": ""
+    },
+    {
+      "num": 138,
+      "word": "stroke",
+      "ipa": "/strəʊk/",
+      "chinese": "中风",
+      "svg": ""
+    },
+    {
+      "num": 139,
+      "word": "heart disease",
+      "ipa": "/ˈhɑːt dɪˌziːz/",
+      "chinese": "心脏病",
+      "svg": ""
+    },
+    {
+      "num": 140,
+      "word": "anaemia",
+      "ipa": "/əˈniːmiə/",
+      "chinese": "贫血",
+      "svg": ""
+    },
+    {
+      "num": 141,
+      "word": "palpitations",
+      "ipa": "/ˌpælpɪˈteɪʃ(ə)nz/",
+      "chinese": "心悸",
+      "svg": ""
+    },
+    {
+      "num": 142,
+      "word": "irregular heartbeat",
+      "ipa": "/ɪˈrɛɡjʊlə ˈhɑːtbiːt/",
+      "chinese": "心律不齐",
+      "svg": ""
+    },
+    {
+      "section": "12. Skin Conditions"
+    },
+    {
+      "num": 143,
+      "word": "rash",
+      "ipa": "/ræʃ/",
+      "chinese": "皮疹",
+      "svg": ""
+    },
+    {
+      "num": 144,
+      "word": "eczema",
+      "ipa": "/ˈɛksɪmə/",
+      "chinese": "湿疹",
+      "svg": ""
+    },
+    {
+      "num": 145,
+      "word": "psoriasis",
+      "ipa": "/səˈraɪəsɪs/",
+      "chinese": "牛皮癣",
+      "svg": ""
+    },
+    {
+      "num": 146,
+      "word": "acne",
+      "ipa": "/ˈækni/",
+      "chinese": "痤疮；青春痘",
+      "svg": ""
+    },
+    {
+      "num": 147,
+      "word": "pimple",
+      "ipa": "/ˈpɪmp(ə)l/",
+      "chinese": "痘痘",
+      "svg": ""
+    },
+    {
+      "num": 148,
+      "word": "sunburn",
+      "ipa": "/ˈsʌnbɜːn/",
+      "chinese": "晒伤",
+      "svg": ""
+    },
+    {
+      "num": 149,
+      "word": "blister",
+      "ipa": "/ˈblɪstə/",
+      "chinese": "水泡",
+      "svg": ""
+    },
+    {
+      "num": 150,
+      "word": "wart",
+      "ipa": "/wɔːt/",
+      "chinese": "疣",
+      "svg": ""
+    },
+    {
+      "num": 151,
+      "word": "hives",
+      "ipa": "/haɪvz/",
+      "chinese": "荨麻疹",
+      "svg": ""
+    },
+    {
+      "num": 152,
+      "word": "athlete's foot",
+      "ipa": "/ˈæθliːts fʊt/",
+      "chinese": "脚气",
+      "svg": ""
+    },
+    {
+      "section": "13. Pain & Injuries"
+    },
+    {
+      "num": 153,
+      "word": "backache",
+      "ipa": "/ˈbækeɪk/",
+      "chinese": "背痛",
+      "svg": ""
+    },
+    {
+      "num": 154,
+      "word": "migraine",
+      "ipa": "/ˈmiːɡreɪn/",
+      "chinese": "偏头痛",
+      "svg": ""
+    },
+    {
+      "num": 155,
+      "word": "tension headache",
+      "ipa": "/ˈtɛnʃ(ə)n ˌhɛdeɪk/",
+      "chinese": "紧张性头痛",
+      "svg": ""
+    },
+    {
+      "num": 156,
+      "word": "sprain",
+      "ipa": "/spreɪn/",
+      "chinese": "扭伤",
+      "svg": ""
+    },
+    {
+      "num": 157,
+      "word": "strain",
+      "ipa": "/streɪn/",
+      "chinese": "拉伤",
+      "svg": ""
+    },
+    {
+      "num": 158,
+      "word": "fracture",
+      "ipa": "/ˈfræktʃə/",
+      "chinese": "骨折",
+      "svg": ""
+    },
+    {
+      "num": 159,
+      "word": "broken bone",
+      "ipa": "/ˈbrəʊk(ə)n bəʊn/",
+      "chinese": "骨折",
+      "svg": ""
+    },
+    {
+      "num": 160,
+      "word": "bruise",
+      "ipa": "/bruːz/",
+      "chinese": "瘀青",
+      "svg": ""
+    },
+    {
+      "num": 161,
+      "word": "cut",
+      "ipa": "/kʌt/",
+      "chinese": "割伤",
+      "svg": ""
+    },
+    {
+      "num": 162,
+      "word": "concussion",
+      "ipa": "/kənˈkʌʃ(ə)n/",
+      "chinese": "脑震荡",
+      "svg": ""
+    },
+    {
+      "num": 163,
+      "word": "whiplash",
+      "ipa": "/ˈwɪplæʃ/",
+      "chinese": "颈椎扭伤",
+      "svg": ""
+    },
+    {
+      "num": 164,
+      "word": "pulled muscle",
+      "ipa": "/pʊld ˈmʌs(ə)l/",
+      "chinese": "肌肉拉伤",
+      "svg": ""
+    },
+    {
+      "section": "14. Chronic & Serious Conditions"
+    },
+    {
+      "num": 165,
+      "word": "diabetes",
+      "ipa": "/ˌdaɪəˈbiːtiːz/",
+      "chinese": "糖尿病",
+      "svg": ""
+    },
+    {
+      "num": 166,
+      "word": "cancer",
+      "ipa": "/ˈkænsə/",
+      "chinese": "癌症",
+      "svg": ""
+    },
+    {
+      "num": 167,
+      "word": "Alzheimer's",
+      "ipa": "/ˈæltshaɪməz/",
+      "chinese": "阿尔茨海默症",
+      "svg": ""
+    },
+    {
+      "num": 168,
+      "word": "dementia",
+      "ipa": "/dɪˈmɛnʃə/",
+      "chinese": "痴呆",
+      "svg": ""
+    },
+    {
+      "num": 169,
+      "word": "Parkinson's",
+      "ipa": "/ˈpɑːkɪns(ə)nz/",
+      "chinese": "帕金森病",
+      "svg": ""
+    },
+    {
+      "num": 170,
+      "word": "arthritis",
+      "ipa": "/ɑːˈθraɪtɪs/",
+      "chinese": "关节炎",
+      "svg": ""
+    },
+    {
+      "num": 171,
+      "word": "osteoporosis",
+      "ipa": "/ˌɒstiəʊpəˈrəʊsɪs/",
+      "chinese": "骨质疏松",
+      "svg": ""
+    },
+    {
+      "num": 172,
+      "word": "MS",
+      "ipa": "/ˌɛm ˈɛs/",
+      "chinese": "多发性硬化症",
+      "svg": ""
+    },
+    {
+      "num": 173,
+      "word": "epilepsy",
+      "ipa": "/ˈɛpɪlɛpsi/",
+      "chinese": "癫痫",
+      "svg": ""
+    },
+    {
+      "num": 174,
+      "word": "allergy",
+      "ipa": "/ˈælədʒi/",
+      "chinese": "过敏",
+      "svg": ""
+    },
+    {
+      "section": "15. Mental Health"
+    },
+    {
+      "num": 175,
+      "word": "depression",
+      "ipa": "/dɪˈprɛʃ(ə)n/",
+      "chinese": "抑郁症",
+      "svg": ""
+    },
+    {
+      "num": 176,
+      "word": "anxiety",
+      "ipa": "/æŋˈzaɪəti/",
+      "chinese": "焦虑",
+      "svg": ""
+    },
+    {
+      "num": 177,
+      "word": "stress",
+      "ipa": "/strɛs/",
+      "chinese": "压力",
+      "svg": ""
+    },
+    {
+      "num": 178,
+      "word": "ADHD",
+      "ipa": "/ˌeɪ diː eɪtʃ ˈdiː/",
+      "chinese": "多动症",
+      "svg": ""
+    },
+    {
+      "num": 179,
+      "word": "OCD",
+      "ipa": "/ˌəʊ siː ˈdiː/",
+      "chinese": "强迫症",
+      "svg": ""
+    },
+    {
+      "num": 180,
+      "word": "bipolar",
+      "ipa": "/baɪˈpəʊlə/",
+      "chinese": "躁郁症的",
+      "svg": ""
+    },
+    {
+      "num": 181,
+      "word": "insomnia",
+      "ipa": "/ɪnˈsɒmniə/",
+      "chinese": "失眠",
+      "svg": ""
+    },
+    {
+      "num": 182,
+      "word": "panic attack",
+      "ipa": "/ˈpænɪk əˌtæk/",
+      "chinese": "惊恐发作",
+      "svg": ""
+    },
+    {
+      "num": 183,
+      "word": "burnout",
+      "ipa": "/ˈbɜːnaʊt/",
+      "chinese": "(职业)倦怠",
+      "svg": ""
+    },
+    {
+      "num": 184,
+      "word": "PTSD",
+      "ipa": "/ˌpiː tiː ɛs ˈdiː/",
+      "chinese": "创伤后应激障碍",
+      "svg": ""
+    },
+    {
+      "section": "16. Eye & Ear"
+    },
+    {
+      "num": 185,
+      "word": "short-sighted",
+      "ipa": "/ʃɔːt ˈsaɪtɪd/",
+      "chinese": "近视的",
+      "svg": ""
+    },
+    {
+      "num": 186,
+      "word": "long-sighted",
+      "ipa": "/lɒŋ ˈsaɪtɪd/",
+      "chinese": "远视的",
+      "svg": ""
+    },
+    {
+      "num": 187,
+      "word": "cataract",
+      "ipa": "/ˈkætərækt/",
+      "chinese": "白内障",
+      "svg": ""
+    },
+    {
+      "num": 188,
+      "word": "glaucoma",
+      "ipa": "/ɡlɔːˈkəʊmə/",
+      "chinese": "青光眼",
+      "svg": ""
+    },
+    {
+      "num": 189,
+      "word": "pink eye",
+      "ipa": "/pɪŋk aɪ/",
+      "chinese": "结膜炎；红眼病",
+      "svg": ""
+    },
+    {
+      "num": 190,
+      "word": "stye",
+      "ipa": "/staɪ/",
+      "chinese": "麦粒肿",
+      "svg": ""
+    },
+    {
+      "num": 191,
+      "word": "ear infection",
+      "ipa": "/ˈɪər ɪnˌfɛkʃ(ə)n/",
+      "chinese": "耳朵感染",
+      "svg": ""
+    },
+    {
+      "num": 192,
+      "word": "tinnitus",
+      "ipa": "/tɪˈnaɪtəs/",
+      "chinese": "耳鸣",
+      "svg": ""
+    },
+    {
+      "num": 193,
+      "word": "hearing loss",
+      "ipa": "/ˈhɪərɪŋ lɒs/",
+      "chinese": "听力下降",
+      "svg": ""
+    },
+    {
+      "num": 194,
+      "word": "dry eye",
+      "ipa": "/draɪ aɪ/",
+      "chinese": "干眼症",
+      "svg": ""
+    },
+    {
+      "section": "17. Women's Health & Pregnancy"
+    },
+    {
+      "num": 195,
+      "word": "period",
+      "ipa": "/ˈpɪəriəd/",
+      "chinese": "月经",
+      "svg": ""
+    },
+    {
+      "num": 196,
+      "word": "PMS",
+      "ipa": "/ˌpiː ɛm ˈɛs/",
+      "chinese": "经前综合征",
+      "svg": ""
+    },
+    {
+      "num": 197,
+      "word": "pregnancy",
+      "ipa": "/ˈprɛɡnənsi/",
+      "chinese": "怀孕",
+      "svg": ""
+    },
+    {
+      "num": 198,
+      "word": "miscarriage",
+      "ipa": "/ˈmɪskærɪdʒ/",
+      "chinese": "流产",
+      "svg": ""
+    },
+    {
+      "num": 199,
+      "word": "menopause",
+      "ipa": "/ˈmɛnəpɔːz/",
+      "chinese": "更年期",
+      "svg": ""
+    },
+    {
+      "num": 200,
+      "word": "UTI",
+      "ipa": "/ˌjuː tiː ˈaɪ/",
+      "chinese": "尿路感染",
+      "svg": ""
+    },
+    {
+      "num": 201,
+      "word": "morning sickness",
+      "ipa": "/ˈmɔːnɪŋ ˌsɪknəs/",
+      "chinese": "孕吐",
+      "svg": ""
+    },
+    {
+      "num": 202,
+      "word": "contractions",
+      "ipa": "/kənˈtrækʃ(ə)nz/",
+      "chinese": "宫缩",
+      "svg": ""
+    },
+    {
+      "section": "18. Medical Procedures & Tests"
+    },
+    {
+      "num": 203,
+      "word": "surgery",
+      "ipa": "/ˈsɜːdʒəri/",
+      "chinese": "手术",
+      "svg": ""
+    },
+    {
+      "num": 204,
+      "word": "operation",
+      "ipa": "/ˌɒpəˈreɪʃ(ə)n/",
+      "chinese": "手术",
+      "svg": ""
+    },
+    {
+      "num": 205,
+      "word": "X-ray",
+      "ipa": "/ˈɛks reɪ/",
+      "chinese": "X光",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='14' y='10' width='72' height='60' rx='4' fill='#222' stroke='#000' stroke-width='1.5'/><path d='M30 22 Q26 36 30 50 L30 64 M70 22 Q74 36 70 50 L70 64' stroke='#fff' stroke-width='2' fill='none'/><line x1='34' y1='30' x2='66' y2='30' stroke='#fff' stroke-width='2'/><line x1='34' y1='38' x2='66' y2='38' stroke='#fff' stroke-width='2'/><line x1='34' y1='46' x2='66' y2='46' stroke='#fff' stroke-width='2'/><circle cx='50' cy='18' r='6' fill='#fff'/></svg>"
+    },
+    {
+      "num": 206,
+      "word": "MRI",
+      "ipa": "/ˌɛm ɑːr ˈaɪ/",
+      "chinese": "核磁共振",
+      "svg": ""
+    },
+    {
+      "num": 207,
+      "word": "CT scan",
+      "ipa": "/ˌsiː tiː ˈskæn/",
+      "chinese": "CT扫描",
+      "svg": ""
+    },
+    {
+      "num": 208,
+      "word": "ultrasound",
+      "ipa": "/ˈʌltrəsaʊnd/",
+      "chinese": "超声波检查",
+      "svg": ""
+    },
+    {
+      "num": 209,
+      "word": "blood test",
+      "ipa": "/ˈblʌd tɛst/",
+      "chinese": "血液检查",
+      "svg": ""
+    },
+    {
+      "num": 210,
+      "word": "urine test",
+      "ipa": "/ˈjʊərɪn tɛst/",
+      "chinese": "尿液检查",
+      "svg": ""
+    },
+    {
+      "num": 211,
+      "word": "biopsy",
+      "ipa": "/ˈbaɪɒpsi/",
+      "chinese": "活检",
+      "svg": ""
+    },
+    {
+      "num": 212,
+      "word": "jab",
+      "ipa": "/dʒæb/",
+      "chinese": "注射；打针 (UK)",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='14' y='34' width='50' height='12' rx='2' fill='#e0e0e0' stroke='#666' stroke-width='1.5'/><rect x='16' y='36' width='30' height='8' fill='#a0c0e0' stroke='#666' stroke-width='1'/><rect x='64' y='30' width='8' height='20' fill='#888' stroke='#444' stroke-width='1.5'/><line x1='72' y1='40' x2='90' y2='40' stroke='#888' stroke-width='2'/><line x1='10' y1='30' x2='10' y2='50' stroke='#666' stroke-width='3'/></svg>"
+    },
+    {
+      "num": 213,
+      "word": "vaccine",
+      "ipa": "/ˈvæksiːn/",
+      "chinese": "疫苗",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='14' y='34' width='50' height='12' rx='2' fill='#e0e0e0' stroke='#666' stroke-width='1.5'/><rect x='16' y='36' width='30' height='8' fill='#a0c0e0' stroke='#666' stroke-width='1'/><rect x='64' y='30' width='8' height='20' fill='#888' stroke='#444' stroke-width='1.5'/><line x1='72' y1='40' x2='90' y2='40' stroke='#888' stroke-width='2'/><line x1='10' y1='30' x2='10' y2='50' stroke='#666' stroke-width='3'/></svg>"
+    },
+    {
+      "num": 214,
+      "word": "stitches",
+      "ipa": "/ˈstɪtʃɪz/",
+      "chinese": "缝针",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='10' y='30' width='80' height='20' fill='#f0c090' stroke='#a07050' stroke-width='1.5'/><line x1='20' y1='40' x2='80' y2='40' stroke='#c84040' stroke-width='3'/><line x1='24' y1='32' x2='30' y2='48' stroke='#222' stroke-width='2'/><line x1='36' y1='32' x2='42' y2='48' stroke='#222' stroke-width='2'/><line x1='48' y1='32' x2='54' y2='48' stroke='#222' stroke-width='2'/><line x1='60' y1='32' x2='66' y2='48' stroke='#222' stroke-width='2'/><line x1='72' y1='32' x2='78' y2='48' stroke='#222' stroke-width='2'/></svg>"
+    },
+    {
+      "section": "19. Medication & First Aid"
+    },
+    {
+      "num": 215,
+      "word": "antibiotics",
+      "ipa": "/ˌæntibaɪˈɒtɪks/",
+      "chinese": "抗生素",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='14' y='32' width='34' height='16' rx='8' fill='#c84040' stroke='#7a1010' stroke-width='1.5'/><rect x='30' y='32' width='18' height='16' fill='#fff' stroke='#7a1010' stroke-width='1.5'/><circle cx='66' cy='30' r='10' fill='#4a9ad4' stroke='#2a6aa4' stroke-width='1.5'/><circle cx='72' cy='52' r='8' fill='#f0c020' stroke='#a07010' stroke-width='1.5'/></svg>"
+    },
+    {
+      "num": 216,
+      "word": "painkillers",
+      "ipa": "/ˈpeɪnˌkɪləz/",
+      "chinese": "止痛药",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='14' y='32' width='34' height='16' rx='8' fill='#c84040' stroke='#7a1010' stroke-width='1.5'/><rect x='30' y='32' width='18' height='16' fill='#fff' stroke='#7a1010' stroke-width='1.5'/><circle cx='66' cy='30' r='10' fill='#4a9ad4' stroke='#2a6aa4' stroke-width='1.5'/><circle cx='72' cy='52' r='8' fill='#f0c020' stroke='#a07010' stroke-width='1.5'/></svg>"
+    },
+    {
+      "num": 217,
+      "word": "ibuprofen",
+      "ipa": "/ˌaɪbjuːˈprəʊfen/",
+      "chinese": "布洛芬",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='14' y='32' width='34' height='16' rx='8' fill='#c84040' stroke='#7a1010' stroke-width='1.5'/><rect x='30' y='32' width='18' height='16' fill='#fff' stroke='#7a1010' stroke-width='1.5'/><circle cx='66' cy='30' r='10' fill='#4a9ad4' stroke='#2a6aa4' stroke-width='1.5'/><circle cx='72' cy='52' r='8' fill='#f0c020' stroke='#a07010' stroke-width='1.5'/></svg>"
+    },
+    {
+      "num": 218,
+      "word": "paracetamol",
+      "ipa": "/ˌpærəˈsiːtəmɒl/",
+      "chinese": "对乙酰氨基酚 (UK)",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='14' y='32' width='34' height='16' rx='8' fill='#c84040' stroke='#7a1010' stroke-width='1.5'/><rect x='30' y='32' width='18' height='16' fill='#fff' stroke='#7a1010' stroke-width='1.5'/><circle cx='66' cy='30' r='10' fill='#4a9ad4' stroke='#2a6aa4' stroke-width='1.5'/><circle cx='72' cy='52' r='8' fill='#f0c020' stroke='#a07010' stroke-width='1.5'/></svg>"
+    },
+    {
+      "num": 219,
+      "word": "bandage",
+      "ipa": "/ˈbændɪdʒ/",
+      "chinese": "绷带",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='10' y='30' width='80' height='20' rx='6' fill='#f0e0c0' stroke='#a08040' stroke-width='1.5' transform='rotate(-20 50 40)'/><circle cx='30' cy='34' r='2' fill='#a08040'/><circle cx='40' cy='40' r='2' fill='#a08040'/><circle cx='60' cy='40' r='2' fill='#a08040'/><circle cx='70' cy='46' r='2' fill='#a08040'/></svg>"
+    },
+    {
+      "num": 220,
+      "word": "plaster",
+      "ipa": "/ˈplɑːstə/",
+      "chinese": "创可贴 (UK)",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='14' y='28' width='72' height='24' rx='6' fill='#f0d8a0' stroke='#a08040' stroke-width='1.5' transform='rotate(-10 50 40)'/><circle cx='30' cy='34' r='1.5' fill='#a08040'/><circle cx='30' cy='42' r='1.5' fill='#a08040'/><circle cx='70' cy='34' r='1.5' fill='#a08040'/><circle cx='70' cy='42' r='1.5' fill='#a08040'/><rect x='40' y='34' width='20' height='12' fill='#fff8e8' stroke='#a08040' stroke-width='1' transform='rotate(-10 50 40)'/></svg>"
+    },
+    {
+      "num": 221,
+      "word": "cast",
+      "ipa": "/kɑːst/",
+      "chinese": "石膏",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='30' y='8' width='40' height='60' rx='10' fill='#fff' stroke='#888' stroke-width='1.5'/><line x1='30' y1='18' x2='70' y2='18' stroke='#888' stroke-width='1'/><line x1='30' y1='28' x2='70' y2='28' stroke='#888' stroke-width='1'/><line x1='30' y1='40' x2='70' y2='40' stroke='#888' stroke-width='1'/><line x1='30' y1='50' x2='70' y2='50' stroke='#888' stroke-width='1'/><text x='50' y='34' font-size='10' text-anchor='middle' fill='#c84040' font-family='Arial' font-weight='bold'>♥</text></svg>"
+    },
+    {
+      "num": 222,
+      "word": "sling",
+      "ipa": "/slɪŋ/",
+      "chinese": "吊带",
+      "svg": ""
+    },
+    {
+      "num": 223,
+      "word": "crutches",
+      "ipa": "/ˈkrʌtʃɪz/",
+      "chinese": "拐杖",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='20' y='10' width='12' height='6' rx='2' fill='#a08040' stroke='#5a3a10' stroke-width='1'/><line x1='26' y1='16' x2='26' y2='66' stroke='#a08040' stroke-width='3'/><line x1='22' y1='30' x2='30' y2='30' stroke='#a08040' stroke-width='2'/><rect x='68' y='10' width='12' height='6' rx='2' fill='#a08040' stroke='#5a3a10' stroke-width='1'/><line x1='74' y1='16' x2='74' y2='66' stroke='#a08040' stroke-width='3'/><line x1='70' y1='30' x2='78' y2='30' stroke='#a08040' stroke-width='2'/></svg>"
+    },
+    {
+      "num": 224,
+      "word": "drip",
+      "ipa": "/drɪp/",
+      "chinese": "点滴 (UK)",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><line x1='50' y1='6' x2='50' y2='10' stroke='#888' stroke-width='2'/><path d='M40 10 L60 10 L58 30 L42 30 Z' fill='#c0e0f0' stroke='#5a80a0' stroke-width='1.5'/><line x1='50' y1='30' x2='50' y2='70' stroke='#5a80a0' stroke-width='2'/><circle cx='50' cy='40' r='2' fill='#4a9ad4'/><circle cx='50' cy='50' r='2' fill='#4a9ad4'/><circle cx='50' cy='60' r='2' fill='#4a9ad4'/></svg>"
+    },
+    {
+      "section": "20. Health Professionals & Settings"
+    },
+    {
+      "num": 225,
+      "word": "GP",
+      "ipa": "/ˌdʒiː ˈpiː/",
+      "chinese": "全科医生 (UK)",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M20 14 Q14 14 14 22 L14 46 Q14 56 26 60 Q38 60 38 50 L38 40' fill='none' stroke='#222' stroke-width='3'/><path d='M80 14 Q86 14 86 22 L86 46 Q86 56 74 60 Q62 60 62 50 L62 40' fill='none' stroke='#222' stroke-width='3'/><line x1='38' y1='40' x2='62' y2='40' stroke='#222' stroke-width='3'/><circle cx='50' cy='40' r='10' fill='#888' stroke='#222' stroke-width='1.5'/><circle cx='50' cy='40' r='5' fill='#444'/></svg>"
+    },
+    {
+      "num": 226,
+      "word": "specialist",
+      "ipa": "/ˈspɛʃəlɪst/",
+      "chinese": "专科医生",
+      "svg": ""
+    },
+    {
+      "num": 227,
+      "word": "A&E",
+      "ipa": "/ˌeɪ ənd ˈiː/",
+      "chinese": "急诊室 (UK)",
+      "svg": ""
+    },
+    {
+      "num": 228,
+      "word": "ICU",
+      "ipa": "/ˌaɪ siː ˈjuː/",
+      "chinese": "重症监护室",
+      "svg": ""
+    },
+    {
+      "num": 229,
+      "word": "ward",
+      "ipa": "/wɔːd/",
+      "chinese": "病房",
+      "svg": ""
+    },
+    {
+      "num": 230,
+      "word": "nurse",
+      "ipa": "/nɜːs/",
+      "chinese": "护士",
+      "svg": ""
+    },
+    {
+      "num": 231,
+      "word": "surgeon",
+      "ipa": "/ˈsɜːdʒ(ə)n/",
+      "chinese": "外科医生",
+      "svg": ""
+    },
+    {
+      "num": 232,
+      "word": "pharmacist",
+      "ipa": "/ˈfɑːməsɪst/",
+      "chinese": "药剂师",
+      "svg": ""
+    },
+    {
+      "num": 233,
+      "word": "physio",
+      "ipa": "/ˈfɪziəʊ/",
+      "chinese": "理疗师 (UK)",
+      "svg": ""
+    },
+    {
+      "num": 234,
+      "word": "dentist",
+      "ipa": "/ˈdɛntɪst/",
+      "chinese": "牙医",
+      "svg": ""
+    },
+    {
+      "num": 235,
+      "word": "optician",
+      "ipa": "/ɒpˈtɪʃ(ə)n/",
+      "chinese": "验光师",
+      "svg": ""
+    },
+    {
+      "num": 236,
+      "word": "midwife",
+      "ipa": "/ˈmɪdwaɪf/",
+      "chinese": "助产士",
+      "svg": ""
+    },
+    {
+      "section": "21. Healthy Habits & Phrases"
+    },
+    {
+      "num": 237,
+      "word": "quit smoking",
+      "chinese": "戒烟"
+    },
+    {
+      "num": 238,
+      "word": "cut down on sugar",
+      "chinese": "少吃糖"
+    },
+    {
+      "num": 239,
+      "word": "get some sleep",
+      "chinese": "睡一觉"
+    },
+    {
+      "num": 240,
+      "word": "get checked",
+      "chinese": "去检查一下"
+    },
+    {
+      "num": 241,
+      "word": "see a doctor",
+      "chinese": "看医生"
+    },
+    {
+      "num": 242,
+      "word": "work out",
+      "chinese": "锻炼"
+    },
+    {
+      "num": 243,
+      "word": "eat clean",
+      "chinese": "吃得健康"
+    },
+    {
+      "num": 244,
+      "word": "take a sick day",
+      "chinese": "请病假"
+    },
+    {
+      "num": 245,
+      "word": "get a check-up",
+      "chinese": "做体检"
+    },
+    {
+      "num": 246,
+      "word": "stay hydrated",
+      "chinese": "多喝水；保持水分"
+    },
+    {
+      "section": "22. Body Actions / Reflexes"
+    },
+    {
+      "num": 247,
+      "word": "breathe",
+      "ipa": "/briːð/",
+      "chinese": "呼吸",
+      "svg": ""
+    },
+    {
+      "num": 248,
+      "word": "yawn",
+      "ipa": "/jɔːn/",
+      "chinese": "打哈欠",
+      "svg": ""
+    },
+    {
+      "num": 249,
+      "word": "hiccup",
+      "ipa": "/ˈhɪkʌp/",
+      "chinese": "打嗝",
+      "svg": ""
+    },
+    {
+      "num": 250,
+      "word": "burp",
+      "ipa": "/bɜːp/",
+      "chinese": "打嗝（饱嗝）",
+      "svg": ""
+    },
+    {
+      "num": 251,
+      "word": "choke",
+      "ipa": "/tʃəʊk/",
+      "chinese": "噎住；窒息",
+      "svg": ""
+    },
+    {
+      "num": 252,
+      "word": "blink",
+      "ipa": "/blɪŋk/",
+      "chinese": "眨眼",
+      "svg": ""
+    },
+    {
+      "num": 253,
+      "word": "swallow",
+      "ipa": "/ˈswɒləʊ/",
+      "chinese": "吞咽",
+      "svg": ""
+    },
+    {
+      "num": 254,
+      "word": "scratch",
+      "ipa": "/skrætʃ/",
+      "chinese": "抓；挠",
+      "svg": ""
+    },
+    {
+      "num": 255,
+      "word": "stretch",
+      "ipa": "/strɛtʃ/",
+      "chinese": "伸展；拉伸",
+      "svg": ""
+    },
+    {
+      "num": 256,
+      "word": "wink",
+      "ipa": "/wɪŋk/",
+      "chinese": "眨一只眼",
+      "svg": ""
+    }
+  ]
+}
