@@ -62,6 +62,27 @@
       "icon": "🩺",
       "count": 256,
       "updatedAt": "2026-05-20"
+    },
+    {
+      "id": "clothes",
+      "title": "Clothes & Fashion",
+      "icon": "👕",
+      "count": 170,
+      "updatedAt": "2026-05-20"
+    },
+    {
+      "id": "food",
+      "title": "Food & Supermarket",
+      "icon": "🍎",
+      "count": 367,
+      "updatedAt": "2026-05-28"
+    },
+    {
+      "id": "small-talk",
+      "title": "Small Talk",
+      "icon": "💭",
+      "count": 562,
+      "updatedAt": "2026-05-28"
     }
   ]
 }

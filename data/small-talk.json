@@ -1,0 +1,2966 @@
+{
+  "topic": "small-talk",
+  "title": "Small Talk",
+  "words": [
+    {
+      "section": "1. Weather Chat (AUS-heavy)"
+    },
+    {
+      "num": 1,
+      "word": "Lovely day, isn't it?",
+      "chinese": "今天天气真好，对吧？"
+    },
+    {
+      "num": 2,
+      "word": "Stinking hot today",
+      "chinese": "今天热死了 (AUS)"
+    },
+    {
+      "num": 3,
+      "word": "It's a scorcher",
+      "chinese": "今天热爆了 (AUS)"
+    },
+    {
+      "num": 4,
+      "word": "Bloody hot",
+      "chinese": "热死了 (AUS)"
+    },
+    {
+      "num": 5,
+      "word": "Bucketing down",
+      "chinese": "倾盆大雨 (AUS)"
+    },
+    {
+      "num": 6,
+      "word": "Pissing it down",
+      "chinese": "下大雨 (AUS粗俗)"
+    },
+    {
+      "num": 7,
+      "word": "Just spitting",
+      "chinese": "下小雨；毛毛雨"
+    },
+    {
+      "num": 8,
+      "word": "Bit muggy today",
+      "chinese": "今天有点闷热"
+    },
+    {
+      "num": 9,
+      "word": "Cracker of a day",
+      "chinese": "好得不得了的一天 (AUS)"
+    },
+    {
+      "num": 10,
+      "word": "She's a beauty",
+      "chinese": "天气真棒 (AUS)"
+    },
+    {
+      "num": 11,
+      "word": "Bit nippy out",
+      "chinese": "外面有点冷"
+    },
+    {
+      "num": 12,
+      "word": "Brass monkeys today",
+      "chinese": "今天冷死了 (UK/AUS)"
+    },
+    {
+      "num": 13,
+      "word": "Forecast says rain",
+      "chinese": "预报说要下雨"
+    },
+    {
+      "num": 14,
+      "word": "Dry as a bone",
+      "chinese": "干得很 (AUS)"
+    },
+    {
+      "num": 15,
+      "word": "Heat wave's coming",
+      "chinese": "热浪要来了"
+    },
+    {
+      "num": 16,
+      "word": "Fire weather today",
+      "chinese": "今天是火灾天气 (AUS)"
+    },
+    {
+      "num": 17,
+      "word": "Sweltering out there",
+      "chinese": "外面闷热得很"
+    },
+    {
+      "num": 18,
+      "word": "Indian summer",
+      "chinese": "小阳春；秋老虎"
+    },
+    {
+      "section": "2. Weekend Plans"
+    },
+    {
+      "num": 19,
+      "word": "Any plans for the weekend?",
+      "chinese": "周末有什么安排？"
+    },
+    {
+      "num": 20,
+      "word": "Up to much?",
+      "chinese": "在忙啥？"
+    },
+    {
+      "num": 21,
+      "word": "Got anything on?",
+      "chinese": "有什么安排吗？"
+    },
+    {
+      "num": 22,
+      "word": "Just chilling at home",
+      "chinese": "就在家放松"
+    },
+    {
+      "num": 23,
+      "word": "Family stuff",
+      "chinese": "家庭琐事"
+    },
+    {
+      "num": 24,
+      "word": "Off to the beach",
+      "chinese": "去海滩"
+    },
+    {
+      "num": 25,
+      "word": "Throwing some snags on the barbie",
+      "chinese": "烤几根香肠 (AUS)"
+    },
+    {
+      "num": 26,
+      "word": "Bit of a quiet one",
+      "chinese": "比较安静的一周末"
+    },
+    {
+      "num": 27,
+      "word": "Big plans!",
+      "chinese": "有大计划！"
+    },
+    {
+      "num": 28,
+      "word": "Maccas run later",
+      "chinese": "等下去吃麦当劳 (AUS)"
+    },
+    {
+      "num": 29,
+      "word": "Hitting the pub",
+      "chinese": "去酒吧"
+    },
+    {
+      "num": 30,
+      "word": "Same old, same old",
+      "chinese": "老样子"
+    },
+    {
+      "num": 31,
+      "word": "Catching the footy",
+      "chinese": "看足球 (AUS)"
+    },
+    {
+      "num": 32,
+      "word": "How about yourself?",
+      "chinese": "你呢？"
+    },
+    {
+      "section": "3. Past Weekend Recap"
+    },
+    {
+      "num": 33,
+      "word": "How was your weekend?",
+      "chinese": "你周末过得怎么样？"
+    },
+    {
+      "num": 34,
+      "word": "What did you get up to?",
+      "chinese": "你都做了什么？"
+    },
+    {
+      "num": 35,
+      "word": "Did you have a good one?",
+      "chinese": "周末过得好吗？"
+    },
+    {
+      "num": 36,
+      "word": "Went too quickly",
+      "chinese": "时间过得太快了"
+    },
+    {
+      "num": 37,
+      "word": "Felt like five minutes",
+      "chinese": "感觉就五分钟"
+    },
+    {
+      "num": 38,
+      "word": "Pretty quiet, you?",
+      "chinese": "比较平静，你呢？"
+    },
+    {
+      "num": 39,
+      "word": "Spent it on the couch",
+      "chinese": "整个周末窝沙发"
+    },
+    {
+      "num": 40,
+      "word": "Took the kids out",
+      "chinese": "带孩子出去玩"
+    },
+    {
+      "num": 41,
+      "word": "Caught up on sleep",
+      "chinese": "补觉了"
+    },
+    {
+      "num": 42,
+      "word": "Pulled a sickie Monday",
+      "chinese": "周一请了病假 (AUS)"
+    },
+    {
+      "num": 43,
+      "word": "Did a bit of everything",
+      "chinese": "什么都做了一点"
+    },
+    {
+      "num": 44,
+      "word": "Just a chill one",
+      "chinese": "就放松了一下"
+    },
+    {
+      "num": 45,
+      "word": "Threw a barbie",
+      "chinese": "搞了个烧烤 (AUS)"
+    },
+    {
+      "num": 46,
+      "word": "Big night Saturday",
+      "chinese": "周六晚上很疯狂"
+    },
+    {
+      "section": "4. Long Day / Week / Friday Energy"
+    },
+    {
+      "num": 47,
+      "word": "Long week, isn't it?",
+      "chinese": "这周真长，对吧？"
+    },
+    {
+      "num": 48,
+      "word": "Almost Friday!",
+      "chinese": "快到周五了！"
+    },
+    {
+      "num": 49,
+      "word": "TGIF",
+      "chinese": "感谢上帝，星期五了"
+    },
+    {
+      "num": 50,
+      "word": "Halfway there",
+      "chinese": "已经过了一半"
+    },
+    {
+      "num": 51,
+      "word": "Roll on Friday",
+      "chinese": "盼星期五"
+    },
+    {
+      "num": 52,
+      "word": "Is it Friday yet?",
+      "chinese": "怎么还不到周五？"
+    },
+    {
+      "num": 53,
+      "word": "Mondays, am I right?",
+      "chinese": "周一啊，懂的"
+    },
+    {
+      "num": 54,
+      "word": "One of those days",
+      "chinese": "就是那种糟糕的一天"
+    },
+    {
+      "num": 55,
+      "word": "Counting down to knock-off",
+      "chinese": "数着下班"
+    },
+    {
+      "num": 56,
+      "word": "Living for the weekend",
+      "chinese": "全靠周末活着"
+    },
+    {
+      "num": 57,
+      "word": "Need a smoko",
+      "chinese": "需要休息一下 (AUS)"
+    },
+    {
+      "num": 58,
+      "word": "Need a holiday already",
+      "chinese": "已经需要放假了"
+    },
+    {
+      "section": "5. Work & Office Chat"
+    },
+    {
+      "num": 59,
+      "word": "How's work?",
+      "chinese": "工作怎么样？"
+    },
+    {
+      "num": 60,
+      "word": "Keeping busy?",
+      "chinese": "在忙吗？"
+    },
+    {
+      "num": 61,
+      "word": "Same old grind",
+      "chinese": "老样子的忙"
+    },
+    {
+      "num": 62,
+      "word": "Up to my eyeballs",
+      "chinese": "忙得不可开交"
+    },
+    {
+      "num": 63,
+      "word": "It's been mental",
+      "chinese": "忙疯了"
+    },
+    {
+      "num": 64,
+      "word": "Quiet at the moment",
+      "chinese": "目前比较清闲"
+    },
+    {
+      "num": 65,
+      "word": "Just ticking along",
+      "chinese": "稳步进行"
+    },
+    {
+      "num": 66,
+      "word": "I love my job",
+      "chinese": "我喜欢我的工作"
+    },
+    {
+      "num": 67,
+      "word": "I'm over it",
+      "chinese": "我受够了"
+    },
+    {
+      "num": 68,
+      "word": "Looking for something new",
+      "chinese": "在找新工作"
+    },
+    {
+      "num": 69,
+      "word": "Got a new role coming up",
+      "chinese": "有新岗位要上"
+    },
+    {
+      "num": 70,
+      "word": "The boss is on my back",
+      "chinese": "老板一直催我"
+    },
+    {
+      "num": 71,
+      "word": "Smoko in ten",
+      "chinese": "十分钟后休息 (AUS)"
+    },
+    {
+      "num": 72,
+      "word": "Lunch break?",
+      "chinese": "午休吗？"
+    },
+    {
+      "section": "6. Family & Kids"
+    },
+    {
+      "num": 73,
+      "word": "How's the family?",
+      "chinese": "家人怎么样？"
+    },
+    {
+      "num": 74,
+      "word": "How are the kids?",
+      "chinese": "孩子们怎么样？"
+    },
+    {
+      "num": 75,
+      "word": "How's your other half?",
+      "chinese": "你另一半怎么样？"
+    },
+    {
+      "num": 76,
+      "word": "How old now?",
+      "chinese": "现在多大了？"
+    },
+    {
+      "num": 77,
+      "word": "They grow up so fast",
+      "chinese": "他们长得真快"
+    },
+    {
+      "num": 78,
+      "word": "He's at uni now",
+      "chinese": "他已经上大学了"
+    },
+    {
+      "num": 79,
+      "word": "She's just started school",
+      "chinese": "她刚开始上学"
+    },
+    {
+      "num": 80,
+      "word": "They're at that age",
+      "chinese": "他们正是那个年纪"
+    },
+    {
+      "num": 81,
+      "word": "Little terrors!",
+      "chinese": "小淘气！"
+    },
+    {
+      "num": 82,
+      "word": "The mother-in-law's visiting",
+      "chinese": "丈母娘来了"
+    },
+    {
+      "num": 83,
+      "word": "The wife sends her love",
+      "chinese": "我老婆向你问好"
+    },
+    {
+      "num": 84,
+      "word": "Everyone's good, thanks",
+      "chinese": "大家都很好，谢谢"
+    },
+    {
+      "num": 85,
+      "word": "He's a handful",
+      "chinese": "他可不省心"
+    },
+    {
+      "num": 86,
+      "word": "She's an angel",
+      "chinese": "她是个小天使"
+    },
+    {
+      "num": 87,
+      "word": "Just had number three",
+      "chinese": "刚生了老三"
+    },
+    {
+      "num": 88,
+      "word": "She's got me wrapped around her finger",
+      "chinese": "她把我吃得死死的"
+    },
+    {
+      "section": "7. Pets"
+    },
+    {
+      "num": 89,
+      "word": "How's the dog?",
+      "chinese": "狗狗怎么样？"
+    },
+    {
+      "num": 90,
+      "word": "Got any pets?",
+      "chinese": "你有宠物吗？"
+    },
+    {
+      "num": 91,
+      "word": "Such a cutie",
+      "chinese": "好可爱"
+    },
+    {
+      "num": 92,
+      "word": "He's spoilt rotten",
+      "chinese": "他被宠坏了"
+    },
+    {
+      "num": 93,
+      "word": "We just got a puppy",
+      "chinese": "我们刚养了只小狗"
+    },
+    {
+      "num": 94,
+      "word": "She's getting on a bit",
+      "chinese": "她有点老了"
+    },
+    {
+      "num": 95,
+      "word": "Vet bills, ugh",
+      "chinese": "兽医账单，唉"
+    },
+    {
+      "num": 96,
+      "word": "He's part of the family",
+      "chinese": "他是家庭的一员"
+    },
+    {
+      "num": 97,
+      "word": "She's a rescue",
+      "chinese": "她是收养的"
+    },
+    {
+      "num": 98,
+      "word": "He's a real character",
+      "chinese": "他真有个性"
+    },
+    {
+      "section": "8. Holiday / Travel"
+    },
+    {
+      "num": 99,
+      "word": "Been anywhere nice?",
+      "chinese": "去过什么好地方吗？"
+    },
+    {
+      "num": 100,
+      "word": "Got any holidays coming up?",
+      "chinese": "有要去旅游吗？"
+    },
+    {
+      "num": 101,
+      "word": "Where did you end up?",
+      "chinese": "最后去哪儿了？"
+    },
+    {
+      "num": 102,
+      "word": "How was the trip?",
+      "chinese": "旅行怎么样？"
+    },
+    {
+      "num": 103,
+      "word": "It was amazing",
+      "chinese": "棒极了"
+    },
+    {
+      "num": 104,
+      "word": "Flight was a nightmare",
+      "chinese": "航班太糟了"
+    },
+    {
+      "num": 105,
+      "word": "Food was incredible",
+      "chinese": "食物超棒"
+    },
+    {
+      "num": 106,
+      "word": "Weather was perfect",
+      "chinese": "天气完美"
+    },
+    {
+      "num": 107,
+      "word": "We needed it",
+      "chinese": "我们正需要那次旅行"
+    },
+    {
+      "num": 108,
+      "word": "Already counting down to the next one",
+      "chinese": "已经在数着下次了"
+    },
+    {
+      "num": 109,
+      "word": "Took loads of photos",
+      "chinese": "拍了一堆照片"
+    },
+    {
+      "num": 110,
+      "word": "Booked anything yet?",
+      "chinese": "订好了吗？"
+    },
+    {
+      "num": 111,
+      "word": "We're saving up",
+      "chinese": "我们在攒钱"
+    },
+    {
+      "num": 112,
+      "word": "Bali's on the cards",
+      "chinese": "巴厘岛在计划中"
+    },
+    {
+      "num": 113,
+      "word": "Did a road trip",
+      "chinese": "自驾游了一趟"
+    },
+    {
+      "num": 114,
+      "word": "Stayed at an Airbnb",
+      "chinese": "住的是Airbnb"
+    },
+    {
+      "section": "9. Movies & TV"
+    },
+    {
+      "num": 115,
+      "word": "Seen anything good lately?",
+      "chinese": "最近看什么好片了？"
+    },
+    {
+      "num": 116,
+      "word": "Have you watched...?",
+      "chinese": "你看过…吗？"
+    },
+    {
+      "num": 117,
+      "word": "Seen the new...?",
+      "chinese": "看了新的…没？"
+    },
+    {
+      "num": 118,
+      "word": "Binge-watching at the moment",
+      "chinese": "最近在追剧"
+    },
+    {
+      "num": 119,
+      "word": "It's so good, you'd love it",
+      "chinese": "很好看，你会喜欢"
+    },
+    {
+      "num": 120,
+      "word": "Don't spoil it",
+      "chinese": "别剧透"
+    },
+    {
+      "num": 121,
+      "word": "I cried!",
+      "chinese": "我哭了！"
+    },
+    {
+      "num": 122,
+      "word": "Couldn't get into it",
+      "chinese": "看不进去"
+    },
+    {
+      "num": 123,
+      "word": "Bit of a slow burn",
+      "chinese": "有点慢热"
+    },
+    {
+      "num": 124,
+      "word": "Haven't watched TV in ages",
+      "chinese": "好久没看电视了"
+    },
+    {
+      "num": 125,
+      "word": "What's on Netflix?",
+      "chinese": "Netflix上有啥？"
+    },
+    {
+      "num": 126,
+      "word": "Worth a watch?",
+      "chinese": "值得看吗？"
+    },
+    {
+      "num": 127,
+      "word": "The reviews are mixed",
+      "chinese": "评价褒贬不一"
+    },
+    {
+      "num": 128,
+      "word": "Made me ugly cry",
+      "chinese": "看哭了"
+    },
+    {
+      "section": "10. Music & Concerts"
+    },
+    {
+      "num": 129,
+      "word": "Heard the new...?",
+      "chinese": "听了新的…没？"
+    },
+    {
+      "num": 130,
+      "word": "Going to any gigs?",
+      "chinese": "去看演出吗？"
+    },
+    {
+      "num": 131,
+      "word": "Saw them live last year",
+      "chinese": "去年看过他们现场"
+    },
+    {
+      "num": 132,
+      "word": "It was epic",
+      "chinese": "超棒"
+    },
+    {
+      "num": 133,
+      "word": "Tickets cost a fortune",
+      "chinese": "票贵死了"
+    },
+    {
+      "num": 134,
+      "word": "I'm into a bit of everything",
+      "chinese": "我什么都听"
+    },
+    {
+      "num": 135,
+      "word": "I had it on repeat",
+      "chinese": "我循环播放"
+    },
+    {
+      "num": 136,
+      "word": "He's overrated",
+      "chinese": "他被高估了"
+    },
+    {
+      "num": 137,
+      "word": "Festival season's coming",
+      "chinese": "音乐节季节要来了"
+    },
+    {
+      "num": 138,
+      "word": "Vinyl's back",
+      "chinese": "黑胶又流行了"
+    },
+    {
+      "section": "11. Sports (Aussie flavour)"
+    },
+    {
+      "num": 139,
+      "word": "Did you watch the game?",
+      "chinese": "看比赛了吗？"
+    },
+    {
+      "num": 140,
+      "word": "What a match!",
+      "chinese": "什么比赛啊！"
+    },
+    {
+      "num": 141,
+      "word": "Robbery!",
+      "chinese": "抢劫！；明显不公！"
+    },
+    {
+      "num": 142,
+      "word": "Did you see that goal?",
+      "chinese": "看到那个进球了吗？"
+    },
+    {
+      "num": 143,
+      "word": "We got smashed",
+      "chinese": "我们被打惨了"
+    },
+    {
+      "num": 144,
+      "word": "Maybe next year",
+      "chinese": "也许明年吧"
+    },
+    {
+      "num": 145,
+      "word": "Are you a footy fan?",
+      "chinese": "你看足球吗？(AUS)"
+    },
+    {
+      "num": 146,
+      "word": "Cricket season's started",
+      "chinese": "板球季开始了 (AUS)"
+    },
+    {
+      "num": 147,
+      "word": "The grand final's on",
+      "chinese": "总决赛要打了 (AUS)"
+    },
+    {
+      "num": 148,
+      "word": "The Ashes are coming",
+      "chinese": "灰烬杯要来了 (AUS-英板球对决)"
+    },
+    {
+      "num": 149,
+      "word": "Up the Roos!",
+      "chinese": "袋鼠队加油！(AUS足球)"
+    },
+    {
+      "num": 150,
+      "word": "I'm not really into sports",
+      "chinese": "我不太喜欢体育"
+    },
+    {
+      "section": "12. Hobbies & Interests"
+    },
+    {
+      "num": 151,
+      "word": "What do you do for fun?",
+      "chinese": "你平时喜欢做什么？"
+    },
+    {
+      "num": 152,
+      "word": "I've been getting into...",
+      "chinese": "我最近迷上了…"
+    },
+    {
+      "num": 153,
+      "word": "Have you tried...?",
+      "chinese": "你试过…吗？"
+    },
+    {
+      "num": 154,
+      "word": "I gave it a go",
+      "chinese": "我试了一下"
+    },
+    {
+      "num": 155,
+      "word": "It's not really my thing",
+      "chinese": "不太合我"
+    },
+    {
+      "num": 156,
+      "word": "I'm a bit obsessed",
+      "chinese": "我有点上瘾"
+    },
+    {
+      "num": 157,
+      "word": "How long have you been doing that?",
+      "chinese": "你做多久了？"
+    },
+    {
+      "num": 158,
+      "word": "Great way to switch off",
+      "chinese": "放空的好方式"
+    },
+    {
+      "num": 159,
+      "word": "I should pick it up again",
+      "chinese": "我该重新开始"
+    },
+    {
+      "num": 160,
+      "word": "Just me time",
+      "chinese": "就是自己的独处时间"
+    },
+    {
+      "num": 161,
+      "word": "Getting back into the gym",
+      "chinese": "重新开始去健身房"
+    },
+    {
+      "num": 162,
+      "word": "Started a podcast",
+      "chinese": "开了个播客"
+    },
+    {
+      "section": "13. Food & Eating Out"
+    },
+    {
+      "num": 163,
+      "word": "Tried that new place?",
+      "chinese": "试过那家新店吗？"
+    },
+    {
+      "num": 164,
+      "word": "I'm starving",
+      "chinese": "饿死了"
+    },
+    {
+      "num": 165,
+      "word": "Where do you want to eat?",
+      "chinese": "你想吃什么？"
+    },
+    {
+      "num": 166,
+      "word": "Anywhere good around here?",
+      "chinese": "附近有什么好吃的吗？"
+    },
+    {
+      "num": 167,
+      "word": "It's overrated",
+      "chinese": "被高估了"
+    },
+    {
+      "num": 168,
+      "word": "Can't beat a home-cooked meal",
+      "chinese": "家常饭最棒"
+    },
+    {
+      "num": 169,
+      "word": "Definitely going back",
+      "chinese": "肯定还会再去"
+    },
+    {
+      "num": 170,
+      "word": "I'm on a bit of a diet",
+      "chinese": "我在节食"
+    },
+    {
+      "num": 171,
+      "word": "Cheat day!",
+      "chinese": "放纵日！"
+    },
+    {
+      "num": 172,
+      "word": "Worth every calorie",
+      "chinese": "值得每一卡路里"
+    },
+    {
+      "num": 173,
+      "word": "Smashed avo for brekkie?",
+      "chinese": "早餐来个牛油果泥吐司？(AUS)"
+    },
+    {
+      "num": 174,
+      "word": "Wanna grab a coffee?",
+      "chinese": "要不要去喝杯咖啡？"
+    },
+    {
+      "section": "14. Compliments"
+    },
+    {
+      "num": 175,
+      "word": "You look great",
+      "chinese": "你看起来真好"
+    },
+    {
+      "num": 176,
+      "word": "Love your outfit",
+      "chinese": "我喜欢你的穿搭"
+    },
+    {
+      "num": 177,
+      "word": "Where did you get those?",
+      "chinese": "在哪里买的？"
+    },
+    {
+      "num": 178,
+      "word": "Have you done something different?",
+      "chinese": "你是不是有点不一样？"
+    },
+    {
+      "num": 179,
+      "word": "You haven't changed a bit",
+      "chinese": "你一点都没变"
+    },
+    {
+      "num": 180,
+      "word": "You've lost weight!",
+      "chinese": "你瘦了！"
+    },
+    {
+      "num": 181,
+      "word": "Suits you",
+      "chinese": "很适合你"
+    },
+    {
+      "num": 182,
+      "word": "That colour really suits you",
+      "chinese": "这颜色很衬你"
+    },
+    {
+      "num": 183,
+      "word": "Nice shoes",
+      "chinese": "鞋子不错"
+    },
+    {
+      "num": 184,
+      "word": "You smell amazing",
+      "chinese": "你闻起来真香"
+    },
+    {
+      "num": 185,
+      "word": "Glow-up much?",
+      "chinese": "状态超棒啊？"
+    },
+    {
+      "num": 186,
+      "word": "Loving the new hair",
+      "chinese": "新发型很好看"
+    },
+    {
+      "section": "15. Light Complaints"
+    },
+    {
+      "num": 187,
+      "word": "This traffic!",
+      "chinese": "这交通！"
+    },
+    {
+      "num": 188,
+      "word": "Mondays, eh?",
+      "chinese": "星期一啊"
+    },
+    {
+      "num": 189,
+      "word": "So over winter",
+      "chinese": "受够冬天了"
+    },
+    {
+      "num": 190,
+      "word": "Bloody hot today",
+      "chinese": "今天热死了"
+    },
+    {
+      "num": 191,
+      "word": "These prices are ridiculous",
+      "chinese": "这价格太离谱"
+    },
+    {
+      "num": 192,
+      "word": "Everything's gone up",
+      "chinese": "什么都涨价了"
+    },
+    {
+      "num": 193,
+      "word": "Where does the time go?",
+      "chinese": "时间都去哪了？"
+    },
+    {
+      "num": 194,
+      "word": "Getting too old for this",
+      "chinese": "年纪大了不行了"
+    },
+    {
+      "num": 195,
+      "word": "My back's killing me",
+      "chinese": "我的腰要废了"
+    },
+    {
+      "num": 196,
+      "word": "Don't get me started",
+      "chinese": "别让我开始抱怨"
+    },
+    {
+      "num": 197,
+      "word": "Mate, the cost of living",
+      "chinese": "兄弟，这生活成本啊"
+    },
+    {
+      "num": 198,
+      "word": "Petrol's gone through the roof",
+      "chinese": "油价飞了"
+    },
+    {
+      "section": "16. Health & Energy"
+    },
+    {
+      "num": 199,
+      "word": "How are you holding up?",
+      "chinese": "你撑得住吗？"
+    },
+    {
+      "num": 200,
+      "word": "I'm shattered",
+      "chinese": "我累垮了"
+    },
+    {
+      "num": 201,
+      "word": "Could use another coffee",
+      "chinese": "再来一杯咖啡"
+    },
+    {
+      "num": 202,
+      "word": "Running on caffeine",
+      "chinese": "靠咖啡因撑着"
+    },
+    {
+      "num": 203,
+      "word": "Didn't sleep a wink",
+      "chinese": "一夜没睡"
+    },
+    {
+      "num": 204,
+      "word": "Fighting off something",
+      "chinese": "感觉要生病了"
+    },
+    {
+      "num": 205,
+      "word": "On the mend",
+      "chinese": "在恢复中"
+    },
+    {
+      "num": 206,
+      "word": "Bit run down",
+      "chinese": "有点虚弱"
+    },
+    {
+      "num": 207,
+      "word": "Need a holiday",
+      "chinese": "需要放假"
+    },
+    {
+      "num": 208,
+      "word": "Dragging today",
+      "chinese": "今天没劲"
+    },
+    {
+      "num": 209,
+      "word": "Crook as a dog",
+      "chinese": "病得很重 (AUS)"
+    },
+    {
+      "num": 210,
+      "word": "Feel like death warmed up",
+      "chinese": "感觉像快死了"
+    },
+    {
+      "section": "17. Catching Up"
+    },
+    {
+      "num": 211,
+      "word": "Long time, no see!",
+      "chinese": "好久不见！"
+    },
+    {
+      "num": 212,
+      "word": "It's been ages",
+      "chinese": "好久了"
+    },
+    {
+      "num": 213,
+      "word": "How have you been?",
+      "chinese": "你最近怎么样？"
+    },
+    {
+      "num": 214,
+      "word": "What have you been up to?",
+      "chinese": "最近都在忙什么？"
+    },
+    {
+      "num": 215,
+      "word": "We should do this more often",
+      "chinese": "应该常这样聚聚"
+    },
+    {
+      "num": 216,
+      "word": "Need to catch up properly",
+      "chinese": "我们得好好聊聊"
+    },
+    {
+      "num": 217,
+      "word": "Time flies",
+      "chinese": "时间飞逝"
+    },
+    {
+      "num": 218,
+      "word": "You haven't changed",
+      "chinese": "你没变"
+    },
+    {
+      "num": 219,
+      "word": "It's been too long",
+      "chinese": "太久没见了"
+    },
+    {
+      "num": 220,
+      "word": "Sort out a date",
+      "chinese": "约个时间"
+    },
+    {
+      "num": 221,
+      "word": "We're well overdue",
+      "chinese": "我们早该聚了"
+    },
+    {
+      "num": 222,
+      "word": "What's new with you?",
+      "chinese": "你最近有什么新鲜事？"
+    },
+    {
+      "section": "18. Christmas, Easter & Birthdays"
+    },
+    {
+      "num": 223,
+      "word": "Got any plans for Chrissy?",
+      "chinese": "圣诞节有什么安排？(AUS)"
+    },
+    {
+      "num": 224,
+      "word": "Doing anything for Easter?",
+      "chinese": "复活节有什么打算？"
+    },
+    {
+      "num": 225,
+      "word": "Happy birthday!",
+      "chinese": "生日快乐！"
+    },
+    {
+      "num": 226,
+      "word": "Did you have a good one?",
+      "chinese": "过得好吗？"
+    },
+    {
+      "num": 227,
+      "word": "Got anything planned?",
+      "chinese": "有什么安排？"
+    },
+    {
+      "num": 228,
+      "word": "Doing anything for your birthday?",
+      "chinese": "生日有什么打算？"
+    },
+    {
+      "num": 229,
+      "word": "Just keeping it low-key",
+      "chinese": "就低调一下"
+    },
+    {
+      "num": 230,
+      "word": "Big party?",
+      "chinese": "大派对吗？"
+    },
+    {
+      "num": 231,
+      "word": "How was Christmas?",
+      "chinese": "圣诞节怎么样？"
+    },
+    {
+      "num": 232,
+      "word": "Did you get spoilt?",
+      "chinese": "礼物多吗？"
+    },
+    {
+      "num": 233,
+      "word": "I ate too much",
+      "chinese": "吃太多了"
+    },
+    {
+      "num": 234,
+      "word": "Back to reality",
+      "chinese": "回归现实"
+    },
+    {
+      "num": 235,
+      "word": "Boxing Day sales?",
+      "chinese": "节礼日大促去吗？"
+    },
+    {
+      "num": 236,
+      "word": "Festive season's full on",
+      "chinese": "节日季火力全开"
+    },
+    {
+      "section": "19. Memory & Nostalgia"
+    },
+    {
+      "num": 237,
+      "word": "Remember when...?",
+      "chinese": "还记得…的时候吗？"
+    },
+    {
+      "num": 238,
+      "word": "Those were the days",
+      "chinese": "那些日子真好"
+    },
+    {
+      "num": 239,
+      "word": "I miss the good old days",
+      "chinese": "我怀念过去"
+    },
+    {
+      "num": 240,
+      "word": "Where did the time go?",
+      "chinese": "时间都去哪了？"
+    },
+    {
+      "num": 241,
+      "word": "Feels like yesterday",
+      "chinese": "感觉像昨天"
+    },
+    {
+      "num": 242,
+      "word": "Kids today have no idea",
+      "chinese": "现在的小孩不懂"
+    },
+    {
+      "num": 243,
+      "word": "We used to...",
+      "chinese": "我们以前…"
+    },
+    {
+      "num": 244,
+      "word": "Things were different back then",
+      "chinese": "以前不一样"
+    },
+    {
+      "num": 245,
+      "word": "Brings back memories",
+      "chinese": "勾起回忆"
+    },
+    {
+      "num": 246,
+      "word": "Takes me back",
+      "chinese": "让我想起以前"
+    },
+    {
+      "section": "20. Future Plans"
+    },
+    {
+      "num": 247,
+      "word": "Any big plans this year?",
+      "chinese": "今年有什么大计划？"
+    },
+    {
+      "num": 248,
+      "word": "What's next for you?",
+      "chinese": "你接下来要做什么？"
+    },
+    {
+      "num": 249,
+      "word": "I'm thinking of...",
+      "chinese": "我在考虑…"
+    },
+    {
+      "num": 250,
+      "word": "We're hoping to...",
+      "chinese": "我们希望…"
+    },
+    {
+      "num": 251,
+      "word": "On the bucket list",
+      "chinese": "在心愿单上"
+    },
+    {
+      "num": 252,
+      "word": "One day!",
+      "chinese": "总有一天！"
+    },
+    {
+      "num": 253,
+      "word": "Maybe next year",
+      "chinese": "也许明年吧"
+    },
+    {
+      "num": 254,
+      "word": "Got something in the pipeline",
+      "chinese": "有个事情在筹划"
+    },
+    {
+      "num": 255,
+      "word": "Watch this space",
+      "chinese": "拭目以待"
+    },
+    {
+      "num": 256,
+      "word": "Fingers crossed",
+      "chinese": "祈祷顺利"
+    },
+    {
+      "num": 257,
+      "word": "I'm manifesting it",
+      "chinese": "我在心想事成中"
+    },
+    {
+      "num": 258,
+      "word": "We'll see how it goes",
+      "chinese": "走一步看一步"
+    },
+    {
+      "section": "21. Queue / Public Transport / Lift"
+    },
+    {
+      "num": 259,
+      "word": "Queue's moving slow",
+      "chinese": "队伍走得真慢"
+    },
+    {
+      "num": 260,
+      "word": "Need more staff on",
+      "chinese": "应该多派点人手"
+    },
+    {
+      "num": 261,
+      "word": "Going up?",
+      "chinese": "上楼吗？"
+    },
+    {
+      "num": 262,
+      "word": "Floor please?",
+      "chinese": "几楼？"
+    },
+    {
+      "num": 263,
+      "word": "Public transport, eh?",
+      "chinese": "公共交通啊"
+    },
+    {
+      "num": 264,
+      "word": "Train's late again",
+      "chinese": "火车又晚点"
+    },
+    {
+      "num": 265,
+      "word": "Nice and quiet today",
+      "chinese": "今天挺安静"
+    },
+    {
+      "num": 266,
+      "word": "Always packed this time",
+      "chinese": "这个时间总是挤"
+    },
+    {
+      "num": 267,
+      "word": "Trying to get home?",
+      "chinese": "在赶着回家吗？"
+    },
+    {
+      "num": 268,
+      "word": "Long day?",
+      "chinese": "辛苦一天了？"
+    },
+    {
+      "num": 269,
+      "word": "Get on alright?",
+      "chinese": "搭得顺利吗？"
+    },
+    {
+      "num": 270,
+      "word": "Mind the gap",
+      "chinese": "小心间隙"
+    },
+    {
+      "section": "22. Around the House / DIY / Neighbour"
+    },
+    {
+      "num": 271,
+      "word": "Doing any work on the house?",
+      "chinese": "在装修房子吗？"
+    },
+    {
+      "num": 272,
+      "word": "Garden's looking great",
+      "chinese": "花园看起来真不错"
+    },
+    {
+      "num": 273,
+      "word": "How are the neighbours?",
+      "chinese": "邻居怎么样？"
+    },
+    {
+      "num": 274,
+      "word": "We're doing a reno",
+      "chinese": "我们在翻新"
+    },
+    {
+      "num": 275,
+      "word": "Tradies in this week",
+      "chinese": "这周有工人来"
+    },
+    {
+      "num": 276,
+      "word": "Lawn needs a mow",
+      "chinese": "草坪该剪了"
+    },
+    {
+      "num": 277,
+      "word": "The roof's leaking",
+      "chinese": "屋顶漏水了"
+    },
+    {
+      "num": 278,
+      "word": "Need to declutter",
+      "chinese": "需要整理一下"
+    },
+    {
+      "num": 279,
+      "word": "Found a great cleaner",
+      "chinese": "找到一个超棒的清洁工"
+    },
+    {
+      "num": 280,
+      "word": "Council's at it again",
+      "chinese": "市政厅又在搞事 (AUS)"
+    },
+    {
+      "num": 281,
+      "word": "Bins go out tonight",
+      "chinese": "今晚要倒垃圾"
+    },
+    {
+      "num": 282,
+      "word": "Got that fixed yet?",
+      "chinese": "修好了吗？"
+    },
+    {
+      "section": "23. Asking About Their Day"
+    },
+    {
+      "num": 283,
+      "word": "How's your day been?",
+      "chinese": "今天怎么样？"
+    },
+    {
+      "num": 284,
+      "word": "How's it going?",
+      "chinese": "怎么样？"
+    },
+    {
+      "num": 285,
+      "word": "Hanging in there?",
+      "chinese": "撑得住吗？"
+    },
+    {
+      "num": 286,
+      "word": "Surviving?",
+      "chinese": "还活着吧？"
+    },
+    {
+      "num": 287,
+      "word": "Better now I've seen you",
+      "chinese": "见到你心情好多了"
+    },
+    {
+      "num": 288,
+      "word": "Been one of those days",
+      "chinese": "就是糟糕的一天"
+    },
+    {
+      "num": 289,
+      "word": "Could be worse",
+      "chinese": "还可以更糟"
+    },
+    {
+      "num": 290,
+      "word": "Same as always",
+      "chinese": "和往常一样"
+    },
+    {
+      "num": 291,
+      "word": "Living the dream",
+      "chinese": "梦想成真 (常常反讽)"
+    },
+    {
+      "num": 292,
+      "word": "Can't complain",
+      "chinese": "没啥可抱怨的"
+    },
+    {
+      "section": "24. Dating / Romance Small Talk"
+    },
+    {
+      "num": 293,
+      "word": "Are you seeing anyone?",
+      "chinese": "你在和谁交往吗？"
+    },
+    {
+      "num": 294,
+      "word": "How did you two meet?",
+      "chinese": "你俩怎么认识的？"
+    },
+    {
+      "num": 295,
+      "word": "How long have you been together?",
+      "chinese": "你们在一起多久了？"
+    },
+    {
+      "num": 296,
+      "word": "She's the one",
+      "chinese": "她是我命定的"
+    },
+    {
+      "num": 297,
+      "word": "He's a keeper",
+      "chinese": "他值得留下"
+    },
+    {
+      "num": 298,
+      "word": "Wedding bells?",
+      "chinese": "要结婚啦？"
+    },
+    {
+      "num": 299,
+      "word": "It's complicated",
+      "chinese": "一言难尽"
+    },
+    {
+      "num": 300,
+      "word": "Just dating, nothing serious",
+      "chinese": "只是约会，没正式"
+    },
+    {
+      "num": 301,
+      "word": "Met online",
+      "chinese": "网上认识的"
+    },
+    {
+      "num": 302,
+      "word": "Childhood sweethearts",
+      "chinese": "青梅竹马"
+    },
+    {
+      "section": "25. Closing the Chat"
+    },
+    {
+      "num": 303,
+      "word": "Anyway, I'll let you get on",
+      "chinese": "好了，我就不耽误你了"
+    },
+    {
+      "num": 304,
+      "word": "Was great catching up",
+      "chinese": "很高兴聊聊"
+    },
+    {
+      "num": 305,
+      "word": "Lovely chatting to you",
+      "chinese": "很高兴和你聊天"
+    },
+    {
+      "num": 306,
+      "word": "Should grab a coffee sometime",
+      "chinese": "改天约咖啡"
+    },
+    {
+      "num": 307,
+      "word": "Have a good one",
+      "chinese": "祝你愉快"
+    },
+    {
+      "num": 308,
+      "word": "Take care",
+      "chinese": "保重"
+    },
+    {
+      "num": 309,
+      "word": "Say hi to the family",
+      "chinese": "向家人问好"
+    },
+    {
+      "num": 310,
+      "word": "I'd better dash",
+      "chinese": "我该走了"
+    },
+    {
+      "num": 311,
+      "word": "I won't keep you",
+      "chinese": "不耽误你了"
+    },
+    {
+      "num": 312,
+      "word": "Tell them I said hi",
+      "chinese": "替我向他们问好"
+    },
+    {
+      "num": 313,
+      "word": "Catch you later",
+      "chinese": "回头见"
+    },
+    {
+      "num": 314,
+      "word": "Look after yourself",
+      "chinese": "照顾好自己"
+    },
+    {
+      "section": "26. Aussie BBQ & Backyard"
+    },
+    {
+      "num": 315,
+      "word": "Throw another snag on the barbie",
+      "chinese": "再扔根香肠到烤架上 (AUS)"
+    },
+    {
+      "num": 316,
+      "word": "Help yourself",
+      "chinese": "随便拿吃的"
+    },
+    {
+      "num": 317,
+      "word": "Bring a plate",
+      "chinese": "带个菜来 (AUS聚会用语)"
+    },
+    {
+      "num": 318,
+      "word": "BYO drinks",
+      "chinese": "酒水自带 (AUS)"
+    },
+    {
+      "num": 319,
+      "word": "Who needs a top-up?",
+      "chinese": "谁要续杯？"
+    },
+    {
+      "num": 320,
+      "word": "These snags are unreal",
+      "chinese": "这些香肠太赞了 (AUS)"
+    },
+    {
+      "num": 321,
+      "word": "Pass me a stubbie",
+      "chinese": "给我递瓶啤酒 (AUS)"
+    },
+    {
+      "num": 322,
+      "word": "Set up out the back",
+      "chinese": "在后院搞起来"
+    },
+    {
+      "num": 323,
+      "word": "Sausage on white bread",
+      "chinese": "白面包夹香肠 (AUS经典)"
+    },
+    {
+      "num": 324,
+      "word": "Onion or no onion?",
+      "chinese": "要不要洋葱？"
+    },
+    {
+      "num": 325,
+      "word": "Cheers, mate",
+      "chinese": "干杯，兄弟"
+    },
+    {
+      "num": 326,
+      "word": "Beauty of a day for it",
+      "chinese": "今天天气真适合"
+    },
+    {
+      "section": "27. Weddings & Engagements"
+    },
+    {
+      "num": 327,
+      "word": "Congratulations, you two!",
+      "chinese": "祝贺你们俩！"
+    },
+    {
+      "num": 328,
+      "word": "You make a beautiful couple",
+      "chinese": "你们真是天造地设"
+    },
+    {
+      "num": 329,
+      "word": "Have you set a date?",
+      "chinese": "定日子了吗？"
+    },
+    {
+      "num": 330,
+      "word": "Where's the venue?",
+      "chinese": "在哪里办？"
+    },
+    {
+      "num": 331,
+      "word": "How did he propose?",
+      "chinese": "他怎么求婚的？"
+    },
+    {
+      "num": 332,
+      "word": "Show us the ring!",
+      "chinese": "给我们看看戒指！"
+    },
+    {
+      "num": 333,
+      "word": "Are you nervous?",
+      "chinese": "紧张吗？"
+    },
+    {
+      "num": 334,
+      "word": "Where are you going for the honeymoon?",
+      "chinese": "蜜月去哪儿？"
+    },
+    {
+      "num": 335,
+      "word": "Lovely ceremony",
+      "chinese": "婚礼很美"
+    },
+    {
+      "num": 336,
+      "word": "Best wedding I've been to",
+      "chinese": "我参加过最棒的婚礼"
+    },
+    {
+      "section": "28. Reacting to Bad News (Sympathy)"
+    },
+    {
+      "num": 337,
+      "word": "Oh no, I'm so sorry",
+      "chinese": "天啊，我很遗憾"
+    },
+    {
+      "num": 338,
+      "word": "That's terrible",
+      "chinese": "太糟糕了"
+    },
+    {
+      "num": 339,
+      "word": "How awful",
+      "chinese": "真可怕"
+    },
+    {
+      "num": 340,
+      "word": "Are you okay?",
+      "chinese": "你还好吗？"
+    },
+    {
+      "num": 341,
+      "word": "Is there anything I can do?",
+      "chinese": "有什么我能帮的吗？"
+    },
+    {
+      "num": 342,
+      "word": "Thinking of you",
+      "chinese": "想着你"
+    },
+    {
+      "num": 343,
+      "word": "I'm here if you need me",
+      "chinese": "需要我就找我"
+    },
+    {
+      "num": 344,
+      "word": "Take your time",
+      "chinese": "慢慢来"
+    },
+    {
+      "num": 345,
+      "word": "That must be so hard",
+      "chinese": "肯定很难受"
+    },
+    {
+      "num": 346,
+      "word": "Wishing you strength",
+      "chinese": "祝你坚强"
+    },
+    {
+      "section": "29. Reacting to Good News (Congrats)"
+    },
+    {
+      "num": 347,
+      "word": "Congratulations!",
+      "chinese": "恭喜！"
+    },
+    {
+      "num": 348,
+      "word": "That's amazing!",
+      "chinese": "太棒了！"
+    },
+    {
+      "num": 349,
+      "word": "I'm so happy for you",
+      "chinese": "我替你高兴"
+    },
+    {
+      "num": 350,
+      "word": "You deserve it",
+      "chinese": "你应得的"
+    },
+    {
+      "num": 351,
+      "word": "About bloody time!",
+      "chinese": "终于轮到你了！(AUS)"
+    },
+    {
+      "num": 352,
+      "word": "Well done you!",
+      "chinese": "真棒！"
+    },
+    {
+      "num": 353,
+      "word": "You've earned it",
+      "chinese": "你挣来的"
+    },
+    {
+      "num": 354,
+      "word": "This calls for a drink",
+      "chinese": "得喝一杯庆祝"
+    },
+    {
+      "num": 355,
+      "word": "Tell me everything",
+      "chinese": "全告诉我"
+    },
+    {
+      "num": 356,
+      "word": "I knew you could do it",
+      "chinese": "我就知道你能做到"
+    },
+    {
+      "section": "30. Pregnancy & Baby News"
+    },
+    {
+      "num": 357,
+      "word": "When are you due?",
+      "chinese": "预产期什么时候？"
+    },
+    {
+      "num": 358,
+      "word": "Do you know the gender?",
+      "chinese": "知道性别吗？"
+    },
+    {
+      "num": 359,
+      "word": "How are you feeling?",
+      "chinese": "你感觉怎么样？"
+    },
+    {
+      "num": 360,
+      "word": "Got any names picked out?",
+      "chinese": "起好名字了吗？"
+    },
+    {
+      "num": 361,
+      "word": "Bub's first?",
+      "chinese": "这是第一个宝宝吗？(AUS)"
+    },
+    {
+      "num": 362,
+      "word": "How's mum doing?",
+      "chinese": "妈妈怎么样？"
+    },
+    {
+      "num": 363,
+      "word": "He's gorgeous",
+      "chinese": "他真漂亮"
+    },
+    {
+      "num": 364,
+      "word": "She's a little cutie",
+      "chinese": "她是个小可爱"
+    },
+    {
+      "num": 365,
+      "word": "Sleeping much?",
+      "chinese": "睡得多吗？"
+    },
+    {
+      "num": 366,
+      "word": "Enjoy every minute",
+      "chinese": "享受每一刻"
+    },
+    {
+      "section": "31. Cost of Living (AUS)"
+    },
+    {
+      "num": 367,
+      "word": "Cost of living's killing me",
+      "chinese": "生活成本要把我整死了"
+    },
+    {
+      "num": 368,
+      "word": "Petrol's gone through the roof",
+      "chinese": "油价飞了"
+    },
+    {
+      "num": 369,
+      "word": "Groceries are insane",
+      "chinese": "买菜贵死了"
+    },
+    {
+      "num": 370,
+      "word": "Power bill made me cry",
+      "chinese": "电费让我哭了"
+    },
+    {
+      "num": 371,
+      "word": "Interest rates went up again",
+      "chinese": "利率又涨了"
+    },
+    {
+      "num": 372,
+      "word": "Everything's gone up",
+      "chinese": "什么都涨价了"
+    },
+    {
+      "num": 373,
+      "word": "We're tightening the belt",
+      "chinese": "我们在勒紧腰带"
+    },
+    {
+      "num": 374,
+      "word": "Living paycheck to paycheck",
+      "chinese": "月光族"
+    },
+    {
+      "num": 375,
+      "word": "Coles vs Woolies?",
+      "chinese": "Coles 还是 Woolies？(AUS两大超市)"
+    },
+    {
+      "num": 376,
+      "word": "Where do you fill up?",
+      "chinese": "你在哪里加油？"
+    },
+    {
+      "num": 377,
+      "word": "Gotta watch every dollar",
+      "chinese": "得精打细算"
+    },
+    {
+      "num": 378,
+      "word": "It's brutal out there",
+      "chinese": "现在日子真难"
+    },
+    {
+      "section": "32. Housing & Mortgage Talk"
+    },
+    {
+      "num": 379,
+      "word": "Did you buy or rent?",
+      "chinese": "你买的还是租的？"
+    },
+    {
+      "num": 380,
+      "word": "Auction this weekend?",
+      "chinese": "周末有拍卖吗？"
+    },
+    {
+      "num": 381,
+      "word": "The market's gone mental",
+      "chinese": "市场疯了"
+    },
+    {
+      "num": 382,
+      "word": "Rents are insane",
+      "chinese": "房租贵死了"
+    },
+    {
+      "num": 383,
+      "word": "Looking to upsize",
+      "chinese": "想换大点的"
+    },
+    {
+      "num": 384,
+      "word": "Just refinanced",
+      "chinese": "刚重新贷款"
+    },
+    {
+      "num": 385,
+      "word": "The mortgage is brutal",
+      "chinese": "房贷压力山大"
+    },
+    {
+      "num": 386,
+      "word": "Saving for a deposit",
+      "chinese": "在攒首付"
+    },
+    {
+      "num": 387,
+      "word": "Got into the market",
+      "chinese": "进了房市"
+    },
+    {
+      "num": 388,
+      "word": "Best decision we ever made",
+      "chinese": "我们做过最好的决定"
+    },
+    {
+      "section": "33. Beach & Surf (AUS)"
+    },
+    {
+      "num": 389,
+      "word": "Heading to the beach?",
+      "chinese": "去海滩吗？"
+    },
+    {
+      "num": 390,
+      "word": "Surf's up!",
+      "chinese": "可以冲浪了！"
+    },
+    {
+      "num": 391,
+      "word": "Swell's looking good",
+      "chinese": "浪不错"
+    },
+    {
+      "num": 392,
+      "word": "Watch out for rips",
+      "chinese": "小心暗流 (AUS)"
+    },
+    {
+      "num": 393,
+      "word": "Bit of a shore break",
+      "chinese": "岸边浪有点大"
+    },
+    {
+      "num": 394,
+      "word": "Stinger season",
+      "chinese": "水母季 (AUS)"
+    },
+    {
+      "num": 395,
+      "word": "Bluebottles washing up",
+      "chinese": "蓝瓶水母被冲上来了 (AUS)"
+    },
+    {
+      "num": 396,
+      "word": "Sun's brutal today",
+      "chinese": "今天太阳真毒"
+    },
+    {
+      "num": 397,
+      "word": "Slip, slop, slap!",
+      "chinese": "穿衣、涂霜、戴帽！(AUS防晒口号)"
+    },
+    {
+      "num": 398,
+      "word": "Coming for a dip?",
+      "chinese": "来游一下吗？"
+    },
+    {
+      "section": "34. Phone, Tech & Reception"
+    },
+    {
+      "num": 399,
+      "word": "Sorry, bad reception",
+      "chinese": "抱歉，信号不好"
+    },
+    {
+      "num": 400,
+      "word": "You're cutting out",
+      "chinese": "你那边断断续续的"
+    },
+    {
+      "num": 401,
+      "word": "My battery's dead",
+      "chinese": "我手机没电了"
+    },
+    {
+      "num": 402,
+      "word": "I'll text you",
+      "chinese": "我发短信给你"
+    },
+    {
+      "num": 403,
+      "word": "Did you see my message?",
+      "chinese": "看到我消息了吗？"
+    },
+    {
+      "num": 404,
+      "word": "Forgot my charger",
+      "chinese": "忘带充电器"
+    },
+    {
+      "num": 405,
+      "word": "I'm out of data",
+      "chinese": "我流量用完了"
+    },
+    {
+      "num": 406,
+      "word": "The Wi-Fi's playing up",
+      "chinese": "Wi-Fi有问题"
+    },
+    {
+      "section": "35. Aging & Life Stages"
+    },
+    {
+      "num": 407,
+      "word": "Not as young as I used to be",
+      "chinese": "我不年轻了"
+    },
+    {
+      "num": 408,
+      "word": "These knees!",
+      "chinese": "这膝盖啊！"
+    },
+    {
+      "num": 409,
+      "word": "How are your folks?",
+      "chinese": "你父母怎么样？"
+    },
+    {
+      "num": 410,
+      "word": "Mum's not great",
+      "chinese": "妈妈状态不太好"
+    },
+    {
+      "num": 411,
+      "word": "Dad's getting on",
+      "chinese": "爸爸年纪大了"
+    },
+    {
+      "num": 412,
+      "word": "Empty nesters now",
+      "chinese": "孩子都飞了"
+    },
+    {
+      "num": 413,
+      "word": "Retiring soon?",
+      "chinese": "快退休了吗？"
+    },
+    {
+      "num": 414,
+      "word": "Loving the grandkids",
+      "chinese": "享受当祖父母"
+    },
+    {
+      "num": 415,
+      "word": "The years fly by",
+      "chinese": "岁月飞逝"
+    },
+    {
+      "num": 416,
+      "word": "Where did they go?",
+      "chinese": "时间都去哪了？"
+    },
+    {
+      "section": "36. Strangers (Plane / Train / Cafe)"
+    },
+    {
+      "num": 417,
+      "word": "Is this seat taken?",
+      "chinese": "这位子有人吗？"
+    },
+    {
+      "num": 418,
+      "word": "Mind if I sit here?",
+      "chinese": "我可以坐这吗？"
+    },
+    {
+      "num": 419,
+      "word": "Long flight ahead",
+      "chinese": "前面还有很长的航班"
+    },
+    {
+      "num": 420,
+      "word": "First time here?",
+      "chinese": "第一次来吗？"
+    },
+    {
+      "num": 421,
+      "word": "Where are you off to?",
+      "chinese": "你要去哪里？"
+    },
+    {
+      "num": 422,
+      "word": "Where are you from?",
+      "chinese": "你从哪里来？"
+    },
+    {
+      "num": 423,
+      "word": "Visiting family?",
+      "chinese": "去看家人吗？"
+    },
+    {
+      "num": 424,
+      "word": "Locals or tourists?",
+      "chinese": "你是本地人还是游客？"
+    },
+    {
+      "num": 425,
+      "word": "Local recommendation?",
+      "chinese": "有本地推荐吗？"
+    },
+    {
+      "num": 426,
+      "word": "Headphones if you don't mind",
+      "chinese": "我戴一下耳机，希望你不介意"
+    },
+    {
+      "section": "37. Dog Park & Walking"
+    },
+    {
+      "num": 427,
+      "word": "How old?",
+      "chinese": "几岁了？"
+    },
+    {
+      "num": 428,
+      "word": "He's gorgeous!",
+      "chinese": "他真漂亮！"
+    },
+    {
+      "num": 429,
+      "word": "What breed?",
+      "chinese": "什么品种？"
+    },
+    {
+      "num": 430,
+      "word": "She's a rescue",
+      "chinese": "她是收养的"
+    },
+    {
+      "num": 431,
+      "word": "Friendly?",
+      "chinese": "亲人吗？"
+    },
+    {
+      "num": 432,
+      "word": "He's a bit shy",
+      "chinese": "他有点害羞"
+    },
+    {
+      "num": 433,
+      "word": "Same time every day",
+      "chinese": "每天这个时间都在"
+    },
+    {
+      "num": 434,
+      "word": "Beautiful day for a walk",
+      "chinese": "今天天气真适合散步"
+    },
+    {
+      "num": 435,
+      "word": "They get on well",
+      "chinese": "他们玩得好"
+    },
+    {
+      "num": 436,
+      "word": "Same time tomorrow?",
+      "chinese": "明天这个时候见？"
+    },
+    {
+      "section": "38. Salon / Hairdresser"
+    },
+    {
+      "num": 437,
+      "word": "Just a trim please",
+      "chinese": "只是修一下"
+    },
+    {
+      "num": 438,
+      "word": "Got any holidays coming up?",
+      "chinese": "有要去旅游吗？"
+    },
+    {
+      "num": 439,
+      "word": "How's your day been?",
+      "chinese": "今天怎么样？"
+    },
+    {
+      "num": 440,
+      "word": "Same as last time",
+      "chinese": "和上次一样"
+    },
+    {
+      "num": 441,
+      "word": "What are we doing today?",
+      "chinese": "今天要剪什么样？"
+    },
+    {
+      "num": 442,
+      "word": "It's a bit of a mess",
+      "chinese": "有点乱"
+    },
+    {
+      "num": 443,
+      "word": "The kids cut it for me",
+      "chinese": "孩子给我剪的"
+    },
+    {
+      "num": 444,
+      "word": "I've been growing it out",
+      "chinese": "我在留长"
+    },
+    {
+      "num": 445,
+      "word": "Any colour today?",
+      "chinese": "要染色吗？"
+    },
+    {
+      "num": 446,
+      "word": "Long-time customer",
+      "chinese": "老顾客"
+    },
+    {
+      "section": "39. Networking & New People"
+    },
+    {
+      "num": 447,
+      "word": "What's your name again, sorry?",
+      "chinese": "抱歉，你叫什么来着？"
+    },
+    {
+      "num": 448,
+      "word": "What do you do?",
+      "chinese": "你做什么工作的？"
+    },
+    {
+      "num": 449,
+      "word": "How do you know the host?",
+      "chinese": "你怎么认识主人的？"
+    },
+    {
+      "num": 450,
+      "word": "First time at one of these?",
+      "chinese": "第一次来这种活动？"
+    },
+    {
+      "num": 451,
+      "word": "How long have you been doing that?",
+      "chinese": "你做多久了？"
+    },
+    {
+      "num": 452,
+      "word": "Where are you based?",
+      "chinese": "你在哪里？"
+    },
+    {
+      "num": 453,
+      "word": "Got a card?",
+      "chinese": "有名片吗？"
+    },
+    {
+      "num": 454,
+      "word": "Let's connect on LinkedIn",
+      "chinese": "领英上加个好友"
+    },
+    {
+      "num": 455,
+      "word": "Lovely to meet you",
+      "chinese": "很高兴认识你"
+    },
+    {
+      "num": 456,
+      "word": "Catch you on the flip side",
+      "chinese": "回头见 (口语)"
+    },
+    {
+      "section": "40. Random Polite Asks"
+    },
+    {
+      "num": 457,
+      "word": "Have you got the time?",
+      "chinese": "请问几点了？"
+    },
+    {
+      "num": 458,
+      "word": "Excuse me, do you know...?",
+      "chinese": "打扰一下，请问…？"
+    },
+    {
+      "num": 459,
+      "word": "Could you watch my stuff?",
+      "chinese": "你能帮我看一下东西吗？"
+    },
+    {
+      "num": 460,
+      "word": "Sorry to bother you",
+      "chinese": "抱歉打扰一下"
+    },
+    {
+      "num": 461,
+      "word": "Mind giving me a hand?",
+      "chinese": "能帮我一下吗？"
+    },
+    {
+      "num": 462,
+      "word": "Could you take a photo for us?",
+      "chinese": "能帮我们拍张照吗？"
+    },
+    {
+      "num": 463,
+      "word": "Do you have a moment?",
+      "chinese": "你有时间吗？"
+    },
+    {
+      "num": 464,
+      "word": "Is anyone sitting here?",
+      "chinese": "这有人坐吗？"
+    },
+    {
+      "num": 465,
+      "word": "Pardon me",
+      "chinese": "抱歉"
+    },
+    {
+      "num": 466,
+      "word": "Mind moving over a bit?",
+      "chinese": "麻烦移一下？"
+    },
+    {
+      "section": "41. Funeral / Bereavement"
+    },
+    {
+      "num": 467,
+      "word": "I'm so sorry for your loss",
+      "chinese": "节哀顺变"
+    },
+    {
+      "num": 468,
+      "word": "My condolences",
+      "chinese": "致以哀悼"
+    },
+    {
+      "num": 469,
+      "word": "He'll be missed",
+      "chinese": "我们会想念他的"
+    },
+    {
+      "num": 470,
+      "word": "She's at peace now",
+      "chinese": "她现在安息了"
+    },
+    {
+      "num": 471,
+      "word": "Anything I can do?",
+      "chinese": "有什么我能做的？"
+    },
+    {
+      "num": 472,
+      "word": "I'm here for you",
+      "chinese": "我陪着你"
+    },
+    {
+      "num": 473,
+      "word": "What a lovely tribute",
+      "chinese": "悼词很感人"
+    },
+    {
+      "num": 474,
+      "word": "Beautiful service",
+      "chinese": "仪式很美"
+    },
+    {
+      "num": 475,
+      "word": "Take all the time you need",
+      "chinese": "慢慢来不急"
+    },
+    {
+      "num": 476,
+      "word": "Remembering the good times",
+      "chinese": "记住美好的时光"
+    },
+    {
+      "section": "42. School / Uni / Student Life"
+    },
+    {
+      "num": 477,
+      "word": "How's school?",
+      "chinese": "学校怎么样？"
+    },
+    {
+      "num": 478,
+      "word": "How are the exams going?",
+      "chinese": "考试怎么样？"
+    },
+    {
+      "num": 479,
+      "word": "Almost done?",
+      "chinese": "快考完了吗？"
+    },
+    {
+      "num": 480,
+      "word": "What are you studying?",
+      "chinese": "你学什么的？"
+    },
+    {
+      "num": 481,
+      "word": "What year are you in?",
+      "chinese": "你几年级？"
+    },
+    {
+      "num": 482,
+      "word": "Any plans after graduation?",
+      "chinese": "毕业后有什么打算？"
+    },
+    {
+      "num": 483,
+      "word": "Going to the formal?",
+      "chinese": "去毕业舞会吗？(AUS)"
+    },
+    {
+      "num": 484,
+      "word": "Cramming for finals",
+      "chinese": "在临时抱佛脚"
+    },
+    {
+      "num": 485,
+      "word": "I pulled an all-nighter",
+      "chinese": "我熬通宵了"
+    },
+    {
+      "num": 486,
+      "word": "Group project from hell",
+      "chinese": "地狱小组作业"
+    },
+    {
+      "section": "43. Mental Health Chat"
+    },
+    {
+      "num": 487,
+      "word": "How are you really?",
+      "chinese": "你真的好吗？"
+    },
+    {
+      "num": 488,
+      "word": "Just checking in",
+      "chinese": "就来看看你"
+    },
+    {
+      "num": 489,
+      "word": "It's okay not to be okay",
+      "chinese": "不开心也没关系"
+    },
+    {
+      "num": 490,
+      "word": "Have you talked to anyone?",
+      "chinese": "你跟谁说了吗？"
+    },
+    {
+      "num": 491,
+      "word": "Take care of yourself",
+      "chinese": "照顾好自己"
+    },
+    {
+      "num": 492,
+      "word": "I'm here if you want to talk",
+      "chinese": "你想聊我都在"
+    },
+    {
+      "num": 493,
+      "word": "One day at a time",
+      "chinese": "一天一天来"
+    },
+    {
+      "num": 494,
+      "word": "Be kind to yourself",
+      "chinese": "对自己好一点"
+    },
+    {
+      "num": 495,
+      "word": "I'm a phone call away",
+      "chinese": "随时给我打电话"
+    },
+    {
+      "num": 496,
+      "word": "Mental health matters",
+      "chinese": "心理健康很重要"
+    },
+    {
+      "section": "44. Driving & Parking"
+    },
+    {
+      "num": 497,
+      "word": "Where do you park around here?",
+      "chinese": "你在哪里停车？"
+    },
+    {
+      "num": 498,
+      "word": "Parking's a nightmare",
+      "chinese": "停车难死了"
+    },
+    {
+      "num": 499,
+      "word": "How did you go on traffic?",
+      "chinese": "路上堵不堵？"
+    },
+    {
+      "num": 500,
+      "word": "Took me an hour",
+      "chinese": "花了一个小时"
+    },
+    {
+      "num": 501,
+      "word": "Roadworks again",
+      "chinese": "又在修路"
+    },
+    {
+      "num": 502,
+      "word": "Watch for the speed cameras",
+      "chinese": "小心测速摄像头"
+    },
+    {
+      "num": 503,
+      "word": "I got a fine",
+      "chinese": "我吃罚单了"
+    },
+    {
+      "num": 504,
+      "word": "Petrol stop?",
+      "chinese": "要加油吗？"
+    },
+    {
+      "num": 505,
+      "word": "Anywhere to fill up?",
+      "chinese": "哪里能加油？"
+    },
+    {
+      "num": 506,
+      "word": "Sat-nav says ten minutes",
+      "chinese": "导航说十分钟"
+    },
+    {
+      "section": "45. News & Current Events"
+    },
+    {
+      "num": 507,
+      "word": "Did you see the news?",
+      "chinese": "看新闻了吗？"
+    },
+    {
+      "num": 508,
+      "word": "Did you hear about...?",
+      "chinese": "听说…了吗？"
+    },
+    {
+      "num": 509,
+      "word": "Can you believe it?",
+      "chinese": "你能信吗？"
+    },
+    {
+      "num": 510,
+      "word": "What a year it's been",
+      "chinese": "这一年真是的"
+    },
+    {
+      "num": 511,
+      "word": "The world's gone mad",
+      "chinese": "世界疯了"
+    },
+    {
+      "num": 512,
+      "word": "I try to avoid the news",
+      "chinese": "我尽量不看新闻"
+    },
+    {
+      "num": 513,
+      "word": "It's all doom and gloom",
+      "chinese": "全是坏消息"
+    },
+    {
+      "num": 514,
+      "word": "On a lighter note",
+      "chinese": "说点轻松的"
+    },
+    {
+      "num": 515,
+      "word": "Did you watch the election?",
+      "chinese": "你看选举了吗？"
+    },
+    {
+      "num": 516,
+      "word": "What's the world coming to?",
+      "chinese": "世界要怎么样了？"
+    },
+    {
+      "section": "46. Diet & Exercise"
+    },
+    {
+      "num": 517,
+      "word": "Been hitting the gym",
+      "chinese": "在健身房锻炼"
+    },
+    {
+      "num": 518,
+      "word": "I'm trying to eat clean",
+      "chinese": "我在吃清淡"
+    },
+    {
+      "num": 519,
+      "word": "Cutting out sugar",
+      "chinese": "戒糖"
+    },
+    {
+      "num": 520,
+      "word": "Started running",
+      "chinese": "开始跑步了"
+    },
+    {
+      "num": 521,
+      "word": "I'm doing keto",
+      "chinese": "我在生酮"
+    },
+    {
+      "num": 522,
+      "word": "Going dry",
+      "chinese": "戒酒中"
+    },
+    {
+      "num": 523,
+      "word": "Trying to be healthier",
+      "chinese": "想健康一点"
+    },
+    {
+      "num": 524,
+      "word": "Need to lose a few kilos",
+      "chinese": "得减几公斤"
+    },
+    {
+      "num": 525,
+      "word": "Walking 10k a day",
+      "chinese": "每天走一万步"
+    },
+    {
+      "num": 526,
+      "word": "Lifting weights now",
+      "chinese": "现在举铁"
+    },
+    {
+      "section": "47. Sleep & Insomnia"
+    },
+    {
+      "num": 527,
+      "word": "Sleep much?",
+      "chinese": "睡得多吗？"
+    },
+    {
+      "num": 528,
+      "word": "Tossed and turned all night",
+      "chinese": "翻来覆去一整晚"
+    },
+    {
+      "num": 529,
+      "word": "Out like a light",
+      "chinese": "秒睡"
+    },
+    {
+      "num": 530,
+      "word": "Slept like a log",
+      "chinese": "睡得像头猪"
+    },
+    {
+      "num": 531,
+      "word": "Up at sparrow's",
+      "chinese": "天没亮就起 (AUS)"
+    },
+    {
+      "num": 532,
+      "word": "Need an early one",
+      "chinese": "今晚要早睡"
+    },
+    {
+      "num": 533,
+      "word": "I'm a night owl",
+      "chinese": "我是夜猫子"
+    },
+    {
+      "num": 534,
+      "word": "Early bird here",
+      "chinese": "我是早起鸟"
+    },
+    {
+      "section": "48. New Year / Resolutions"
+    },
+    {
+      "num": 535,
+      "word": "Got any resolutions?",
+      "chinese": "有什么新年决心吗？"
+    },
+    {
+      "num": 536,
+      "word": "New year, new me",
+      "chinese": "新的一年，全新的我"
+    },
+    {
+      "num": 537,
+      "word": "How was your NYE?",
+      "chinese": "新年前夜怎么样？"
+    },
+    {
+      "num": 538,
+      "word": "Did you make it to midnight?",
+      "chinese": "撑到午夜了吗？"
+    },
+    {
+      "num": 539,
+      "word": "Hangover from hell",
+      "chinese": "宿醉地狱"
+    },
+    {
+      "num": 540,
+      "word": "Bring on the new year",
+      "chinese": "新年快来吧"
+    },
+    {
+      "num": 541,
+      "word": "This year is mine",
+      "chinese": "今年我说了算"
+    },
+    {
+      "num": 542,
+      "word": "Same resolutions as last year",
+      "chinese": "和去年一样的决心"
+    },
+    {
+      "num": 543,
+      "word": "I never keep them",
+      "chinese": "我从来不坚持"
+    },
+    {
+      "num": 544,
+      "word": "Manifesting big things",
+      "chinese": "祈愿大事发生"
+    },
+    {
+      "section": "49. Public Events (Concert / Festival)"
+    },
+    {
+      "num": 545,
+      "word": "How long have you been waiting?",
+      "chinese": "你等了多久？"
+    },
+    {
+      "num": 546,
+      "word": "Great line-up!",
+      "chinese": "阵容真棒！"
+    },
+    {
+      "num": 547,
+      "word": "First time here?",
+      "chinese": "第一次来吗？"
+    },
+    {
+      "num": 548,
+      "word": "Anyone you really want to see?",
+      "chinese": "有想看的吗？"
+    },
+    {
+      "num": 549,
+      "word": "The crowd's mental",
+      "chinese": "人群疯了"
+    },
+    {
+      "num": 550,
+      "word": "Couldn't get tickets",
+      "chinese": "买不到票"
+    },
+    {
+      "num": 551,
+      "word": "Front row, baby!",
+      "chinese": "前排，耶！"
+    },
+    {
+      "num": 552,
+      "word": "Festival weather's perfect",
+      "chinese": "音乐节天气完美"
+    },
+    {
+      "num": 553,
+      "word": "Seen them before?",
+      "chinese": "看过他们演出吗？"
+    },
+    {
+      "num": 554,
+      "word": "Worth every cent",
+      "chinese": "值得"
+    },
+    {
+      "section": "50. Voting / Politics (Light)"
+    },
+    {
+      "num": 555,
+      "word": "Have you voted yet?",
+      "chinese": "投票了吗？"
+    },
+    {
+      "num": 556,
+      "word": "Where do you vote?",
+      "chinese": "你在哪里投票？"
+    },
+    {
+      "num": 557,
+      "word": "Got your democracy sausage?",
+      "chinese": "拿到民主香肠了吗？(AUS投票传统)"
+    },
+    {
+      "num": 558,
+      "word": "Politicians, eh?",
+      "chinese": "政客啊"
+    },
+    {
+      "num": 559,
+      "word": "I'm not really political",
+      "chinese": "我不太关心政治"
+    },
+    {
+      "num": 560,
+      "word": "Let's not go there",
+      "chinese": "这话题别聊"
+    },
+    {
+      "num": 561,
+      "word": "They're all the same",
+      "chinese": "都一个样"
+    },
+    {
+      "num": 562,
+      "word": "Election night drinking game",
+      "chinese": "选举之夜的喝酒游戏"
+    }
+  ]
+}

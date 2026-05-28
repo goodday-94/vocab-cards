@@ -1,0 +1,1211 @@
+{
+  "topic": "clothes",
+  "title": "Clothes & Fashion",
+  "words": [
+    {
+      "section": "1. Tops"
+    },
+    {
+      "num": 1,
+      "word": "t-shirt",
+      "ipa": "/ˈtiː ʃɜːt/",
+      "chinese": "T恤",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M22 16 L36 12 Q40 22 50 22 Q60 22 64 12 L78 16 L86 28 L74 36 L72 28 L72 70 L28 70 L28 28 L26 36 L14 28 Z' fill='#4a9ad4' stroke='#2a6aa4' stroke-width='1.5'/></svg>"
+    },
+    {
+      "num": 2,
+      "word": "shirt",
+      "ipa": "/ʃɜːt/",
+      "chinese": "衬衫",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M22 16 L36 10 L42 24 L58 24 L64 10 L78 16 L86 28 L74 36 L74 70 L26 70 L26 36 L14 28 Z' fill='#fff' stroke='#888' stroke-width='1.5'/><line x1='50' y1='24' x2='50' y2='70' stroke='#aaa' stroke-width='1'/><circle cx='50' cy='34' r='1.5' fill='#aaa'/><circle cx='50' cy='44' r='1.5' fill='#aaa'/><circle cx='50' cy='54' r='1.5' fill='#aaa'/><path d='M36 10 L42 24 L50 18 Z' fill='#ccc'/><path d='M64 10 L58 24 L50 18 Z' fill='#ccc'/></svg>"
+    },
+    {
+      "num": 3,
+      "word": "blouse",
+      "ipa": "/blaʊz/",
+      "chinese": "女衬衫",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M22 18 Q30 10 50 10 Q70 10 78 18 L86 30 L76 36 L74 70 L26 70 L24 36 L14 30 Z' fill='#f5b8d0' stroke='#a0708a' stroke-width='1.5'/><path d='M40 14 Q50 22 60 14' fill='none' stroke='#a0708a' stroke-width='1.5'/><circle cx='50' cy='30' r='1.5' fill='#a0708a'/><circle cx='50' cy='40' r='1.5' fill='#a0708a'/><circle cx='50' cy='50' r='1.5' fill='#a0708a'/></svg>"
+    },
+    {
+      "num": 4,
+      "word": "jumper",
+      "ipa": "/ˈdʒʌmpə/",
+      "chinese": "毛衣 (UK/AUS)",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M18 18 L34 14 Q40 24 50 24 Q60 24 66 14 L82 18 L88 32 L78 38 L76 70 L24 70 L22 38 L12 32 Z' fill='#a04030' stroke='#5a1000' stroke-width='1.5'/><path d='M30 30 L40 30 M30 38 L40 38 M30 46 L40 46 M60 30 L70 30 M60 38 L70 38 M60 46 L70 46' stroke='#7a2010' stroke-width='1.5' opacity='0.6'/><path d='M40 16 Q50 24 60 16' fill='#7a2010' stroke='#5a1000' stroke-width='1'/></svg>"
+    },
+    {
+      "num": 5,
+      "word": "hoodie",
+      "ipa": "/ˈhʊdi/",
+      "chinese": "连帽衫",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M22 22 L36 14 Q42 22 50 22 Q58 22 64 14 L78 22 L86 32 L76 38 L74 70 L26 70 L24 38 L14 32 Z' fill='#5a5a8a' stroke='#2a2a4a' stroke-width='1.5'/><path d='M34 8 Q50 6 66 8 Q60 22 50 22 Q40 22 34 8 Z' fill='#4a4a7a' stroke='#2a2a4a' stroke-width='1.5'/><line x1='50' y1='22' x2='50' y2='42' stroke='#2a2a4a' stroke-width='1.5'/><circle cx='50' cy='34' r='2' fill='#2a2a4a'/><circle cx='50' cy='42' r='2' fill='#2a2a4a'/></svg>"
+    },
+    {
+      "num": 6,
+      "word": "tank top",
+      "ipa": "/ˈtæŋk tɒp/",
+      "chinese": "背心；无袖上衣",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M30 12 L38 18 L38 70 L62 70 L62 18 L70 12 L70 10 Q60 14 50 14 Q40 14 30 10 Z' fill='#f0c040' stroke='#a07010' stroke-width='1.5'/></svg>"
+    },
+    {
+      "num": 7,
+      "word": "polo shirt",
+      "ipa": "/ˈpəʊləʊ ʃɜːt/",
+      "chinese": "POLO衫",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M22 18 L36 12 Q42 22 50 22 Q58 22 64 12 L78 18 L86 30 L76 36 L74 70 L26 70 L24 36 L14 30 Z' fill='#6abf50' stroke='#3a8a20' stroke-width='1.5'/><path d='M40 14 L46 24 L54 24 L60 14' fill='#3a8a20'/><line x1='50' y1='24' x2='50' y2='38' stroke='#fff' stroke-width='1'/><circle cx='50' cy='28' r='1' fill='#fff'/><circle cx='50' cy='34' r='1' fill='#fff'/></svg>"
+    },
+    {
+      "num": 8,
+      "word": "cardigan",
+      "ipa": "/ˈkɑːdɪɡən/",
+      "chinese": "开衫毛衣",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M22 18 L36 14 Q40 22 48 22 L48 70 L20 70 L22 38 L14 32 Z' fill='#c08040' stroke='#6a3010' stroke-width='1.5'/><path d='M78 18 L64 14 Q60 22 52 22 L52 70 L80 70 L78 38 L86 32 Z' fill='#c08040' stroke='#6a3010' stroke-width='1.5'/><circle cx='50' cy='30' r='1.5' fill='#6a3010'/><circle cx='50' cy='40' r='1.5' fill='#6a3010'/><circle cx='50' cy='50' r='1.5' fill='#6a3010'/><circle cx='50' cy='60' r='1.5' fill='#6a3010'/></svg>"
+    },
+    {
+      "num": 9,
+      "word": "blazer",
+      "ipa": "/ˈbleɪzə/",
+      "chinese": "西装外套；小西服",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M22 18 L36 14 L40 26 L50 32 L60 26 L64 14 L78 18 L86 30 L76 36 L74 70 L26 70 L24 36 L14 30 Z' fill='#2a3a5a' stroke='#102040' stroke-width='1.5'/><path d='M36 14 L40 26 L30 36 Z' fill='#102040'/><path d='M64 14 L60 26 L70 36 Z' fill='#102040'/><rect x='30' y='40' width='10' height='8' fill='#102040'/><circle cx='36' cy='50' r='1.5' fill='#a08040'/><circle cx='36' cy='58' r='1.5' fill='#a08040'/></svg>"
+    },
+    {
+      "num": 10,
+      "word": "sweatshirt",
+      "ipa": "/ˈswɛtʃɜːt/",
+      "chinese": "运动衫",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M22 20 L36 16 Q42 24 50 24 Q58 24 64 16 L78 20 L86 32 L78 38 L76 70 L24 70 L22 38 L14 32 Z' fill='#8aa050' stroke='#506020' stroke-width='1.5'/><rect x='22' y='62' width='56' height='8' fill='#506020'/></svg>"
+    },
+    {
+      "num": 11,
+      "word": "crop top",
+      "ipa": "/ˈkrɒp tɒp/",
+      "chinese": "短款上衣",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M28 14 L36 18 Q44 22 50 22 Q56 22 64 18 L72 14 L72 44 L28 44 Z' fill='#e060a0' stroke='#a02060' stroke-width='1.5'/><path d='M40 18 Q50 26 60 18' fill='none' stroke='#a02060' stroke-width='1.5'/></svg>"
+    },
+    {
+      "num": 12,
+      "word": "button-up",
+      "ipa": "/ˈbʌt(ə)n ʌp/",
+      "chinese": "纽扣衬衫",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M24 18 L38 12 Q42 22 50 22 Q58 22 62 12 L76 18 L82 30 L74 36 L74 70 L26 70 L26 36 L18 30 Z' fill='#c8a8d0' stroke='#7a4080' stroke-width='1.5'/><line x1='50' y1='22' x2='50' y2='70' stroke='#7a4080' stroke-width='1.5'/><circle cx='50' cy='30' r='2' fill='#7a4080'/><circle cx='50' cy='40' r='2' fill='#7a4080'/><circle cx='50' cy='50' r='2' fill='#7a4080'/><circle cx='50' cy='60' r='2' fill='#7a4080'/></svg>"
+    },
+    {
+      "num": 13,
+      "word": "jersey",
+      "ipa": "/ˈdʒɜːzi/",
+      "chinese": "球衣；运动衫",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M22 18 L36 12 Q42 22 50 22 Q58 22 64 12 L78 18 L86 30 L76 36 L74 70 L26 70 L24 36 L14 30 Z' fill='#c84040' stroke='#7a1010' stroke-width='1.5'/><text x='50' y='52' font-size='22' text-anchor='middle' fill='#fff' font-weight='bold' font-family='Arial'>9</text></svg>"
+    },
+    {
+      "num": 14,
+      "word": "singlet",
+      "ipa": "/ˈsɪŋɡlət/",
+      "chinese": "背心 (AUS)",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M32 10 L40 16 L40 70 L60 70 L60 16 L68 10 L66 6 Q58 12 50 12 Q42 12 34 6 Z' fill='#fff' stroke='#888' stroke-width='1.5'/></svg>"
+    },
+    {
+      "section": "2. Bottoms"
+    },
+    {
+      "num": 15,
+      "word": "trousers",
+      "ipa": "/ˈtraʊzəz/",
+      "chinese": "长裤 (UK/AUS)",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M28 8 L72 8 L74 30 L66 70 L54 70 L50 36 L46 70 L34 70 L26 30 Z' fill='#2a3a5a' stroke='#102040' stroke-width='1.5'/><line x1='28' y1='10' x2='72' y2='10' stroke='#102040' stroke-width='2'/><circle cx='50' cy='14' r='2' fill='#a08040'/></svg>"
+    },
+    {
+      "num": 16,
+      "word": "pants",
+      "ipa": "/pænts/",
+      "chinese": "裤子 (AUS); 内裤 (UK)",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M28 8 L72 8 L74 30 L66 70 L54 70 L50 36 L46 70 L34 70 L26 30 Z' fill='#2a3a5a' stroke='#102040' stroke-width='1.5'/><line x1='28' y1='10' x2='72' y2='10' stroke='#102040' stroke-width='2'/><circle cx='50' cy='14' r='2' fill='#a08040'/></svg>"
+    },
+    {
+      "num": 17,
+      "word": "jeans",
+      "ipa": "/dʒiːnz/",
+      "chinese": "牛仔裤",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M28 8 L72 8 L74 30 L66 70 L54 70 L50 36 L46 70 L34 70 L26 30 Z' fill='#4a6a9a' stroke='#2a4070' stroke-width='1.5'/><line x1='28' y1='10' x2='72' y2='10' stroke='#2a4070' stroke-width='2'/><circle cx='50' cy='14' r='2' fill='#a08040'/><rect x='32' y='20' width='10' height='10' fill='none' stroke='#2a4070' stroke-width='1'/><rect x='58' y='20' width='10' height='10' fill='none' stroke='#2a4070' stroke-width='1'/><line x1='50' y1='10' x2='50' y2='34' stroke='#2a4070' stroke-width='1' stroke-dasharray='2 2'/></svg>"
+    },
+    {
+      "num": 18,
+      "word": "shorts",
+      "ipa": "/ʃɔːts/",
+      "chinese": "短裤",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M28 14 L72 14 L74 28 L68 46 L52 46 L50 30 L48 46 L32 46 L26 28 Z' fill='#5a8aaa' stroke='#2a4a6a' stroke-width='1.5'/><line x1='28' y1='16' x2='72' y2='16' stroke='#2a4a6a' stroke-width='2'/></svg>"
+    },
+    {
+      "num": 19,
+      "word": "leggings",
+      "ipa": "/ˈlɛɡɪŋz/",
+      "chinese": "紧身裤",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M34 8 L66 8 L68 24 L62 70 L54 70 L50 32 L46 70 L38 70 L32 24 Z' fill='#2a2a2a' stroke='#000' stroke-width='1.5'/></svg>"
+    },
+    {
+      "num": 20,
+      "word": "skirt",
+      "ipa": "/skɜːt/",
+      "chinese": "裙子",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M28 14 L72 14 L78 56 Q50 70 22 56 Z' fill='#d050a0' stroke='#8a2060' stroke-width='1.5'/><line x1='28' y1='16' x2='72' y2='16' stroke='#8a2060' stroke-width='2'/></svg>"
+    },
+    {
+      "num": 21,
+      "word": "joggers",
+      "ipa": "/ˈdʒɒɡəz/",
+      "chinese": "运动裤",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M30 10 L70 10 L72 28 L66 70 L54 70 L50 34 L46 70 L34 70 L28 28 Z' fill='#5a5a5a' stroke='#2a2a2a' stroke-width='1.5'/><line x1='30' y1='12' x2='70' y2='12' stroke='#2a2a2a' stroke-width='2'/><path d='M40 16 Q50 22 60 16' fill='none' stroke='#2a2a2a' stroke-width='1.5'/><line x1='42' y1='60' x2='42' y2='68' stroke='#2a2a2a' stroke-width='3'/><line x1='58' y1='60' x2='58' y2='68' stroke='#2a2a2a' stroke-width='3'/></svg>"
+    },
+    {
+      "num": 22,
+      "word": "chinos",
+      "ipa": "/ˈtʃiːnəʊz/",
+      "chinese": "卡其裤",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M30 10 L70 10 L72 30 L68 70 L54 70 L50 34 L46 70 L32 70 L28 30 Z' fill='#a08868' stroke='#604030' stroke-width='1.5'/><line x1='30' y1='12' x2='70' y2='12' stroke='#604030' stroke-width='2'/><circle cx='50' cy='14' r='2' fill='#604030'/></svg>"
+    },
+    {
+      "num": 23,
+      "word": "dungarees",
+      "ipa": "/ˌdʌŋɡəˈriːz/",
+      "chinese": "背带裤 (UK/AUS)",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M28 14 L34 18 L34 28 L72 28 L72 18 L66 14 Q60 20 50 20 Q40 20 28 14 Z' fill='none' stroke='#2a4070' stroke-width='3'/><path d='M30 28 L70 28 L72 70 L54 70 L50 40 L46 70 L28 70 Z' fill='#4a6a9a' stroke='#2a4070' stroke-width='1.5'/><circle cx='40' cy='22' r='2' fill='#a08040'/><circle cx='60' cy='22' r='2' fill='#a08040'/></svg>"
+    },
+    {
+      "num": 24,
+      "word": "mini skirt",
+      "ipa": "/ˈmɪni skɜːt/",
+      "chinese": "迷你裙",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M30 16 L70 16 L78 46 Q50 56 22 46 Z' fill='#e0c020' stroke='#a08010' stroke-width='1.5'/><line x1='30' y1='18' x2='70' y2='18' stroke='#a08010' stroke-width='2'/></svg>"
+    },
+    {
+      "section": "3. Outerwear"
+    },
+    {
+      "num": 25,
+      "word": "coat",
+      "ipa": "/kəʊt/",
+      "chinese": "大衣",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M20 18 L38 12 L42 24 L50 28 L58 24 L62 12 L80 18 L84 72 L66 72 L60 30 L50 36 L40 30 L34 72 L16 72 Z' fill='#5a3010' stroke='#3a1000' stroke-width='1.5'/><line x1='50' y1='28' x2='50' y2='72' stroke='#3a1000' stroke-width='1.5'/><circle cx='50' cy='38' r='2' fill='#a08040'/><circle cx='50' cy='50' r='2' fill='#a08040'/><circle cx='50' cy='62' r='2' fill='#a08040'/></svg>"
+    },
+    {
+      "num": 26,
+      "word": "jacket",
+      "ipa": "/ˈdʒækɪt/",
+      "chinese": "夹克",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M22 18 L36 14 L40 26 L50 30 L60 26 L64 14 L78 18 L86 30 L76 36 L74 60 L60 60 L56 30 L50 34 L44 30 L40 60 L26 60 L24 36 L14 30 Z' fill='#8a4040' stroke='#5a1010' stroke-width='1.5'/><line x1='50' y1='30' x2='50' y2='60' stroke='#5a1010' stroke-width='2' stroke-dasharray='3 2'/></svg>"
+    },
+    {
+      "num": 27,
+      "word": "raincoat",
+      "ipa": "/ˈreɪnkəʊt/",
+      "chinese": "雨衣",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M20 18 L38 14 L42 24 L50 28 L58 24 L62 14 L80 18 L84 70 L16 70 Z' fill='#f0c020' stroke='#a08010' stroke-width='1.5'/><line x1='50' y1='28' x2='50' y2='70' stroke='#a08010' stroke-width='1.5'/><path d='M30 28 Q30 18 38 18 M62 18 Q70 18 70 28' fill='none' stroke='#a08010' stroke-width='1.5'/><circle cx='30' cy='40' r='2' fill='#fff'/><circle cx='70' cy='40' r='2' fill='#fff'/><circle cx='50' cy='38' r='2' fill='#a08010'/><circle cx='50' cy='50' r='2' fill='#a08010'/></svg>"
+    },
+    {
+      "num": 28,
+      "word": "parka",
+      "ipa": "/ˈpɑːkə/",
+      "chinese": "派克大衣（带帽）",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M20 22 L36 16 Q42 22 50 24 Q58 22 64 16 L80 22 L84 72 L16 72 Z' fill='#3a5a3a' stroke='#1a3a1a' stroke-width='1.5'/><path d='M30 10 Q50 6 70 10 Q66 28 50 28 Q34 28 30 10 Z' fill='#2a4a2a' stroke='#1a3a1a' stroke-width='1.5'/><circle cx='40' cy='14' r='3' fill='#a0a0a0' stroke='#888'/><circle cx='60' cy='14' r='3' fill='#a0a0a0' stroke='#888'/><line x1='50' y1='28' x2='50' y2='72' stroke='#1a3a1a' stroke-width='1.5'/></svg>"
+    },
+    {
+      "num": 29,
+      "word": "anorak",
+      "ipa": "/ˈænəræk/",
+      "chinese": "防风夹克",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M20 22 L36 16 Q42 22 50 24 Q58 22 64 16 L80 22 L84 70 L16 70 Z' fill='#4a9ad4' stroke='#2a6aa4' stroke-width='1.5'/><path d='M30 12 Q50 8 70 12 Q66 28 50 28 Q34 28 30 12 Z' fill='#3a8ac4' stroke='#2a6aa4' stroke-width='1.5'/><rect x='34' y='44' width='14' height='10' fill='#2a6aa4'/><rect x='52' y='44' width='14' height='10' fill='#2a6aa4'/></svg>"
+    },
+    {
+      "num": 30,
+      "word": "fleece",
+      "ipa": "/fliːs/",
+      "chinese": "摇粒绒外套",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M22 20 L36 14 Q42 24 50 24 Q58 24 64 14 L78 20 L84 32 L78 38 L78 70 L22 70 L22 38 L16 32 Z' fill='#c0b090' stroke='#8a7050' stroke-width='1.5'/><circle cx='30' cy='34' r='3' fill='#a8946e' opacity='0.7'/><circle cx='40' cy='42' r='3' fill='#a8946e' opacity='0.7'/><circle cx='50' cy='38' r='3' fill='#a8946e' opacity='0.7'/><circle cx='60' cy='44' r='3' fill='#a8946e' opacity='0.7'/><circle cx='70' cy='36' r='3' fill='#a8946e' opacity='0.7'/><circle cx='34' cy='54' r='3' fill='#a8946e' opacity='0.7'/><circle cx='50' cy='58' r='3' fill='#a8946e' opacity='0.7'/><circle cx='66' cy='54' r='3' fill='#a8946e' opacity='0.7'/></svg>"
+    },
+    {
+      "num": 31,
+      "word": "puffer jacket",
+      "ipa": "/ˈpʌfə ˌdʒækɪt/",
+      "chinese": "羽绒服",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M22 20 L36 14 Q42 24 50 24 Q58 24 64 14 L78 20 L84 32 L78 38 L78 70 L22 70 L22 38 L16 32 Z' fill='#1a1a1a' stroke='#000' stroke-width='1.5'/><line x1='22' y1='32' x2='78' y2='32' stroke='#444' stroke-width='1'/><line x1='22' y1='42' x2='78' y2='42' stroke='#444' stroke-width='1'/><line x1='22' y1='52' x2='78' y2='52' stroke='#444' stroke-width='1'/><line x1='22' y1='62' x2='78' y2='62' stroke='#444' stroke-width='1'/><line x1='50' y1='24' x2='50' y2='70' stroke='#444' stroke-width='1'/></svg>"
+    },
+    {
+      "num": 32,
+      "word": "windbreaker",
+      "ipa": "/ˈwɪn(d)breɪkə/",
+      "chinese": "防风外套",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M22 20 L36 14 Q42 24 50 24 Q58 24 64 14 L78 20 L86 32 L76 38 L74 70 L26 70 L24 38 L14 32 Z' fill='#4060c8' stroke='#202060' stroke-width='1.5'/><path d='M22 40 L78 40' stroke='#fff' stroke-width='4'/><line x1='50' y1='24' x2='50' y2='70' stroke='#202060' stroke-width='1.5'/></svg>"
+    },
+    {
+      "num": 33,
+      "word": "gilet",
+      "ipa": "/ˈʒiːleɪ/",
+      "chinese": "无袖背心马甲",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M30 18 L38 14 L42 26 L50 30 L58 26 L62 14 L70 18 L72 70 L60 70 L56 32 L50 36 L44 32 L40 70 L28 70 Z' fill='#a06030' stroke='#5a3010' stroke-width='1.5'/><line x1='50' y1='30' x2='50' y2='70' stroke='#5a3010' stroke-width='1.5'/></svg>"
+    },
+    {
+      "num": 34,
+      "word": "trench coat",
+      "ipa": "/ˈtrɛn(t)ʃ kəʊt/",
+      "chinese": "风衣",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M20 18 L38 12 L42 22 L50 28 L58 22 L62 12 L80 18 L82 72 L18 72 Z' fill='#c8a880' stroke='#8a6040' stroke-width='1.5'/><line x1='42' y1='22' x2='42' y2='72' stroke='#8a6040' stroke-width='1.5'/><line x1='58' y1='22' x2='58' y2='72' stroke='#8a6040' stroke-width='1.5'/><circle cx='38' cy='34' r='2' fill='#8a6040'/><circle cx='62' cy='34' r='2' fill='#8a6040'/><circle cx='38' cy='46' r='2' fill='#8a6040'/><circle cx='62' cy='46' r='2' fill='#8a6040'/><rect x='30' y='52' width='40' height='6' fill='none' stroke='#8a6040' stroke-width='1.5'/></svg>"
+    },
+    {
+      "section": "4. Dresses & Formal"
+    },
+    {
+      "num": 35,
+      "word": "dress",
+      "ipa": "/drɛs/",
+      "chinese": "连衣裙",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M30 12 L70 12 L66 22 L78 50 L84 72 L16 72 L22 50 L34 22 Z' fill='#e060a0' stroke='#a02060' stroke-width='1.5'/><path d='M36 12 Q50 18 64 12' fill='none' stroke='#a02060' stroke-width='1'/><line x1='30' y1='14' x2='34' y2='22' stroke='#a02060' stroke-width='2'/><line x1='70' y1='14' x2='66' y2='22' stroke='#a02060' stroke-width='2'/></svg>"
+    },
+    {
+      "num": 36,
+      "word": "gown",
+      "ipa": "/ɡaʊn/",
+      "chinese": "礼服长裙",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M32 10 L68 10 L62 20 L74 40 L84 72 L16 72 L26 40 L38 20 Z' fill='#a02050' stroke='#600020' stroke-width='1.5'/><path d='M36 14 Q50 18 64 14' fill='none' stroke='#600020' stroke-width='1.5'/><path d='M26 40 Q40 48 50 44 Q60 48 74 40' fill='none' stroke='#fff' stroke-width='1.5' opacity='0.5'/></svg>"
+    },
+    {
+      "num": 37,
+      "word": "suit",
+      "ipa": "/suːt/",
+      "chinese": "西装",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M22 18 L36 14 L40 26 L50 30 L60 26 L64 14 L78 18 L86 30 L76 36 L74 70 L26 70 L24 36 L14 30 Z' fill='#2a3a5a' stroke='#102040' stroke-width='1.5'/><path d='M36 14 L40 26 L30 38 Z' fill='#102040'/><path d='M64 14 L60 26 L70 38 Z' fill='#102040'/><path d='M44 28 L50 36 L56 28' fill='none' stroke='#fff' stroke-width='2'/><circle cx='50' cy='32' r='2' fill='#c84040'/></svg>"
+    },
+    {
+      "num": 38,
+      "word": "tuxedo",
+      "ipa": "/tʌkˈsiːdəʊ/",
+      "chinese": "燕尾服；男士晚礼服",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M22 18 L36 14 L40 26 L50 30 L60 26 L64 14 L78 18 L86 30 L76 36 L74 70 L26 70 L24 36 L14 30 Z' fill='#000' stroke='#222' stroke-width='1.5'/><path d='M36 14 L40 26 L30 38 Z' fill='#fff'/><path d='M64 14 L60 26 L70 38 Z' fill='#fff'/><path d='M44 28 L50 36 L56 28 L52 50 L48 50 Z' fill='#fff'/><path d='M40 50 L60 50 L62 54 L38 54 Z' fill='#222'/></svg>"
+    },
+    {
+      "num": 39,
+      "word": "bridesmaid dress",
+      "ipa": "/ˈbraɪdzmeɪd drɛs/",
+      "chinese": "伴娘礼服",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M32 12 L68 12 L64 24 L76 50 L84 72 L16 72 L24 50 L36 24 Z' fill='#a0c0a0' stroke='#508050' stroke-width='1.5'/><circle cx='50' cy='32' r='3' fill='#fff'/><circle cx='50' cy='44' r='3' fill='#fff'/></svg>"
+    },
+    {
+      "num": 40,
+      "word": "cocktail dress",
+      "ipa": "/ˈkɒkteɪl drɛs/",
+      "chinese": "鸡尾酒会礼服",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M30 14 L70 14 L66 26 L72 50 L74 60 L26 60 L28 50 L34 26 Z' fill='#000' stroke='#444' stroke-width='1.5'/><path d='M36 16 Q50 20 64 16' fill='none' stroke='#444' stroke-width='1.5'/></svg>"
+    },
+    {
+      "num": 41,
+      "word": "sundress",
+      "ipa": "/ˈsʌndrɛs/",
+      "chinese": "夏季连衣裙",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M28 12 L72 12 L68 24 L80 60 L82 72 L18 72 L20 60 L32 24 Z' fill='#f8d040' stroke='#a08010' stroke-width='1.5'/><circle cx='35' cy='40' r='3' fill='#fff' opacity='0.7'/><circle cx='55' cy='50' r='3' fill='#fff' opacity='0.7'/><circle cx='65' cy='40' r='3' fill='#fff' opacity='0.7'/><circle cx='40' cy='58' r='3' fill='#fff' opacity='0.7'/></svg>"
+    },
+    {
+      "num": 42,
+      "word": "maxi dress",
+      "ipa": "/ˈmæksi drɛs/",
+      "chinese": "长款连衣裙",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M32 10 L68 10 L62 22 L78 70 L80 78 L20 78 L22 70 L38 22 Z' fill='#7050a0' stroke='#3a2070' stroke-width='1.5'/></svg>"
+    },
+    {
+      "section": "5. Underwear & Hosiery"
+    },
+    {
+      "num": 43,
+      "word": "underwear",
+      "ipa": "/ˈʌndəweə/",
+      "chinese": "内衣",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M22 22 L78 22 L74 50 Q66 64 50 60 Q34 64 26 50 Z' fill='#f5f5d8' stroke='#888' stroke-width='1.5'/><line x1='22' y1='24' x2='78' y2='24' stroke='#888' stroke-width='2'/></svg>"
+    },
+    {
+      "num": 44,
+      "word": "knickers",
+      "ipa": "/ˈnɪkəz/",
+      "chinese": "女内裤 (UK/AUS)",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M24 22 L76 22 L72 50 Q60 64 50 56 Q40 64 28 50 Z' fill='#f5a0c0' stroke='#a04080' stroke-width='1.5'/><line x1='24' y1='24' x2='76' y2='24' stroke='#a04080' stroke-width='2'/><path d='M40 30 Q50 36 60 30' fill='none' stroke='#fff' stroke-width='1'/></svg>"
+    },
+    {
+      "num": 45,
+      "word": "boxers",
+      "ipa": "/ˈbɒksəz/",
+      "chinese": "平角内裤",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M24 18 L76 18 L78 40 L66 60 L52 60 L50 42 L48 60 L34 60 L22 40 Z' fill='#4060c8' stroke='#202060' stroke-width='1.5'/><line x1='24' y1='20' x2='76' y2='20' stroke='#202060' stroke-width='2'/><line x1='30' y1='30' x2='70' y2='30' stroke='#fff' stroke-width='1'/></svg>"
+    },
+    {
+      "num": 46,
+      "word": "briefs",
+      "ipa": "/briːfs/",
+      "chinese": "三角内裤",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M24 22 L76 22 L74 42 L60 58 L50 50 L40 58 L26 42 Z' fill='#fff' stroke='#888' stroke-width='1.5'/><line x1='24' y1='24' x2='76' y2='24' stroke='#888' stroke-width='2'/></svg>"
+    },
+    {
+      "num": 47,
+      "word": "bra",
+      "ipa": "/brɑː/",
+      "chinese": "胸罩",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M18 28 Q14 24 22 22 Q34 22 36 32 Q40 38 50 38 Q60 38 64 32 Q66 22 78 22 Q86 24 82 28 Q70 50 50 50 Q30 50 18 28 Z' fill='#f5a0c0' stroke='#a04080' stroke-width='1.5'/><circle cx='34' cy='34' r='2' fill='#a04080'/><circle cx='66' cy='34' r='2' fill='#a04080'/><path d='M14 26 L4 22 M86 26 L96 22' stroke='#a04080' stroke-width='1.5'/></svg>"
+    },
+    {
+      "num": 48,
+      "word": "sports bra",
+      "ipa": "/ˈspɔːts brɑː/",
+      "chinese": "运动胸罩",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M20 26 L80 26 L78 50 Q66 56 50 54 Q34 56 22 50 Z' fill='#c84040' stroke='#7a1010' stroke-width='1.5'/><path d='M28 26 Q34 14 50 14 Q66 14 72 26' fill='none' stroke='#7a1010' stroke-width='1.5'/><line x1='50' y1='14' x2='50' y2='50' stroke='#7a1010' stroke-width='1.5'/></svg>"
+    },
+    {
+      "num": 49,
+      "word": "vest",
+      "ipa": "/vɛst/",
+      "chinese": "汗背心 (UK内衣)",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M32 14 L68 14 L66 20 L70 70 L30 70 L34 20 Z' fill='#fff' stroke='#888' stroke-width='1.5'/></svg>"
+    },
+    {
+      "num": 50,
+      "word": "socks",
+      "ipa": "/sɒks/",
+      "chinese": "袜子",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M30 8 L46 8 L46 50 L60 58 L60 70 L26 70 L26 58 L30 50 Z' fill='#fff' stroke='#888' stroke-width='1.5'/><rect x='30' y='8' width='16' height='8' fill='#c84040' opacity='0.5'/><line x1='26' y1='62' x2='60' y2='62' stroke='#888' stroke-width='1'/><path d='M54 8 L70 8 L70 50 L84 58 L84 70 L50 70' fill='#fff' stroke='#888' stroke-width='1.5' transform='translate(0 0)'/></svg>"
+    },
+    {
+      "num": 51,
+      "word": "tights",
+      "ipa": "/taɪts/",
+      "chinese": "连裤袜",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M30 8 L70 8 L68 20 L66 70 L54 70 L50 26 L46 70 L34 70 L32 20 Z' fill='#1a1a1a' stroke='#000' stroke-width='1.5'/></svg>"
+    },
+    {
+      "num": 52,
+      "word": "stockings",
+      "ipa": "/ˈstɒkɪŋz/",
+      "chinese": "丝袜",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M36 12 L52 12 L52 70 L40 70 Z' fill='#1a1a1a' stroke='#000' stroke-width='1.5' opacity='0.5'/><path d='M48 12 L64 12 L60 70 L48 70 Z' fill='#1a1a1a' stroke='#000' stroke-width='1.5' opacity='0.5'/><rect x='34' y='12' width='32' height='6' fill='#444' stroke='#000' stroke-width='1'/></svg>"
+    },
+    {
+      "section": "6. Sleepwear & Loungewear"
+    },
+    {
+      "num": 53,
+      "word": "pyjamas",
+      "ipa": "/pɪˈdʒɑːməz/",
+      "chinese": "睡衣",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M20 14 L36 10 L40 22 L50 26 L60 22 L64 10 L80 14 L84 26 L74 30 L72 40 L28 40 L26 30 L16 26 Z' fill='#a0c0e0' stroke='#5a80a0' stroke-width='1.5'/><circle cx='30' cy='22' r='2' fill='#5a80a0'/><circle cx='40' cy='30' r='2' fill='#5a80a0'/><circle cx='60' cy='28' r='2' fill='#5a80a0'/><circle cx='70' cy='22' r='2' fill='#5a80a0'/><path d='M30 42 L70 42 L72 60 L66 72 L54 72 L50 50 L46 72 L34 72 L28 60 Z' fill='#a0c0e0' stroke='#5a80a0' stroke-width='1.5'/></svg>"
+    },
+    {
+      "num": 54,
+      "word": "nightie",
+      "ipa": "/ˈnaɪti/",
+      "chinese": "睡裙",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M32 14 L68 14 L64 24 L78 70 L22 70 L36 24 Z' fill='#f5d8e8' stroke='#a07088' stroke-width='1.5'/><path d='M38 18 Q50 22 62 18' fill='none' stroke='#a07088' stroke-width='1'/><circle cx='40' cy='40' r='2' fill='#a07088' opacity='0.5'/><circle cx='60' cy='50' r='2' fill='#a07088' opacity='0.5'/></svg>"
+    },
+    {
+      "num": 55,
+      "word": "dressing gown",
+      "ipa": "/ˈdrɛsɪŋ ɡaʊn/",
+      "chinese": "睡袍 (UK/AUS)",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M22 18 L36 14 L40 24 L48 26 L48 70 L20 70 L22 38 L14 32 Z' fill='#c0b090' stroke='#8a7050' stroke-width='1.5'/><path d='M78 18 L64 14 L60 24 L52 26 L52 70 L80 70 L78 38 L86 32 Z' fill='#c0b090' stroke='#8a7050' stroke-width='1.5'/><line x1='50' y1='44' x2='14' y2='52' stroke='#8a7050' stroke-width='3'/><line x1='50' y1='44' x2='86' y2='52' stroke='#8a7050' stroke-width='3'/></svg>"
+    },
+    {
+      "num": 56,
+      "word": "slippers",
+      "ipa": "/ˈslɪpəz/",
+      "chinese": "拖鞋",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M8 50 Q10 30 30 30 L42 30 Q50 32 48 50 Q44 60 26 60 L14 60 Q6 58 8 50 Z' fill='#f5b8d0' stroke='#a0708a' stroke-width='1.5'/><path d='M14 36 Q18 30 30 30 Q34 30 36 38 Q34 44 22 44 Q14 42 14 36 Z' fill='#fff' opacity='0.5'/><path d='M52 50 Q54 30 74 30 L86 30 Q92 32 90 50 Q88 60 70 60 L58 60 Q50 58 52 50 Z' fill='#f5b8d0' stroke='#a0708a' stroke-width='1.5'/></svg>"
+    },
+    {
+      "num": 57,
+      "word": "robe",
+      "ipa": "/rəʊb/",
+      "chinese": "浴袍",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M22 18 L40 14 L42 26 L50 30 L58 26 L60 14 L78 18 L86 30 L76 36 L80 72 L20 72 L24 36 L14 30 Z' fill='#fff' stroke='#888' stroke-width='1.5'/><line x1='42' y1='26' x2='42' y2='72' stroke='#888' stroke-width='1'/><line x1='58' y1='26' x2='58' y2='72' stroke='#888' stroke-width='1'/><line x1='10' y1='50' x2='44' y2='52' stroke='#aaa' stroke-width='3'/><line x1='90' y1='50' x2='56' y2='52' stroke='#aaa' stroke-width='3'/></svg>"
+    },
+    {
+      "num": 58,
+      "word": "loungewear",
+      "ipa": "/ˈlaʊndʒweə/",
+      "chinese": "家居服",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M24 16 L36 12 Q42 22 50 22 Q58 22 64 12 L76 16 L82 28 L74 32 L72 42 L28 42 L26 32 L18 28 Z' fill='#888' stroke='#444' stroke-width='1.5'/><path d='M30 44 L70 44 L72 60 L66 70 L34 70 L28 60 Z' fill='#888' stroke='#444' stroke-width='1.5'/></svg>"
+    },
+    {
+      "section": "7. Activewear & Swimwear"
+    },
+    {
+      "num": 59,
+      "word": "swimsuit",
+      "ipa": "/ˈswɪmsuːt/",
+      "chinese": "泳衣",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M32 14 L68 14 L66 20 L72 38 L66 60 Q58 64 50 62 Q42 64 34 60 L28 38 L34 20 Z' fill='#c84040' stroke='#7a1010' stroke-width='1.5'/><path d='M38 18 Q50 24 62 18' fill='none' stroke='#7a1010' stroke-width='1.5'/></svg>"
+    },
+    {
+      "num": 60,
+      "word": "bikini",
+      "ipa": "/bɪˈkiːni/",
+      "chinese": "比基尼",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M18 28 Q14 24 22 22 Q34 22 36 32 Q40 38 50 38 Q60 38 64 32 Q66 22 78 22 Q86 24 82 28 Q70 48 50 48 Q30 48 18 28 Z' fill='#e060a0' stroke='#a02060' stroke-width='1.5'/><path d='M30 58 Q50 64 70 58 L66 70 Q50 72 34 70 Z' fill='#e060a0' stroke='#a02060' stroke-width='1.5'/><line x1='14' y1='26' x2='4' y2='22' stroke='#a02060' stroke-width='1.5'/><line x1='86' y1='26' x2='96' y2='22' stroke='#a02060' stroke-width='1.5'/></svg>"
+    },
+    {
+      "num": 61,
+      "word": "swim trunks",
+      "ipa": "/ˈswɪm trʌŋks/",
+      "chinese": "男士泳裤",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M22 18 L78 18 L80 38 L66 52 L52 52 L50 32 L48 52 L34 52 L20 38 Z' fill='#4060c8' stroke='#202060' stroke-width='1.5'/><path d='M28 28 L32 30 M40 26 L44 30 M52 30 L56 32 M64 28 L68 32' stroke='#fff' stroke-width='1' opacity='0.7'/></svg>"
+    },
+    {
+      "num": 62,
+      "word": "boardies",
+      "ipa": "/ˈbɔːdiz/",
+      "chinese": "冲浪短裤 (AUS)",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M22 18 L78 18 L80 38 L66 60 L54 60 L50 32 L46 60 L34 60 L20 38 Z' fill='#f8a040' stroke='#a06010' stroke-width='1.5'/><path d='M28 24 Q34 28 40 24 M46 26 Q52 30 58 26 M62 24 Q68 28 74 24' stroke='#fff' stroke-width='1.5' fill='none' opacity='0.6'/><line x1='22' y1='20' x2='78' y2='20' stroke='#a06010' stroke-width='2'/></svg>"
+    },
+    {
+      "num": 63,
+      "word": "bathers",
+      "ipa": "/ˈbeɪðəz/",
+      "chinese": "泳衣 (AUS - 维州/南澳)",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M32 14 L68 14 L66 20 L72 38 L66 60 Q58 64 50 62 Q42 64 34 60 L28 38 L34 20 Z' fill='#4a9ad4' stroke='#2a6aa4' stroke-width='1.5'/><path d='M38 18 Q50 24 62 18' fill='none' stroke='#2a6aa4' stroke-width='1.5'/><text x='50' y='48' font-size='8' text-anchor='middle' fill='#fff' font-family='Arial'>AUS</text></svg>"
+    },
+    {
+      "num": 64,
+      "word": "togs",
+      "ipa": "/tɒɡz/",
+      "chinese": "泳衣 (AUS - 昆州)",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M32 14 L68 14 L66 20 L72 38 L66 60 Q58 64 50 62 Q42 64 34 60 L28 38 L34 20 Z' fill='#6abf50' stroke='#3a8a20' stroke-width='1.5'/><path d='M38 18 Q50 24 62 18' fill='none' stroke='#3a8a20' stroke-width='1.5'/></svg>"
+    },
+    {
+      "num": 65,
+      "word": "budgie smugglers",
+      "ipa": "/ˈbʌdʒi ˌsmʌɡləz/",
+      "chinese": "男士紧身泳裤 (AUS俚语)",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M30 28 L70 28 L72 38 L62 52 L52 52 L50 38 L48 52 L38 52 L28 38 Z' fill='#c84040' stroke='#7a1010' stroke-width='1.5'/><line x1='30' y1='30' x2='70' y2='30' stroke='#7a1010' stroke-width='2'/></svg>"
+    },
+    {
+      "num": 66,
+      "word": "gym kit",
+      "ipa": "/ˈdʒɪm kɪt/",
+      "chinese": "健身装备",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M24 14 L36 10 Q42 20 50 22 Q58 20 64 10 L76 14 L82 26 L72 30 L72 40 L28 40 L28 30 L18 26 Z' fill='#1a1a1a' stroke='#000' stroke-width='1.5'/><path d='M30 44 L70 44 L72 58 L66 66 L34 66 L28 58 Z' fill='#1a1a1a' stroke='#000' stroke-width='1.5'/><line x1='50' y1='28' x2='50' y2='38' stroke='#fff' stroke-width='1'/></svg>"
+    },
+    {
+      "num": 67,
+      "word": "sportswear",
+      "ipa": "/ˈspɔːtsweə/",
+      "chinese": "运动服",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M24 14 L36 10 Q42 20 50 22 Q58 20 64 10 L76 14 L82 26 L72 30 L72 40 L28 40 L28 30 L18 26 Z' fill='#1a1a1a' stroke='#000' stroke-width='1.5'/><path d='M30 44 L70 44 L72 58 L66 66 L34 66 L28 58 Z' fill='#1a1a1a' stroke='#000' stroke-width='1.5'/><line x1='50' y1='28' x2='50' y2='38' stroke='#fff' stroke-width='1'/></svg>"
+    },
+    {
+      "num": 68,
+      "word": "trackies",
+      "ipa": "/ˈtrækiz/",
+      "chinese": "运动裤 (AUS)",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M30 10 L70 10 L72 26 L66 70 L54 70 L50 32 L46 70 L34 70 L28 26 Z' fill='#3a3a3a' stroke='#000' stroke-width='1.5'/><line x1='30' y1='12' x2='70' y2='12' stroke='#000' stroke-width='2'/><line x1='34' y1='28' x2='32' y2='66' stroke='#fff' stroke-width='2'/><line x1='66' y1='28' x2='68' y2='66' stroke='#fff' stroke-width='2'/><path d='M40 16 Q50 22 60 16' fill='none' stroke='#000' stroke-width='1'/></svg>"
+    },
+    {
+      "num": 69,
+      "word": "wetsuit",
+      "ipa": "/ˈwɛtsuːt/",
+      "chinese": "潜水服",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M30 10 L70 10 L74 22 L68 70 L32 70 L26 22 Z' fill='#1a1a3a' stroke='#000' stroke-width='1.5'/><line x1='50' y1='14' x2='50' y2='68' stroke='#444' stroke-width='1' stroke-dasharray='2 2'/><circle cx='50' cy='14' r='2' fill='#888'/><path d='M40 30 L60 30' stroke='#4060c8' stroke-width='2'/><path d='M40 40 L60 40' stroke='#4060c8' stroke-width='2'/></svg>"
+    },
+    {
+      "num": 70,
+      "word": "leotard",
+      "ipa": "/ˈliːətɑːd/",
+      "chinese": "紧身连体衣",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M32 12 L68 12 L66 22 L74 38 L66 56 L58 56 L52 36 L48 36 L42 56 L34 56 L26 38 L34 22 Z' fill='#a040a0' stroke='#601060' stroke-width='1.5'/><path d='M40 16 Q50 22 60 16' fill='none' stroke='#601060' stroke-width='1.5'/></svg>"
+    },
+    {
+      "section": "8. Footwear"
+    },
+    {
+      "num": 71,
+      "word": "shoes",
+      "ipa": "/ʃuːz/",
+      "chinese": "鞋子",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M10 50 Q12 38 28 36 L52 32 Q72 28 84 36 Q92 42 90 52 Q88 60 76 62 L18 62 Q10 62 10 50 Z' fill='#5a3010' stroke='#3a1000' stroke-width='1.5'/><path d='M22 50 L82 50' stroke='#3a1000' stroke-width='1'/><path d='M28 40 L36 44 M40 38 L48 42 M52 36 L60 40' stroke='#fff' stroke-width='1' opacity='0.5'/></svg>"
+    },
+    {
+      "num": 72,
+      "word": "trainers",
+      "ipa": "/ˈtreɪnəz/",
+      "chinese": "运动鞋 (UK/AUS)",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M8 56 Q10 42 28 40 L48 36 Q70 32 84 40 Q92 46 90 56 Q88 64 76 64 L16 64 Q8 64 8 56 Z' fill='#fff' stroke='#888' stroke-width='1.5'/><path d='M30 44 L34 50 M38 42 L42 48 M46 40 L50 46 M54 38 L58 44 M62 36 L66 42' stroke='#888' stroke-width='1'/><rect x='30' y='52' width='52' height='6' fill='#c84040'/><path d='M8 60 L90 60' stroke='#1a1a1a' stroke-width='3'/></svg>"
+    },
+    {
+      "num": 73,
+      "word": "runners",
+      "ipa": "/ˈrʌnəz/",
+      "chinese": "跑鞋；运动鞋 (AUS)",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M8 56 Q10 42 28 40 L48 36 Q70 32 84 40 Q92 46 90 56 Q88 64 76 64 L16 64 Q8 64 8 56 Z' fill='#4a9ad4' stroke='#2a6aa4' stroke-width='1.5'/><path d='M30 44 L34 50 M38 42 L42 48 M46 40 L50 46 M54 38 L58 44 M62 36 L66 42' stroke='#fff' stroke-width='1'/><path d='M16 50 Q40 46 70 48' stroke='#fff' stroke-width='3' fill='none'/><path d='M8 60 L90 60' stroke='#1a1a1a' stroke-width='3'/></svg>"
+    },
+    {
+      "num": 74,
+      "word": "boots",
+      "ipa": "/buːts/",
+      "chinese": "靴子",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M22 10 L46 10 L48 50 Q70 50 80 56 Q86 62 84 68 L18 68 L18 50 L22 14 Z' fill='#5a3010' stroke='#3a1000' stroke-width='1.5'/><line x1='28' y1='20' x2='40' y2='20' stroke='#3a1000' stroke-width='1'/><line x1='28' y1='28' x2='40' y2='28' stroke='#3a1000' stroke-width='1'/><line x1='28' y1='36' x2='40' y2='36' stroke='#3a1000' stroke-width='1'/><line x1='28' y1='44' x2='40' y2='44' stroke='#3a1000' stroke-width='1'/><line x1='18' y1='66' x2='84' y2='66' stroke='#000' stroke-width='2'/></svg>"
+    },
+    {
+      "num": 75,
+      "word": "sandals",
+      "ipa": "/ˈsænd(ə)lz/",
+      "chinese": "凉鞋",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M14 44 Q16 30 32 30 L60 30 Q80 30 86 40 Q86 50 80 52 L20 52 Q12 50 14 44 Z' fill='#a08068' stroke='#604030' stroke-width='1.5'/><path d='M30 30 L40 18 M50 30 L52 16 M70 30 L74 20' stroke='#604030' stroke-width='3' stroke-linecap='round'/><path d='M28 40 L72 40' stroke='#604030' stroke-width='2'/></svg>"
+    },
+    {
+      "num": 76,
+      "word": "thongs",
+      "ipa": "/θɒŋz/",
+      "chinese": "人字拖 (AUS = 不是内裤!)",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M14 44 Q16 30 32 28 L60 28 Q82 28 86 40 Q86 50 80 54 L20 54 Q12 52 14 44 Z' fill='#1a1a1a' stroke='#000' stroke-width='1.5'/><path d='M44 28 L50 12 L56 28' fill='none' stroke='#1a1a1a' stroke-width='3' stroke-linecap='round'/><circle cx='50' cy='14' r='3' fill='#1a1a1a'/></svg>"
+    },
+    {
+      "num": 77,
+      "word": "flip-flops",
+      "ipa": "/ˈflɪp flɒps/",
+      "chinese": "人字拖 (UK)",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M14 44 Q16 30 32 28 L60 28 Q82 28 86 40 Q86 50 80 54 L20 54 Q12 52 14 44 Z' fill='#1a1a1a' stroke='#000' stroke-width='1.5'/><path d='M44 28 L50 12 L56 28' fill='none' stroke='#1a1a1a' stroke-width='3' stroke-linecap='round'/><circle cx='50' cy='14' r='3' fill='#1a1a1a'/></svg>"
+    },
+    {
+      "num": 78,
+      "word": "heels",
+      "ipa": "/hiːlz/",
+      "chinese": "高跟鞋",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M14 50 Q14 32 30 32 L72 32 Q82 36 82 50 L66 50 L60 60 L72 60 L72 68 L40 68 L40 60 L52 60 L60 50 L20 50 Z' fill='#c84040' stroke='#7a1010' stroke-width='1.5'/><path d='M60 60 L72 60 L72 68 L60 68 Z' fill='#7a1010'/></svg>"
+    },
+    {
+      "num": 79,
+      "word": "high heels",
+      "ipa": "/haɪ hiːlz/",
+      "chinese": "高跟鞋",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M14 50 Q14 30 30 30 L72 30 Q86 34 84 50 L62 50 L52 70 L72 70 L72 76 L36 76 L36 70 L48 70 L60 50 L20 50 Z' fill='#000' stroke='#222' stroke-width='1.5'/></svg>"
+    },
+    {
+      "num": 80,
+      "word": "loafers",
+      "ipa": "/ˈləʊfəz/",
+      "chinese": "乐福鞋",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M8 50 Q10 38 28 36 L52 32 Q72 30 84 38 Q90 44 88 52 Q86 60 76 62 L18 62 Q8 62 8 50 Z' fill='#3a1000' stroke='#000' stroke-width='1.5'/><ellipse cx='50' cy='38' rx='14' ry='3' fill='#5a3010' stroke='#000' stroke-width='1'/><path d='M44 38 L56 38' stroke='#a08040' stroke-width='2'/></svg>"
+    },
+    {
+      "num": 81,
+      "word": "wellies",
+      "ipa": "/ˈwɛliz/",
+      "chinese": "雨靴 (UK)",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M22 10 L46 10 L48 50 Q72 50 80 56 Q86 62 84 68 L18 68 L18 50 L22 14 Z' fill='#1a3a5a' stroke='#000' stroke-width='1.5'/><line x1='18' y1='66' x2='84' y2='66' stroke='#000' stroke-width='2'/><path d='M22 30 Q34 32 44 30' fill='none' stroke='#fff' stroke-width='2' opacity='0.4'/></svg>"
+    },
+    {
+      "num": 82,
+      "word": "gumboots",
+      "ipa": "/ˈɡʌmbuːts/",
+      "chinese": "雨靴 (AUS)",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M22 10 L48 10 L50 50 Q74 50 82 56 Q88 62 86 68 L20 68 L20 50 L22 14 Z' fill='#1a4a1a' stroke='#000' stroke-width='1.5'/><line x1='20' y1='66' x2='86' y2='66' stroke='#000' stroke-width='2'/><text x='35' y='40' font-size='8' fill='#fff' font-family='Arial' font-weight='bold'>AUS</text></svg>"
+    },
+    {
+      "num": 83,
+      "word": "slippers",
+      "ipa": "/ˈslɪpəz/",
+      "chinese": "拖鞋",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M8 50 Q10 30 30 30 L42 30 Q50 32 48 50 Q44 60 26 60 L14 60 Q6 58 8 50 Z' fill='#f5b8d0' stroke='#a0708a' stroke-width='1.5'/><path d='M14 36 Q18 30 30 30 Q34 30 36 38 Q34 44 22 44 Q14 42 14 36 Z' fill='#fff' opacity='0.5'/><path d='M52 50 Q54 30 74 30 L86 30 Q92 32 90 50 Q88 60 70 60 L58 60 Q50 58 52 50 Z' fill='#f5b8d0' stroke='#a0708a' stroke-width='1.5'/></svg>"
+    },
+    {
+      "num": 84,
+      "word": "pumps",
+      "ipa": "/pʌmps/",
+      "chinese": "浅口高跟鞋",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M12 48 Q12 32 32 32 L72 32 Q86 36 86 50 Q84 58 76 60 L18 60 Q10 58 12 48 Z' fill='#000' stroke='#222' stroke-width='1.5'/><path d='M16 42 Q40 38 72 42' fill='none' stroke='#fff' stroke-width='1' opacity='0.4'/></svg>"
+    },
+    {
+      "num": 85,
+      "word": "ankle boots",
+      "ipa": "/ˈæŋk(ə)l buːts/",
+      "chinese": "短靴",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M28 18 L48 18 L50 44 Q70 44 78 50 Q84 58 82 64 L22 64 L22 44 L28 22 Z' fill='#3a1000' stroke='#000' stroke-width='1.5'/><line x1='22' y1='62' x2='82' y2='62' stroke='#000' stroke-width='2'/><line x1='32' y1='30' x2='44' y2='30' stroke='#000' stroke-width='1'/></svg>"
+    },
+    {
+      "section": "9. Accessories"
+    },
+    {
+      "num": 86,
+      "word": "hat",
+      "ipa": "/hæt/",
+      "chinese": "帽子",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M28 36 Q24 18 50 16 Q76 18 72 36 Z' fill='#3a3a3a' stroke='#000' stroke-width='1.5'/><ellipse cx='50' cy='40' rx='38' ry='8' fill='#3a3a3a' stroke='#000' stroke-width='1.5'/><rect x='28' y='32' width='44' height='6' fill='#c84040'/></svg>"
+    },
+    {
+      "num": 87,
+      "word": "cap",
+      "ipa": "/kæp/",
+      "chinese": "鸭舌帽",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M16 38 Q16 22 50 18 Q78 20 78 38 Z' fill='#4060c8' stroke='#202060' stroke-width='1.5'/><path d='M78 38 L92 42 L88 48 L72 42 Z' fill='#4060c8' stroke='#202060' stroke-width='1.5'/><circle cx='50' cy='28' r='6' fill='#fff' stroke='#202060' stroke-width='1'/></svg>"
+    },
+    {
+      "num": 88,
+      "word": "beanie",
+      "ipa": "/ˈbiːni/",
+      "chinese": "毛线帽",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M22 44 Q18 18 50 14 Q82 18 78 44 Z' fill='#c84040' stroke='#7a1010' stroke-width='1.5'/><rect x='22' y='40' width='56' height='12' fill='#a02020' stroke='#7a1010' stroke-width='1.5'/><circle cx='50' cy='12' r='6' fill='#fff' opacity='0.8'/></svg>"
+    },
+    {
+      "num": 89,
+      "word": "sun hat",
+      "ipa": "/ˈsʌn hæt/",
+      "chinese": "遮阳帽",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M28 36 Q24 16 50 14 Q76 16 72 36 Z' fill='#f0d8a0' stroke='#a08040' stroke-width='1.5'/><ellipse cx='50' cy='42' rx='44' ry='8' fill='#f0d8a0' stroke='#a08040' stroke-width='1.5'/><rect x='28' y='32' width='44' height='6' fill='#5a3010'/></svg>"
+    },
+    {
+      "num": 90,
+      "word": "akubra",
+      "ipa": "/əˈkuːbrə/",
+      "chinese": "澳式宽边帽 (AUS)",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M28 38 Q24 14 50 12 Q76 14 72 38 Z' fill='#8a5020' stroke='#5a3000' stroke-width='1.5'/><ellipse cx='50' cy='44' rx='44' ry='8' fill='#8a5020' stroke='#5a3000' stroke-width='1.5'/><path d='M14 44 Q14 48 22 50 M86 44 Q86 48 78 50' stroke='#5a3000' stroke-width='1.5' fill='none'/><rect x='28' y='34' width='44' height='6' fill='#3a1000'/></svg>"
+    },
+    {
+      "num": 91,
+      "word": "scarf",
+      "ipa": "/skɑːf/",
+      "chinese": "围巾",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M14 26 L86 26 L84 42 L70 42 L72 70 L60 70 L62 42 L38 42 L40 70 L28 70 L30 42 L16 42 Z' fill='#a02060' stroke='#600020' stroke-width='1.5'/><path d='M20 32 L80 32 M20 38 L80 38' stroke='#600020' stroke-width='1' opacity='0.5'/><path d='M30 42 L26 70 M70 42 L74 70' fill='none' stroke='#600020' stroke-width='1.5'/></svg>"
+    },
+    {
+      "num": 92,
+      "word": "gloves",
+      "ipa": "/ɡlʌvz/",
+      "chinese": "手套",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M14 30 L14 20 Q18 16 22 20 L22 30 L22 14 Q26 10 30 14 L30 30 L30 8 Q34 4 38 8 L38 30 L38 16 Q42 12 46 16 L46 32 Q46 50 38 60 L14 60 Z' fill='#2a2a8a' stroke='#000050' stroke-width='1.5'/><path d='M86 30 L86 20 Q82 16 78 20 L78 30 L78 14 Q74 10 70 14 L70 30 L70 8 Q66 4 62 8 L62 30 L62 16 Q58 12 54 16 L54 32 Q54 50 62 60 L86 60 Z' fill='#2a2a8a' stroke='#000050' stroke-width='1.5'/></svg>"
+    },
+    {
+      "num": 93,
+      "word": "mittens",
+      "ipa": "/ˈmɪt(ə)nz/",
+      "chinese": "连指手套",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M14 50 Q10 30 24 22 Q40 18 44 30 L44 50 Z' fill='#c84040' stroke='#7a1010' stroke-width='1.5'/><path d='M14 50 Q14 56 22 58 L46 56 L44 50 Z' fill='#a02020' stroke='#7a1010' stroke-width='1.5'/><path d='M86 50 Q90 30 76 22 Q60 18 56 30 L56 50 Z' fill='#c84040' stroke='#7a1010' stroke-width='1.5'/><path d='M86 50 Q86 56 78 58 L54 56 L56 50 Z' fill='#a02020' stroke='#7a1010' stroke-width='1.5'/></svg>"
+    },
+    {
+      "num": 94,
+      "word": "belt",
+      "ipa": "/bɛlt/",
+      "chinese": "腰带",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='8' y='30' width='84' height='20' fill='#3a1000' stroke='#000' stroke-width='1.5'/><rect x='52' y='28' width='20' height='24' fill='#a08040' stroke='#5a3010' stroke-width='1.5'/><rect x='56' y='34' width='12' height='12' fill='none' stroke='#5a3010' stroke-width='1.5'/><circle cx='62' cy='40' r='1.5' fill='#5a3010'/><line x1='8' y1='40' x2='52' y2='40' stroke='#5a2000' stroke-width='1'/></svg>"
+    },
+    {
+      "num": 95,
+      "word": "tie",
+      "ipa": "/taɪ/",
+      "chinese": "领带",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M40 10 L60 10 L56 22 L62 30 L58 60 L50 70 L42 60 L38 30 L44 22 Z' fill='#a02020' stroke='#600000' stroke-width='1.5'/><path d='M40 14 L60 14 L56 22 L44 22 Z' fill='#600000'/><path d='M44 28 L56 28 M42 36 L58 36 M44 44 L56 44 M44 52 L56 52' stroke='#600000' stroke-width='1' opacity='0.6'/></svg>"
+    },
+    {
+      "num": 96,
+      "word": "bowtie",
+      "ipa": "/ˈbəʊtaɪ/",
+      "chinese": "领结",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M50 40 L20 24 L24 56 Z' fill='#000' stroke='#222' stroke-width='1.5'/><path d='M50 40 L80 24 L76 56 Z' fill='#000' stroke='#222' stroke-width='1.5'/><rect x='44' y='32' width='12' height='16' fill='#222'/></svg>"
+    },
+    {
+      "num": 97,
+      "word": "sunglasses",
+      "ipa": "/ˈsʌnɡlɑːsɪz/",
+      "chinese": "墨镜",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='10' y='30' width='34' height='20' rx='8' fill='#222' stroke='#000' stroke-width='1.5'/><rect x='56' y='30' width='34' height='20' rx='8' fill='#222' stroke='#000' stroke-width='1.5'/><line x1='44' y1='34' x2='56' y2='34' stroke='#000' stroke-width='2'/><line x1='10' y1='32' x2='4' y2='30' stroke='#000' stroke-width='2'/><line x1='90' y1='32' x2='96' y2='30' stroke='#000' stroke-width='2'/></svg>"
+    },
+    {
+      "num": 98,
+      "word": "watch",
+      "ipa": "/wɒtʃ/",
+      "chinese": "手表",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='44' y='8' width='12' height='14' fill='#a0a0a0' stroke='#444' stroke-width='1.5'/><rect x='44' y='58' width='12' height='14' fill='#a0a0a0' stroke='#444' stroke-width='1.5'/><circle cx='50' cy='40' r='20' fill='#fff' stroke='#444' stroke-width='2'/><line x1='50' y1='40' x2='50' y2='28' stroke='#222' stroke-width='2.5'/><line x1='50' y1='40' x2='58' y2='40' stroke='#222' stroke-width='2'/><circle cx='50' cy='40' r='2' fill='#222'/></svg>"
+    },
+    {
+      "num": 99,
+      "word": "umbrella",
+      "ipa": "/ʌmˈbrɛlə/",
+      "chinese": "雨伞",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M14 36 Q14 16 50 14 Q86 16 86 36 Z' fill='#1a3a5a' stroke='#000' stroke-width='1.5'/><path d='M14 36 Q28 28 32 36 Q42 28 50 36 Q58 28 68 36 Q72 28 86 36' fill='none' stroke='#000' stroke-width='1'/><line x1='50' y1='14' x2='50' y2='66' stroke='#5a3010' stroke-width='2'/><path d='M50 66 Q50 72 58 70' fill='none' stroke='#5a3010' stroke-width='2.5' stroke-linecap='round'/></svg>"
+    },
+    {
+      "num": 100,
+      "word": "handbag",
+      "ipa": "/ˈhæn(d)bæɡ/",
+      "chinese": "手提包",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='22' y='30' width='56' height='40' rx='4' fill='#a04040' stroke='#5a1010' stroke-width='1.5'/><path d='M32 30 Q32 14 50 14 Q68 14 68 30' fill='none' stroke='#5a1010' stroke-width='2.5'/><rect x='40' y='42' width='20' height='10' fill='#7a2020' stroke='#5a1010' stroke-width='1'/></svg>"
+    },
+    {
+      "section": "10. Jewellery"
+    },
+    {
+      "num": 101,
+      "word": "ring",
+      "ipa": "/rɪŋ/",
+      "chinese": "戒指",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><circle cx='50' cy='44' r='20' fill='none' stroke='#f0c020' stroke-width='6'/><path d='M50 24 L46 14 L54 14 Z' fill='#a0e0f0' stroke='#5080a0' stroke-width='1.5'/></svg>"
+    },
+    {
+      "num": 102,
+      "word": "necklace",
+      "ipa": "/ˈnɛkləs/",
+      "chinese": "项链",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M14 14 Q50 50 86 14' fill='none' stroke='#f0c020' stroke-width='2'/><circle cx='14' cy='14' r='2' fill='#f0c020'/><circle cx='86' cy='14' r='2' fill='#f0c020'/><path d='M44 40 L50 56 L56 40 Q56 32 50 30 Q44 32 44 40 Z' fill='#a0e0f0' stroke='#5080a0' stroke-width='1.5'/></svg>"
+    },
+    {
+      "num": 103,
+      "word": "earrings",
+      "ipa": "/ˈɪərɪŋz/",
+      "chinese": "耳环",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><circle cx='30' cy='22' r='4' fill='#f0c020' stroke='#a08010' stroke-width='1'/><path d='M30 26 Q30 50 30 56' fill='none' stroke='#f0c020' stroke-width='1.5'/><circle cx='30' cy='60' r='8' fill='#a0e0f0' stroke='#5080a0' stroke-width='1.5'/><circle cx='70' cy='22' r='4' fill='#f0c020' stroke='#a08010' stroke-width='1'/><path d='M70 26 Q70 50 70 56' fill='none' stroke='#f0c020' stroke-width='1.5'/><circle cx='70' cy='60' r='8' fill='#a0e0f0' stroke='#5080a0' stroke-width='1.5'/></svg>"
+    },
+    {
+      "num": 104,
+      "word": "bracelet",
+      "ipa": "/ˈbreɪslət/",
+      "chinese": "手镯；手链",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><ellipse cx='50' cy='40' rx='34' ry='14' fill='none' stroke='#f0c020' stroke-width='4'/><circle cx='20' cy='40' r='3' fill='#a0e0f0' stroke='#5080a0' stroke-width='1'/><circle cx='40' cy='30' r='3' fill='#e060a0' stroke='#a02060' stroke-width='1'/><circle cx='60' cy='32' r='3' fill='#a0e0f0' stroke='#5080a0' stroke-width='1'/><circle cx='80' cy='40' r='3' fill='#e060a0' stroke='#a02060' stroke-width='1'/></svg>"
+    },
+    {
+      "num": 105,
+      "word": "pendant",
+      "ipa": "/ˈpɛndənt/",
+      "chinese": "吊坠",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M14 14 Q50 30 86 14' fill='none' stroke='#f0c020' stroke-width='2'/><path d='M50 30 L42 50 L50 64 L58 50 Z' fill='#a0e0f0' stroke='#5080a0' stroke-width='1.5'/><circle cx='50' cy='44' r='3' fill='#fff'/></svg>"
+    },
+    {
+      "num": 106,
+      "word": "chain",
+      "ipa": "/tʃeɪn/",
+      "chinese": "链子",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><circle cx='20' cy='30' r='8' fill='none' stroke='#f0c020' stroke-width='3'/><circle cx='32' cy='40' r='8' fill='none' stroke='#f0c020' stroke-width='3'/><circle cx='44' cy='30' r='8' fill='none' stroke='#f0c020' stroke-width='3'/><circle cx='56' cy='40' r='8' fill='none' stroke='#f0c020' stroke-width='3'/><circle cx='68' cy='30' r='8' fill='none' stroke='#f0c020' stroke-width='3'/><circle cx='80' cy='40' r='8' fill='none' stroke='#f0c020' stroke-width='3'/></svg>"
+    },
+    {
+      "num": 107,
+      "word": "brooch",
+      "ipa": "/brəʊtʃ/",
+      "chinese": "胸针",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><circle cx='50' cy='40' r='20' fill='#f0c020' stroke='#a08010' stroke-width='2'/><circle cx='50' cy='40' r='12' fill='#a0e0f0' stroke='#5080a0' stroke-width='1.5'/><path d='M50 28 L52 38 L62 40 L52 42 L50 52 L48 42 L38 40 L48 38 Z' fill='#fff'/></svg>"
+    },
+    {
+      "num": 108,
+      "word": "cufflinks",
+      "ipa": "/ˈkʌflɪŋks/",
+      "chinese": "袖扣",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='10' y='30' width='30' height='20' rx='4' fill='#f0c020' stroke='#a08010' stroke-width='1.5'/><circle cx='25' cy='40' r='5' fill='#a0e0f0' stroke='#5080a0' stroke-width='1'/><rect x='60' y='30' width='30' height='20' rx='4' fill='#f0c020' stroke='#a08010' stroke-width='1.5'/><circle cx='75' cy='40' r='5' fill='#a0e0f0' stroke='#5080a0' stroke-width='1'/></svg>"
+    },
+    {
+      "section": "11. Parts of Clothing"
+    },
+    {
+      "num": 109,
+      "word": "sleeve",
+      "ipa": "/sliːv/",
+      "chinese": "袖子",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M14 20 L36 14 L42 30 L40 60 L20 64 L14 50 Z' fill='#4a9ad4' stroke='#2a6aa4' stroke-width='1.5'/><rect x='14' y='56' width='28' height='10' fill='#2a6aa4' stroke='#1a4a84' stroke-width='1.5'/></svg>"
+    },
+    {
+      "num": 110,
+      "word": "collar",
+      "ipa": "/ˈkɒlə/",
+      "chinese": "衣领",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M14 30 L30 16 L40 24 L50 22 L60 24 L70 16 L86 30 L74 36 L60 28 L50 30 L40 28 L26 36 Z' fill='#fff' stroke='#888' stroke-width='1.5'/><path d='M40 24 L50 30 L60 24' fill='none' stroke='#888' stroke-width='1'/></svg>"
+    },
+    {
+      "num": 111,
+      "word": "cuff",
+      "ipa": "/kʌf/",
+      "chinese": "袖口",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='14' y='30' width='72' height='20' fill='#4a9ad4' stroke='#2a6aa4' stroke-width='1.5'/><rect x='14' y='48' width='72' height='12' fill='#2a6aa4' stroke='#1a4a84' stroke-width='1.5'/><circle cx='80' cy='54' r='2' fill='#fff'/></svg>"
+    },
+    {
+      "num": 112,
+      "word": "hem",
+      "ipa": "/hɛm/",
+      "chinese": "下摆",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='14' y='14' width='72' height='40' fill='#a04040' stroke='#5a1010' stroke-width='1.5'/><rect x='14' y='52' width='72' height='14' fill='#7a2020' stroke='#5a1010' stroke-width='1.5'/><line x1='18' y1='58' x2='82' y2='58' stroke='#5a1010' stroke-width='1' stroke-dasharray='3 2'/></svg>"
+    },
+    {
+      "num": 113,
+      "word": "pocket",
+      "ipa": "/ˈpɒkɪt/",
+      "chinese": "口袋",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='14' y='14' width='72' height='56' fill='#a06030' stroke='#5a3010' stroke-width='1.5'/><rect x='30' y='30' width='40' height='30' fill='#8a4020' stroke='#5a3010' stroke-width='1.5'/><path d='M30 38 L70 38' stroke='#5a3010' stroke-width='1.5'/></svg>"
+    },
+    {
+      "num": 114,
+      "word": "button",
+      "ipa": "/ˈbʌt(ə)n/",
+      "chinese": "纽扣",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><circle cx='50' cy='40' r='22' fill='#fff' stroke='#888' stroke-width='2'/><circle cx='50' cy='40' r='16' fill='#f5f5e8' stroke='#888' stroke-width='1'/><circle cx='44' cy='36' r='2' fill='#888'/><circle cx='56' cy='36' r='2' fill='#888'/><circle cx='44' cy='44' r='2' fill='#888'/><circle cx='56' cy='44' r='2' fill='#888'/></svg>"
+    },
+    {
+      "num": 115,
+      "word": "zip",
+      "ipa": "/zɪp/",
+      "chinese": "拉链 (UK/AUS)",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='40' y='10' width='20' height='60' fill='#5a5a5a' stroke='#222' stroke-width='1.5'/><line x1='50' y1='10' x2='50' y2='70' stroke='#222' stroke-width='1'/><line x1='42' y1='16' x2='58' y2='16' stroke='#222' stroke-width='1'/><line x1='42' y1='20' x2='58' y2='20' stroke='#222' stroke-width='1'/><line x1='42' y1='24' x2='58' y2='24' stroke='#222' stroke-width='1'/><line x1='42' y1='28' x2='58' y2='28' stroke='#222' stroke-width='1'/><line x1='42' y1='32' x2='58' y2='32' stroke='#222' stroke-width='1'/><line x1='42' y1='36' x2='58' y2='36' stroke='#222' stroke-width='1'/><rect x='44' y='38' width='12' height='14' fill='#888' stroke='#222' stroke-width='1.5'/><path d='M50 52 L50 60' stroke='#888' stroke-width='2'/></svg>"
+    },
+    {
+      "num": 116,
+      "word": "lapel",
+      "ipa": "/ləˈpɛl/",
+      "chinese": "西装翻领",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M30 14 L40 28 L30 50 L14 30 Z' fill='#2a3a5a' stroke='#102040' stroke-width='1.5'/><path d='M70 14 L60 28 L70 50 L86 30 Z' fill='#2a3a5a' stroke='#102040' stroke-width='1.5'/><path d='M40 28 L50 36 L60 28' fill='#102040'/></svg>"
+    },
+    {
+      "num": 117,
+      "word": "waistband",
+      "ipa": "/ˈweɪs(t)bænd/",
+      "chinese": "腰带；裤腰",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='14' y='30' width='72' height='20' fill='#4060c8' stroke='#202060' stroke-width='1.5'/><rect x='14' y='30' width='72' height='8' fill='#2a4080' stroke='#202060' stroke-width='1.5'/><line x1='30' y1='38' x2='28' y2='44' stroke='#202060' stroke-width='2'/></svg>"
+    },
+    {
+      "num": 118,
+      "word": "hood",
+      "ipa": "/hʊd/",
+      "chinese": "兜帽",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M22 60 Q14 30 50 14 Q86 30 78 60 Q66 50 50 50 Q34 50 22 60 Z' fill='#5a5a5a' stroke='#2a2a2a' stroke-width='1.5'/><circle cx='40' cy='30' r='3' fill='#a0a0a0' stroke='#888'/><circle cx='60' cy='30' r='3' fill='#a0a0a0' stroke='#888'/><line x1='30' y1='50' x2='70' y2='50' stroke='#2a2a2a' stroke-width='2'/></svg>"
+    },
+    {
+      "num": 119,
+      "word": "lining",
+      "ipa": "/ˈlaɪnɪŋ/",
+      "chinese": "内衬",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M14 14 L86 14 L86 66 L14 66 Z' fill='#a04040' stroke='#5a1010' stroke-width='1.5'/><path d='M22 22 L78 22 L78 58 L22 58 Z' fill='#f5f5e8' stroke='#888' stroke-width='1' stroke-dasharray='3 2'/></svg>"
+    },
+    {
+      "section": "12. Materials / Fabrics"
+    },
+    {
+      "num": 120,
+      "word": "cotton",
+      "ipa": "/ˈkɒt(ə)n/",
+      "chinese": "棉",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><circle cx='30' cy='40' r='14' fill='#fff' stroke='#aaa' stroke-width='1.5'/><circle cx='50' cy='30' r='14' fill='#fff' stroke='#aaa' stroke-width='1.5'/><circle cx='70' cy='40' r='14' fill='#fff' stroke='#aaa' stroke-width='1.5'/><circle cx='40' cy='52' r='12' fill='#fff' stroke='#aaa' stroke-width='1.5'/><circle cx='60' cy='52' r='12' fill='#fff' stroke='#aaa' stroke-width='1.5'/><path d='M14 60 L86 60' stroke='#5a3010' stroke-width='2'/></svg>"
+    },
+    {
+      "num": 121,
+      "word": "wool",
+      "ipa": "/wʊl/",
+      "chinese": "羊毛",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><circle cx='50' cy='40' r='28' fill='#f0e8d0' stroke='#a08040' stroke-width='1.5'/><path d='M30 30 Q40 38 30 46 M70 30 Q60 38 70 46 M40 22 Q50 30 60 22 M40 58 Q50 50 60 58' fill='none' stroke='#a08040' stroke-width='1.5'/><circle cx='40' cy='36' r='6' fill='none' stroke='#a08040' stroke-width='1'/><circle cx='60' cy='44' r='6' fill='none' stroke='#a08040' stroke-width='1'/></svg>"
+    },
+    {
+      "num": 122,
+      "word": "silk",
+      "ipa": "/sɪlk/",
+      "chinese": "丝绸",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M14 14 Q30 30 14 50 Q30 70 14 70 L86 70 Q70 50 86 50 Q70 30 86 14 Q70 30 50 14 Q30 30 14 14 Z' fill='#e8b8d8' stroke='#a06090' stroke-width='1.5'/><path d='M20 30 Q40 40 60 30 Q80 40 80 50' fill='none' stroke='#fff' stroke-width='2' opacity='0.6'/></svg>"
+    },
+    {
+      "num": 123,
+      "word": "leather",
+      "ipa": "/ˈlɛðə/",
+      "chinese": "皮革",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='14' y='14' width='72' height='52' fill='#6a3010' stroke='#3a1000' stroke-width='1.5'/><path d='M20 24 Q26 22 30 26 Q34 30 30 34 Z M50 30 Q58 28 60 34 Q58 40 52 38 Z M28 46 Q36 44 38 50 Q34 56 28 52 Z M60 50 Q68 48 70 54 Q66 60 60 56 Z' fill='#4a2000' opacity='0.4'/></svg>"
+    },
+    {
+      "num": 124,
+      "word": "denim",
+      "ipa": "/ˈdɛnɪm/",
+      "chinese": "牛仔布",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='14' y='14' width='72' height='52' fill='#4a6a9a' stroke='#2a4070' stroke-width='1.5'/><line x1='20' y1='14' x2='20' y2='66' stroke='#2a4070' stroke-width='0.5'/><line x1='30' y1='14' x2='30' y2='66' stroke='#2a4070' stroke-width='0.5'/><line x1='40' y1='14' x2='40' y2='66' stroke='#2a4070' stroke-width='0.5'/><line x1='50' y1='14' x2='50' y2='66' stroke='#2a4070' stroke-width='0.5'/><line x1='60' y1='14' x2='60' y2='66' stroke='#2a4070' stroke-width='0.5'/><line x1='70' y1='14' x2='70' y2='66' stroke='#2a4070' stroke-width='0.5'/><line x1='80' y1='14' x2='80' y2='66' stroke='#2a4070' stroke-width='0.5'/><line x1='14' y1='22' x2='86' y2='22' stroke='#6a8aba' stroke-width='0.5'/><line x1='14' y1='30' x2='86' y2='30' stroke='#6a8aba' stroke-width='0.5'/><line x1='14' y1='38' x2='86' y2='38' stroke='#6a8aba' stroke-width='0.5'/><line x1='14' y1='46' x2='86' y2='46' stroke='#6a8aba' stroke-width='0.5'/><line x1='14' y1='54' x2='86' y2='54' stroke='#6a8aba' stroke-width='0.5'/></svg>"
+    },
+    {
+      "num": 125,
+      "word": "polyester",
+      "ipa": "/ˌpɒliˈɛstə/",
+      "chinese": "聚酯纤维",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='14' y='14' width='72' height='52' fill='#a0a0c0' stroke='#5a5a8a' stroke-width='1.5'/><path d='M14 22 Q30 18 50 22 Q70 18 86 22' fill='none' stroke='#5a5a8a' stroke-width='1'/><path d='M14 32 Q30 28 50 32 Q70 28 86 32' fill='none' stroke='#5a5a8a' stroke-width='1'/><path d='M14 42 Q30 38 50 42 Q70 38 86 42' fill='none' stroke='#5a5a8a' stroke-width='1'/><path d='M14 52 Q30 48 50 52 Q70 48 86 52' fill='none' stroke='#5a5a8a' stroke-width='1'/></svg>"
+    },
+    {
+      "num": 126,
+      "word": "linen",
+      "ipa": "/ˈlɪnɪn/",
+      "chinese": "亚麻",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='14' y='14' width='72' height='52' fill='#e0d8a0' stroke='#a08040' stroke-width='1.5'/><line x1='14' y1='20' x2='86' y2='20' stroke='#a08040' stroke-width='0.5'/><line x1='14' y1='26' x2='86' y2='26' stroke='#a08040' stroke-width='0.5'/><line x1='14' y1='32' x2='86' y2='32' stroke='#a08040' stroke-width='0.5'/><line x1='14' y1='38' x2='86' y2='38' stroke='#a08040' stroke-width='0.5'/><line x1='14' y1='44' x2='86' y2='44' stroke='#a08040' stroke-width='0.5'/><line x1='14' y1='50' x2='86' y2='50' stroke='#a08040' stroke-width='0.5'/><line x1='14' y1='56' x2='86' y2='56' stroke='#a08040' stroke-width='0.5'/><line x1='14' y1='62' x2='86' y2='62' stroke='#a08040' stroke-width='0.5'/><line x1='22' y1='14' x2='22' y2='66' stroke='#a08040' stroke-width='0.5'/><line x1='32' y1='14' x2='32' y2='66' stroke='#a08040' stroke-width='0.5'/><line x1='42' y1='14' x2='42' y2='66' stroke='#a08040' stroke-width='0.5'/><line x1='52' y1='14' x2='52' y2='66' stroke='#a08040' stroke-width='0.5'/><line x1='62' y1='14' x2='62' y2='66' stroke='#a08040' stroke-width='0.5'/><line x1='72' y1='14' x2='72' y2='66' stroke='#a08040' stroke-width='0.5'/></svg>"
+    },
+    {
+      "num": 127,
+      "word": "nylon",
+      "ipa": "/ˈnaɪlɒn/",
+      "chinese": "尼龙",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='14' y='14' width='72' height='52' fill='#c0e0e0' stroke='#5080a0' stroke-width='1.5'/><circle cx='30' cy='28' r='4' fill='#fff' opacity='0.6'/><circle cx='60' cy='38' r='3' fill='#fff' opacity='0.6'/><circle cx='44' cy='52' r='3' fill='#fff' opacity='0.6'/><path d='M14 14 L86 66 M14 66 L86 14' stroke='#5080a0' stroke-width='0.3' opacity='0.5'/></svg>"
+    },
+    {
+      "num": 128,
+      "word": "fleece",
+      "ipa": "/fliːs/",
+      "chinese": "摇粒绒",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='14' y='14' width='72' height='52' fill='#c0b090' stroke='#8a7050' stroke-width='1.5'/><circle cx='22' cy='22' r='3' fill='#a8946e'/><circle cx='32' cy='30' r='3' fill='#a8946e'/><circle cx='42' cy='22' r='3' fill='#a8946e'/><circle cx='52' cy='30' r='3' fill='#a8946e'/><circle cx='62' cy='22' r='3' fill='#a8946e'/><circle cx='72' cy='30' r='3' fill='#a8946e'/><circle cx='22' cy='42' r='3' fill='#a8946e'/><circle cx='32' cy='50' r='3' fill='#a8946e'/><circle cx='42' cy='42' r='3' fill='#a8946e'/><circle cx='52' cy='50' r='3' fill='#a8946e'/><circle cx='62' cy='42' r='3' fill='#a8946e'/><circle cx='72' cy='50' r='3' fill='#a8946e'/><circle cx='22' cy='60' r='3' fill='#a8946e'/><circle cx='42' cy='60' r='3' fill='#a8946e'/><circle cx='62' cy='60' r='3' fill='#a8946e'/></svg>"
+    },
+    {
+      "num": 129,
+      "word": "velvet",
+      "ipa": "/ˈvɛlvɪt/",
+      "chinese": "天鹅绒",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='14' y='14' width='72' height='52' fill='#5a1040' stroke='#3a0020' stroke-width='1.5'/><path d='M14 22 Q30 18 50 22 Q70 18 86 22 M14 32 Q30 28 50 32 Q70 28 86 32 M14 42 Q30 38 50 42 Q70 38 86 42 M14 52 Q30 48 50 52 Q70 48 86 52 M14 62 Q30 58 50 62 Q70 58 86 62' fill='none' stroke='#7a2060' stroke-width='1.5' opacity='0.8'/></svg>"
+    },
+    {
+      "num": 130,
+      "word": "lace",
+      "ipa": "/leɪs/",
+      "chinese": "蕾丝",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='14' y='14' width='72' height='52' fill='#fff' stroke='#888' stroke-width='1.5'/><circle cx='26' cy='26' r='5' fill='none' stroke='#888' stroke-width='1'/><circle cx='38' cy='26' r='5' fill='none' stroke='#888' stroke-width='1'/><circle cx='50' cy='26' r='5' fill='none' stroke='#888' stroke-width='1'/><circle cx='62' cy='26' r='5' fill='none' stroke='#888' stroke-width='1'/><circle cx='74' cy='26' r='5' fill='none' stroke='#888' stroke-width='1'/><circle cx='32' cy='40' r='5' fill='none' stroke='#888' stroke-width='1'/><circle cx='44' cy='40' r='5' fill='none' stroke='#888' stroke-width='1'/><circle cx='56' cy='40' r='5' fill='none' stroke='#888' stroke-width='1'/><circle cx='68' cy='40' r='5' fill='none' stroke='#888' stroke-width='1'/><circle cx='26' cy='54' r='5' fill='none' stroke='#888' stroke-width='1'/><circle cx='38' cy='54' r='5' fill='none' stroke='#888' stroke-width='1'/><circle cx='50' cy='54' r='5' fill='none' stroke='#888' stroke-width='1'/><circle cx='62' cy='54' r='5' fill='none' stroke='#888' stroke-width='1'/><circle cx='74' cy='54' r='5' fill='none' stroke='#888' stroke-width='1'/></svg>"
+    },
+    {
+      "num": 131,
+      "word": "suede",
+      "ipa": "/sweɪd/",
+      "chinese": "麂皮",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='14' y='14' width='72' height='52' fill='#a06030' stroke='#6a3010' stroke-width='1.5'/><path d='M20 22 L30 20 L24 30 Z M40 26 L50 22 L46 32 Z M60 22 L70 26 L62 32 Z M20 42 L32 38 L26 48 Z M48 44 L58 40 L52 50 Z M70 46 L80 42 L74 52 Z M28 58 L38 54 L32 62 Z M50 60 L60 56 L54 62 Z' fill='#8a4020' opacity='0.5'/></svg>"
+    },
+    {
+      "num": 132,
+      "word": "cashmere",
+      "ipa": "/ˈkæʃmɪə/",
+      "chinese": "羊绒",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='14' y='14' width='72' height='52' fill='#d4b890' stroke='#a08040' stroke-width='1.5'/><circle cx='30' cy='28' r='8' fill='#e8d0a8' opacity='0.6'/><circle cx='60' cy='30' r='8' fill='#e8d0a8' opacity='0.6'/><circle cx='40' cy='48' r='10' fill='#e8d0a8' opacity='0.6'/><circle cx='70' cy='50' r='8' fill='#e8d0a8' opacity='0.6'/><circle cx='22' cy='52' r='6' fill='#e8d0a8' opacity='0.6'/></svg>"
+    },
+    {
+      "num": 133,
+      "word": "lycra",
+      "ipa": "/ˈlaɪkrə/",
+      "chinese": "莱卡",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='14' y='14' width='72' height='52' fill='#1a1a1a' stroke='#000' stroke-width='1.5'/><path d='M14 30 Q50 22 86 30' fill='none' stroke='#4a4a4a' stroke-width='1'/><path d='M14 40 Q50 32 86 40' fill='none' stroke='#4a4a4a' stroke-width='1'/><path d='M14 50 Q50 42 86 50' fill='none' stroke='#4a4a4a' stroke-width='1'/><circle cx='30' cy='38' r='2' fill='#fff' opacity='0.4'/><circle cx='60' cy='48' r='2' fill='#fff' opacity='0.4'/></svg>"
+    },
+    {
+      "section": "13. Patterns & Styles"
+    },
+    {
+      "num": 134,
+      "word": "striped",
+      "ipa": "/straɪpt/",
+      "chinese": "条纹的",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='14' y='14' width='72' height='52' fill='#fff' stroke='#888' stroke-width='1.5'/><rect x='14' y='18' width='72' height='6' fill='#1a1a1a'/><rect x='14' y='30' width='72' height='6' fill='#1a1a1a'/><rect x='14' y='42' width='72' height='6' fill='#1a1a1a'/><rect x='14' y='54' width='72' height='6' fill='#1a1a1a'/></svg>"
+    },
+    {
+      "num": 135,
+      "word": "checked",
+      "ipa": "/tʃɛkt/",
+      "chinese": "格子的",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='14' y='14' width='72' height='52' fill='#fff' stroke='#888' stroke-width='1.5'/><rect x='14' y='14' width='18' height='18' fill='#c84040'/><rect x='50' y='14' width='18' height='18' fill='#c84040'/><rect x='32' y='32' width='18' height='18' fill='#c84040'/><rect x='68' y='32' width='18' height='18' fill='#c84040'/><rect x='14' y='50' width='18' height='18' fill='#c84040'/><rect x='50' y='50' width='18' height='18' fill='#c84040'/></svg>"
+    },
+    {
+      "num": 136,
+      "word": "polka dot",
+      "ipa": "/ˈpɒlkə dɒt/",
+      "chinese": "波点",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='14' y='14' width='72' height='52' fill='#c84040' stroke='#7a1010' stroke-width='1.5'/><circle cx='24' cy='24' r='4' fill='#fff'/><circle cx='44' cy='24' r='4' fill='#fff'/><circle cx='64' cy='24' r='4' fill='#fff'/><circle cx='34' cy='40' r='4' fill='#fff'/><circle cx='54' cy='40' r='4' fill='#fff'/><circle cx='74' cy='40' r='4' fill='#fff'/><circle cx='24' cy='56' r='4' fill='#fff'/><circle cx='44' cy='56' r='4' fill='#fff'/><circle cx='64' cy='56' r='4' fill='#fff'/></svg>"
+    },
+    {
+      "num": 137,
+      "word": "plain",
+      "ipa": "/pleɪn/",
+      "chinese": "纯色的；素的",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='14' y='14' width='72' height='52' fill='#a0c0e0' stroke='#5a80a0' stroke-width='1.5'/></svg>"
+    },
+    {
+      "num": 138,
+      "word": "floral",
+      "ipa": "/ˈflɔːr(ə)l/",
+      "chinese": "花卉图案的",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='14' y='14' width='72' height='52' fill='#fff' stroke='#888' stroke-width='1.5'/><circle cx='28' cy='26' r='3' fill='#e060a0'/><circle cx='25' cy='23' r='2' fill='#f5b8d0'/><circle cx='31' cy='23' r='2' fill='#f5b8d0'/><circle cx='25' cy='29' r='2' fill='#f5b8d0'/><circle cx='31' cy='29' r='2' fill='#f5b8d0'/><circle cx='58' cy='40' r='3' fill='#e060a0'/><circle cx='55' cy='37' r='2' fill='#f5b8d0'/><circle cx='61' cy='37' r='2' fill='#f5b8d0'/><circle cx='55' cy='43' r='2' fill='#f5b8d0'/><circle cx='61' cy='43' r='2' fill='#f5b8d0'/><circle cx='38' cy='54' r='3' fill='#e060a0'/><circle cx='35' cy='51' r='2' fill='#f5b8d0'/><circle cx='41' cy='51' r='2' fill='#f5b8d0'/><circle cx='35' cy='57' r='2' fill='#f5b8d0'/><circle cx='41' cy='57' r='2' fill='#f5b8d0'/><path d='M28 32 L26 38 M58 46 L60 52 M38 60 L40 64' stroke='#6abf50' stroke-width='1'/></svg>"
+    },
+    {
+      "num": 139,
+      "word": "paisley",
+      "ipa": "/ˈpeɪzli/",
+      "chinese": "佩斯利图案",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='14' y='14' width='72' height='52' fill='#a02060' stroke='#600020' stroke-width='1.5'/><path d='M30 24 Q40 20 38 30 Q40 36 30 36 Q22 30 30 24 Z' fill='#fff' opacity='0.7'/><path d='M62 30 Q72 26 70 36 Q72 42 62 42 Q54 36 62 30 Z' fill='#fff' opacity='0.7'/><path d='M40 50 Q50 46 48 56 Q50 62 40 62 Q32 56 40 50 Z' fill='#fff' opacity='0.7'/></svg>"
+    },
+    {
+      "num": 140,
+      "word": "tartan",
+      "ipa": "/ˈtɑːt(ə)n/",
+      "chinese": "苏格兰格子呢",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='14' y='14' width='72' height='52' fill='#1a4020' stroke='#000' stroke-width='1.5'/><rect x='14' y='22' width='72' height='4' fill='#a02020'/><rect x='14' y='38' width='72' height='4' fill='#a02020'/><rect x='14' y='54' width='72' height='4' fill='#a02020'/><rect x='22' y='14' width='4' height='52' fill='#a02020'/><rect x='42' y='14' width='4' height='52' fill='#a02020'/><rect x='62' y='14' width='4' height='52' fill='#a02020'/><line x1='14' y1='30' x2='86' y2='30' stroke='#fff' stroke-width='1'/><line x1='14' y1='46' x2='86' y2='46' stroke='#fff' stroke-width='1'/><line x1='30' y1='14' x2='30' y2='66' stroke='#fff' stroke-width='1'/><line x1='50' y1='14' x2='50' y2='66' stroke='#fff' stroke-width='1'/><line x1='70' y1='14' x2='70' y2='66' stroke='#fff' stroke-width='1'/></svg>"
+    },
+    {
+      "num": 141,
+      "word": "plaid",
+      "ipa": "/plæd/",
+      "chinese": "格子图案",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='14' y='14' width='72' height='52' fill='#1a4020' stroke='#000' stroke-width='1.5'/><rect x='14' y='22' width='72' height='4' fill='#a02020'/><rect x='14' y='38' width='72' height='4' fill='#a02020'/><rect x='14' y='54' width='72' height='4' fill='#a02020'/><rect x='22' y='14' width='4' height='52' fill='#a02020'/><rect x='42' y='14' width='4' height='52' fill='#a02020'/><rect x='62' y='14' width='4' height='52' fill='#a02020'/><line x1='14' y1='30' x2='86' y2='30' stroke='#fff' stroke-width='1'/><line x1='14' y1='46' x2='86' y2='46' stroke='#fff' stroke-width='1'/><line x1='30' y1='14' x2='30' y2='66' stroke='#fff' stroke-width='1'/><line x1='50' y1='14' x2='50' y2='66' stroke='#fff' stroke-width='1'/><line x1='70' y1='14' x2='70' y2='66' stroke='#fff' stroke-width='1'/></svg>"
+    },
+    {
+      "num": 142,
+      "word": "camo",
+      "ipa": "/ˈkæməʊ/",
+      "chinese": "迷彩",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='14' y='14' width='72' height='52' fill='#5a6a3a' stroke='#3a4020' stroke-width='1.5'/><path d='M20 20 Q30 22 28 28 Q24 32 18 28 Z' fill='#3a4a2a'/><path d='M40 18 Q52 22 50 28 Q48 34 38 30 Z' fill='#7a8a4a'/><path d='M62 20 Q72 24 70 30 Q66 36 58 32 Z' fill='#3a4a2a'/><path d='M22 38 Q32 40 30 46 Q26 50 18 46 Z' fill='#a0a06a'/><path d='M44 38 Q56 42 54 50 Q50 56 42 52 Z' fill='#3a4a2a'/><path d='M64 40 Q74 44 72 50 Q68 54 60 50 Z' fill='#7a8a4a'/><path d='M26 56 Q38 58 36 62 Q32 66 24 62 Z' fill='#3a4a2a'/><path d='M50 58 Q60 60 58 64 Q54 68 46 64 Z' fill='#a0a06a'/></svg>"
+    },
+    {
+      "num": 143,
+      "word": "sequinned",
+      "ipa": "/ˈsiːkwɪnd/",
+      "chinese": "亮片装饰的",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='14' y='14' width='72' height='52' fill='#a02060' stroke='#600020' stroke-width='1.5'/><circle cx='22' cy='22' r='3' fill='#f0c020' stroke='#a08010' stroke-width='0.5'/><circle cx='34' cy='22' r='3' fill='#f0c020' stroke='#a08010' stroke-width='0.5'/><circle cx='46' cy='22' r='3' fill='#f0c020' stroke='#a08010' stroke-width='0.5'/><circle cx='58' cy='22' r='3' fill='#f0c020' stroke='#a08010' stroke-width='0.5'/><circle cx='70' cy='22' r='3' fill='#f0c020' stroke='#a08010' stroke-width='0.5'/><circle cx='28' cy='32' r='3' fill='#f0c020' stroke='#a08010' stroke-width='0.5'/><circle cx='40' cy='32' r='3' fill='#f0c020' stroke='#a08010' stroke-width='0.5'/><circle cx='52' cy='32' r='3' fill='#f0c020' stroke='#a08010' stroke-width='0.5'/><circle cx='64' cy='32' r='3' fill='#f0c020' stroke='#a08010' stroke-width='0.5'/><circle cx='76' cy='32' r='3' fill='#f0c020' stroke='#a08010' stroke-width='0.5'/><circle cx='22' cy='42' r='3' fill='#f0c020' stroke='#a08010' stroke-width='0.5'/><circle cx='34' cy='42' r='3' fill='#f0c020' stroke='#a08010' stroke-width='0.5'/><circle cx='46' cy='42' r='3' fill='#f0c020' stroke='#a08010' stroke-width='0.5'/><circle cx='58' cy='42' r='3' fill='#f0c020' stroke='#a08010' stroke-width='0.5'/><circle cx='70' cy='42' r='3' fill='#f0c020' stroke='#a08010' stroke-width='0.5'/><circle cx='28' cy='52' r='3' fill='#f0c020' stroke='#a08010' stroke-width='0.5'/><circle cx='40' cy='52' r='3' fill='#f0c020' stroke='#a08010' stroke-width='0.5'/><circle cx='52' cy='52' r='3' fill='#f0c020' stroke='#a08010' stroke-width='0.5'/><circle cx='64' cy='52' r='3' fill='#f0c020' stroke='#a08010' stroke-width='0.5'/></svg>"
+    },
+    {
+      "section": "14. Describing Clothes"
+    },
+    {
+      "num": 144,
+      "word": "tight",
+      "ipa": "/taɪt/",
+      "chinese": "紧的",
+      "svg": ""
+    },
+    {
+      "num": 145,
+      "word": "loose",
+      "ipa": "/luːs/",
+      "chinese": "宽松的",
+      "svg": ""
+    },
+    {
+      "num": 146,
+      "word": "baggy",
+      "ipa": "/ˈbæɡi/",
+      "chinese": "宽大的；松垮的",
+      "svg": ""
+    },
+    {
+      "num": 147,
+      "word": "fitted",
+      "ipa": "/ˈfɪtɪd/",
+      "chinese": "合身的",
+      "svg": ""
+    },
+    {
+      "num": 148,
+      "word": "smart",
+      "ipa": "/smɑːt/",
+      "chinese": "得体的；正式的",
+      "svg": ""
+    },
+    {
+      "num": 149,
+      "word": "casual",
+      "ipa": "/ˈkæʒjʊəl/",
+      "chinese": "休闲的",
+      "svg": ""
+    },
+    {
+      "num": 150,
+      "word": "formal",
+      "ipa": "/ˈfɔːm(ə)l/",
+      "chinese": "正式的",
+      "svg": ""
+    },
+    {
+      "num": 151,
+      "word": "cosy",
+      "ipa": "/ˈkəʊzi/",
+      "chinese": "舒适暖和的",
+      "svg": ""
+    },
+    {
+      "num": 152,
+      "word": "snug",
+      "ipa": "/snʌɡ/",
+      "chinese": "舒适贴身的",
+      "svg": ""
+    },
+    {
+      "num": 153,
+      "word": "sleek",
+      "ipa": "/sliːk/",
+      "chinese": "时髦贴身的",
+      "svg": ""
+    },
+    {
+      "num": 154,
+      "word": "dressy",
+      "ipa": "/ˈdrɛsi/",
+      "chinese": "讲究的；正式的",
+      "svg": ""
+    },
+    {
+      "num": 155,
+      "word": "oversized",
+      "ipa": "/ˈəʊvəsaɪzd/",
+      "chinese": "超大版型的",
+      "svg": ""
+    },
+    {
+      "section": "15. Wearing & Laundry Actions"
+    },
+    {
+      "num": 156,
+      "word": "wear",
+      "chinese": "穿；戴"
+    },
+    {
+      "num": 157,
+      "word": "put on",
+      "chinese": "穿上；戴上"
+    },
+    {
+      "num": 158,
+      "word": "take off",
+      "chinese": "脱下"
+    },
+    {
+      "num": 159,
+      "word": "try on",
+      "chinese": "试穿"
+    },
+    {
+      "num": 160,
+      "word": "change into",
+      "chinese": "换上"
+    },
+    {
+      "num": 161,
+      "word": "get dressed",
+      "chinese": "穿衣服"
+    },
+    {
+      "num": 162,
+      "word": "dress up",
+      "chinese": "盛装打扮"
+    },
+    {
+      "num": 163,
+      "word": "fit",
+      "chinese": "合身"
+    },
+    {
+      "num": 164,
+      "word": "wash",
+      "chinese": "洗"
+    },
+    {
+      "num": 165,
+      "word": "iron",
+      "chinese": "熨"
+    },
+    {
+      "num": 166,
+      "word": "fold",
+      "chinese": "叠"
+    },
+    {
+      "num": 167,
+      "word": "hang up",
+      "chinese": "挂起来"
+    },
+    {
+      "num": 168,
+      "word": "tuck in",
+      "chinese": "把衣服塞进裤子"
+    },
+    {
+      "num": 169,
+      "word": "zip up",
+      "chinese": "拉上拉链"
+    },
+    {
+      "num": 170,
+      "word": "button up",
+      "chinese": "扣上扣子"
+    }
+  ]
+}

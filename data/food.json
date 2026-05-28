@@ -1,0 +1,2604 @@
+{
+  "topic": "food",
+  "title": "Food & Supermarket",
+  "words": [
+    {
+      "section": "1. Fruits"
+    },
+    {
+      "num": 1,
+      "word": "apple",
+      "ipa": "/ˈæp(ə)l/",
+      "chinese": "苹果",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><circle cx='50' cy='44' r='26' fill='#e04040' stroke='#a01010' stroke-width='1.5'/><path d='M50 18 L50 26' stroke='#5a3010' stroke-width='2'/><path d='M50 20 Q60 16 62 22 Q56 22 50 26 Z' fill='#4a8a30' stroke='#2a5a10' stroke-width='1'/></svg>"
+    },
+    {
+      "num": 2,
+      "word": "banana",
+      "ipa": "/bəˈnɑːnə/",
+      "chinese": "香蕉",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M22 30 Q14 50 24 60 Q40 68 56 60 Q72 50 78 30 Q74 26 70 32 Q60 50 40 52 Q24 50 28 30 Q26 26 22 30 Z' fill='#f5d040' stroke='#a08010' stroke-width='1.5'/><path d='M22 30 Q24 22 30 22' fill='none' stroke='#5a3010' stroke-width='2'/></svg>"
+    },
+    {
+      "num": 3,
+      "word": "orange",
+      "ipa": "/ˈɒrɪn(d)ʒ/",
+      "chinese": "橙子",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><circle cx='50' cy='44' r='26' fill='#f0801a' stroke='#a04010' stroke-width='1.5'/><circle cx='50' cy='44' r='20' fill='none' stroke='#a04010' stroke-width='0.5'/><path d='M50 28 L50 60 M34 44 L66 44 M40 32 L60 56 M60 32 L40 56' stroke='#a04010' stroke-width='0.5' opacity='0.5'/><ellipse cx='40' cy='22' rx='4' ry='2' fill='#4a8a30'/></svg>"
+    },
+    {
+      "num": 4,
+      "word": "pear",
+      "ipa": "/peə/",
+      "chinese": "梨",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M50 14 Q44 24 44 30 Q34 32 30 46 Q28 64 50 68 Q72 64 70 46 Q66 32 56 30 Q56 24 50 14 Z' fill='#bfd060' stroke='#7a8a20' stroke-width='1.5'/><path d='M50 14 L52 8' stroke='#5a3010' stroke-width='2'/></svg>"
+    },
+    {
+      "num": 5,
+      "word": "grape",
+      "ipa": "/ɡreɪp/",
+      "chinese": "葡萄",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><circle cx='40' cy='38' r='6' fill='#7050a0' stroke='#3a2070' stroke-width='1'/><circle cx='50' cy='36' r='6' fill='#7050a0' stroke='#3a2070' stroke-width='1'/><circle cx='60' cy='38' r='6' fill='#7050a0' stroke='#3a2070' stroke-width='1'/><circle cx='44' cy='48' r='6' fill='#7050a0' stroke='#3a2070' stroke-width='1'/><circle cx='56' cy='48' r='6' fill='#7050a0' stroke='#3a2070' stroke-width='1'/><circle cx='50' cy='58' r='6' fill='#7050a0' stroke='#3a2070' stroke-width='1'/><path d='M50 30 Q52 22 58 18' fill='none' stroke='#4a8a30' stroke-width='2'/></svg>"
+    },
+    {
+      "num": 6,
+      "word": "strawberry",
+      "ipa": "/ˈstrɔːb(ə)ri/",
+      "chinese": "草莓",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M50 22 Q32 26 30 44 Q34 64 50 66 Q66 64 70 44 Q68 26 50 22 Z' fill='#c84040' stroke='#7a1010' stroke-width='1.5'/><circle cx='40' cy='40' r='1' fill='#fff5e0'/><circle cx='50' cy='44' r='1' fill='#fff5e0'/><circle cx='60' cy='40' r='1' fill='#fff5e0'/><circle cx='44' cy='52' r='1' fill='#fff5e0'/><circle cx='56' cy='52' r='1' fill='#fff5e0'/><path d='M50 22 L42 14 L54 12 L58 18 Z' fill='#4a8a30' stroke='#2a5a10' stroke-width='1'/></svg>"
+    },
+    {
+      "num": 7,
+      "word": "blueberry",
+      "ipa": "/ˈbluːb(ə)ri/",
+      "chinese": "蓝莓",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><circle cx='40' cy='44' r='8' fill='#3a4a8a' stroke='#1a2050' stroke-width='1'/><circle cx='50' cy='40' r='8' fill='#3a4a8a' stroke='#1a2050' stroke-width='1'/><circle cx='60' cy='44' r='8' fill='#3a4a8a' stroke='#1a2050' stroke-width='1'/><circle cx='45' cy='52' r='8' fill='#3a4a8a' stroke='#1a2050' stroke-width='1'/><circle cx='55' cy='52' r='8' fill='#3a4a8a' stroke='#1a2050' stroke-width='1'/><path d='M50 30 Q56 24 60 28' fill='none' stroke='#4a8a30' stroke-width='2'/></svg>"
+    },
+    {
+      "num": 8,
+      "word": "raspberry",
+      "ipa": "/ˈrɑːzb(ə)ri/",
+      "chinese": "树莓",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><circle cx='40' cy='44' r='8' fill='#a02020' stroke='#600000' stroke-width='1'/><circle cx='50' cy='40' r='8' fill='#a02020' stroke='#600000' stroke-width='1'/><circle cx='60' cy='44' r='8' fill='#a02020' stroke='#600000' stroke-width='1'/><circle cx='45' cy='52' r='8' fill='#a02020' stroke='#600000' stroke-width='1'/><circle cx='55' cy='52' r='8' fill='#a02020' stroke='#600000' stroke-width='1'/><path d='M50 30 Q56 24 60 28' fill='none' stroke='#4a8a30' stroke-width='2'/></svg>"
+    },
+    {
+      "num": 9,
+      "word": "peach",
+      "ipa": "/piːtʃ/",
+      "chinese": "桃子",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><circle cx='50' cy='46' r='24' fill='#f8a070' stroke='#a04020' stroke-width='1.5'/><path d='M50 22 Q56 28 50 36 Q44 28 50 22' fill='#c06030' stroke='#a04020' stroke-width='1'/><path d='M50 22 Q60 18 64 24' fill='none' stroke='#4a8a30' stroke-width='2'/></svg>"
+    },
+    {
+      "num": 10,
+      "word": "plum",
+      "ipa": "/plʌm/",
+      "chinese": "李子",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><circle cx='50' cy='44' r='26' fill='#7a3050' stroke='#3a0020' stroke-width='1.5'/><path d='M50 18 L50 26' stroke='#4a8a30' stroke-width='2'/><path d='M50 20 Q60 16 62 22 Q56 22 50 26 Z' fill='#4a8a30' stroke='#2a5a10' stroke-width='1'/></svg>"
+    },
+    {
+      "num": 11,
+      "word": "nectarine",
+      "ipa": "/ˈnɛktəriːn/",
+      "chinese": "油桃",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><circle cx='50' cy='44' r='26' fill='#e09030' stroke='#a05010' stroke-width='1.5'/><path d='M50 18 L50 26' stroke='#5a3010' stroke-width='2'/><path d='M50 20 Q60 16 62 22 Q56 22 50 26 Z' fill='#4a8a30' stroke='#2a5a10' stroke-width='1'/></svg>"
+    },
+    {
+      "num": 12,
+      "word": "apricot",
+      "ipa": "/ˈeɪprɪkɒt/",
+      "chinese": "杏",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><circle cx='50' cy='44' r='26' fill='#f5a060' stroke='#a05020' stroke-width='1.5'/><path d='M50 18 L50 26' stroke='#5a3010' stroke-width='2'/><path d='M50 20 Q60 16 62 22 Q56 22 50 26 Z' fill='#4a8a30' stroke='#2a5a10' stroke-width='1'/></svg>"
+    },
+    {
+      "num": 13,
+      "word": "cherry",
+      "ipa": "/ˈtʃɛri/",
+      "chinese": "樱桃",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><circle cx='38' cy='52' r='12' fill='#a02020' stroke='#400000' stroke-width='1.5'/><circle cx='60' cy='54' r='12' fill='#a02020' stroke='#400000' stroke-width='1.5'/><path d='M38 40 Q42 20 56 16 M60 42 Q56 22 56 16' fill='none' stroke='#4a8a30' stroke-width='2'/><ellipse cx='34' cy='48' rx='3' ry='2' fill='#fff' opacity='0.4'/></svg>"
+    },
+    {
+      "num": 14,
+      "word": "mango",
+      "ipa": "/ˈmæŋɡəʊ/",
+      "chinese": "芒果",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M30 30 Q24 50 38 64 Q56 68 70 56 Q80 40 70 24 Q56 16 40 22 Q30 26 30 30 Z' fill='#f0a020' stroke='#a07010' stroke-width='1.5'/><path d='M44 24 Q50 20 56 24' fill='none' stroke='#a05020' stroke-width='1.5'/><ellipse cx='44' cy='38' rx='4' ry='2' fill='#fff' opacity='0.5'/></svg>"
+    },
+    {
+      "num": 15,
+      "word": "pineapple",
+      "ipa": "/ˈpaɪnæp(ə)l/",
+      "chinese": "菠萝",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M44 12 L46 22 L42 18 L48 22 L52 14 L52 24 L56 18 L52 24 L60 16 L58 26 L64 22 L52 26' fill='#4a8a30' stroke='#2a5a10' stroke-width='1.5'/><ellipse cx='50' cy='48' rx='22' ry='22' fill='#f0c040' stroke='#a07010' stroke-width='1.5'/><path d='M30 36 L70 36 M30 42 L70 42 M30 48 L70 48 M30 54 L70 54 M30 60 L70 60 M36 30 L36 66 M46 30 L46 66 M56 30 L56 66 M66 30 L66 66' stroke='#a07010' stroke-width='0.5'/></svg>"
+    },
+    {
+      "num": 16,
+      "word": "kiwi",
+      "ipa": "/ˈkiːwiː/",
+      "chinese": "猕猴桃",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><ellipse cx='50' cy='44' rx='26' ry='20' fill='#8a7050' stroke='#5a4020' stroke-width='1.5'/><ellipse cx='50' cy='44' rx='20' ry='14' fill='#90c060' stroke='#506020' stroke-width='1'/><circle cx='50' cy='44' r='5' fill='#fff'/><circle cx='42' cy='40' r='1' fill='#222'/><circle cx='58' cy='40' r='1' fill='#222'/><circle cx='42' cy='48' r='1' fill='#222'/><circle cx='58' cy='48' r='1' fill='#222'/><circle cx='50' cy='36' r='1' fill='#222'/><circle cx='50' cy='52' r='1' fill='#222'/></svg>"
+    },
+    {
+      "num": 17,
+      "word": "lemon",
+      "ipa": "/ˈlɛmən/",
+      "chinese": "柠檬",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><circle cx='50' cy='44' r='26' fill='#f0e040' stroke='#a09010' stroke-width='1.5'/><circle cx='50' cy='44' r='20' fill='none' stroke='#a09010' stroke-width='0.5'/><path d='M50 28 L50 60 M34 44 L66 44 M40 32 L60 56 M60 32 L40 56' stroke='#a09010' stroke-width='0.5' opacity='0.5'/><ellipse cx='40' cy='22' rx='4' ry='2' fill='#4a8a30'/></svg>"
+    },
+    {
+      "num": 18,
+      "word": "lime",
+      "ipa": "/laɪm/",
+      "chinese": "青柠",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><circle cx='50' cy='44' r='26' fill='#90c050' stroke='#506020' stroke-width='1.5'/><circle cx='50' cy='44' r='20' fill='none' stroke='#506020' stroke-width='0.5'/><path d='M50 28 L50 60 M34 44 L66 44 M40 32 L60 56 M60 32 L40 56' stroke='#506020' stroke-width='0.5' opacity='0.5'/><ellipse cx='40' cy='22' rx='4' ry='2' fill='#4a8a30'/></svg>"
+    },
+    {
+      "num": 19,
+      "word": "mandarin",
+      "ipa": "/ˈmændərɪn/",
+      "chinese": "柑橘",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><circle cx='50' cy='44' r='26' fill='#f8a040' stroke='#a06010' stroke-width='1.5'/><circle cx='50' cy='44' r='20' fill='none' stroke='#a06010' stroke-width='0.5'/><path d='M50 28 L50 60 M34 44 L66 44 M40 32 L60 56 M60 32 L40 56' stroke='#a06010' stroke-width='0.5' opacity='0.5'/><ellipse cx='40' cy='22' rx='4' ry='2' fill='#4a8a30'/></svg>"
+    },
+    {
+      "num": 20,
+      "word": "watermelon",
+      "ipa": "/ˈwɔːtəmɛlən/",
+      "chinese": "西瓜",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><ellipse cx='50' cy='44' rx='38' ry='24' fill='#3a7a3a' stroke='#3a5a2a' stroke-width='1.5'/><path d='M14 44 Q50 30 86 44 Q50 60 14 44 Z' fill='#e04040' stroke='#3a5a2a' stroke-width='1.5'/><circle cx='40' cy='44' r='1' fill='#222'/><circle cx='50' cy='40' r='1' fill='#222'/><circle cx='58' cy='46' r='1' fill='#222'/></svg>"
+    },
+    {
+      "num": 21,
+      "word": "rockmelon",
+      "ipa": "/ˈrɒkmɛlən/",
+      "chinese": "哈密瓜 (AUS)",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><ellipse cx='50' cy='44' rx='38' ry='24' fill='#c8a060' stroke='#3a5a2a' stroke-width='1.5'/><path d='M14 44 Q50 30 86 44 Q50 60 14 44 Z' fill='#f0a070' stroke='#3a5a2a' stroke-width='1.5'/><circle cx='40' cy='44' r='1' fill='#222'/><circle cx='50' cy='40' r='1' fill='#222'/><circle cx='58' cy='46' r='1' fill='#222'/></svg>"
+    },
+    {
+      "num": 22,
+      "word": "passion fruit",
+      "ipa": "/ˈpæʃ(ə)n fruːt/",
+      "chinese": "百香果",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><circle cx='50' cy='44' r='24' fill='#4a2030' stroke='#2a0010' stroke-width='1.5'/><circle cx='50' cy='44' r='18' fill='#f0c040' stroke='#a07010' stroke-width='1'/><circle cx='44' cy='40' r='2' fill='#222'/><circle cx='52' cy='44' r='2' fill='#222'/><circle cx='46' cy='48' r='2' fill='#222'/><circle cx='54' cy='40' r='2' fill='#222'/></svg>"
+    },
+    {
+      "num": 23,
+      "word": "dragon fruit",
+      "ipa": "/ˈdræɡ(ə)n fruːt/",
+      "chinese": "火龙果",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M30 30 Q22 46 30 60 Q50 68 70 60 Q78 46 70 30 Q60 22 50 24 Q40 22 30 30 Z' fill='#e04060' stroke='#a01030' stroke-width='1.5'/><path d='M30 28 L26 18 M40 22 L36 14 M50 22 L50 12 M60 22 L64 14 M70 28 L74 18' stroke='#90c050' stroke-width='3' stroke-linecap='round'/></svg>"
+    },
+    {
+      "num": 24,
+      "word": "fig",
+      "ipa": "/fɪɡ/",
+      "chinese": "无花果",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><circle cx='50' cy='44' r='26' fill='#7a3050' stroke='#3a0020' stroke-width='1.5'/><path d='M50 18 L50 26' stroke='#5a3010' stroke-width='2'/><path d='M50 20 Q60 16 62 22 Q56 22 50 26 Z' fill='#4a8a30' stroke='#2a5a10' stroke-width='1'/></svg>"
+    },
+    {
+      "num": 25,
+      "word": "pomegranate",
+      "ipa": "/ˈpɒmɪɡrænɪt/",
+      "chinese": "石榴",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><circle cx='50' cy='44' r='26' fill='#a02030' stroke='#600010' stroke-width='1.5'/><path d='M50 18 L50 26' stroke='#5a3010' stroke-width='2'/><path d='M50 20 Q60 16 62 22 Q56 22 50 26 Z' fill='#4a8a30' stroke='#2a5a10' stroke-width='1'/></svg>"
+    },
+    {
+      "num": 26,
+      "word": "papaya",
+      "ipa": "/pəˈpaɪə/",
+      "chinese": "木瓜",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><circle cx='50' cy='44' r='26' fill='#f0a020' stroke='#a05010' stroke-width='1.5'/><path d='M50 18 L50 26' stroke='#5a3010' stroke-width='2'/><path d='M50 20 Q60 16 62 22 Q56 22 50 26 Z' fill='#4a8a30' stroke='#2a5a10' stroke-width='1'/></svg>"
+    },
+    {
+      "num": 27,
+      "word": "lychee",
+      "ipa": "/ˈlaɪtʃi/",
+      "chinese": "荔枝",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><circle cx='50' cy='44' r='26' fill='#e08080' stroke='#a04040' stroke-width='1.5'/><path d='M50 18 L50 26' stroke='#5a3010' stroke-width='2'/><path d='M50 20 Q60 16 62 22 Q56 22 50 26 Z' fill='#4a8a30' stroke='#2a5a10' stroke-width='1'/></svg>"
+    },
+    {
+      "num": 28,
+      "word": "coconut",
+      "ipa": "/ˈkəʊkənʌt/",
+      "chinese": "椰子",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><circle cx='50' cy='44' r='26' fill='#8a5020' stroke='#3a1000' stroke-width='1.5'/><path d='M50 18 L50 26' stroke='#5a3010' stroke-width='2'/><path d='M50 20 Q60 16 62 22 Q56 22 50 26 Z' fill='#4a8a30' stroke='#2a5a10' stroke-width='1'/></svg>"
+    },
+    {
+      "section": "2. Vegetables"
+    },
+    {
+      "num": 29,
+      "word": "carrot",
+      "ipa": "/ˈkærət/",
+      "chinese": "胡萝卜",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M44 16 Q44 22 38 22 L44 24 Q40 28 36 26 Q42 28 40 32' fill='none' stroke='#4a8a30' stroke-width='2.5'/><path d='M50 18 L50 24 M56 16 L54 22 M60 20 L56 24' stroke='#4a8a30' stroke-width='2.5'/><path d='M40 26 Q42 50 50 68 Q58 50 60 26 Z' fill='#f0801a' stroke='#a04010' stroke-width='1.5'/><path d='M46 32 L48 36 M52 36 L54 40 M48 44 L50 48' stroke='#a04010' stroke-width='1'/></svg>"
+    },
+    {
+      "num": 30,
+      "word": "potato",
+      "ipa": "/pəˈteɪtəʊ/",
+      "chinese": "土豆",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M20 38 Q18 22 38 18 Q60 16 76 26 Q86 40 78 56 Q70 68 50 66 Q26 64 20 50 Z' fill='#c8a060' stroke='#8a5020' stroke-width='1.5'/><circle cx='34' cy='34' r='2' fill='#6a3010' opacity='0.6'/><circle cx='58' cy='42' r='2' fill='#6a3010' opacity='0.6'/><circle cx='44' cy='52' r='2' fill='#6a3010' opacity='0.6'/></svg>"
+    },
+    {
+      "num": 31,
+      "word": "sweet potato",
+      "ipa": "/swiːt pəˈteɪtəʊ/",
+      "chinese": "红薯",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M16 44 Q14 26 38 22 Q66 18 82 32 Q86 46 70 60 Q40 66 20 56 Z' fill='#c87040' stroke='#8a4020' stroke-width='1.5'/><circle cx='30' cy='38' r='2' fill='#6a2010'/><circle cx='52' cy='44' r='2' fill='#6a2010'/></svg>"
+    },
+    {
+      "num": 32,
+      "word": "broccoli",
+      "ipa": "/ˈbrɒkəli/",
+      "chinese": "西兰花",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M44 50 L56 50 L58 70 L42 70 Z' fill='#7a9050' stroke='#506020' stroke-width='1.5'/><circle cx='30' cy='32' r='10' fill='#4a8a30' stroke='#2a5a10' stroke-width='1.5'/><circle cx='42' cy='22' r='10' fill='#4a8a30' stroke='#2a5a10' stroke-width='1.5'/><circle cx='54' cy='22' r='10' fill='#4a8a30' stroke='#2a5a10' stroke-width='1.5'/><circle cx='66' cy='28' r='10' fill='#4a8a30' stroke='#2a5a10' stroke-width='1.5'/><circle cx='38' cy='36' r='8' fill='#4a8a30' stroke='#2a5a10' stroke-width='1.5'/><circle cx='58' cy='38' r='9' fill='#4a8a30' stroke='#2a5a10' stroke-width='1.5'/></svg>"
+    },
+    {
+      "num": 33,
+      "word": "cauliflower",
+      "ipa": "/ˈkɒliflaʊə/",
+      "chinese": "花椰菜",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M44 50 L56 50 L58 70 L42 70 Z' fill='#7a9050' stroke='#506020' stroke-width='1.5'/><circle cx='30' cy='32' r='10' fill='#fff5e0' stroke='#888' stroke-width='1.5'/><circle cx='42' cy='22' r='10' fill='#fff5e0' stroke='#888' stroke-width='1.5'/><circle cx='54' cy='22' r='10' fill='#fff5e0' stroke='#888' stroke-width='1.5'/><circle cx='66' cy='28' r='10' fill='#fff5e0' stroke='#888' stroke-width='1.5'/><circle cx='38' cy='36' r='8' fill='#fff5e0' stroke='#888' stroke-width='1.5'/><circle cx='58' cy='38' r='9' fill='#fff5e0' stroke='#888' stroke-width='1.5'/></svg>"
+    },
+    {
+      "num": 34,
+      "word": "lettuce",
+      "ipa": "/ˈlɛtɪs/",
+      "chinese": "生菜",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M50 12 Q26 18 22 38 Q22 60 50 68 Q78 60 78 38 Q74 18 50 12 Z' fill='#5aaa3a' stroke='#2a5a10' stroke-width='1.5'/><path d='M50 12 L50 68' stroke='#2a5a10' stroke-width='1.5'/><path d='M50 24 L34 28 M50 32 L30 38 M50 40 L30 46 M50 48 L34 56 M50 24 L66 28 M50 32 L70 38 M50 40 L70 46 M50 48 L66 56' stroke='#2a5a10' stroke-width='1' opacity='0.5'/></svg>"
+    },
+    {
+      "num": 35,
+      "word": "spinach",
+      "ipa": "/ˈspɪnɪdʒ/",
+      "chinese": "菠菜",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M50 12 Q26 18 22 38 Q22 60 50 68 Q78 60 78 38 Q74 18 50 12 Z' fill='#3a7a3a' stroke='#1a4a10' stroke-width='1.5'/><path d='M50 12 L50 68' stroke='#1a4a10' stroke-width='1.5'/><path d='M50 24 L34 28 M50 32 L30 38 M50 40 L30 46 M50 48 L34 56 M50 24 L66 28 M50 32 L70 38 M50 40 L70 46 M50 48 L66 56' stroke='#1a4a10' stroke-width='1' opacity='0.5'/></svg>"
+    },
+    {
+      "num": 36,
+      "word": "kale",
+      "ipa": "/keɪl/",
+      "chinese": "羽衣甘蓝",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M50 12 Q26 18 22 38 Q22 60 50 68 Q78 60 78 38 Q74 18 50 12 Z' fill='#4a7a4a' stroke='#2a5a10' stroke-width='1.5'/><path d='M50 12 L50 68' stroke='#2a5a10' stroke-width='1.5'/><path d='M50 24 L34 28 M50 32 L30 38 M50 40 L30 46 M50 48 L34 56 M50 24 L66 28 M50 32 L70 38 M50 40 L70 46 M50 48 L66 56' stroke='#2a5a10' stroke-width='1' opacity='0.5'/></svg>"
+    },
+    {
+      "num": 37,
+      "word": "cabbage",
+      "ipa": "/ˈkæbɪdʒ/",
+      "chinese": "卷心菜",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><circle cx='50' cy='44' r='28' fill='#90b070' stroke='#506020' stroke-width='1.5'/><path d='M50 16 Q50 44 50 72 M22 44 Q50 44 78 44 M30 24 Q50 44 70 64 M30 64 Q50 44 70 24' fill='none' stroke='#506020' stroke-width='1'/></svg>"
+    },
+    {
+      "num": 38,
+      "word": "bok choy",
+      "ipa": "/bɒk ˈtʃɔɪ/",
+      "chinese": "白菜",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M40 60 L42 68 L58 68 L60 60' fill='#fff' stroke='#aaa' stroke-width='1.5'/><path d='M50 14 Q34 16 32 36 Q32 56 42 60 L58 60 Q68 56 68 36 Q66 16 50 14 Z' fill='#7aaa5a' stroke='#3a6a2a' stroke-width='1.5'/><path d='M50 14 L50 56 M38 24 Q50 30 62 24 M36 36 Q50 42 64 36' fill='none' stroke='#3a6a2a' stroke-width='1'/></svg>"
+    },
+    {
+      "num": 39,
+      "word": "rocket",
+      "ipa": "/ˈrɒkɪt/",
+      "chinese": "芝麻菜 (AUS)",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M50 12 Q26 18 22 38 Q22 60 50 68 Q78 60 78 38 Q74 18 50 12 Z' fill='#3a8a3a' stroke='#1a5a10' stroke-width='1.5'/><path d='M50 12 L50 68' stroke='#1a5a10' stroke-width='1.5'/><path d='M50 24 L34 28 M50 32 L30 38 M50 40 L30 46 M50 48 L34 56 M50 24 L66 28 M50 32 L70 38 M50 40 L70 46 M50 48 L66 56' stroke='#1a5a10' stroke-width='1' opacity='0.5'/></svg>"
+    },
+    {
+      "num": 40,
+      "word": "capsicum",
+      "ipa": "/ˈkæpsɪkəm/",
+      "chinese": "甜椒 (AUS)",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M30 32 Q26 60 50 66 Q74 60 70 32 Q66 24 56 26 Q50 28 44 26 Q34 24 30 32 Z' fill='#c84040' stroke='#7a1010' stroke-width='1.5'/><path d='M44 14 L46 22 M50 12 L50 22 M56 14 L54 22' stroke='#4a8a30' stroke-width='3' stroke-linecap='round'/><path d='M46 22 L54 22' stroke='#4a8a30' stroke-width='2.5'/></svg>"
+    },
+    {
+      "num": 41,
+      "word": "tomato",
+      "ipa": "/təˈmɑːtəʊ/",
+      "chinese": "番茄",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><circle cx='50' cy='46' r='24' fill='#e04040' stroke='#a01010' stroke-width='1.5'/><path d='M40 22 L46 28 L42 28 L48 24 L54 28 L50 24 L56 28 L60 22' fill='#4a8a30' stroke='#2a5a10' stroke-width='1'/></svg>"
+    },
+    {
+      "num": 42,
+      "word": "cucumber",
+      "ipa": "/ˈkjuːkʌmbə/",
+      "chinese": "黄瓜",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M18 30 Q14 44 24 56 Q42 64 60 56 Q78 44 82 32 Q72 24 60 28 Q42 32 26 28 Q18 26 18 30 Z' fill='#5a9a3a' stroke='#2a5a10' stroke-width='1.5'/><circle cx='30' cy='40' r='1.5' fill='#8aba6a'/><circle cx='44' cy='44' r='1.5' fill='#8aba6a'/><circle cx='58' cy='42' r='1.5' fill='#8aba6a'/><circle cx='70' cy='38' r='1.5' fill='#8aba6a'/></svg>"
+    },
+    {
+      "num": 43,
+      "word": "eggplant",
+      "ipa": "/ˈɛɡplɑːnt/",
+      "chinese": "茄子 (AUS)",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M36 14 Q42 18 50 18 Q58 18 60 14 Q66 12 62 20 Q56 26 56 30 Q70 36 70 50 Q66 66 50 68 Q34 66 30 50 Q30 36 44 30 Q44 26 38 20 Q34 12 36 14 Z' fill='#4a2050' stroke='#1a0020' stroke-width='1.5'/><path d='M44 30 Q50 26 56 30' fill='#3a7a3a'/><ellipse cx='40' cy='44' rx='4' ry='6' fill='#7a4080' opacity='0.5'/></svg>"
+    },
+    {
+      "num": 44,
+      "word": "zucchini",
+      "ipa": "/zʊˈkiːni/",
+      "chinese": "西葫芦 (AUS)",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M20 32 Q16 52 28 60 Q50 66 72 58 Q82 50 80 32 Q70 24 60 28 Q50 32 38 28 Q24 24 20 32 Z' fill='#3a7a3a' stroke='#1a4a10' stroke-width='1.5'/><path d='M20 32 Q22 24 28 22' fill='none' stroke='#4a8a40' stroke-width='2.5'/></svg>"
+    },
+    {
+      "num": 45,
+      "word": "onion",
+      "ipa": "/ˈʌnjən/",
+      "chinese": "洋葱",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M28 36 Q24 22 50 18 Q76 22 72 36 Q72 60 50 68 Q28 60 28 36 Z' fill='#f0d0a0' stroke='#a07050' stroke-width='1.5'/><path d='M50 18 L50 14 M45 14 L55 14' stroke='#4a8a30' stroke-width='2'/><path d='M40 26 Q40 50 42 64 M50 22 Q50 50 50 66 M60 26 Q60 50 58 64' fill='none' stroke='#a07050' stroke-width='0.5'/></svg>"
+    },
+    {
+      "num": 46,
+      "word": "garlic",
+      "ipa": "/ˈɡɑːlɪk/",
+      "chinese": "大蒜",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M30 36 Q26 24 50 20 Q74 24 70 36 Q70 58 50 64 Q30 58 30 36 Z' fill='#f8f0e0' stroke='#a08070' stroke-width='1.5'/><path d='M50 20 L50 14 M48 18 L52 18' stroke='#4a8a30' stroke-width='2'/><path d='M40 28 Q42 50 44 62 M50 26 Q50 50 50 64 M60 28 Q58 50 56 62' fill='none' stroke='#a08070' stroke-width='0.5'/></svg>"
+    },
+    {
+      "num": 47,
+      "word": "spring onion",
+      "ipa": "/ˈsprɪŋ ˌʌnjən/",
+      "chinese": "葱",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='44' y='40' width='12' height='28' fill='#fff' stroke='#888' stroke-width='1.5'/><path d='M44 40 Q42 22 38 14 M48 40 Q46 22 44 12 M52 40 Q54 22 56 12 M56 40 Q58 22 62 14' fill='none' stroke='#4a8a30' stroke-width='2.5' stroke-linecap='round'/></svg>"
+    },
+    {
+      "num": 48,
+      "word": "mushroom",
+      "ipa": "/ˈmʌʃruːm/",
+      "chinese": "蘑菇",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M22 38 Q20 22 50 18 Q80 22 78 38 Q74 44 60 42 L40 42 Q26 44 22 38 Z' fill='#c8a060' stroke='#6a3010' stroke-width='1.5'/><rect x='42' y='42' width='16' height='24' rx='3' fill='#fff5e0' stroke='#a07050' stroke-width='1.5'/><circle cx='38' cy='30' r='3' fill='#fff5e0'/><circle cx='50' cy='26' r='3' fill='#fff5e0'/><circle cx='62' cy='30' r='3' fill='#fff5e0'/></svg>"
+    },
+    {
+      "num": 49,
+      "word": "beetroot",
+      "ipa": "/ˈbiːtruːt/",
+      "chinese": "甜菜根 (AUS)",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M40 14 Q44 18 50 22 Q56 18 60 14 Q66 12 64 18 Q60 22 56 26 Q62 30 58 36 Q56 50 50 64 Q44 50 42 36 Q38 30 44 26 Q40 22 36 18 Q34 12 40 14 Z' fill='#4a7a3a'/><path d='M44 26 Q40 50 50 70 Q60 50 56 26 Z' fill='#7a1040' stroke='#3a0010' stroke-width='1.5'/><line x1='46' y1='40' x2='52' y2='44' stroke='#3a0010' stroke-width='0.5'/></svg>"
+    },
+    {
+      "num": 50,
+      "word": "pumpkin",
+      "ipa": "/ˈpʌmpkɪn/",
+      "chinese": "南瓜",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><ellipse cx='50' cy='46' rx='32' ry='22' fill='#f0801a' stroke='#a04010' stroke-width='1.5'/><path d='M30 26 Q34 36 30 56 M40 22 Q44 36 40 58 M50 22 Q50 36 50 60 M60 22 Q56 36 60 58 M70 26 Q66 36 70 56' fill='none' stroke='#a04010' stroke-width='1.5'/><path d='M50 22 L50 14 L46 14 L48 18 L52 14 L54 18 Z' fill='#4a8a30'/></svg>"
+    },
+    {
+      "num": 51,
+      "word": "sweetcorn",
+      "ipa": "/ˈswiːtkɔːn/",
+      "chinese": "玉米",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M40 14 Q34 30 38 60 Q42 70 50 70 Q58 70 62 60 Q66 30 60 14 Q50 12 40 14 Z' fill='#f0d040' stroke='#a08010' stroke-width='1.5'/><circle cx='44' cy='28' r='2' fill='#f8e070'/><circle cx='52' cy='26' r='2' fill='#f8e070'/><circle cx='58' cy='30' r='2' fill='#f8e070'/><circle cx='44' cy='38' r='2' fill='#f8e070'/><circle cx='52' cy='40' r='2' fill='#f8e070'/><circle cx='58' cy='38' r='2' fill='#f8e070'/><circle cx='44' cy='50' r='2' fill='#f8e070'/><circle cx='52' cy='48' r='2' fill='#f8e070'/><circle cx='58' cy='52' r='2' fill='#f8e070'/><path d='M40 14 L34 6 M50 12 L50 4 M60 14 L66 6' stroke='#4a8a30' stroke-width='3' stroke-linecap='round'/></svg>"
+    },
+    {
+      "num": 52,
+      "word": "peas",
+      "ipa": "/piːz/",
+      "chinese": "豌豆",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M14 36 Q14 28 22 28 L78 36 Q86 38 84 46 L24 50 Q14 50 14 42 Z' fill='#5a9a3a' stroke='#2a5a10' stroke-width='1.5'/><circle cx='28' cy='40' r='5' fill='#7aba5a' stroke='#2a5a10' stroke-width='1'/><circle cx='42' cy='42' r='5' fill='#7aba5a' stroke='#2a5a10' stroke-width='1'/><circle cx='56' cy='44' r='5' fill='#7aba5a' stroke='#2a5a10' stroke-width='1'/><circle cx='70' cy='46' r='5' fill='#7aba5a' stroke='#2a5a10' stroke-width='1'/></svg>"
+    },
+    {
+      "num": 53,
+      "word": "snowpea",
+      "ipa": "/ˈsnəʊpiː/",
+      "chinese": "雪豆 (AUS)",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M14 30 Q22 22 30 30 Q34 38 26 46 Q18 50 14 42 Z' fill='#90c050' stroke='#506020' stroke-width='1.5'/><path d='M40 36 Q48 28 56 36 Q60 44 52 52 Q44 56 40 48 Z' fill='#90c050' stroke='#506020' stroke-width='1.5'/><path d='M66 40 Q74 32 82 40 Q86 48 78 56 Q70 60 66 52 Z' fill='#90c050' stroke='#506020' stroke-width='1.5'/><circle cx='22' cy='38' r='2' fill='#fff' opacity='0.5'/><circle cx='48' cy='44' r='2' fill='#fff' opacity='0.5'/><circle cx='74' cy='48' r='2' fill='#fff' opacity='0.5'/></svg>"
+    },
+    {
+      "num": 54,
+      "word": "asparagus",
+      "ipa": "/əˈspærəɡəs/",
+      "chinese": "芦笋",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M26 14 L30 70 M36 12 L38 70 M46 10 L46 70 M56 12 L54 70 M66 14 L62 70 M74 16 L70 70' stroke='#3a8a3a' stroke-width='5' stroke-linecap='round'/><path d='M26 14 L24 10 L30 12 Z M36 12 L34 8 L40 10 Z M46 10 L44 6 L50 8 Z M56 12 L60 8 L58 14 Z M66 14 L70 10 L66 16 Z M74 16 L78 12 L74 18 Z' fill='#2a6a2a' stroke='#1a4a10' stroke-width='1'/></svg>"
+    },
+    {
+      "num": 55,
+      "word": "celery",
+      "ipa": "/ˈsɛləri/",
+      "chinese": "芹菜",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='36' y='14' width='10' height='52' fill='#9aba60' stroke='#506020' stroke-width='1.5'/><rect x='48' y='14' width='10' height='52' fill='#9aba60' stroke='#506020' stroke-width='1.5'/><rect x='60' y='14' width='10' height='52' fill='#9aba60' stroke='#506020' stroke-width='1.5'/><path d='M36 14 L46 8 M48 14 L58 6 M60 14 L70 8' fill='none' stroke='#3a7a3a' stroke-width='3'/></svg>"
+    },
+    {
+      "num": 56,
+      "word": "leek",
+      "ipa": "/liːk/",
+      "chinese": "韭葱",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='44' y='34' width='12' height='34' fill='#fff' stroke='#aaa' stroke-width='1.5'/><path d='M44 34 L36 14 L42 18 L40 12 L46 16 L46 10 L50 18 L52 10 L52 16 L58 12 L56 18 L62 14 L56 34' fill='#5aaa3a' stroke='#2a5a10' stroke-width='1.5'/></svg>"
+    },
+    {
+      "num": 57,
+      "word": "radish",
+      "ipa": "/ˈrædɪʃ/",
+      "chinese": "萝卜",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M48 18 L50 24 M52 16 L52 24 M56 18 L54 24' stroke='#4a8a30' stroke-width='2.5'/><circle cx='50' cy='44' r='20' fill='#e04060' stroke='#a01030' stroke-width='1.5'/><path d='M50 64 L52 76' stroke='#fff' stroke-width='2'/></svg>"
+    },
+    {
+      "num": 58,
+      "word": "parsnip",
+      "ipa": "/ˈpɑːsnɪp/",
+      "chinese": "欧防风",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M40 14 Q44 18 50 22 Q56 18 60 14 Q66 12 64 18 Q60 22 56 26 Q62 30 58 36 Q56 50 50 64 Q44 50 42 36 Q38 30 44 26 Q40 22 36 18 Q34 12 40 14 Z' fill='#4a8a30'/><path d='M44 26 Q40 50 50 70 Q60 50 56 26 Z' fill='#fff5e0' stroke='#a08070' stroke-width='1.5'/><line x1='46' y1='40' x2='52' y2='44' stroke='#a08070' stroke-width='0.5'/></svg>"
+    },
+    {
+      "num": 59,
+      "word": "brussels sprouts",
+      "ipa": "/ˈbrʌs(ə)lz spraʊts/",
+      "chinese": "球芽甘蓝",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><circle cx='28' cy='42' r='10' fill='#7aaa5a' stroke='#2a5a10' stroke-width='1.5'/><circle cx='50' cy='38' r='10' fill='#7aaa5a' stroke='#2a5a10' stroke-width='1.5'/><circle cx='72' cy='42' r='10' fill='#7aaa5a' stroke='#2a5a10' stroke-width='1.5'/><circle cx='40' cy='56' r='10' fill='#7aaa5a' stroke='#2a5a10' stroke-width='1.5'/><circle cx='60' cy='56' r='10' fill='#7aaa5a' stroke='#2a5a10' stroke-width='1.5'/><path d='M28 42 L50 38 M50 38 L72 42 M40 56 L50 38 M60 56 L50 38' stroke='#2a5a10' stroke-width='0.5' opacity='0.5'/></svg>"
+    },
+    {
+      "section": "3. Meat & Poultry"
+    },
+    {
+      "num": 60,
+      "word": "beef",
+      "ipa": "/biːf/",
+      "chinese": "牛肉",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M16 26 Q14 18 22 18 L80 24 Q86 30 82 50 Q80 62 70 64 L20 60 Q12 56 16 26 Z' fill='#a04040' stroke='#5a1010' stroke-width='1.5'/><path d='M30 30 Q40 32 36 38 M50 32 Q58 36 54 42 M68 36 Q74 40 70 46' fill='none' stroke='#fff5e0' stroke-width='2'/></svg>"
+    },
+    {
+      "num": 61,
+      "word": "steak",
+      "ipa": "/steɪk/",
+      "chinese": "牛排",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M16 26 Q14 18 22 18 L80 22 Q86 30 84 50 Q82 62 72 64 L20 62 Q12 56 16 26 Z' fill='#a04040' stroke='#5a1010' stroke-width='1.5'/><path d='M30 26 L80 28 Q82 32 78 36 L26 32 Z' fill='#fff5e0' stroke='#5a1010' stroke-width='1'/><circle cx='40' cy='48' r='2' fill='#fff5e0'/><circle cx='60' cy='52' r='2' fill='#fff5e0'/></svg>"
+    },
+    {
+      "num": 62,
+      "word": "mince",
+      "ipa": "/mɪns/",
+      "chinese": "肉末 (AUS = 绞肉)",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M20 32 Q18 22 30 22 Q50 24 70 22 Q82 24 82 32 Q82 56 70 60 Q50 62 30 60 Q18 56 20 32 Z' fill='#a04040' stroke='#5a1010' stroke-width='1.5'/><circle cx='32' cy='34' r='3' fill='#7a1010'/><circle cx='44' cy='32' r='3' fill='#7a1010'/><circle cx='56' cy='36' r='3' fill='#7a1010'/><circle cx='68' cy='34' r='3' fill='#7a1010'/><circle cx='38' cy='44' r='3' fill='#7a1010'/><circle cx='52' cy='46' r='3' fill='#7a1010'/><circle cx='66' cy='44' r='3' fill='#7a1010'/><circle cx='34' cy='52' r='3' fill='#7a1010'/><circle cx='48' cy='54' r='3' fill='#7a1010'/><circle cx='62' cy='52' r='3' fill='#7a1010'/></svg>"
+    },
+    {
+      "num": 63,
+      "word": "pork",
+      "ipa": "/pɔːk/",
+      "chinese": "猪肉",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M16 26 Q14 18 22 18 L80 24 Q86 30 82 50 Q80 62 70 64 L20 60 Q12 56 16 26 Z' fill='#e0a0a0' stroke='#5a1010' stroke-width='1.5'/><path d='M30 30 Q40 32 36 38 M50 32 Q58 36 54 42 M68 36 Q74 40 70 46' fill='none' stroke='#fff5e0' stroke-width='2'/></svg>"
+    },
+    {
+      "num": 64,
+      "word": "bacon",
+      "ipa": "/ˈbeɪkən/",
+      "chinese": "培根",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M14 24 Q14 18 22 18 L82 22 Q88 30 82 38 L20 36 Q12 32 14 24 Z' fill='#e09080' stroke='#a04040' stroke-width='1.5'/><rect x='16' y='28' width='66' height='4' fill='#fff5e0' opacity='0.7'/><path d='M14 44 Q14 38 22 38 L82 42 Q88 50 82 58 L20 56 Q12 52 14 44 Z' fill='#e09080' stroke='#a04040' stroke-width='1.5'/><rect x='16' y='48' width='66' height='4' fill='#fff5e0' opacity='0.7'/></svg>"
+    },
+    {
+      "num": 65,
+      "word": "ham",
+      "ipa": "/hæm/",
+      "chinese": "火腿",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M16 26 Q14 18 22 18 L80 24 Q86 30 82 50 Q80 62 70 64 L20 60 Q12 56 16 26 Z' fill='#f5b0a0' stroke='#5a1010' stroke-width='1.5'/><path d='M30 30 Q40 32 36 38 M50 32 Q58 36 54 42 M68 36 Q74 40 70 46' fill='none' stroke='#fff5e0' stroke-width='2'/></svg>"
+    },
+    {
+      "num": 66,
+      "word": "sausage",
+      "ipa": "/ˈsɒsɪdʒ/",
+      "chinese": "香肠",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M14 38 Q14 22 30 22 L70 22 Q86 22 86 38 Q86 54 70 54 L30 54 Q14 54 14 38 Z' fill='#a04030' stroke='#5a1000' stroke-width='1.5'/><path d='M20 38 L26 36 M30 40 L36 38 M42 38 L48 36 M54 38 L60 36 M66 40 L72 38 M78 38 L82 36' stroke='#7a2000' stroke-width='1' opacity='0.7'/></svg>"
+    },
+    {
+      "num": 67,
+      "word": "snag",
+      "ipa": "/snæɡ/",
+      "chinese": "香肠 (AUS俚语)",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M14 38 Q14 22 30 22 L70 22 Q86 22 86 38 Q86 54 70 54 L30 54 Q14 54 14 38 Z' fill='#a04030' stroke='#5a1000' stroke-width='1.5'/><path d='M20 38 L26 36 M30 40 L36 38 M42 38 L48 36 M54 38 L60 36 M66 40 L72 38 M78 38 L82 36' stroke='#7a2000' stroke-width='1' opacity='0.7'/></svg>"
+    },
+    {
+      "num": 68,
+      "word": "lamb",
+      "ipa": "/læm/",
+      "chinese": "羊肉",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M16 26 Q14 18 22 18 L80 24 Q86 30 82 50 Q80 62 70 64 L20 60 Q12 56 16 26 Z' fill='#c87060' stroke='#5a1010' stroke-width='1.5'/><path d='M30 30 Q40 32 36 38 M50 32 Q58 36 54 42 M68 36 Q74 40 70 46' fill='none' stroke='#fff5e0' stroke-width='2'/></svg>"
+    },
+    {
+      "num": 69,
+      "word": "lamb chop",
+      "ipa": "/ˈlæm tʃɒp/",
+      "chinese": "羊排",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M16 26 Q14 18 22 18 L80 24 Q86 30 82 50 Q80 62 70 64 L20 60 Q12 56 16 26 Z' fill='#c87060' stroke='#5a1010' stroke-width='1.5'/><path d='M30 30 Q40 32 36 38 M50 32 Q58 36 54 42 M68 36 Q74 40 70 46' fill='none' stroke='#fff5e0' stroke-width='2'/></svg>"
+    },
+    {
+      "num": 70,
+      "word": "chicken",
+      "ipa": "/ˈtʃɪkɪn/",
+      "chinese": "鸡肉",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M30 20 Q24 32 30 50 Q34 64 50 64 Q66 64 70 50 Q76 32 70 20 Q60 14 50 18 Q40 14 30 20 Z' fill='#f0d0a0' stroke='#a08050' stroke-width='1.5'/><path d='M44 14 L48 22 M50 12 L50 22 M56 14 L52 22' stroke='#a08050' stroke-width='2'/></svg>"
+    },
+    {
+      "num": 71,
+      "word": "chook",
+      "ipa": "/tʃʊk/",
+      "chinese": "鸡 (AUS俚语)",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M30 20 Q24 32 30 50 Q34 64 50 64 Q66 64 70 50 Q76 32 70 20 Q60 14 50 18 Q40 14 30 20 Z' fill='#f0d0a0' stroke='#a08050' stroke-width='1.5'/><path d='M44 14 L48 22 M50 12 L50 22 M56 14 L52 22' stroke='#a08050' stroke-width='2'/></svg>"
+    },
+    {
+      "num": 72,
+      "word": "drumstick",
+      "ipa": "/ˈdrʌmstɪk/",
+      "chinese": "鸡腿",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><circle cx='32' cy='38' r='20' fill='#c8a080' stroke='#7a5030' stroke-width='1.5'/><circle cx='32' cy='38' r='14' fill='#e0c0a0'/><path d='M46 44 Q70 54 78 70 L86 78 L78 64 Q70 50 50 46' fill='#fff5e0' stroke='#5a3010' stroke-width='1.5'/></svg>"
+    },
+    {
+      "num": 73,
+      "word": "turkey",
+      "ipa": "/ˈtɜːki/",
+      "chinese": "火鸡",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M30 30 Q22 50 36 64 Q56 70 70 64 Q82 52 78 32 Q66 22 50 24 Q36 22 30 30 Z' fill='#c8a060' stroke='#5a3010' stroke-width='1.5'/><circle cx='40' cy='40' r='3' fill='#fff5e0'/><circle cx='60' cy='42' r='3' fill='#fff5e0'/></svg>"
+    },
+    {
+      "num": 74,
+      "word": "kangaroo",
+      "ipa": "/ˌkæŋɡəˈruː/",
+      "chinese": "袋鼠肉 (AUS)",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M16 60 Q26 58 34 58 L40 30 Q44 18 56 22 Q62 32 56 50 L72 56 Q78 60 76 64 L40 66 Z' fill='#a07050' stroke='#5a3010' stroke-width='1.5'/><circle cx='48' cy='26' r='6' fill='#a07050' stroke='#5a3010' stroke-width='1.5'/><circle cx='50' cy='24' r='1' fill='#000'/><path d='M44 22 L46 16 M52 22 L54 16' stroke='#5a3010' stroke-width='2'/></svg>"
+    },
+    {
+      "num": 75,
+      "word": "duck",
+      "ipa": "/dʌk/",
+      "chinese": "鸭子",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><ellipse cx='40' cy='48' rx='26' ry='14' fill='#fff' stroke='#888' stroke-width='1.5'/><circle cx='62' cy='38' r='10' fill='#fff' stroke='#888' stroke-width='1.5'/><path d='M70 38 L84 36 L78 42 Z' fill='#f0801a' stroke='#a04010' stroke-width='1'/><circle cx='66' cy='34' r='1.5' fill='#222'/></svg>"
+    },
+    {
+      "num": 76,
+      "word": "ribs",
+      "ipa": "/rɪbz/",
+      "chinese": "排骨",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M16 26 Q14 18 22 18 L80 24 Q86 30 82 50 Q80 62 70 64 L20 60 Q12 56 16 26 Z' fill='#a04040' stroke='#5a1010' stroke-width='1.5'/><path d='M30 30 Q40 32 36 38 M50 32 Q58 36 54 42 M68 36 Q74 40 70 46' fill='none' stroke='#fff5e0' stroke-width='2'/></svg>"
+    },
+    {
+      "num": 77,
+      "word": "brisket",
+      "ipa": "/ˈbrɪskɪt/",
+      "chinese": "牛腩",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M16 26 Q14 18 22 18 L80 24 Q86 30 82 50 Q80 62 70 64 L20 60 Q12 56 16 26 Z' fill='#a04040' stroke='#5a1010' stroke-width='1.5'/><path d='M30 30 Q40 32 36 38 M50 32 Q58 36 54 42 M68 36 Q74 40 70 46' fill='none' stroke='#fff5e0' stroke-width='2'/></svg>"
+    },
+    {
+      "num": 78,
+      "word": "pork belly",
+      "ipa": "/ˈpɔːk ˌbɛli/",
+      "chinese": "五花肉",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M16 26 Q14 18 22 18 L80 24 Q86 30 82 50 Q80 62 70 64 L20 60 Q12 56 16 26 Z' fill='#e0a0a0' stroke='#5a1010' stroke-width='1.5'/><path d='M30 30 Q40 32 36 38 M50 32 Q58 36 54 42 M68 36 Q74 40 70 46' fill='none' stroke='#fff5e0' stroke-width='2'/></svg>"
+    },
+    {
+      "num": 79,
+      "word": "wagyu",
+      "ipa": "/ˈwæɡjuː/",
+      "chinese": "和牛",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M16 26 Q14 18 22 18 L80 22 Q86 30 84 50 Q82 62 72 64 L20 62 Q12 56 16 26 Z' fill='#a04040' stroke='#5a1010' stroke-width='1.5'/><path d='M30 26 L80 28 Q82 32 78 36 L26 32 Z' fill='#fff5e0' stroke='#5a1010' stroke-width='1'/><circle cx='40' cy='48' r='2' fill='#fff5e0'/><circle cx='60' cy='52' r='2' fill='#fff5e0'/></svg>"
+    },
+    {
+      "section": "4. Seafood"
+    },
+    {
+      "num": 80,
+      "word": "salmon",
+      "ipa": "/ˈsæmən/",
+      "chinese": "三文鱼",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M14 40 Q22 22 50 22 Q70 22 82 30 L88 22 L88 58 L82 50 Q70 58 50 58 Q22 58 14 40 Z' fill='#e89070' stroke='#444' stroke-width='1.5'/><circle cx='66' cy='34' r='3' fill='#fff' stroke='#222'/><circle cx='66' cy='34' r='1.5' fill='#222'/><path d='M30 32 Q40 40 30 48' fill='none' stroke='#444' stroke-width='1'/></svg>"
+    },
+    {
+      "num": 81,
+      "word": "tuna",
+      "ipa": "/ˈtjuːnə/",
+      "chinese": "金枪鱼",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M14 40 Q22 22 50 22 Q70 22 82 30 L88 22 L88 58 L82 50 Q70 58 50 58 Q22 58 14 40 Z' fill='#4060a0' stroke='#444' stroke-width='1.5'/><circle cx='66' cy='34' r='3' fill='#fff' stroke='#222'/><circle cx='66' cy='34' r='1.5' fill='#222'/><path d='M30 32 Q40 40 30 48' fill='none' stroke='#444' stroke-width='1'/></svg>"
+    },
+    {
+      "num": 82,
+      "word": "prawn",
+      "ipa": "/prɔːn/",
+      "chinese": "虾 (AUS/UK)",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M14 48 Q20 38 30 36 Q40 30 50 32 Q62 32 72 36 Q82 40 86 32 Q88 28 82 26 Q72 26 64 34 Q54 30 44 32 Q32 32 22 40 Q14 44 14 48 Z' fill='#e08070' stroke='#7a2020' stroke-width='1.5'/><path d='M14 48 Q26 60 50 58 Q70 56 86 50' fill='none' stroke='#7a2020' stroke-width='1.5'/><circle cx='80' cy='28' r='1.5' fill='#222'/></svg>"
+    },
+    {
+      "num": 83,
+      "word": "lobster",
+      "ipa": "/ˈlɒbstə/",
+      "chinese": "龙虾",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M30 14 L32 22 L28 18 L34 26 L26 24 L32 30 L40 34 Q50 32 60 34 L68 30 L74 24 L66 26 L72 18 L68 22 L70 14' fill='#a02020' stroke='#600000' stroke-width='1.5'/><ellipse cx='50' cy='44' rx='22' ry='16' fill='#a02020' stroke='#600000' stroke-width='1.5'/><path d='M28 60 Q34 70 26 72 M72 60 Q66 70 74 72' fill='none' stroke='#600000' stroke-width='2.5'/></svg>"
+    },
+    {
+      "num": 84,
+      "word": "crab",
+      "ipa": "/kræb/",
+      "chinese": "螃蟹",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><ellipse cx='50' cy='46' rx='24' ry='16' fill='#c84040' stroke='#7a1010' stroke-width='1.5'/><circle cx='42' cy='38' r='3' fill='#fff' stroke='#222'/><circle cx='58' cy='38' r='3' fill='#fff' stroke='#222'/><path d='M26 46 L14 36 L20 30 M74 46 L86 36 L80 30' fill='#c84040' stroke='#7a1010' stroke-width='1.5'/><path d='M30 60 L24 70 M40 64 L36 74 M60 64 L64 74 M70 60 L76 70' stroke='#7a1010' stroke-width='2.5'/></svg>"
+    },
+    {
+      "num": 85,
+      "word": "scallop",
+      "ipa": "/ˈskɒləp/",
+      "chinese": "扇贝",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M14 58 Q14 22 50 16 Q86 22 86 58 Q70 50 50 50 Q30 50 14 58 Z' fill='#f0c090' stroke='#a07050' stroke-width='1.5'/><path d='M22 50 Q26 30 30 20 M34 48 Q36 26 38 18 M46 46 Q46 22 46 16 M54 46 Q54 22 54 16 M62 48 Q64 26 62 18 M78 50 Q74 30 70 20' fill='none' stroke='#a07050' stroke-width='1'/></svg>"
+    },
+    {
+      "num": 86,
+      "word": "mussel",
+      "ipa": "/ˈmʌs(ə)l/",
+      "chinese": "贻贝",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M14 24 Q14 18 22 18 Q40 26 50 36 Q70 56 86 64 Q80 70 70 66 Q40 50 14 24 Z' fill='#222040' stroke='#000020' stroke-width='1.5'/><path d='M22 22 Q30 32 50 50 Q70 64 80 66' fill='none' stroke='#0a0010' stroke-width='1'/></svg>"
+    },
+    {
+      "num": 87,
+      "word": "oyster",
+      "ipa": "/ˈɔɪstə/",
+      "chinese": "牡蛎",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M14 36 Q22 18 50 16 Q78 18 86 36 Q86 44 80 44 L20 44 Q14 44 14 36 Z' fill='#a08070' stroke='#5a3010' stroke-width='1.5'/><path d='M14 44 Q22 56 50 60 Q78 56 86 44 Z' fill='#888' stroke='#444' stroke-width='1.5'/><ellipse cx='50' cy='52' rx='14' ry='5' fill='#f0d8c8' opacity='0.6'/></svg>"
+    },
+    {
+      "num": 88,
+      "word": "squid",
+      "ipa": "/skwɪd/",
+      "chinese": "鱿鱼",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M40 14 Q34 32 38 38 Q40 50 30 56 M44 14 Q40 32 46 38 Q44 50 38 60 M50 12 Q50 32 50 40 Q50 50 50 64 M56 14 Q60 32 54 38 Q56 50 62 60 M60 14 Q66 32 62 38 Q60 50 70 56' fill='none' stroke='#f8e0d0' stroke-width='4' stroke-linecap='round'/><ellipse cx='50' cy='24' rx='18' ry='14' fill='#f5d0b8' stroke='#a05030' stroke-width='1.5'/><circle cx='44' cy='22' r='2' fill='#222'/><circle cx='56' cy='22' r='2' fill='#222'/></svg>"
+    },
+    {
+      "num": 89,
+      "word": "calamari",
+      "ipa": "/ˌkæləˈmɑːri/",
+      "chinese": "鱿鱼圈",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><circle cx='30' cy='30' r='8' fill='#f0c060' stroke='#a07010' stroke-width='1.5'/><circle cx='50' cy='32' r='8' fill='#f0c060' stroke='#a07010' stroke-width='1.5'/><circle cx='70' cy='30' r='8' fill='#f0c060' stroke='#a07010' stroke-width='1.5'/><circle cx='40' cy='50' r='8' fill='#f0c060' stroke='#a07010' stroke-width='1.5'/><circle cx='60' cy='52' r='8' fill='#f0c060' stroke='#a07010' stroke-width='1.5'/><circle cx='30' cy='30' r='3' fill='#a07010'/><circle cx='50' cy='32' r='3' fill='#a07010'/><circle cx='70' cy='30' r='3' fill='#a07010'/><circle cx='40' cy='50' r='3' fill='#a07010'/><circle cx='60' cy='52' r='3' fill='#a07010'/></svg>"
+    },
+    {
+      "num": 90,
+      "word": "barramundi",
+      "ipa": "/ˌbærəˈmʌndi/",
+      "chinese": "尖吻鲈 (AUS)",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M14 40 Q22 22 50 22 Q70 22 82 30 L88 22 L88 58 L82 50 Q70 58 50 58 Q22 58 14 40 Z' fill='#a0a0c0' stroke='#444' stroke-width='1.5'/><circle cx='66' cy='34' r='3' fill='#fff' stroke='#222'/><circle cx='66' cy='34' r='1.5' fill='#222'/><path d='M30 32 Q40 40 30 48' fill='none' stroke='#444' stroke-width='1'/></svg>"
+    },
+    {
+      "num": 91,
+      "word": "flathead",
+      "ipa": "/ˈflæthɛd/",
+      "chinese": "扁头鱼 (AUS)",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M14 40 Q22 22 50 22 Q70 22 82 30 L88 22 L88 58 L82 50 Q70 58 50 58 Q22 58 14 40 Z' fill='#a0a060' stroke='#444' stroke-width='1.5'/><circle cx='66' cy='34' r='3' fill='#fff' stroke='#222'/><circle cx='66' cy='34' r='1.5' fill='#222'/><path d='M30 32 Q40 40 30 48' fill='none' stroke='#444' stroke-width='1'/></svg>"
+    },
+    {
+      "num": 92,
+      "word": "John Dory",
+      "ipa": "/dʒɒn ˈdɔːri/",
+      "chinese": "日本竹荚鱼",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M14 40 Q22 22 50 22 Q70 22 82 30 L88 22 L88 58 L82 50 Q70 58 50 58 Q22 58 14 40 Z' fill='#f0c060' stroke='#444' stroke-width='1.5'/><circle cx='66' cy='34' r='3' fill='#fff' stroke='#222'/><circle cx='66' cy='34' r='1.5' fill='#222'/><path d='M30 32 Q40 40 30 48' fill='none' stroke='#444' stroke-width='1'/></svg>"
+    },
+    {
+      "num": 93,
+      "word": "fish fingers",
+      "ipa": "/ˈfɪʃ ˌfɪŋɡəz/",
+      "chinese": "鱼柳条",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='16' y='26' width='68' height='14' rx='2' fill='#f0a040' stroke='#a05010' stroke-width='1.5'/><rect x='16' y='44' width='68' height='14' rx='2' fill='#f0a040' stroke='#a05010' stroke-width='1.5'/><circle cx='30' cy='33' r='1' fill='#a05010'/><circle cx='50' cy='33' r='1' fill='#a05010'/><circle cx='70' cy='33' r='1' fill='#a05010'/><circle cx='30' cy='51' r='1' fill='#a05010'/><circle cx='50' cy='51' r='1' fill='#a05010'/><circle cx='70' cy='51' r='1' fill='#a05010'/></svg>"
+    },
+    {
+      "num": 94,
+      "word": "octopus",
+      "ipa": "/ˈɒktəpəs/",
+      "chinese": "章鱼",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M40 14 Q34 32 38 38 Q40 50 30 56 M44 14 Q40 32 46 38 Q44 50 38 60 M50 12 Q50 32 50 40 Q50 50 50 64 M56 14 Q60 32 54 38 Q56 50 62 60 M60 14 Q66 32 62 38 Q60 50 70 56' fill='none' stroke='#f8e0d0' stroke-width='4' stroke-linecap='round'/><ellipse cx='50' cy='24' rx='18' ry='14' fill='#f5d0b8' stroke='#a05030' stroke-width='1.5'/><circle cx='44' cy='22' r='2' fill='#222'/><circle cx='56' cy='22' r='2' fill='#222'/></svg>"
+    },
+    {
+      "num": 95,
+      "word": "anchovy",
+      "ipa": "/ˈæntʃəvi/",
+      "chinese": "凤尾鱼",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M14 40 Q22 22 50 22 Q70 22 82 30 L88 22 L88 58 L82 50 Q70 58 50 58 Q22 58 14 40 Z' fill='#888' stroke='#444' stroke-width='1.5'/><circle cx='66' cy='34' r='3' fill='#fff' stroke='#222'/><circle cx='66' cy='34' r='1.5' fill='#222'/><path d='M30 32 Q40 40 30 48' fill='none' stroke='#444' stroke-width='1'/></svg>"
+    },
+    {
+      "num": 96,
+      "word": "sardine",
+      "ipa": "/sɑːˈdiːn/",
+      "chinese": "沙丁鱼",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M14 40 Q22 22 50 22 Q70 22 82 30 L88 22 L88 58 L82 50 Q70 58 50 58 Q22 58 14 40 Z' fill='#a0a0a0' stroke='#444' stroke-width='1.5'/><circle cx='66' cy='34' r='3' fill='#fff' stroke='#222'/><circle cx='66' cy='34' r='1.5' fill='#222'/><path d='M30 32 Q40 40 30 48' fill='none' stroke='#444' stroke-width='1'/></svg>"
+    },
+    {
+      "num": 97,
+      "word": "yabby",
+      "ipa": "/ˈjæbi/",
+      "chinese": "淡水龙虾 (AUS)",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M30 14 L32 22 L28 18 L34 26 L26 24 L32 30 L40 34 Q50 32 60 34 L68 30 L74 24 L66 26 L72 18 L68 22 L70 14' fill='#a02020' stroke='#600000' stroke-width='1.5'/><ellipse cx='50' cy='44' rx='22' ry='16' fill='#a02020' stroke='#600000' stroke-width='1.5'/><path d='M28 60 Q34 70 26 72 M72 60 Q66 70 74 72' fill='none' stroke='#600000' stroke-width='2.5'/></svg>"
+    },
+    {
+      "section": "5. Dairy & Eggs"
+    },
+    {
+      "num": 98,
+      "word": "milk",
+      "ipa": "/mɪlk/",
+      "chinese": "牛奶",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='40' y='10' width='20' height='12' fill='#888' stroke='#444' stroke-width='1'/><path d='M38 22 L62 22 L66 36 L66 70 L34 70 L34 36 Z' fill='#fff' stroke='#222' stroke-width='1.5'/><rect x='38' y='42' width='24' height='20' fill='#a0c0e0' stroke='#222' stroke-width='1'/></svg>"
+    },
+    {
+      "num": 99,
+      "word": "cream",
+      "ipa": "/kriːm/",
+      "chinese": "奶油",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='40' y='10' width='20' height='12' fill='#888' stroke='#444' stroke-width='1'/><path d='M38 22 L62 22 L66 36 L66 70 L34 70 L34 36 Z' fill='#fff5e0' stroke='#222' stroke-width='1.5'/><rect x='38' y='42' width='24' height='20' fill='#fff5e0' stroke='#222' stroke-width='1'/></svg>"
+    },
+    {
+      "num": 100,
+      "word": "yogurt",
+      "ipa": "/ˈjɒɡət/",
+      "chinese": "酸奶",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='32' y='10' width='36' height='8' fill='#888' stroke='#444' stroke-width='1'/><rect x='28' y='18' width='44' height='52' rx='2' fill='#fff' stroke='#444' stroke-width='1.5'/><rect x='34' y='34' width='32' height='24' fill='#fff' stroke='#444' stroke-width='0.5'/></svg>"
+    },
+    {
+      "num": 101,
+      "word": "butter",
+      "ipa": "/ˈbʌtə/",
+      "chinese": "黄油",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M20 30 L80 30 L74 60 L26 60 Z' fill='#f8d040' stroke='#a07010' stroke-width='1.5'/><rect x='30' y='34' width='40' height='14' fill='#f0c020' stroke='#a07010' stroke-width='0.5'/></svg>"
+    },
+    {
+      "num": 102,
+      "word": "eggs",
+      "ipa": "/ɛɡz/",
+      "chinese": "鸡蛋",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><ellipse cx='30' cy='42' rx='12' ry='16' fill='#fff5e0' stroke='#a08070' stroke-width='1.5'/><ellipse cx='50' cy='40' rx='12' ry='16' fill='#fff5e0' stroke='#a08070' stroke-width='1.5'/><ellipse cx='70' cy='42' rx='12' ry='16' fill='#fff5e0' stroke='#a08070' stroke-width='1.5'/></svg>"
+    },
+    {
+      "num": 103,
+      "word": "cheddar",
+      "ipa": "/ˈtʃɛdə/",
+      "chinese": "切达奶酪",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M14 60 L86 60 L78 22 L20 28 Z' fill='#f0a040' stroke='#a08010' stroke-width='1.5'/><path d='M20 28 L78 22 L86 60' fill='#f8e8a0' stroke='#a08010' stroke-width='1.5'/><circle cx='40' cy='40' r='3' fill='none' stroke='#a08010'/><circle cx='60' cy='44' r='2' fill='none' stroke='#a08010'/><circle cx='50' cy='52' r='3' fill='none' stroke='#a08010'/></svg>"
+    },
+    {
+      "num": 104,
+      "word": "mozzarella",
+      "ipa": "/ˌmɒtsəˈrɛlə/",
+      "chinese": "马苏里拉奶酪",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M14 60 L86 60 L78 22 L20 28 Z' fill='#fff5e0' stroke='#a08010' stroke-width='1.5'/><path d='M20 28 L78 22 L86 60' fill='#f8e8a0' stroke='#a08010' stroke-width='1.5'/><circle cx='40' cy='40' r='3' fill='none' stroke='#a08010'/><circle cx='60' cy='44' r='2' fill='none' stroke='#a08010'/><circle cx='50' cy='52' r='3' fill='none' stroke='#a08010'/></svg>"
+    },
+    {
+      "num": 105,
+      "word": "parmesan",
+      "ipa": "/ˌpɑːmɪˈzæn/",
+      "chinese": "帕玛森奶酪",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M14 60 L86 60 L78 22 L20 28 Z' fill='#f0d0a0' stroke='#a08010' stroke-width='1.5'/><path d='M20 28 L78 22 L86 60' fill='#f8e8a0' stroke='#a08010' stroke-width='1.5'/><circle cx='40' cy='40' r='3' fill='none' stroke='#a08010'/><circle cx='60' cy='44' r='2' fill='none' stroke='#a08010'/><circle cx='50' cy='52' r='3' fill='none' stroke='#a08010'/></svg>"
+    },
+    {
+      "num": 106,
+      "word": "feta",
+      "ipa": "/ˈfɛtə/",
+      "chinese": "菲达奶酪",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M14 60 L86 60 L78 22 L20 28 Z' fill='#fff' stroke='#a08010' stroke-width='1.5'/><path d='M20 28 L78 22 L86 60' fill='#f8e8a0' stroke='#a08010' stroke-width='1.5'/><circle cx='40' cy='40' r='3' fill='none' stroke='#a08010'/><circle cx='60' cy='44' r='2' fill='none' stroke='#a08010'/><circle cx='50' cy='52' r='3' fill='none' stroke='#a08010'/></svg>"
+    },
+    {
+      "num": 107,
+      "word": "brie",
+      "ipa": "/briː/",
+      "chinese": "布里奶酪",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><ellipse cx='50' cy='44' rx='30' ry='10' fill='#fff5e0' stroke='#a08070' stroke-width='1.5'/><path d='M20 44 Q50 60 80 44' fill='none' stroke='#a08070' stroke-width='1.5'/><path d='M30 44 Q50 38 70 44' fill='none' stroke='#f0e0c0' stroke-width='0.5'/></svg>"
+    },
+    {
+      "num": 108,
+      "word": "blue cheese",
+      "ipa": "/ˈbluː tʃiːz/",
+      "chinese": "蓝纹奶酪",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M14 60 L86 60 L78 22 L20 28 Z' fill='#f0e0d0' stroke='#a08010' stroke-width='1.5'/><path d='M20 28 L78 22 L86 60' fill='#f8e8a0' stroke='#a08010' stroke-width='1.5'/><circle cx='40' cy='40' r='3' fill='none' stroke='#a08010'/><circle cx='60' cy='44' r='2' fill='none' stroke='#a08010'/><circle cx='50' cy='52' r='3' fill='none' stroke='#a08010'/></svg>"
+    },
+    {
+      "num": 109,
+      "word": "halloumi",
+      "ipa": "/həˈluːmi/",
+      "chinese": "哈罗米奶酪",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M14 60 L86 60 L78 22 L20 28 Z' fill='#fff5e0' stroke='#a08010' stroke-width='1.5'/><path d='M20 28 L78 22 L86 60' fill='#f8e8a0' stroke='#a08010' stroke-width='1.5'/><circle cx='40' cy='40' r='3' fill='none' stroke='#a08010'/><circle cx='60' cy='44' r='2' fill='none' stroke='#a08010'/><circle cx='50' cy='52' r='3' fill='none' stroke='#a08010'/></svg>"
+    },
+    {
+      "num": 110,
+      "word": "ricotta",
+      "ipa": "/rɪˈkɒtə/",
+      "chinese": "里科塔奶酪",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M14 60 L86 60 L78 22 L20 28 Z' fill='#fff5e0' stroke='#a08010' stroke-width='1.5'/><path d='M20 28 L78 22 L86 60' fill='#f8e8a0' stroke='#a08010' stroke-width='1.5'/><circle cx='40' cy='40' r='3' fill='none' stroke='#a08010'/><circle cx='60' cy='44' r='2' fill='none' stroke='#a08010'/><circle cx='50' cy='52' r='3' fill='none' stroke='#a08010'/></svg>"
+    },
+    {
+      "num": 111,
+      "word": "cream cheese",
+      "ipa": "/ˈkriːm tʃiːz/",
+      "chinese": "奶油奶酪",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='40' y='10' width='20' height='12' fill='#888' stroke='#444' stroke-width='1'/><path d='M38 22 L62 22 L66 36 L66 70 L34 70 L34 36 Z' fill='#fff5e0' stroke='#222' stroke-width='1.5'/><rect x='38' y='42' width='24' height='20' fill='#fff5e0' stroke='#222' stroke-width='1'/></svg>"
+    },
+    {
+      "num": 112,
+      "word": "sour cream",
+      "ipa": "/ˈsaʊə kriːm/",
+      "chinese": "酸奶油",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='32' y='10' width='36' height='8' fill='#888' stroke='#444' stroke-width='1'/><rect x='28' y='18' width='44' height='52' rx='2' fill='#fff' stroke='#444' stroke-width='1.5'/><rect x='34' y='34' width='32' height='24' fill='#fff' stroke='#444' stroke-width='0.5'/></svg>"
+    },
+    {
+      "section": "6. Bread, Pasta & Grains"
+    },
+    {
+      "num": 113,
+      "word": "white bread",
+      "ipa": "/waɪt brɛd/",
+      "chinese": "白面包",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M14 60 Q12 38 24 30 Q40 22 60 24 Q80 28 86 42 Q88 60 80 64 L20 64 Q12 64 14 60 Z' fill='#d4a060' stroke='#7a4010' stroke-width='1.5'/><path d='M28 32 Q34 26 40 32 M44 28 Q50 22 56 28 M60 30 Q66 24 72 30' fill='none' stroke='#7a4010' stroke-width='1'/></svg>"
+    },
+    {
+      "num": 114,
+      "word": "wholemeal bread",
+      "ipa": "/ˈhəʊlmiːl brɛd/",
+      "chinese": "全麦面包",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M14 60 Q12 38 24 30 Q40 22 60 24 Q80 28 86 42 Q88 60 80 64 L20 64 Q12 64 14 60 Z' fill='#8a5020' stroke='#7a4010' stroke-width='1.5'/><path d='M28 32 Q34 26 40 32 M44 28 Q50 22 56 28 M60 30 Q66 24 72 30' fill='none' stroke='#7a4010' stroke-width='1'/></svg>"
+    },
+    {
+      "num": 115,
+      "word": "sourdough",
+      "ipa": "/ˈsaʊədəʊ/",
+      "chinese": "酸面包",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M14 60 Q12 38 24 30 Q40 22 60 24 Q80 28 86 42 Q88 60 80 64 L20 64 Q12 64 14 60 Z' fill='#c08040' stroke='#7a4010' stroke-width='1.5'/><path d='M28 32 Q34 26 40 32 M44 28 Q50 22 56 28 M60 30 Q66 24 72 30' fill='none' stroke='#7a4010' stroke-width='1'/></svg>"
+    },
+    {
+      "num": 116,
+      "word": "baguette",
+      "ipa": "/bæˈɡɛt/",
+      "chinese": "法棍",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M14 36 Q12 28 24 28 L78 30 Q88 32 86 42 Q88 50 78 50 L22 48 Q12 46 14 36 Z' fill='#d4a060' stroke='#7a4010' stroke-width='1.5'/><path d='M22 32 L26 44 M34 32 L38 46 M48 32 L52 46 M62 32 L66 46 M74 32 L78 44' stroke='#7a4010' stroke-width='1.5'/></svg>"
+    },
+    {
+      "num": 117,
+      "word": "pita",
+      "ipa": "/ˈpiːtə/",
+      "chinese": "皮塔饼",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><ellipse cx='50' cy='44' rx='34' ry='20' fill='#f0d8a0' stroke='#a08040' stroke-width='1.5'/><ellipse cx='50' cy='40' rx='24' ry='8' fill='#d4a060' opacity='0.5'/></svg>"
+    },
+    {
+      "num": 118,
+      "word": "naan",
+      "ipa": "/nɑːn/",
+      "chinese": "印度烤饼",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M16 56 Q14 32 30 24 Q50 18 70 26 Q86 36 82 54 Q66 64 50 60 Q34 64 16 56 Z' fill='#f0c860' stroke='#a07010' stroke-width='1.5'/><circle cx='34' cy='40' r='3' fill='#7a4010' opacity='0.5'/><circle cx='52' cy='44' r='3' fill='#7a4010' opacity='0.5'/><circle cx='66' cy='38' r='3' fill='#7a4010' opacity='0.5'/></svg>"
+    },
+    {
+      "num": 119,
+      "word": "spaghetti",
+      "ipa": "/spəˈɡɛti/",
+      "chinese": "意大利面",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M16 14 Q22 40 18 70 M26 14 Q32 40 28 70 M36 14 Q42 40 38 70 M46 14 Q52 40 48 70 M56 14 Q62 40 58 70 M66 14 Q72 40 68 70 M76 14 Q82 40 78 70' fill='none' stroke='#f0d860' stroke-width='3' stroke-linecap='round'/></svg>"
+    },
+    {
+      "num": 120,
+      "word": "penne",
+      "ipa": "/ˈpɛneɪ/",
+      "chinese": "通心粉",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M14 28 L34 22 L38 38 L18 44 Z' fill='#f0d860' stroke='#a07010' stroke-width='1.5'/><path d='M30 32 L50 26 L54 42 L34 48 Z' fill='#f0d860' stroke='#a07010' stroke-width='1.5'/><path d='M46 36 L66 30 L70 46 L50 52 Z' fill='#f0d860' stroke='#a07010' stroke-width='1.5'/><path d='M62 40 L82 34 L86 50 L66 56 Z' fill='#f0d860' stroke='#a07010' stroke-width='1.5'/></svg>"
+    },
+    {
+      "num": 121,
+      "word": "lasagne",
+      "ipa": "/ləˈzænjə/",
+      "chinese": "千层面",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='14' y='22' width='72' height='6' fill='#f0d860' stroke='#a07010' stroke-width='1'/><rect x='14' y='28' width='72' height='4' fill='#c84040' stroke='#7a1010' stroke-width='0.5'/><rect x='14' y='32' width='72' height='4' fill='#fff5e0' stroke='#a08070' stroke-width='0.5'/><rect x='14' y='36' width='72' height='6' fill='#f0d860' stroke='#a07010' stroke-width='1'/><rect x='14' y='42' width='72' height='4' fill='#c84040' stroke='#7a1010' stroke-width='0.5'/><rect x='14' y='46' width='72' height='4' fill='#fff5e0' stroke='#a08070' stroke-width='0.5'/><rect x='14' y='50' width='72' height='6' fill='#f0d860' stroke='#a07010' stroke-width='1'/></svg>"
+    },
+    {
+      "num": 122,
+      "word": "gnocchi",
+      "ipa": "/ˈnɒki/",
+      "chinese": "意大利团子",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><ellipse cx='30' cy='32' rx='8' ry='5' fill='#f5e8c8' stroke='#a08050' stroke-width='1.5'/><ellipse cx='50' cy='30' rx='8' ry='5' fill='#f5e8c8' stroke='#a08050' stroke-width='1.5'/><ellipse cx='70' cy='32' rx='8' ry='5' fill='#f5e8c8' stroke='#a08050' stroke-width='1.5'/><ellipse cx='40' cy='46' rx='8' ry='5' fill='#f5e8c8' stroke='#a08050' stroke-width='1.5'/><ellipse cx='60' cy='46' rx='8' ry='5' fill='#f5e8c8' stroke='#a08050' stroke-width='1.5'/><ellipse cx='50' cy='60' rx='8' ry='5' fill='#f5e8c8' stroke='#a08050' stroke-width='1.5'/><path d='M26 32 L34 32 M46 30 L54 30 M66 32 L74 32 M36 46 L44 46 M56 46 L64 46 M46 60 L54 60' stroke='#a08050' stroke-width='1'/></svg>"
+    },
+    {
+      "num": 123,
+      "word": "rice",
+      "ipa": "/raɪs/",
+      "chinese": "米饭",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><ellipse cx='30' cy='30' rx='4' ry='2' fill='#fff' stroke='#888' stroke-width='0.5'/><ellipse cx='40' cy='32' rx='4' ry='2' fill='#fff' stroke='#888' stroke-width='0.5'/><ellipse cx='50' cy='30' rx='4' ry='2' fill='#fff' stroke='#888' stroke-width='0.5'/><ellipse cx='60' cy='32' rx='4' ry='2' fill='#fff' stroke='#888' stroke-width='0.5'/><ellipse cx='70' cy='30' rx='4' ry='2' fill='#fff' stroke='#888' stroke-width='0.5'/><ellipse cx='34' cy='40' rx='4' ry='2' fill='#fff' stroke='#888' stroke-width='0.5'/><ellipse cx='46' cy='42' rx='4' ry='2' fill='#fff' stroke='#888' stroke-width='0.5'/><ellipse cx='58' cy='40' rx='4' ry='2' fill='#fff' stroke='#888' stroke-width='0.5'/><ellipse cx='30' cy='50' rx='4' ry='2' fill='#fff' stroke='#888' stroke-width='0.5'/><ellipse cx='42' cy='52' rx='4' ry='2' fill='#fff' stroke='#888' stroke-width='0.5'/><ellipse cx='54' cy='50' rx='4' ry='2' fill='#fff' stroke='#888' stroke-width='0.5'/><ellipse cx='66' cy='52' rx='4' ry='2' fill='#fff' stroke='#888' stroke-width='0.5'/><path d='M14 60 Q50 70 86 60' fill='none' stroke='#aaa' stroke-width='1.5'/></svg>"
+    },
+    {
+      "num": 124,
+      "word": "basmati",
+      "ipa": "/bæsˈmɑːti/",
+      "chinese": "印度香米",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><ellipse cx='30' cy='30' rx='4' ry='2' fill='#fff' stroke='#888' stroke-width='0.5'/><ellipse cx='40' cy='32' rx='4' ry='2' fill='#fff' stroke='#888' stroke-width='0.5'/><ellipse cx='50' cy='30' rx='4' ry='2' fill='#fff' stroke='#888' stroke-width='0.5'/><ellipse cx='60' cy='32' rx='4' ry='2' fill='#fff' stroke='#888' stroke-width='0.5'/><ellipse cx='70' cy='30' rx='4' ry='2' fill='#fff' stroke='#888' stroke-width='0.5'/><ellipse cx='34' cy='40' rx='4' ry='2' fill='#fff' stroke='#888' stroke-width='0.5'/><ellipse cx='46' cy='42' rx='4' ry='2' fill='#fff' stroke='#888' stroke-width='0.5'/><ellipse cx='58' cy='40' rx='4' ry='2' fill='#fff' stroke='#888' stroke-width='0.5'/><ellipse cx='30' cy='50' rx='4' ry='2' fill='#fff' stroke='#888' stroke-width='0.5'/><ellipse cx='42' cy='52' rx='4' ry='2' fill='#fff' stroke='#888' stroke-width='0.5'/><ellipse cx='54' cy='50' rx='4' ry='2' fill='#fff' stroke='#888' stroke-width='0.5'/><ellipse cx='66' cy='52' rx='4' ry='2' fill='#fff' stroke='#888' stroke-width='0.5'/><path d='M14 60 Q50 70 86 60' fill='none' stroke='#aaa' stroke-width='1.5'/></svg>"
+    },
+    {
+      "num": 125,
+      "word": "noodles",
+      "ipa": "/ˈnuːd(ə)lz/",
+      "chinese": "面条",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M14 24 Q30 30 22 40 Q14 48 30 54 Q50 50 70 56 Q86 50 78 40 Q86 28 70 24' fill='#f0d860' stroke='#a07010' stroke-width='1.5'/><path d='M20 30 Q34 36 28 44 M40 28 Q52 36 46 46 M58 30 Q68 38 62 46 M76 30 Q82 36 76 44' fill='none' stroke='#a07010' stroke-width='1'/></svg>"
+    },
+    {
+      "num": 126,
+      "word": "oats",
+      "ipa": "/əʊts/",
+      "chinese": "燕麦",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><ellipse cx='50' cy='50' rx='34' ry='16' fill='#fff' stroke='#888' stroke-width='1.5'/><ellipse cx='35' cy='44' rx='4' ry='2' fill='#c8a060'/><ellipse cx='50' cy='42' rx='4' ry='2' fill='#c8a060'/><ellipse cx='65' cy='44' rx='4' ry='2' fill='#c8a060'/><ellipse cx='42' cy='52' rx='4' ry='2' fill='#c8a060'/><ellipse cx='58' cy='52' rx='4' ry='2' fill='#c8a060'/></svg>"
+    },
+    {
+      "num": 127,
+      "word": "quinoa",
+      "ipa": "/ˈkiːnwɑː/",
+      "chinese": "藜麦",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><ellipse cx='30' cy='30' rx='4' ry='2' fill='#fff' stroke='#888' stroke-width='0.5'/><ellipse cx='40' cy='32' rx='4' ry='2' fill='#fff' stroke='#888' stroke-width='0.5'/><ellipse cx='50' cy='30' rx='4' ry='2' fill='#fff' stroke='#888' stroke-width='0.5'/><ellipse cx='60' cy='32' rx='4' ry='2' fill='#fff' stroke='#888' stroke-width='0.5'/><ellipse cx='70' cy='30' rx='4' ry='2' fill='#fff' stroke='#888' stroke-width='0.5'/><ellipse cx='34' cy='40' rx='4' ry='2' fill='#fff' stroke='#888' stroke-width='0.5'/><ellipse cx='46' cy='42' rx='4' ry='2' fill='#fff' stroke='#888' stroke-width='0.5'/><ellipse cx='58' cy='40' rx='4' ry='2' fill='#fff' stroke='#888' stroke-width='0.5'/><ellipse cx='30' cy='50' rx='4' ry='2' fill='#fff' stroke='#888' stroke-width='0.5'/><ellipse cx='42' cy='52' rx='4' ry='2' fill='#fff' stroke='#888' stroke-width='0.5'/><ellipse cx='54' cy='50' rx='4' ry='2' fill='#fff' stroke='#888' stroke-width='0.5'/><ellipse cx='66' cy='52' rx='4' ry='2' fill='#fff' stroke='#888' stroke-width='0.5'/><path d='M14 60 Q50 70 86 60' fill='none' stroke='#aaa' stroke-width='1.5'/></svg>"
+    },
+    {
+      "num": 128,
+      "word": "couscous",
+      "ipa": "/ˈkʊskʊs/",
+      "chinese": "蒸粗麦粉",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><ellipse cx='30' cy='30' rx='4' ry='2' fill='#fff' stroke='#888' stroke-width='0.5'/><ellipse cx='40' cy='32' rx='4' ry='2' fill='#fff' stroke='#888' stroke-width='0.5'/><ellipse cx='50' cy='30' rx='4' ry='2' fill='#fff' stroke='#888' stroke-width='0.5'/><ellipse cx='60' cy='32' rx='4' ry='2' fill='#fff' stroke='#888' stroke-width='0.5'/><ellipse cx='70' cy='30' rx='4' ry='2' fill='#fff' stroke='#888' stroke-width='0.5'/><ellipse cx='34' cy='40' rx='4' ry='2' fill='#fff' stroke='#888' stroke-width='0.5'/><ellipse cx='46' cy='42' rx='4' ry='2' fill='#fff' stroke='#888' stroke-width='0.5'/><ellipse cx='58' cy='40' rx='4' ry='2' fill='#fff' stroke='#888' stroke-width='0.5'/><ellipse cx='30' cy='50' rx='4' ry='2' fill='#fff' stroke='#888' stroke-width='0.5'/><ellipse cx='42' cy='52' rx='4' ry='2' fill='#fff' stroke='#888' stroke-width='0.5'/><ellipse cx='54' cy='50' rx='4' ry='2' fill='#fff' stroke='#888' stroke-width='0.5'/><ellipse cx='66' cy='52' rx='4' ry='2' fill='#fff' stroke='#888' stroke-width='0.5'/><path d='M14 60 Q50 70 86 60' fill='none' stroke='#aaa' stroke-width='1.5'/></svg>"
+    },
+    {
+      "num": 129,
+      "word": "barley",
+      "ipa": "/ˈbɑːli/",
+      "chinese": "大麦",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><ellipse cx='50' cy='50' rx='34' ry='16' fill='#fff' stroke='#888' stroke-width='1.5'/><ellipse cx='35' cy='44' rx='4' ry='2' fill='#c8a060'/><ellipse cx='50' cy='42' rx='4' ry='2' fill='#c8a060'/><ellipse cx='65' cy='44' rx='4' ry='2' fill='#c8a060'/><ellipse cx='42' cy='52' rx='4' ry='2' fill='#c8a060'/><ellipse cx='58' cy='52' rx='4' ry='2' fill='#c8a060'/></svg>"
+    },
+    {
+      "num": 130,
+      "word": "fettuccine",
+      "ipa": "/ˌfɛtəˈtʃiːni/",
+      "chinese": "宽面条",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M16 14 Q22 40 18 70 M26 14 Q32 40 28 70 M36 14 Q42 40 38 70 M46 14 Q52 40 48 70 M56 14 Q62 40 58 70 M66 14 Q72 40 68 70 M76 14 Q82 40 78 70' fill='none' stroke='#f0d860' stroke-width='3' stroke-linecap='round'/></svg>"
+    },
+    {
+      "num": 131,
+      "word": "ravioli",
+      "ipa": "/ˌræviˈəʊli/",
+      "chinese": "意式饺子",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><ellipse cx='30' cy='32' rx='8' ry='5' fill='#f5e8c8' stroke='#a08050' stroke-width='1.5'/><ellipse cx='50' cy='30' rx='8' ry='5' fill='#f5e8c8' stroke='#a08050' stroke-width='1.5'/><ellipse cx='70' cy='32' rx='8' ry='5' fill='#f5e8c8' stroke='#a08050' stroke-width='1.5'/><ellipse cx='40' cy='46' rx='8' ry='5' fill='#f5e8c8' stroke='#a08050' stroke-width='1.5'/><ellipse cx='60' cy='46' rx='8' ry='5' fill='#f5e8c8' stroke='#a08050' stroke-width='1.5'/><ellipse cx='50' cy='60' rx='8' ry='5' fill='#f5e8c8' stroke='#a08050' stroke-width='1.5'/><path d='M26 32 L34 32 M46 30 L54 30 M66 32 L74 32 M36 46 L44 46 M56 46 L64 46 M46 60 L54 60' stroke='#a08050' stroke-width='1'/></svg>"
+    },
+    {
+      "num": 132,
+      "word": "tortilla",
+      "ipa": "/tɔːˈtiːə/",
+      "chinese": "玉米饼",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><ellipse cx='50' cy='44' rx='34' ry='20' fill='#f0d8a0' stroke='#a08040' stroke-width='1.5'/><ellipse cx='50' cy='40' rx='24' ry='8' fill='#d4a060' opacity='0.5'/></svg>"
+    },
+    {
+      "section": "7. Bakery & Pastry"
+    },
+    {
+      "num": 133,
+      "word": "croissant",
+      "ipa": "/ˈkrwɑːsɒ̃/",
+      "chinese": "牛角面包",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M14 60 Q12 38 24 30 Q40 22 60 24 Q80 28 86 42 Q88 60 80 64 L20 64 Q12 64 14 60 Z' fill='#e0b070' stroke='#7a4010' stroke-width='1.5'/><path d='M28 32 Q34 26 40 32 M44 28 Q50 22 56 28 M60 30 Q66 24 72 30' fill='none' stroke='#7a4010' stroke-width='1'/></svg>"
+    },
+    {
+      "num": 134,
+      "word": "muffin",
+      "ipa": "/ˈmʌfɪn/",
+      "chinese": "玛芬",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M14 60 Q12 38 24 30 Q40 22 60 24 Q80 28 86 42 Q88 60 80 64 L20 64 Q12 64 14 60 Z' fill='#a05010' stroke='#7a4010' stroke-width='1.5'/><path d='M28 32 Q34 26 40 32 M44 28 Q50 22 56 28 M60 30 Q66 24 72 30' fill='none' stroke='#7a4010' stroke-width='1'/></svg>"
+    },
+    {
+      "num": 135,
+      "word": "scone",
+      "ipa": "/skəʊn/",
+      "chinese": "司康饼",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M14 60 Q12 38 24 30 Q40 22 60 24 Q80 28 86 42 Q88 60 80 64 L20 64 Q12 64 14 60 Z' fill='#d4a060' stroke='#7a4010' stroke-width='1.5'/><path d='M28 32 Q34 26 40 32 M44 28 Q50 22 56 28 M60 30 Q66 24 72 30' fill='none' stroke='#7a4010' stroke-width='1'/></svg>"
+    },
+    {
+      "num": 136,
+      "word": "bagel",
+      "ipa": "/ˈbeɪɡ(ə)l/",
+      "chinese": "百吉饼",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><circle cx='50' cy='44' r='28' fill='#c8a060' stroke='#7a4010' stroke-width='2'/><circle cx='50' cy='44' r='10' fill='#fff' stroke='#7a4010' stroke-width='2'/><circle cx='35' cy='30' r='1.5' fill='#3a1000'/><circle cx='65' cy='32' r='1.5' fill='#3a1000'/><circle cx='40' cy='55' r='1.5' fill='#3a1000'/></svg>"
+    },
+    {
+      "num": 137,
+      "word": "doughnut",
+      "ipa": "/ˈdəʊnʌt/",
+      "chinese": "甜甜圈",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><circle cx='50' cy='44' r='28' fill='#f0c860' stroke='#a07010' stroke-width='1.5'/><circle cx='50' cy='44' r='10' fill='#fff' stroke='#a07010' stroke-width='1.5'/><path d='M22 32 Q30 22 50 20 Q70 22 78 32' fill='#f5b8d0' stroke='#a06080' stroke-width='1.5'/><circle cx='34' cy='28' r='1' fill='#c84040'/><circle cx='44' cy='24' r='1' fill='#4060c8'/><circle cx='56' cy='24' r='1' fill='#6abf50'/><circle cx='66' cy='28' r='1' fill='#f0c020'/></svg>"
+    },
+    {
+      "num": 138,
+      "word": "danish",
+      "ipa": "/ˈdeɪnɪʃ/",
+      "chinese": "丹麦酥",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M14 60 Q12 38 24 30 Q40 22 60 24 Q80 28 86 42 Q88 60 80 64 L20 64 Q12 64 14 60 Z' fill='#e0c080' stroke='#7a4010' stroke-width='1.5'/><path d='M28 32 Q34 26 40 32 M44 28 Q50 22 56 28 M60 30 Q66 24 72 30' fill='none' stroke='#7a4010' stroke-width='1'/></svg>"
+    },
+    {
+      "num": 139,
+      "word": "pretzel",
+      "ipa": "/ˈprɛts(ə)l/",
+      "chinese": "椒盐脆饼",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M50 22 Q40 18 32 26 Q26 36 32 44 L40 50 L30 60 Q40 64 50 56 Q60 64 70 60 L60 50 L68 44 Q74 36 68 26 Q60 18 50 22 Z' fill='#c8a060' stroke='#7a4010' stroke-width='2.5'/><circle cx='38' cy='32' r='1' fill='#fff'/><circle cx='62' cy='32' r='1' fill='#fff'/><circle cx='50' cy='40' r='1' fill='#fff'/></svg>"
+    },
+    {
+      "num": 140,
+      "word": "brioche",
+      "ipa": "/ˈbriːɒʃ/",
+      "chinese": "布里奥修",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M14 60 Q12 38 24 30 Q40 22 60 24 Q80 28 86 42 Q88 60 80 64 L20 64 Q12 64 14 60 Z' fill='#f0c890' stroke='#7a4010' stroke-width='1.5'/><path d='M28 32 Q34 26 40 32 M44 28 Q50 22 56 28 M60 30 Q66 24 72 30' fill='none' stroke='#7a4010' stroke-width='1'/></svg>"
+    },
+    {
+      "num": 141,
+      "word": "cinnamon scroll",
+      "ipa": "/ˈsɪnəmən skrəʊl/",
+      "chinese": "肉桂卷",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><circle cx='50' cy='44' r='26' fill='#c8a060' stroke='#7a4010' stroke-width='1.5'/><path d='M50 44 m-22 0 a22 22 0 0 1 44 0 a18 18 0 0 1 -36 0 a14 14 0 0 1 28 0 a10 10 0 0 1 -20 0' fill='none' stroke='#7a4010' stroke-width='2'/></svg>"
+    },
+    {
+      "num": 142,
+      "word": "sausage roll",
+      "ipa": "/ˈsɒsɪdʒ rəʊl/",
+      "chinese": "香肠卷 (AUS经典)",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M16 30 Q14 22 22 22 L78 26 Q88 28 86 38 Q86 50 76 50 L24 48 Q14 46 16 30 Z' fill='#d4a060' stroke='#7a4010' stroke-width='1.5'/><path d='M30 22 L26 50 M50 24 L46 50 M70 26 L66 50' fill='none' stroke='#7a4010' stroke-width='1.5'/></svg>"
+    },
+    {
+      "num": 143,
+      "word": "meat pie",
+      "ipa": "/ˈmiːt paɪ/",
+      "chinese": "肉派 (AUS经典)",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><ellipse cx='50' cy='44' rx='32' ry='22' fill='#c8a060' stroke='#7a4010' stroke-width='1.5'/><ellipse cx='50' cy='38' rx='28' ry='18' fill='#a07040' stroke='#7a4010' stroke-width='1'/><path d='M30 32 L50 30 L50 50 L30 48 Z M50 30 L70 32 L70 48 L50 50 Z' fill='none' stroke='#7a4010' stroke-width='1'/><circle cx='40' cy='40' r='1.5' fill='#5a2010'/><circle cx='60' cy='42' r='1.5' fill='#5a2010'/></svg>"
+    },
+    {
+      "num": 144,
+      "word": "brownie",
+      "ipa": "/ˈbraʊni/",
+      "chinese": "巧克力布朗尼",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='14' y='20' width='72' height='40' fill='#3a1000' stroke='#3a1000' stroke-width='1.5'/><line x1='32' y1='20' x2='32' y2='60' stroke='#3a1000' stroke-width='1.5'/><line x1='50' y1='20' x2='50' y2='60' stroke='#3a1000' stroke-width='1.5'/><line x1='68' y1='20' x2='68' y2='60' stroke='#3a1000' stroke-width='1.5'/><line x1='14' y1='40' x2='86' y2='40' stroke='#3a1000' stroke-width='1.5'/></svg>"
+    },
+    {
+      "num": 145,
+      "word": "cupcake",
+      "ipa": "/ˈkʌpkeɪk/",
+      "chinese": "纸杯蛋糕",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M30 40 L70 40 L66 70 L34 70 Z' fill='#f0c860' stroke='#a07010' stroke-width='1.5'/><line x1='38' y1='44' x2='34' y2='68' stroke='#a07010' stroke-width='0.5'/><line x1='46' y1='44' x2='44' y2='68' stroke='#a07010' stroke-width='0.5'/><line x1='54' y1='44' x2='56' y2='68' stroke='#a07010' stroke-width='0.5'/><line x1='62' y1='44' x2='66' y2='68' stroke='#a07010' stroke-width='0.5'/><path d='M28 40 Q34 24 50 22 Q66 24 72 40 Z' fill='#f5b8d0' stroke='#a06080' stroke-width='1.5'/><circle cx='50' cy='14' r='4' fill='#c84040'/></svg>"
+    },
+    {
+      "num": 146,
+      "word": "tart",
+      "ipa": "/tɑːt/",
+      "chinese": "塔；馅饼",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><ellipse cx='50' cy='50' rx='32' ry='12' fill='#c8a060' stroke='#7a4010' stroke-width='1.5'/><ellipse cx='50' cy='44' rx='32' ry='12' fill='#f0c860' stroke='#7a4010' stroke-width='1.5'/><ellipse cx='50' cy='40' rx='26' ry='8' fill='#e04040'/></svg>"
+    },
+    {
+      "num": 147,
+      "word": "banana bread",
+      "ipa": "/bəˈnɑːnə brɛd/",
+      "chinese": "香蕉面包",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M14 60 Q12 38 24 30 Q40 22 60 24 Q80 28 86 42 Q88 60 80 64 L20 64 Q12 64 14 60 Z' fill='#c8a060' stroke='#7a4010' stroke-width='1.5'/><path d='M28 32 Q34 26 40 32 M44 28 Q50 22 56 28 M60 30 Q66 24 72 30' fill='none' stroke='#7a4010' stroke-width='1'/></svg>"
+    },
+    {
+      "section": "8. Pantry Staples"
+    },
+    {
+      "num": 148,
+      "word": "flour",
+      "ipa": "/ˈflaʊə/",
+      "chinese": "面粉",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M22 12 L78 12 L82 18 L82 68 Q60 72 50 68 Q40 72 18 68 L18 18 Z' fill='#fff' stroke='#222' stroke-width='1.5'/><rect x='28' y='30' width='44' height='24' fill='#a08070' stroke='#222' stroke-width='1'/></svg>"
+    },
+    {
+      "num": 149,
+      "word": "sugar",
+      "ipa": "/ˈʃʊɡə/",
+      "chinese": "糖",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M22 12 L78 12 L82 18 L82 68 Q60 72 50 68 Q40 72 18 68 L18 18 Z' fill='#fff5e0' stroke='#222' stroke-width='1.5'/><rect x='28' y='30' width='44' height='24' fill='#a08070' stroke='#222' stroke-width='1'/></svg>"
+    },
+    {
+      "num": 150,
+      "word": "salt",
+      "ipa": "/sɔːlt/",
+      "chinese": "盐",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='32' y='10' width='36' height='8' fill='#888' stroke='#444' stroke-width='1'/><rect x='28' y='18' width='44' height='52' rx='2' fill='#fff' stroke='#444' stroke-width='1.5'/><rect x='34' y='34' width='32' height='24' fill='#fff' stroke='#444' stroke-width='0.5'/></svg>"
+    },
+    {
+      "num": 151,
+      "word": "pepper",
+      "ipa": "/ˈpɛpə/",
+      "chinese": "胡椒",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='32' y='10' width='36' height='8' fill='#888' stroke='#444' stroke-width='1'/><rect x='28' y='18' width='44' height='52' rx='2' fill='#3a1a00' stroke='#444' stroke-width='1.5'/><rect x='34' y='34' width='32' height='24' fill='#fff' stroke='#444' stroke-width='0.5'/></svg>"
+    },
+    {
+      "num": 152,
+      "word": "olive oil",
+      "ipa": "/ˈɒlɪv ɔɪl/",
+      "chinese": "橄榄油",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='40' y='10' width='20' height='12' fill='#888' stroke='#444' stroke-width='1'/><path d='M38 22 L62 22 L66 36 L66 70 L34 70 L34 36 Z' fill='#a0c050' stroke='#222' stroke-width='1.5'/><rect x='38' y='42' width='24' height='20' fill='#fff' stroke='#222' stroke-width='1'/></svg>"
+    },
+    {
+      "num": 153,
+      "word": "vegetable oil",
+      "ipa": "/ˈvɛdʒtəb(ə)l ɔɪl/",
+      "chinese": "植物油",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='40' y='10' width='20' height='12' fill='#888' stroke='#444' stroke-width='1'/><path d='M38 22 L62 22 L66 36 L66 70 L34 70 L34 36 Z' fill='#f0d860' stroke='#222' stroke-width='1.5'/><rect x='38' y='42' width='24' height='20' fill='#fff' stroke='#222' stroke-width='1'/></svg>"
+    },
+    {
+      "num": 154,
+      "word": "vinegar",
+      "ipa": "/ˈvɪnɪɡə/",
+      "chinese": "醋",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='40' y='10' width='20' height='12' fill='#888' stroke='#444' stroke-width='1'/><path d='M38 22 L62 22 L66 36 L66 70 L34 70 L34 36 Z' fill='#a07040' stroke='#222' stroke-width='1.5'/><rect x='38' y='42' width='24' height='20' fill='#fff' stroke='#222' stroke-width='1'/></svg>"
+    },
+    {
+      "num": 155,
+      "word": "balsamic",
+      "ipa": "/bɔːlˈsæmɪk/",
+      "chinese": "巴萨米克醋",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='40' y='10' width='20' height='12' fill='#888' stroke='#444' stroke-width='1'/><path d='M38 22 L62 22 L66 36 L66 70 L34 70 L34 36 Z' fill='#3a1000' stroke='#222' stroke-width='1.5'/><rect x='38' y='42' width='24' height='20' fill='#fff' stroke='#222' stroke-width='1'/></svg>"
+    },
+    {
+      "num": 156,
+      "word": "honey",
+      "ipa": "/ˈhʌni/",
+      "chinese": "蜂蜜",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='32' y='10' width='36' height='8' fill='#888' stroke='#444' stroke-width='1'/><rect x='28' y='18' width='44' height='52' rx='2' fill='#f0a020' stroke='#444' stroke-width='1.5'/><rect x='34' y='34' width='32' height='24' fill='#fff' stroke='#444' stroke-width='0.5'/></svg>"
+    },
+    {
+      "num": 157,
+      "word": "jam",
+      "ipa": "/dʒæm/",
+      "chinese": "果酱",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='32' y='10' width='36' height='8' fill='#888' stroke='#444' stroke-width='1'/><rect x='28' y='18' width='44' height='52' rx='2' fill='#a02020' stroke='#444' stroke-width='1.5'/><rect x='34' y='34' width='32' height='24' fill='#fff' stroke='#444' stroke-width='0.5'/></svg>"
+    },
+    {
+      "num": 158,
+      "word": "peanut butter",
+      "ipa": "/ˈpiːnʌt ˌbʌtə/",
+      "chinese": "花生酱",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='32' y='10' width='36' height='8' fill='#888' stroke='#444' stroke-width='1'/><rect x='28' y='18' width='44' height='52' rx='2' fill='#c8a060' stroke='#444' stroke-width='1.5'/><rect x='34' y='34' width='32' height='24' fill='#fff' stroke='#444' stroke-width='0.5'/></svg>"
+    },
+    {
+      "num": 159,
+      "word": "vegemite",
+      "ipa": "/ˈvɛdʒɪmaɪt/",
+      "chinese": "维吉麦酱 (AUS)",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='32' y='10' width='36' height='8' fill='#888' stroke='#444' stroke-width='1'/><rect x='28' y='18' width='44' height='52' rx='2' fill='#1a0500' stroke='#444' stroke-width='1.5'/><rect x='34' y='34' width='32' height='24' fill='#fff' stroke='#444' stroke-width='0.5'/></svg>"
+    },
+    {
+      "num": 160,
+      "word": "brown sugar",
+      "ipa": "/braʊn ˈʃʊɡə/",
+      "chinese": "红糖",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M22 12 L78 12 L82 18 L82 68 Q60 72 50 68 Q40 72 18 68 L18 18 Z' fill='#fff5e0' stroke='#222' stroke-width='1.5'/><rect x='28' y='30' width='44' height='24' fill='#a08070' stroke='#222' stroke-width='1'/></svg>"
+    },
+    {
+      "num": 161,
+      "word": "baking powder",
+      "ipa": "/ˈbeɪkɪŋ ˌpaʊdə/",
+      "chinese": "泡打粉",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M22 12 L78 12 L82 18 L82 68 Q60 72 50 68 Q40 72 18 68 L18 18 Z' fill='#fff' stroke='#222' stroke-width='1.5'/><rect x='28' y='30' width='44' height='24' fill='#a08070' stroke='#222' stroke-width='1'/></svg>"
+    },
+    {
+      "num": 162,
+      "word": "yeast",
+      "ipa": "/jiːst/",
+      "chinese": "酵母",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M22 12 L78 12 L82 18 L82 68 Q60 72 50 68 Q40 72 18 68 L18 18 Z' fill='#fff' stroke='#222' stroke-width='1.5'/><rect x='28' y='30' width='44' height='24' fill='#a08070' stroke='#222' stroke-width='1'/></svg>"
+    },
+    {
+      "num": 163,
+      "word": "tomato paste",
+      "ipa": "/təˈmɑːtəʊ peɪst/",
+      "chinese": "番茄酱",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><ellipse cx='50' cy='14' rx='22' ry='5' fill='#bbb' stroke='#666' stroke-width='1.5'/><rect x='28' y='14' width='44' height='52' fill='#c84040' stroke='#666' stroke-width='1.5'/><ellipse cx='50' cy='66' rx='22' ry='5' fill='#c84040' stroke='#666' stroke-width='1.5'/><rect x='30' y='32' width='40' height='20' fill='#fff' stroke='#666' stroke-width='0.5'/></svg>"
+    },
+    {
+      "num": 164,
+      "word": "coconut milk",
+      "ipa": "/ˈkəʊkənʌt mɪlk/",
+      "chinese": "椰奶",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><ellipse cx='50' cy='14' rx='22' ry='5' fill='#bbb' stroke='#666' stroke-width='1.5'/><rect x='28' y='14' width='44' height='52' fill='#fff' stroke='#666' stroke-width='1.5'/><ellipse cx='50' cy='66' rx='22' ry='5' fill='#fff' stroke='#666' stroke-width='1.5'/><rect x='30' y='32' width='40' height='20' fill='#fff' stroke='#666' stroke-width='0.5'/></svg>"
+    },
+    {
+      "num": 165,
+      "word": "stock cube",
+      "ipa": "/ˈstɒk kjuːb/",
+      "chinese": "高汤块",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='30' y='30' width='40' height='30' fill='#a05010' stroke='#5a2000' stroke-width='1.5'/><text x='50' y='52' font-size='14' text-anchor='middle' fill='#fff' font-weight='bold' font-family='Arial'>STOCK</text></svg>"
+    },
+    {
+      "section": "9. Sauces & Condiments"
+    },
+    {
+      "num": 166,
+      "word": "tomato sauce",
+      "ipa": "/təˈmɑːtəʊ sɔːs/",
+      "chinese": "番茄酱 (AUS = 美式ketchup)",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='40' y='10' width='20' height='12' fill='#888' stroke='#444' stroke-width='1'/><path d='M38 22 L62 22 L66 36 L66 70 L34 70 L34 36 Z' fill='#c84040' stroke='#222' stroke-width='1.5'/><rect x='38' y='42' width='24' height='20' fill='#fff' stroke='#222' stroke-width='1'/></svg>"
+    },
+    {
+      "num": 167,
+      "word": "BBQ sauce",
+      "ipa": "/ˌbiː biː ˈkjuː sɔːs/",
+      "chinese": "烧烤酱",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='40' y='10' width='20' height='12' fill='#888' stroke='#444' stroke-width='1'/><path d='M38 22 L62 22 L66 36 L66 70 L34 70 L34 36 Z' fill='#5a1000' stroke='#222' stroke-width='1.5'/><rect x='38' y='42' width='24' height='20' fill='#fff' stroke='#222' stroke-width='1'/></svg>"
+    },
+    {
+      "num": 168,
+      "word": "soy sauce",
+      "ipa": "/ˈsɔɪ sɔːs/",
+      "chinese": "酱油",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='40' y='10' width='20' height='12' fill='#888' stroke='#444' stroke-width='1'/><path d='M38 22 L62 22 L66 36 L66 70 L34 70 L34 36 Z' fill='#3a1000' stroke='#222' stroke-width='1.5'/><rect x='38' y='42' width='24' height='20' fill='#fff' stroke='#222' stroke-width='1'/></svg>"
+    },
+    {
+      "num": 169,
+      "word": "sweet chilli",
+      "ipa": "/swiːt ˈtʃɪli/",
+      "chinese": "甜辣酱",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='40' y='10' width='20' height='12' fill='#888' stroke='#444' stroke-width='1'/><path d='M38 22 L62 22 L66 36 L66 70 L34 70 L34 36 Z' fill='#e04040' stroke='#222' stroke-width='1.5'/><rect x='38' y='42' width='24' height='20' fill='#fff' stroke='#222' stroke-width='1'/></svg>"
+    },
+    {
+      "num": 170,
+      "word": "oyster sauce",
+      "ipa": "/ˈɔɪstə sɔːs/",
+      "chinese": "蚝油",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='40' y='10' width='20' height='12' fill='#888' stroke='#444' stroke-width='1'/><path d='M38 22 L62 22 L66 36 L66 70 L34 70 L34 36 Z' fill='#3a1000' stroke='#222' stroke-width='1.5'/><rect x='38' y='42' width='24' height='20' fill='#fff' stroke='#222' stroke-width='1'/></svg>"
+    },
+    {
+      "num": 171,
+      "word": "mayonnaise",
+      "ipa": "/ˌmeɪəˈneɪz/",
+      "chinese": "蛋黄酱",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='32' y='10' width='36' height='8' fill='#888' stroke='#444' stroke-width='1'/><rect x='28' y='18' width='44' height='52' rx='2' fill='#fff5e0' stroke='#444' stroke-width='1.5'/><rect x='34' y='34' width='32' height='24' fill='#fff' stroke='#444' stroke-width='0.5'/></svg>"
+    },
+    {
+      "num": 172,
+      "word": "mustard",
+      "ipa": "/ˈmʌstəd/",
+      "chinese": "芥末",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='32' y='10' width='36' height='8' fill='#888' stroke='#444' stroke-width='1'/><rect x='28' y='18' width='44' height='52' rx='2' fill='#f0c020' stroke='#444' stroke-width='1.5'/><rect x='34' y='34' width='32' height='24' fill='#fff' stroke='#444' stroke-width='0.5'/></svg>"
+    },
+    {
+      "num": 173,
+      "word": "gravy",
+      "ipa": "/ˈɡreɪvi/",
+      "chinese": "肉汁酱",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='32' y='10' width='36' height='8' fill='#888' stroke='#444' stroke-width='1'/><rect x='28' y='18' width='44' height='52' rx='2' fill='#7a4010' stroke='#444' stroke-width='1.5'/><rect x='34' y='34' width='32' height='24' fill='#fff' stroke='#444' stroke-width='0.5'/></svg>"
+    },
+    {
+      "num": 174,
+      "word": "salsa",
+      "ipa": "/ˈsælsə/",
+      "chinese": "莎莎酱",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='32' y='10' width='36' height='8' fill='#888' stroke='#444' stroke-width='1'/><rect x='28' y='18' width='44' height='52' rx='2' fill='#c84040' stroke='#444' stroke-width='1.5'/><rect x='34' y='34' width='32' height='24' fill='#fff' stroke='#444' stroke-width='0.5'/></svg>"
+    },
+    {
+      "num": 175,
+      "word": "hot sauce",
+      "ipa": "/ˈhɒt sɔːs/",
+      "chinese": "辣酱",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='40' y='10' width='20' height='12' fill='#888' stroke='#444' stroke-width='1'/><path d='M38 22 L62 22 L66 36 L66 70 L34 70 L34 36 Z' fill='#c84040' stroke='#222' stroke-width='1.5'/><rect x='38' y='42' width='24' height='20' fill='#fff' stroke='#222' stroke-width='1'/></svg>"
+    },
+    {
+      "num": 176,
+      "word": "Worcestershire",
+      "ipa": "/ˈwʊstəʃə/",
+      "chinese": "伍斯特酱",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='40' y='10' width='20' height='12' fill='#888' stroke='#444' stroke-width='1'/><path d='M38 22 L62 22 L66 36 L66 70 L34 70 L34 36 Z' fill='#5a1010' stroke='#222' stroke-width='1.5'/><rect x='38' y='42' width='24' height='20' fill='#fff' stroke='#222' stroke-width='1'/></svg>"
+    },
+    {
+      "num": 177,
+      "word": "hummus",
+      "ipa": "/ˈhʊməs/",
+      "chinese": "鹰嘴豆泥",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='32' y='10' width='36' height='8' fill='#888' stroke='#444' stroke-width='1'/><rect x='28' y='18' width='44' height='52' rx='2' fill='#d4b890' stroke='#444' stroke-width='1.5'/><rect x='34' y='34' width='32' height='24' fill='#fff' stroke='#444' stroke-width='0.5'/></svg>"
+    },
+    {
+      "num": 178,
+      "word": "marmalade",
+      "ipa": "/ˈmɑːməleɪd/",
+      "chinese": "橘子酱",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='32' y='10' width='36' height='8' fill='#888' stroke='#444' stroke-width='1'/><rect x='28' y='18' width='44' height='52' rx='2' fill='#f0a020' stroke='#444' stroke-width='1.5'/><rect x='34' y='34' width='32' height='24' fill='#fff' stroke='#444' stroke-width='0.5'/></svg>"
+    },
+    {
+      "num": 179,
+      "word": "fish sauce",
+      "ipa": "/ˈfɪʃ sɔːs/",
+      "chinese": "鱼露",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='40' y='10' width='20' height='12' fill='#888' stroke='#444' stroke-width='1'/><path d='M38 22 L62 22 L66 36 L66 70 L34 70 L34 36 Z' fill='#a07040' stroke='#222' stroke-width='1.5'/><rect x='38' y='42' width='24' height='20' fill='#fff' stroke='#222' stroke-width='1'/></svg>"
+    },
+    {
+      "num": 180,
+      "word": "sesame oil",
+      "ipa": "/ˈsɛsəmi ɔɪl/",
+      "chinese": "麻油",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='40' y='10' width='20' height='12' fill='#888' stroke='#444' stroke-width='1'/><path d='M38 22 L62 22 L66 36 L66 70 L34 70 L34 36 Z' fill='#a05000' stroke='#222' stroke-width='1.5'/><rect x='38' y='42' width='24' height='20' fill='#fff' stroke='#222' stroke-width='1'/></svg>"
+    },
+    {
+      "num": 181,
+      "word": "miso paste",
+      "ipa": "/ˈmiːsəʊ peɪst/",
+      "chinese": "味噌酱",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='32' y='10' width='36' height='8' fill='#888' stroke='#444' stroke-width='1'/><rect x='28' y='18' width='44' height='52' rx='2' fill='#a05010' stroke='#444' stroke-width='1.5'/><rect x='34' y='34' width='32' height='24' fill='#fff' stroke='#444' stroke-width='0.5'/></svg>"
+    },
+    {
+      "num": 182,
+      "word": "sriracha",
+      "ipa": "/sɪˈrɑːtʃə/",
+      "chinese": "是拉差辣酱",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='40' y='10' width='20' height='12' fill='#888' stroke='#444' stroke-width='1'/><path d='M38 22 L62 22 L66 36 L66 70 L34 70 L34 36 Z' fill='#c84040' stroke='#222' stroke-width='1.5'/><rect x='38' y='42' width='24' height='20' fill='#fff' stroke='#222' stroke-width='1'/></svg>"
+    },
+    {
+      "section": "10. Herbs & Spices"
+    },
+    {
+      "num": 183,
+      "word": "basil",
+      "ipa": "/ˈbæz(ə)l/",
+      "chinese": "罗勒",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M50 12 Q26 18 22 38 Q22 60 50 68 Q78 60 78 38 Q74 18 50 12 Z' fill='#4a8a30' stroke='#2a5a10' stroke-width='1.5'/><path d='M50 12 L50 68' stroke='#2a5a10' stroke-width='1.5'/><path d='M50 24 L34 28 M50 32 L30 38 M50 40 L30 46 M50 48 L34 56 M50 24 L66 28 M50 32 L70 38 M50 40 L70 46 M50 48 L66 56' stroke='#2a5a10' stroke-width='1' opacity='0.5'/></svg>"
+    },
+    {
+      "num": 184,
+      "word": "parsley",
+      "ipa": "/ˈpɑːsli/",
+      "chinese": "欧芹",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M50 12 Q26 18 22 38 Q22 60 50 68 Q78 60 78 38 Q74 18 50 12 Z' fill='#3a7a3a' stroke='#1a4a10' stroke-width='1.5'/><path d='M50 12 L50 68' stroke='#1a4a10' stroke-width='1.5'/><path d='M50 24 L34 28 M50 32 L30 38 M50 40 L30 46 M50 48 L34 56 M50 24 L66 28 M50 32 L70 38 M50 40 L70 46 M50 48 L66 56' stroke='#1a4a10' stroke-width='1' opacity='0.5'/></svg>"
+    },
+    {
+      "num": 185,
+      "word": "coriander",
+      "ipa": "/ˌkɒriˈændə/",
+      "chinese": "香菜",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M50 12 Q26 18 22 38 Q22 60 50 68 Q78 60 78 38 Q74 18 50 12 Z' fill='#5aaa3a' stroke='#2a5a10' stroke-width='1.5'/><path d='M50 12 L50 68' stroke='#2a5a10' stroke-width='1.5'/><path d='M50 24 L34 28 M50 32 L30 38 M50 40 L30 46 M50 48 L34 56 M50 24 L66 28 M50 32 L70 38 M50 40 L70 46 M50 48 L66 56' stroke='#2a5a10' stroke-width='1' opacity='0.5'/></svg>"
+    },
+    {
+      "num": 186,
+      "word": "mint",
+      "ipa": "/mɪnt/",
+      "chinese": "薄荷",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M50 12 Q26 18 22 38 Q22 60 50 68 Q78 60 78 38 Q74 18 50 12 Z' fill='#6abf50' stroke='#3a8a20' stroke-width='1.5'/><path d='M50 12 L50 68' stroke='#3a8a20' stroke-width='1.5'/><path d='M50 24 L34 28 M50 32 L30 38 M50 40 L30 46 M50 48 L34 56 M50 24 L66 28 M50 32 L70 38 M50 40 L70 46 M50 48 L66 56' stroke='#3a8a20' stroke-width='1' opacity='0.5'/></svg>"
+    },
+    {
+      "num": 187,
+      "word": "rosemary",
+      "ipa": "/ˈrəʊzm(ə)ri/",
+      "chinese": "迷迭香",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M30 14 L34 70 M40 14 L44 70 M50 14 L50 70 M60 14 L56 70 M70 14 L66 70' stroke='#3a6a3a' stroke-width='3'/><path d='M30 20 L24 18 M30 30 L24 28 M30 40 L24 38 M30 50 L24 48 M70 22 L76 20 M70 32 L76 30 M70 42 L76 40' stroke='#4a8a4a' stroke-width='1.5'/></svg>"
+    },
+    {
+      "num": 188,
+      "word": "thyme",
+      "ipa": "/taɪm/",
+      "chinese": "百里香",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M50 12 Q26 18 22 38 Q22 60 50 68 Q78 60 78 38 Q74 18 50 12 Z' fill='#7a8a4a' stroke='#4a5a20' stroke-width='1.5'/><path d='M50 12 L50 68' stroke='#4a5a20' stroke-width='1.5'/><path d='M50 24 L34 28 M50 32 L30 38 M50 40 L30 46 M50 48 L34 56 M50 24 L66 28 M50 32 L70 38 M50 40 L70 46 M50 48 L66 56' stroke='#4a5a20' stroke-width='1' opacity='0.5'/></svg>"
+    },
+    {
+      "num": 189,
+      "word": "oregano",
+      "ipa": "/əˈrɪɡənəʊ/",
+      "chinese": "牛至",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M50 12 Q26 18 22 38 Q22 60 50 68 Q78 60 78 38 Q74 18 50 12 Z' fill='#5a7a3a' stroke='#2a4a10' stroke-width='1.5'/><path d='M50 12 L50 68' stroke='#2a4a10' stroke-width='1.5'/><path d='M50 24 L34 28 M50 32 L30 38 M50 40 L30 46 M50 48 L34 56 M50 24 L66 28 M50 32 L70 38 M50 40 L70 46 M50 48 L66 56' stroke='#2a4a10' stroke-width='1' opacity='0.5'/></svg>"
+    },
+    {
+      "num": 190,
+      "word": "cinnamon",
+      "ipa": "/ˈsɪnəmən/",
+      "chinese": "肉桂",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='20' y='28' width='60' height='10' rx='5' fill='#8a4010' stroke='#5a2000' stroke-width='1.5'/><rect x='20' y='42' width='60' height='10' rx='5' fill='#a05010' stroke='#5a2000' stroke-width='1.5'/><path d='M20 33 Q40 30 60 33' fill='none' stroke='#5a2000' stroke-width='0.5'/></svg>"
+    },
+    {
+      "num": 191,
+      "word": "cumin",
+      "ipa": "/ˈkjuːmɪn/",
+      "chinese": "孜然",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='32' y='10' width='36' height='8' fill='#888' stroke='#444' stroke-width='1'/><rect x='28' y='18' width='44' height='52' rx='2' fill='#a05010' stroke='#444' stroke-width='1.5'/><rect x='34' y='34' width='32' height='24' fill='#fff' stroke='#444' stroke-width='0.5'/></svg>"
+    },
+    {
+      "num": 192,
+      "word": "paprika",
+      "ipa": "/ˈpæprɪkə/",
+      "chinese": "甜椒粉",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='32' y='10' width='36' height='8' fill='#888' stroke='#444' stroke-width='1'/><rect x='28' y='18' width='44' height='52' rx='2' fill='#c84040' stroke='#444' stroke-width='1.5'/><rect x='34' y='34' width='32' height='24' fill='#fff' stroke='#444' stroke-width='0.5'/></svg>"
+    },
+    {
+      "num": 193,
+      "word": "ginger",
+      "ipa": "/ˈdʒɪndʒə/",
+      "chinese": "姜",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M14 30 Q24 24 36 34 Q44 26 56 36 Q66 32 78 42 Q86 38 88 46 Q78 56 70 50 Q60 56 48 50 Q34 56 26 46 Q14 42 14 30 Z' fill='#c8a060' stroke='#7a4010' stroke-width='1.5'/></svg>"
+    },
+    {
+      "num": 194,
+      "word": "chilli",
+      "ipa": "/ˈtʃɪli/",
+      "chinese": "辣椒",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M24 16 Q28 20 32 18' fill='none' stroke='#4a8a30' stroke-width='2.5'/><path d='M30 18 Q34 40 50 56 Q66 64 72 50 Q66 36 56 28 Q44 22 30 18 Z' fill='#c84040' stroke='#7a1010' stroke-width='1.5'/></svg>"
+    },
+    {
+      "num": 195,
+      "word": "nutmeg",
+      "ipa": "/ˈnʌtmɛɡ/",
+      "chinese": "肉豆蔻",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><circle cx='50' cy='44' r='26' fill='#8a5020' stroke='#3a1000' stroke-width='1.5'/><path d='M50 18 L50 26' stroke='#5a3010' stroke-width='2'/><path d='M50 20 Q60 16 62 22 Q56 22 50 26 Z' fill='#4a8a30' stroke='#2a5a10' stroke-width='1'/></svg>"
+    },
+    {
+      "num": 196,
+      "word": "cloves",
+      "ipa": "/kləʊvz/",
+      "chinese": "丁香",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M30 20 L30 50 M30 50 L24 60 M30 50 L36 60' stroke='#5a3010' stroke-width='3'/><circle cx='30' cy='18' r='4' fill='#5a3010'/><path d='M50 22 L50 52 M50 52 L44 62 M50 52 L56 62' stroke='#5a3010' stroke-width='3'/><circle cx='50' cy='20' r='4' fill='#5a3010'/><path d='M70 18 L70 48 M70 48 L64 58 M70 48 L76 58' stroke='#5a3010' stroke-width='3'/><circle cx='70' cy='16' r='4' fill='#5a3010'/></svg>"
+    },
+    {
+      "num": 197,
+      "word": "dill",
+      "ipa": "/dɪl/",
+      "chinese": "莳萝",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M50 12 Q26 18 22 38 Q22 60 50 68 Q78 60 78 38 Q74 18 50 12 Z' fill='#7aaa50' stroke='#3a6a20' stroke-width='1.5'/><path d='M50 12 L50 68' stroke='#3a6a20' stroke-width='1.5'/><path d='M50 24 L34 28 M50 32 L30 38 M50 40 L30 46 M50 48 L34 56 M50 24 L66 28 M50 32 L70 38 M50 40 L70 46 M50 48 L66 56' stroke='#3a6a20' stroke-width='1' opacity='0.5'/></svg>"
+    },
+    {
+      "num": 198,
+      "word": "turmeric",
+      "ipa": "/ˈtɜːmərɪk/",
+      "chinese": "姜黄",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='32' y='10' width='36' height='8' fill='#888' stroke='#444' stroke-width='1'/><rect x='28' y='18' width='44' height='52' rx='2' fill='#f0a020' stroke='#444' stroke-width='1.5'/><rect x='34' y='34' width='32' height='24' fill='#fff' stroke='#444' stroke-width='0.5'/></svg>"
+    },
+    {
+      "num": 199,
+      "word": "vanilla",
+      "ipa": "/vəˈnɪlə/",
+      "chinese": "香草",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M44 14 Q42 30 44 50 Q46 64 50 70 L52 70 Q56 60 56 44 Q56 30 54 18 Z' fill='#3a1000' stroke='#1a0500' stroke-width='1.5'/></svg>"
+    },
+    {
+      "num": 200,
+      "word": "five spice",
+      "ipa": "/faɪv spaɪs/",
+      "chinese": "五香粉",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='32' y='10' width='36' height='8' fill='#888' stroke='#444' stroke-width='1'/><rect x='28' y='18' width='44' height='52' rx='2' fill='#a05010' stroke='#444' stroke-width='1.5'/><rect x='34' y='34' width='32' height='24' fill='#fff' stroke='#444' stroke-width='0.5'/></svg>"
+    },
+    {
+      "num": 201,
+      "word": "saffron",
+      "ipa": "/ˈsæfrən/",
+      "chinese": "藏红花",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='32' y='10' width='36' height='8' fill='#888' stroke='#444' stroke-width='1'/><rect x='28' y='18' width='44' height='52' rx='2' fill='#f0a020' stroke='#444' stroke-width='1.5'/><rect x='34' y='34' width='32' height='24' fill='#fff' stroke='#444' stroke-width='0.5'/></svg>"
+    },
+    {
+      "section": "11. Snacks & Crisps"
+    },
+    {
+      "num": 202,
+      "word": "chips",
+      "ipa": "/tʃɪps/",
+      "chinese": "薯片 (AUS); 薯条 (UK)",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M22 12 L78 12 L82 18 L82 68 Q60 72 50 68 Q40 72 18 68 L18 18 Z' fill='#f0c040' stroke='#222' stroke-width='1.5'/><rect x='28' y='30' width='44' height='24' fill='#fff' stroke='#222' stroke-width='1'/></svg>"
+    },
+    {
+      "num": 203,
+      "word": "pretzels",
+      "ipa": "/ˈprɛts(ə)lz/",
+      "chinese": "椒盐脆饼",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M50 22 Q40 18 32 26 Q26 36 32 44 L40 50 L30 60 Q40 64 50 56 Q60 64 70 60 L60 50 L68 44 Q74 36 68 26 Q60 18 50 22 Z' fill='#c8a060' stroke='#7a4010' stroke-width='2.5'/><circle cx='38' cy='32' r='1' fill='#fff'/><circle cx='62' cy='32' r='1' fill='#fff'/><circle cx='50' cy='40' r='1' fill='#fff'/></svg>"
+    },
+    {
+      "num": 204,
+      "word": "popcorn",
+      "ipa": "/ˈpɒpkɔːn/",
+      "chinese": "爆米花",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='24' y='40' width='52' height='30' fill='#e04040' stroke='#7a1010' stroke-width='1.5'/><path d='M24 40 L26 50 L34 44 L40 52 L46 42 L52 50 L58 42 L64 52 L72 44 L76 50 L76 40' fill='none' stroke='#fff' stroke-width='1.5'/><circle cx='30' cy='28' r='6' fill='#fff5e0' stroke='#a08070' stroke-width='1'/><circle cx='42' cy='22' r='6' fill='#fff5e0' stroke='#a08070' stroke-width='1'/><circle cx='54' cy='26' r='6' fill='#fff5e0' stroke='#a08070' stroke-width='1'/><circle cx='66' cy='22' r='6' fill='#fff5e0' stroke='#a08070' stroke-width='1'/><circle cx='38' cy='32' r='5' fill='#fff5e0' stroke='#a08070' stroke-width='1'/><circle cx='60' cy='34' r='5' fill='#fff5e0' stroke='#a08070' stroke-width='1'/></svg>"
+    },
+    {
+      "num": 205,
+      "word": "almonds",
+      "ipa": "/ˈɑːməndz/",
+      "chinese": "杏仁",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><ellipse cx='30' cy='30' rx='8' ry='5' fill='#c8a060' stroke='#7a4010' stroke-width='1.5' transform='rotate(20 30 30)'/><ellipse cx='50' cy='28' rx='8' ry='5' fill='#c8a060' stroke='#7a4010' stroke-width='1.5' transform='rotate(-10 50 28)'/><ellipse cx='70' cy='32' rx='8' ry='5' fill='#c8a060' stroke='#7a4010' stroke-width='1.5' transform='rotate(15 70 32)'/><ellipse cx='40' cy='48' rx='8' ry='5' fill='#c8a060' stroke='#7a4010' stroke-width='1.5' transform='rotate(-15 40 48)'/><ellipse cx='60' cy='50' rx='8' ry='5' fill='#c8a060' stroke='#7a4010' stroke-width='1.5' transform='rotate(20 60 50)'/></svg>"
+    },
+    {
+      "num": 206,
+      "word": "cashews",
+      "ipa": "/kæˈʃuːz/",
+      "chinese": "腰果",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M22 30 Q30 22 38 30 Q34 40 26 44 Q18 36 22 30 Z' fill='#f0d8a0' stroke='#a07010' stroke-width='1.5'/><path d='M44 28 Q52 20 60 28 Q56 38 48 42 Q40 34 44 28 Z' fill='#f0d8a0' stroke='#a07010' stroke-width='1.5'/><path d='M66 32 Q74 24 80 34 Q76 44 68 46 Q60 38 66 32 Z' fill='#f0d8a0' stroke='#a07010' stroke-width='1.5'/><path d='M34 50 Q42 42 50 52 Q46 60 36 60 Q30 56 34 50 Z' fill='#f0d8a0' stroke='#a07010' stroke-width='1.5'/></svg>"
+    },
+    {
+      "num": 207,
+      "word": "peanuts",
+      "ipa": "/ˈpiːnʌts/",
+      "chinese": "花生",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M30 22 Q22 32 28 42 Q22 50 30 60 Q40 56 36 46 Q42 38 38 28 Q34 22 30 22 Z' fill='#c8a060' stroke='#7a4010' stroke-width='1.5'/><path d='M60 22 Q52 32 58 42 Q52 50 60 60 Q70 56 66 46 Q72 38 68 28 Q64 22 60 22 Z' fill='#c8a060' stroke='#7a4010' stroke-width='1.5'/><circle cx='30' cy='32' r='3' fill='#a08040' opacity='0.5'/><circle cx='30' cy='48' r='3' fill='#a08040' opacity='0.5'/><circle cx='60' cy='32' r='3' fill='#a08040' opacity='0.5'/><circle cx='60' cy='48' r='3' fill='#a08040' opacity='0.5'/></svg>"
+    },
+    {
+      "num": 208,
+      "word": "walnuts",
+      "ipa": "/ˈwɔːlnʌts/",
+      "chinese": "核桃",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><circle cx='30' cy='40' r='16' fill='#a07050' stroke='#5a3010' stroke-width='1.5'/><path d='M30 24 Q26 40 30 56 M22 30 Q34 40 24 50 M38 30 Q26 40 38 50' fill='none' stroke='#5a3010' stroke-width='1'/><circle cx='70' cy='40' r='16' fill='#a07050' stroke='#5a3010' stroke-width='1.5'/><path d='M70 24 Q66 40 70 56 M62 30 Q74 40 64 50 M78 30 Q66 40 78 50' fill='none' stroke='#5a3010' stroke-width='1'/></svg>"
+    },
+    {
+      "num": 209,
+      "word": "macadamia",
+      "ipa": "/ˌmækəˈdeɪmiə/",
+      "chinese": "夏威夷果 (AUS本土)",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><circle cx='30' cy='34' r='10' fill='#f5e8c8' stroke='#a08050' stroke-width='1.5'/><circle cx='50' cy='32' r='10' fill='#f5e8c8' stroke='#a08050' stroke-width='1.5'/><circle cx='70' cy='34' r='10' fill='#f5e8c8' stroke='#a08050' stroke-width='1.5'/><circle cx='40' cy='52' r='10' fill='#f5e8c8' stroke='#a08050' stroke-width='1.5'/><circle cx='60' cy='52' r='10' fill='#f5e8c8' stroke='#a08050' stroke-width='1.5'/></svg>"
+    },
+    {
+      "num": 210,
+      "word": "sultanas",
+      "ipa": "/sʌlˈtɑːnəz/",
+      "chinese": "金葡萄干 (AUS)",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><ellipse cx='28' cy='32' rx='5' ry='3' fill='#5a3010' stroke='#3a1000' stroke-width='0.5'/><ellipse cx='40' cy='34' rx='5' ry='3' fill='#5a3010' stroke='#3a1000' stroke-width='0.5'/><ellipse cx='52' cy='30' rx='5' ry='3' fill='#5a3010' stroke='#3a1000' stroke-width='0.5'/><ellipse cx='64' cy='34' rx='5' ry='3' fill='#5a3010' stroke='#3a1000' stroke-width='0.5'/><ellipse cx='76' cy='30' rx='5' ry='3' fill='#5a3010' stroke='#3a1000' stroke-width='0.5'/><ellipse cx='34' cy='46' rx='5' ry='3' fill='#5a3010' stroke='#3a1000' stroke-width='0.5'/><ellipse cx='46' cy='48' rx='5' ry='3' fill='#5a3010' stroke='#3a1000' stroke-width='0.5'/><ellipse cx='58' cy='44' rx='5' ry='3' fill='#5a3010' stroke='#3a1000' stroke-width='0.5'/><ellipse cx='70' cy='48' rx='5' ry='3' fill='#5a3010' stroke='#3a1000' stroke-width='0.5'/></svg>"
+    },
+    {
+      "num": 211,
+      "word": "dried fruit",
+      "ipa": "/draɪd fruːt/",
+      "chinese": "果干",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><ellipse cx='28' cy='32' rx='5' ry='3' fill='#5a3010' stroke='#3a1000' stroke-width='0.5'/><ellipse cx='40' cy='34' rx='5' ry='3' fill='#5a3010' stroke='#3a1000' stroke-width='0.5'/><ellipse cx='52' cy='30' rx='5' ry='3' fill='#5a3010' stroke='#3a1000' stroke-width='0.5'/><ellipse cx='64' cy='34' rx='5' ry='3' fill='#5a3010' stroke='#3a1000' stroke-width='0.5'/><ellipse cx='76' cy='30' rx='5' ry='3' fill='#5a3010' stroke='#3a1000' stroke-width='0.5'/><ellipse cx='34' cy='46' rx='5' ry='3' fill='#5a3010' stroke='#3a1000' stroke-width='0.5'/><ellipse cx='46' cy='48' rx='5' ry='3' fill='#5a3010' stroke='#3a1000' stroke-width='0.5'/><ellipse cx='58' cy='44' rx='5' ry='3' fill='#5a3010' stroke='#3a1000' stroke-width='0.5'/><ellipse cx='70' cy='48' rx='5' ry='3' fill='#5a3010' stroke='#3a1000' stroke-width='0.5'/></svg>"
+    },
+    {
+      "num": 212,
+      "word": "water crackers",
+      "ipa": "/ˈwɔːtə ˌkrækəz/",
+      "chinese": "水苏打饼",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='16' y='26' width='20' height='20' fill='#f0d8a0' stroke='#a08040' stroke-width='1.5'/><rect x='40' y='26' width='20' height='20' fill='#f0d8a0' stroke='#a08040' stroke-width='1.5'/><rect x='64' y='26' width='20' height='20' fill='#f0d8a0' stroke='#a08040' stroke-width='1.5'/><circle cx='22' cy='32' r='1' fill='#a08040'/><circle cx='30' cy='38' r='1' fill='#a08040'/><circle cx='26' cy='42' r='1' fill='#a08040'/><circle cx='46' cy='32' r='1' fill='#a08040'/><circle cx='54' cy='38' r='1' fill='#a08040'/><circle cx='50' cy='42' r='1' fill='#a08040'/><circle cx='70' cy='32' r='1' fill='#a08040'/><circle cx='78' cy='38' r='1' fill='#a08040'/><circle cx='74' cy='42' r='1' fill='#a08040'/></svg>"
+    },
+    {
+      "num": 213,
+      "word": "rice crackers",
+      "ipa": "/ˈraɪs ˌkrækəz/",
+      "chinese": "米饼",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='16' y='26' width='20' height='20' fill='#f0d8a0' stroke='#a08040' stroke-width='1.5'/><rect x='40' y='26' width='20' height='20' fill='#f0d8a0' stroke='#a08040' stroke-width='1.5'/><rect x='64' y='26' width='20' height='20' fill='#f0d8a0' stroke='#a08040' stroke-width='1.5'/><circle cx='22' cy='32' r='1' fill='#a08040'/><circle cx='30' cy='38' r='1' fill='#a08040'/><circle cx='26' cy='42' r='1' fill='#a08040'/><circle cx='46' cy='32' r='1' fill='#a08040'/><circle cx='54' cy='38' r='1' fill='#a08040'/><circle cx='50' cy='42' r='1' fill='#a08040'/><circle cx='70' cy='32' r='1' fill='#a08040'/><circle cx='78' cy='38' r='1' fill='#a08040'/><circle cx='74' cy='42' r='1' fill='#a08040'/></svg>"
+    },
+    {
+      "num": 214,
+      "word": "corn chips",
+      "ipa": "/ˈkɔːn tʃɪps/",
+      "chinese": "玉米片",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M22 12 L78 12 L82 18 L82 68 Q60 72 50 68 Q40 72 18 68 L18 18 Z' fill='#f0c040' stroke='#222' stroke-width='1.5'/><rect x='28' y='30' width='44' height='24' fill='#fff' stroke='#222' stroke-width='1'/></svg>"
+    },
+    {
+      "num": 215,
+      "word": "beef jerky",
+      "ipa": "/biːf ˈdʒɜːki/",
+      "chinese": "牛肉干",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M14 24 Q14 18 22 18 L82 22 Q88 30 82 38 L20 36 Q12 32 14 24 Z' fill='#e09080' stroke='#a04040' stroke-width='1.5'/><rect x='16' y='28' width='66' height='4' fill='#fff5e0' opacity='0.7'/><path d='M14 44 Q14 38 22 38 L82 42 Q88 50 82 58 L20 56 Q12 52 14 44 Z' fill='#e09080' stroke='#a04040' stroke-width='1.5'/><rect x='16' y='48' width='66' height='4' fill='#fff5e0' opacity='0.7'/></svg>"
+    },
+    {
+      "num": 216,
+      "word": "pistachio",
+      "ipa": "/pɪˈstɑːʃiəʊ/",
+      "chinese": "开心果",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><circle cx='30' cy='34' r='10' fill='#f5e8c8' stroke='#a08050' stroke-width='1.5'/><circle cx='50' cy='32' r='10' fill='#f5e8c8' stroke='#a08050' stroke-width='1.5'/><circle cx='70' cy='34' r='10' fill='#f5e8c8' stroke='#a08050' stroke-width='1.5'/><circle cx='40' cy='52' r='10' fill='#f5e8c8' stroke='#a08050' stroke-width='1.5'/><circle cx='60' cy='52' r='10' fill='#f5e8c8' stroke='#a08050' stroke-width='1.5'/></svg>"
+    },
+    {
+      "num": 217,
+      "word": "trail mix",
+      "ipa": "/ˈtreɪl mɪks/",
+      "chinese": "什锦零食",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><ellipse cx='28' cy='32' rx='5' ry='3' fill='#5a3010' stroke='#3a1000' stroke-width='0.5'/><ellipse cx='40' cy='34' rx='5' ry='3' fill='#5a3010' stroke='#3a1000' stroke-width='0.5'/><ellipse cx='52' cy='30' rx='5' ry='3' fill='#5a3010' stroke='#3a1000' stroke-width='0.5'/><ellipse cx='64' cy='34' rx='5' ry='3' fill='#5a3010' stroke='#3a1000' stroke-width='0.5'/><ellipse cx='76' cy='30' rx='5' ry='3' fill='#5a3010' stroke='#3a1000' stroke-width='0.5'/><ellipse cx='34' cy='46' rx='5' ry='3' fill='#5a3010' stroke='#3a1000' stroke-width='0.5'/><ellipse cx='46' cy='48' rx='5' ry='3' fill='#5a3010' stroke='#3a1000' stroke-width='0.5'/><ellipse cx='58' cy='44' rx='5' ry='3' fill='#5a3010' stroke='#3a1000' stroke-width='0.5'/><ellipse cx='70' cy='48' rx='5' ry='3' fill='#5a3010' stroke='#3a1000' stroke-width='0.5'/></svg>"
+    },
+    {
+      "num": 218,
+      "word": "Sao biscuits",
+      "ipa": "/seɪ.əʊ ˈbɪskɪts/",
+      "chinese": "Sao 苏打饼 (AUS品牌)",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='16' y='26' width='20' height='20' fill='#f0d8a0' stroke='#a08040' stroke-width='1.5'/><rect x='40' y='26' width='20' height='20' fill='#f0d8a0' stroke='#a08040' stroke-width='1.5'/><rect x='64' y='26' width='20' height='20' fill='#f0d8a0' stroke='#a08040' stroke-width='1.5'/><circle cx='22' cy='32' r='1' fill='#a08040'/><circle cx='30' cy='38' r='1' fill='#a08040'/><circle cx='26' cy='42' r='1' fill='#a08040'/><circle cx='46' cy='32' r='1' fill='#a08040'/><circle cx='54' cy='38' r='1' fill='#a08040'/><circle cx='50' cy='42' r='1' fill='#a08040'/><circle cx='70' cy='32' r='1' fill='#a08040'/><circle cx='78' cy='38' r='1' fill='#a08040'/><circle cx='74' cy='42' r='1' fill='#a08040'/></svg>"
+    },
+    {
+      "num": 219,
+      "word": "Jatz",
+      "ipa": "/dʒæts/",
+      "chinese": "Jatz 咸饼干 (AUS品牌)",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='16' y='26' width='20' height='20' fill='#f0d8a0' stroke='#a08040' stroke-width='1.5'/><rect x='40' y='26' width='20' height='20' fill='#f0d8a0' stroke='#a08040' stroke-width='1.5'/><rect x='64' y='26' width='20' height='20' fill='#f0d8a0' stroke='#a08040' stroke-width='1.5'/><circle cx='22' cy='32' r='1' fill='#a08040'/><circle cx='30' cy='38' r='1' fill='#a08040'/><circle cx='26' cy='42' r='1' fill='#a08040'/><circle cx='46' cy='32' r='1' fill='#a08040'/><circle cx='54' cy='38' r='1' fill='#a08040'/><circle cx='50' cy='42' r='1' fill='#a08040'/><circle cx='70' cy='32' r='1' fill='#a08040'/><circle cx='78' cy='38' r='1' fill='#a08040'/><circle cx='74' cy='42' r='1' fill='#a08040'/></svg>"
+    },
+    {
+      "section": "12. Lollies & Sweets (AUS)"
+    },
+    {
+      "num": 220,
+      "word": "lollies",
+      "ipa": "/ˈlɒliz/",
+      "chinese": "糖果 (AUS = 美式candy)",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><circle cx='30' cy='30' r='8' fill='#e04060'/><circle cx='50' cy='28' r='8' fill='#4060c8'/><circle cx='70' cy='30' r='8' fill='#6abf50'/><circle cx='40' cy='48' r='8' fill='#f0c020'/><circle cx='60' cy='48' r='8' fill='#a040a0'/><circle cx='50' cy='62' r='6' fill='#e08010'/></svg>"
+    },
+    {
+      "num": 221,
+      "word": "jelly babies",
+      "ipa": "/ˈdʒɛli ˌbeɪbiz/",
+      "chinese": "果冻软糖宝宝",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M30 14 Q26 26 30 36 L30 60 Q34 68 38 60 L38 36 Q42 26 38 14 Z' fill='#e04060' stroke='#7a1030' stroke-width='1.5'/><path d='M50 14 Q46 26 50 36 L50 60 Q54 68 58 60 L58 36 Q62 26 58 14 Z' fill='#f0c020' stroke='#a07010' stroke-width='1.5'/><path d='M70 14 Q66 26 70 36 L70 60 Q74 68 78 60 L78 36 Q82 26 78 14 Z' fill='#6abf50' stroke='#2a5a10' stroke-width='1.5'/><circle cx='32' cy='22' r='1' fill='#000'/><circle cx='36' cy='22' r='1' fill='#000'/><circle cx='52' cy='22' r='1' fill='#000'/><circle cx='56' cy='22' r='1' fill='#000'/><circle cx='72' cy='22' r='1' fill='#000'/><circle cx='76' cy='22' r='1' fill='#000'/></svg>"
+    },
+    {
+      "num": 222,
+      "word": "gummy bears",
+      "ipa": "/ˈɡʌmi beəz/",
+      "chinese": "小熊软糖",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M30 50 Q26 38 32 30 Q40 22 44 30 L44 50 Q40 56 30 50 Z' fill='#f0a020' stroke='#a05010' stroke-width='1.5'/><path d='M44 40 Q40 28 50 22 L56 22 Q60 30 58 40 L58 56 Q52 62 44 50 Z' fill='#e04060' stroke='#7a1030' stroke-width='1.5'/><path d='M56 50 Q52 36 60 30 Q70 26 70 36 L70 50 Q64 58 56 50 Z' fill='#6abf50' stroke='#2a5a10' stroke-width='1.5'/></svg>"
+    },
+    {
+      "num": 223,
+      "word": "snakes",
+      "ipa": "/sneɪks/",
+      "chinese": "蛇形软糖 (AUS)",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M14 30 Q22 24 28 30 Q30 38 24 42 Q18 46 22 52 Q26 58 34 54 Q40 50 38 44 Q36 36 42 32 Q48 28 52 34 Q56 42 50 46 Q44 50 48 56 Q52 62 60 58 Q66 54 64 48 Q62 40 68 36 Q74 32 80 38 Q86 44 82 50' fill='none' stroke='#e04060' stroke-width='8' stroke-linecap='round'/><circle cx='80' cy='38' r='1' fill='#000'/></svg>"
+    },
+    {
+      "num": 224,
+      "word": "sherbet",
+      "ipa": "/ˈʃɜːbət/",
+      "chinese": "果味粉糖",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M22 12 L78 12 L82 18 L82 68 Q60 72 50 68 Q40 72 18 68 L18 18 Z' fill='#f5b8d0' stroke='#222' stroke-width='1.5'/><rect x='28' y='30' width='44' height='24' fill='#fff' stroke='#222' stroke-width='1'/></svg>"
+    },
+    {
+      "num": 225,
+      "word": "freckles",
+      "ipa": "/ˈfrɛk(ə)lz/",
+      "chinese": "巧克力洒糖粒 (AUS)",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><circle cx='30' cy='40' r='10' fill='#5a3010'/><circle cx='50' cy='40' r='10' fill='#5a3010'/><circle cx='70' cy='40' r='10' fill='#5a3010'/><circle cx='28' cy='38' r='1' fill='#e04040'/><circle cx='32' cy='42' r='1' fill='#4060c8'/><circle cx='48' cy='38' r='1' fill='#6abf50'/><circle cx='52' cy='42' r='1' fill='#f0c020'/><circle cx='68' cy='38' r='1' fill='#a040a0'/><circle cx='72' cy='42' r='1' fill='#e04040'/></svg>"
+    },
+    {
+      "num": 226,
+      "word": "Caramello Koala",
+      "ipa": "/ˌkærəˈmɛləʊ kəʊˈɑːlə/",
+      "chinese": "焦糖考拉巧克力 (AUS)",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='14' y='20' width='72' height='40' fill='#5a3010' stroke='#3a1000' stroke-width='1.5'/><line x1='32' y1='20' x2='32' y2='60' stroke='#3a1000' stroke-width='1.5'/><line x1='50' y1='20' x2='50' y2='60' stroke='#3a1000' stroke-width='1.5'/><line x1='68' y1='20' x2='68' y2='60' stroke='#3a1000' stroke-width='1.5'/><line x1='14' y1='40' x2='86' y2='40' stroke='#3a1000' stroke-width='1.5'/></svg>"
+    },
+    {
+      "num": 227,
+      "word": "Tim Tam",
+      "ipa": "/ˈtɪm tæm/",
+      "chinese": "Tim Tam 巧克力饼干 (AUS iconic)",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='14' y='20' width='72' height='40' fill='#3a1000' stroke='#3a1000' stroke-width='1.5'/><line x1='32' y1='20' x2='32' y2='60' stroke='#3a1000' stroke-width='1.5'/><line x1='50' y1='20' x2='50' y2='60' stroke='#3a1000' stroke-width='1.5'/><line x1='68' y1='20' x2='68' y2='60' stroke='#3a1000' stroke-width='1.5'/><line x1='14' y1='40' x2='86' y2='40' stroke='#3a1000' stroke-width='1.5'/></svg>"
+    },
+    {
+      "num": 228,
+      "word": "Iced VoVo",
+      "ipa": "/aɪst ˈvəʊvəʊ/",
+      "chinese": "Iced VoVo 椰丝饼干 (AUS)",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='18' y='32' width='64' height='20' rx='3' fill='#f0d8c0' stroke='#a08050' stroke-width='1.5'/><rect x='22' y='34' width='26' height='16' fill='#f5b8d0'/><rect x='52' y='34' width='26' height='16' fill='#f5b8d0'/><rect x='48' y='34' width='4' height='16' fill='#a02060'/><circle cx='30' cy='42' r='1' fill='#fff'/><circle cx='40' cy='42' r='1' fill='#fff'/><circle cx='60' cy='42' r='1' fill='#fff'/><circle cx='70' cy='42' r='1' fill='#fff'/></svg>"
+    },
+    {
+      "num": 229,
+      "word": "lamington",
+      "ipa": "/ˈlæmɪŋtən/",
+      "chinese": "拉明顿蛋糕 (AUS iconic)",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='20' y='26' width='60' height='32' fill='#3a1000' stroke='#1a0000' stroke-width='1.5'/><rect x='22' y='28' width='56' height='28' fill='#fff5e0'/><rect x='22' y='28' width='56' height='10' fill='#3a1000' opacity='0.9'/><circle cx='30' cy='28' r='1.5' fill='#fff'/><circle cx='40' cy='30' r='1.5' fill='#fff'/><circle cx='50' cy='28' r='1.5' fill='#fff'/><circle cx='60' cy='30' r='1.5' fill='#fff'/><circle cx='70' cy='28' r='1.5' fill='#fff'/></svg>"
+    },
+    {
+      "num": 230,
+      "word": "Anzac biscuit",
+      "ipa": "/ˈænzæk ˌbɪskɪt/",
+      "chinese": "Anzac 饼干 (AUS iconic)",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><circle cx='50' cy='44' r='24' fill='#c8a060' stroke='#7a4010' stroke-width='1.5'/><circle cx='38' cy='38' r='3' fill='#7a4010' opacity='0.7'/><circle cx='52' cy='34' r='3' fill='#7a4010' opacity='0.7'/><circle cx='60' cy='44' r='3' fill='#7a4010' opacity='0.7'/><circle cx='44' cy='50' r='3' fill='#7a4010' opacity='0.7'/><circle cx='56' cy='52' r='3' fill='#7a4010' opacity='0.7'/></svg>"
+    },
+    {
+      "num": 231,
+      "word": "Cherry Ripe",
+      "ipa": "/ˈtʃɛri raɪp/",
+      "chinese": "Cherry Ripe 巧克力 (AUS)",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='14' y='20' width='72' height='40' fill='#5a1010' stroke='#3a1000' stroke-width='1.5'/><line x1='32' y1='20' x2='32' y2='60' stroke='#3a1000' stroke-width='1.5'/><line x1='50' y1='20' x2='50' y2='60' stroke='#3a1000' stroke-width='1.5'/><line x1='68' y1='20' x2='68' y2='60' stroke='#3a1000' stroke-width='1.5'/><line x1='14' y1='40' x2='86' y2='40' stroke='#3a1000' stroke-width='1.5'/></svg>"
+    },
+    {
+      "num": 232,
+      "word": "pavlova",
+      "ipa": "/pævˈləʊvə/",
+      "chinese": "帕芙洛娃蛋糕 (AUS iconic)",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M20 40 Q14 56 30 64 Q50 70 70 64 Q86 56 80 40 Q70 30 50 32 Q30 30 20 40 Z' fill='#fff' stroke='#aaa' stroke-width='1.5'/><circle cx='30' cy='34' r='4' fill='#e04040'/><circle cx='50' cy='30' r='4' fill='#e04040'/><circle cx='70' cy='34' r='4' fill='#e04040'/><circle cx='40' cy='36' r='3' fill='#4a8a30'/><circle cx='60' cy='36' r='3' fill='#4a8a30'/><path d='M20 40 Q30 36 50 38 Q70 36 80 40' fill='none' stroke='#aaa' stroke-width='1'/></svg>"
+    },
+    {
+      "num": 233,
+      "word": "fairy bread",
+      "ipa": "/ˈfeəri brɛd/",
+      "chinese": "彩糖面包 (AUS儿童经典)",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='18' y='26' width='64' height='32' fill='#fff' stroke='#888' stroke-width='1.5'/><rect x='22' y='30' width='56' height='24' fill='#f5b8d0'/><circle cx='30' cy='38' r='1.5' fill='#c84040'/><circle cx='40' cy='42' r='1.5' fill='#4060c8'/><circle cx='50' cy='36' r='1.5' fill='#6abf50'/><circle cx='60' cy='44' r='1.5' fill='#f0c020'/><circle cx='70' cy='38' r='1.5' fill='#a040a0'/><circle cx='35' cy='48' r='1.5' fill='#e08010'/><circle cx='55' cy='48' r='1.5' fill='#4060c8'/><circle cx='65' cy='50' r='1.5' fill='#c84040'/></svg>"
+    },
+    {
+      "num": 234,
+      "word": "chocolate bar",
+      "ipa": "/ˈtʃɒk(ə)lət bɑː/",
+      "chinese": "巧克力棒",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='14' y='20' width='72' height='40' fill='#5a3010' stroke='#3a1000' stroke-width='1.5'/><line x1='32' y1='20' x2='32' y2='60' stroke='#3a1000' stroke-width='1.5'/><line x1='50' y1='20' x2='50' y2='60' stroke='#3a1000' stroke-width='1.5'/><line x1='68' y1='20' x2='68' y2='60' stroke='#3a1000' stroke-width='1.5'/><line x1='14' y1='40' x2='86' y2='40' stroke='#3a1000' stroke-width='1.5'/></svg>"
+    },
+    {
+      "num": 235,
+      "word": "ice cream",
+      "ipa": "/ˈaɪs kriːm/",
+      "chinese": "冰淇淋",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M40 14 Q30 14 30 26 L38 60 L62 60 L70 26 Q70 14 60 14 Q50 8 40 14 Z' fill='#fff' stroke='#aaa' stroke-width='1.5'/><circle cx='42' cy='20' r='10' fill='#f5b8d0' stroke='#a06080' stroke-width='1'/><circle cx='58' cy='18' r='10' fill='#a07050' stroke='#5a3010' stroke-width='1'/><path d='M38 60 L34 70 L66 70 L62 60' fill='#f0c060' stroke='#a07010' stroke-width='1.5'/></svg>"
+    },
+    {
+      "num": 236,
+      "word": "Mars bar",
+      "ipa": "/mɑːz bɑː/",
+      "chinese": "玛氏巧克力棒",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='14' y='20' width='72' height='40' fill='#3a1000' stroke='#3a1000' stroke-width='1.5'/><line x1='32' y1='20' x2='32' y2='60' stroke='#3a1000' stroke-width='1.5'/><line x1='50' y1='20' x2='50' y2='60' stroke='#3a1000' stroke-width='1.5'/><line x1='68' y1='20' x2='68' y2='60' stroke='#3a1000' stroke-width='1.5'/><line x1='14' y1='40' x2='86' y2='40' stroke='#3a1000' stroke-width='1.5'/></svg>"
+    },
+    {
+      "num": 237,
+      "word": "Minties",
+      "ipa": "/ˈmɪntiz/",
+      "chinese": "Minties 薄荷糖 (AUS)",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='20' y='32' width='60' height='16' fill='#fff' stroke='#888' stroke-width='1.5'/><rect x='20' y='32' width='60' height='4' fill='#6abf50'/><rect x='20' y='44' width='60' height='4' fill='#6abf50'/><text x='50' y='44' font-size='8' text-anchor='middle' fill='#6abf50' font-weight='bold' font-family='Arial'>MINTIES</text></svg>"
+    },
+    {
+      "num": 238,
+      "word": "Mint Slice",
+      "ipa": "/mɪnt slaɪs/",
+      "chinese": "Mint Slice 薄荷巧克力 (AUS)",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='14' y='20' width='72' height='40' fill='#3a5a30' stroke='#3a1000' stroke-width='1.5'/><line x1='32' y1='20' x2='32' y2='60' stroke='#3a1000' stroke-width='1.5'/><line x1='50' y1='20' x2='50' y2='60' stroke='#3a1000' stroke-width='1.5'/><line x1='68' y1='20' x2='68' y2='60' stroke='#3a1000' stroke-width='1.5'/><line x1='14' y1='40' x2='86' y2='40' stroke='#3a1000' stroke-width='1.5'/></svg>"
+    },
+    {
+      "num": 239,
+      "word": "Tiny Teddies",
+      "ipa": "/ˈtaɪni ˈtɛdiz/",
+      "chinese": "Tiny Teddies 小熊饼干 (AUS)",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><circle cx='30' cy='30' r='8' fill='#e04060'/><circle cx='50' cy='28' r='8' fill='#4060c8'/><circle cx='70' cy='30' r='8' fill='#6abf50'/><circle cx='40' cy='48' r='8' fill='#f0c020'/><circle cx='60' cy='48' r='8' fill='#a040a0'/><circle cx='50' cy='62' r='6' fill='#e08010'/></svg>"
+    },
+    {
+      "section": "13. Drinks — Hot & Soft"
+    },
+    {
+      "num": 240,
+      "word": "water",
+      "ipa": "/ˈwɔːtə/",
+      "chinese": "水",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M30 10 L70 10 L66 70 L34 70 Z' fill='#a0e0f0' stroke='#444' stroke-width='1.5' fill-opacity='0.85'/><path d='M30 10 L70 10' stroke='#444' stroke-width='1.5'/><ellipse cx='50' cy='14' rx='18' ry='3' fill='#fff' opacity='0.4'/></svg>"
+    },
+    {
+      "num": 241,
+      "word": "tea",
+      "ipa": "/tiː/",
+      "chinese": "茶",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M22 24 L70 24 L66 60 Q60 66 46 66 Q32 66 28 60 Z' fill='#fff5e0' stroke='#888' stroke-width='1.5'/><ellipse cx='46' cy='24' rx='24' ry='5' fill='#a05010' stroke='#444' stroke-width='1'/><path d='M70 30 Q86 30 86 44 Q86 56 72 56' fill='none' stroke='#888' stroke-width='3'/></svg>"
+    },
+    {
+      "num": 242,
+      "word": "coffee",
+      "ipa": "/ˈkɒfi/",
+      "chinese": "咖啡",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M22 24 L70 24 L66 60 Q60 66 46 66 Q32 66 28 60 Z' fill='#fff' stroke='#888' stroke-width='1.5'/><ellipse cx='46' cy='24' rx='24' ry='5' fill='#3a1000' stroke='#444' stroke-width='1'/><path d='M70 30 Q86 30 86 44 Q86 56 72 56' fill='none' stroke='#888' stroke-width='3'/></svg>"
+    },
+    {
+      "num": 243,
+      "word": "flat white",
+      "ipa": "/flæt waɪt/",
+      "chinese": "馥芮白 (AUS咖啡)",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M22 24 L70 24 L66 60 Q60 66 46 66 Q32 66 28 60 Z' fill='#fff' stroke='#888' stroke-width='1.5'/><ellipse cx='46' cy='24' rx='24' ry='5' fill='#7a4010' stroke='#444' stroke-width='1'/><path d='M70 30 Q86 30 86 44 Q86 56 72 56' fill='none' stroke='#888' stroke-width='3'/></svg>"
+    },
+    {
+      "num": 244,
+      "word": "long black",
+      "ipa": "/lɒŋ blæk/",
+      "chinese": "黑咖啡 (AUS)",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M22 24 L70 24 L66 60 Q60 66 46 66 Q32 66 28 60 Z' fill='#fff' stroke='#888' stroke-width='1.5'/><ellipse cx='46' cy='24' rx='24' ry='5' fill='#1a0500' stroke='#444' stroke-width='1'/><path d='M70 30 Q86 30 86 44 Q86 56 72 56' fill='none' stroke='#888' stroke-width='3'/></svg>"
+    },
+    {
+      "num": 245,
+      "word": "latte",
+      "ipa": "/ˈlɑːteɪ/",
+      "chinese": "拿铁",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='30' y='16' width='40' height='54' rx='4' fill='#fff' stroke='#888' stroke-width='1.5'/><rect x='30' y='16' width='40' height='10' fill='#f0d8a0' stroke='#a08050' stroke-width='1'/><rect x='30' y='26' width='40' height='40' fill='#a07050' stroke='#5a3010' stroke-width='0.5'/><path d='M30 26 Q40 22 50 26 Q60 22 70 26' fill='#fff' opacity='0.6'/></svg>"
+    },
+    {
+      "num": 246,
+      "word": "cappuccino",
+      "ipa": "/ˌkæpʊˈtʃiːnəʊ/",
+      "chinese": "卡布奇诺",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M22 24 L70 24 L66 60 Q60 66 46 66 Q32 66 28 60 Z' fill='#fff' stroke='#888' stroke-width='1.5'/><ellipse cx='46' cy='24' rx='24' ry='5' fill='#5a3010' stroke='#444' stroke-width='1'/><path d='M70 30 Q86 30 86 44 Q86 56 72 56' fill='none' stroke='#888' stroke-width='3'/></svg>"
+    },
+    {
+      "num": 247,
+      "word": "hot chocolate",
+      "ipa": "/hɒt ˈtʃɒk(ə)lət/",
+      "chinese": "热巧克力",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M22 24 L70 24 L66 60 Q60 66 46 66 Q32 66 28 60 Z' fill='#fff' stroke='#888' stroke-width='1.5'/><ellipse cx='46' cy='24' rx='24' ry='5' fill='#3a1000' stroke='#444' stroke-width='1'/><path d='M70 30 Q86 30 86 44 Q86 56 72 56' fill='none' stroke='#888' stroke-width='3'/></svg>"
+    },
+    {
+      "num": 248,
+      "word": "juice",
+      "ipa": "/dʒuːs/",
+      "chinese": "果汁",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M30 10 L70 10 L66 70 L34 70 Z' fill='#f0a020' stroke='#444' stroke-width='1.5' fill-opacity='0.85'/><path d='M30 10 L70 10' stroke='#444' stroke-width='1.5'/><ellipse cx='50' cy='14' rx='18' ry='3' fill='#fff' opacity='0.4'/></svg>"
+    },
+    {
+      "num": 249,
+      "word": "smoothie",
+      "ipa": "/ˈsmuːði/",
+      "chinese": "奶昔；冰沙",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M30 10 L70 10 L66 70 L34 70 Z' fill='#e060a0' stroke='#444' stroke-width='1.5' fill-opacity='0.85'/><path d='M30 10 L70 10' stroke='#444' stroke-width='1.5'/><ellipse cx='50' cy='14' rx='18' ry='3' fill='#fff' opacity='0.4'/></svg>"
+    },
+    {
+      "num": 250,
+      "word": "milkshake",
+      "ipa": "/ˈmɪlkʃeɪk/",
+      "chinese": "奶昔",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M30 12 L70 12 L66 70 L34 70 Z' fill='#f5b8d0' stroke='#a06080' stroke-width='1.5'/><path d='M30 12 L70 12' stroke='#a06080' stroke-width='1.5'/><circle cx='50' cy='14' r='5' fill='#fff'/><circle cx='44' cy='14' r='3' fill='#fff'/><circle cx='56' cy='14' r='3' fill='#fff'/><rect x='48' y='8' width='4' height='30' fill='#c8c8c8' stroke='#888'/></svg>"
+    },
+    {
+      "num": 251,
+      "word": "soft drink",
+      "ipa": "/ˈsɒft drɪŋk/",
+      "chinese": "汽水 (AUS = soda)",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M32 14 L68 14 L72 24 L66 70 L34 70 L28 24 Z' fill='#3a3a3a' stroke='#000' stroke-width='1.5'/><rect x='32' y='14' width='36' height='10' fill='#888'/><rect x='38' y='34' width='24' height='24' fill='#c84040' stroke='#fff' stroke-width='1'/></svg>"
+    },
+    {
+      "num": 252,
+      "word": "cordial",
+      "ipa": "/ˈkɔːdiəl/",
+      "chinese": "果味浓缩饮料 (AUS)",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='40' y='10' width='20' height='12' fill='#888' stroke='#444' stroke-width='1'/><path d='M38 22 L62 22 L66 36 L66 70 L34 70 L34 36 Z' fill='#e04060' stroke='#222' stroke-width='1.5'/><rect x='38' y='42' width='24' height='20' fill='#fff' stroke='#222' stroke-width='1'/></svg>"
+    },
+    {
+      "num": 253,
+      "word": "sparkling water",
+      "ipa": "/ˈspɑːklɪŋ ˌwɔːtə/",
+      "chinese": "气泡水",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M30 10 L70 10 L66 70 L34 70 Z' fill='#e0f0f8' stroke='#444' stroke-width='1.5' fill-opacity='0.85'/><path d='M30 10 L70 10' stroke='#444' stroke-width='1.5'/><ellipse cx='50' cy='14' rx='18' ry='3' fill='#fff' opacity='0.4'/></svg>"
+    },
+    {
+      "num": 254,
+      "word": "iced coffee",
+      "ipa": "/aɪst ˈkɒfi/",
+      "chinese": "冰咖啡",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M30 10 L70 10 L66 70 L34 70 Z' fill='#7a4010' stroke='#444' stroke-width='1.5' fill-opacity='0.85'/><path d='M30 10 L70 10' stroke='#444' stroke-width='1.5'/><ellipse cx='50' cy='14' rx='18' ry='3' fill='#fff' opacity='0.4'/></svg>"
+    },
+    {
+      "num": 255,
+      "word": "lemonade",
+      "ipa": "/ˌlɛməˈneɪd/",
+      "chinese": "柠檬汽水",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M30 10 L70 10 L66 70 L34 70 Z' fill='#f0e0a0' stroke='#444' stroke-width='1.5' fill-opacity='0.85'/><path d='M30 10 L70 10' stroke='#444' stroke-width='1.5'/><ellipse cx='50' cy='14' rx='18' ry='3' fill='#fff' opacity='0.4'/></svg>"
+    },
+    {
+      "num": 256,
+      "word": "ginger beer",
+      "ipa": "/ˌdʒɪndʒə ˈbɪə/",
+      "chinese": "姜啤",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M30 10 L70 10 L66 70 L34 70 Z' fill='#c8a060' stroke='#444' stroke-width='1.5' fill-opacity='0.85'/><path d='M30 10 L70 10' stroke='#444' stroke-width='1.5'/><ellipse cx='50' cy='14' rx='18' ry='3' fill='#fff' opacity='0.4'/></svg>"
+    },
+    {
+      "num": 257,
+      "word": "kombucha",
+      "ipa": "/kɒmˈbuːtʃə/",
+      "chinese": "康普茶",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='40' y='10' width='20' height='12' fill='#888' stroke='#444' stroke-width='1'/><path d='M38 22 L62 22 L66 36 L66 70 L34 70 L34 36 Z' fill='#a07050' stroke='#222' stroke-width='1.5'/><rect x='38' y='42' width='24' height='20' fill='#fff' stroke='#222' stroke-width='1'/></svg>"
+    },
+    {
+      "num": 258,
+      "word": "chai latte",
+      "ipa": "/tʃaɪ ˈlɑːteɪ/",
+      "chinese": "印度香料茶拿铁",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='30' y='16' width='40' height='54' rx='4' fill='#fff' stroke='#888' stroke-width='1.5'/><rect x='30' y='16' width='40' height='10' fill='#f0d8a0' stroke='#a08050' stroke-width='1'/><rect x='30' y='26' width='40' height='40' fill='#a07050' stroke='#5a3010' stroke-width='0.5'/><path d='M30 26 Q40 22 50 26 Q60 22 70 26' fill='#fff' opacity='0.6'/></svg>"
+    },
+    {
+      "num": 259,
+      "word": "green tea",
+      "ipa": "/ɡriːn tiː/",
+      "chinese": "绿茶",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M22 24 L70 24 L66 60 Q60 66 46 66 Q32 66 28 60 Z' fill='#fff' stroke='#888' stroke-width='1.5'/><ellipse cx='46' cy='24' rx='24' ry='5' fill='#90b070' stroke='#444' stroke-width='1'/><path d='M70 30 Q86 30 86 44 Q86 56 72 56' fill='none' stroke='#888' stroke-width='3'/></svg>"
+    },
+    {
+      "section": "14. Alcohol"
+    },
+    {
+      "num": 260,
+      "word": "beer",
+      "ipa": "/bɪə/",
+      "chinese": "啤酒",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M30 10 L70 10 L66 70 L34 70 Z' fill='#f0c040' stroke='#444' stroke-width='1.5' fill-opacity='0.85'/><path d='M30 10 L70 10' stroke='#444' stroke-width='1.5'/><ellipse cx='50' cy='14' rx='18' ry='3' fill='#fff' opacity='0.4'/></svg>"
+    },
+    {
+      "num": 261,
+      "word": "wine",
+      "ipa": "/waɪn/",
+      "chinese": "葡萄酒",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M30 18 L70 18 L66 30 Q66 48 50 50 Q34 48 34 30 Z' fill='#7a0030' stroke='#3a0010' stroke-width='1.5' fill-opacity='0.85'/><rect x='48' y='50' width='4' height='16' fill='#fff' stroke='#888'/><ellipse cx='50' cy='66' rx='14' ry='3' fill='#fff' stroke='#888' stroke-width='1.5'/></svg>"
+    },
+    {
+      "num": 262,
+      "word": "red wine",
+      "ipa": "/rɛd waɪn/",
+      "chinese": "红葡萄酒",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M30 18 L70 18 L66 30 Q66 48 50 50 Q34 48 34 30 Z' fill='#7a0030' stroke='#3a0010' stroke-width='1.5' fill-opacity='0.85'/><rect x='48' y='50' width='4' height='16' fill='#fff' stroke='#888'/><ellipse cx='50' cy='66' rx='14' ry='3' fill='#fff' stroke='#888' stroke-width='1.5'/></svg>"
+    },
+    {
+      "num": 263,
+      "word": "white wine",
+      "ipa": "/waɪt waɪn/",
+      "chinese": "白葡萄酒",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M30 18 L70 18 L66 30 Q66 48 50 50 Q34 48 34 30 Z' fill='#f0e8a0' stroke='#a07010' stroke-width='1.5' fill-opacity='0.85'/><rect x='48' y='50' width='4' height='16' fill='#fff' stroke='#888'/><ellipse cx='50' cy='66' rx='14' ry='3' fill='#fff' stroke='#888' stroke-width='1.5'/></svg>"
+    },
+    {
+      "num": 264,
+      "word": "spirits",
+      "ipa": "/ˈspɪrɪts/",
+      "chinese": "烈酒",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='40' y='10' width='20' height='12' fill='#888' stroke='#444' stroke-width='1'/><path d='M38 22 L62 22 L66 36 L66 70 L34 70 L34 36 Z' fill='#a07040' stroke='#222' stroke-width='1.5'/><rect x='38' y='42' width='24' height='20' fill='#fff' stroke='#222' stroke-width='1'/></svg>"
+    },
+    {
+      "num": 265,
+      "word": "cider",
+      "ipa": "/ˈsaɪdə/",
+      "chinese": "苹果酒",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M30 10 L70 10 L66 70 L34 70 Z' fill='#f0a040' stroke='#444' stroke-width='1.5' fill-opacity='0.85'/><path d='M30 10 L70 10' stroke='#444' stroke-width='1.5'/><ellipse cx='50' cy='14' rx='18' ry='3' fill='#fff' opacity='0.4'/></svg>"
+    },
+    {
+      "num": 266,
+      "word": "cocktail",
+      "ipa": "/ˈkɒkteɪl/",
+      "chinese": "鸡尾酒",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M22 16 L78 16 L50 50 Z' fill='#e060a0' stroke='#a02060' stroke-width='1.5' fill-opacity='0.85'/><rect x='48' y='50' width='4' height='14' fill='#fff' stroke='#888'/><ellipse cx='50' cy='64' rx='14' ry='3' fill='#fff' stroke='#888' stroke-width='1.5'/><circle cx='70' cy='18' r='3' fill='#7a3030'/></svg>"
+    },
+    {
+      "num": 267,
+      "word": "champagne",
+      "ipa": "/ʃæmˈpeɪn/",
+      "chinese": "香槟",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M40 14 L60 14 L62 26 L60 60 Q58 64 50 64 Q42 64 40 60 L38 26 Z' fill='#f8f0c0' stroke='#a08040' stroke-width='1.5' fill-opacity='0.85'/><rect x='38' y='14' width='24' height='6' fill='#a08040'/><circle cx='46' cy='40' r='1.5' fill='#fff' opacity='0.7'/><circle cx='54' cy='44' r='1.5' fill='#fff' opacity='0.7'/><circle cx='50' cy='52' r='1.5' fill='#fff' opacity='0.7'/></svg>"
+    },
+    {
+      "num": 268,
+      "word": "lager",
+      "ipa": "/ˈlɑːɡə/",
+      "chinese": "拉格啤酒",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M30 10 L70 10 L66 70 L34 70 Z' fill='#f0c040' stroke='#444' stroke-width='1.5' fill-opacity='0.85'/><path d='M30 10 L70 10' stroke='#444' stroke-width='1.5'/><ellipse cx='50' cy='14' rx='18' ry='3' fill='#fff' opacity='0.4'/></svg>"
+    },
+    {
+      "num": 269,
+      "word": "pale ale",
+      "ipa": "/peɪl eɪl/",
+      "chinese": "淡色艾尔啤酒",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M30 10 L70 10 L66 70 L34 70 Z' fill='#f0c040' stroke='#444' stroke-width='1.5' fill-opacity='0.85'/><path d='M30 10 L70 10' stroke='#444' stroke-width='1.5'/><ellipse cx='50' cy='14' rx='18' ry='3' fill='#fff' opacity='0.4'/></svg>"
+    },
+    {
+      "num": 270,
+      "word": "IPA",
+      "ipa": "/ˌaɪ piː ˈeɪ/",
+      "chinese": "印度淡色艾尔",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M30 10 L70 10 L66 70 L34 70 Z' fill='#f0c040' stroke='#444' stroke-width='1.5' fill-opacity='0.85'/><path d='M30 10 L70 10' stroke='#444' stroke-width='1.5'/><ellipse cx='50' cy='14' rx='18' ry='3' fill='#fff' opacity='0.4'/></svg>"
+    },
+    {
+      "num": 271,
+      "word": "rosé",
+      "ipa": "/ˈrəʊzeɪ/",
+      "chinese": "桃红葡萄酒",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M30 18 L70 18 L66 30 Q66 48 50 50 Q34 48 34 30 Z' fill='#7a0030' stroke='#3a0010' stroke-width='1.5' fill-opacity='0.85'/><rect x='48' y='50' width='4' height='16' fill='#fff' stroke='#888'/><ellipse cx='50' cy='66' rx='14' ry='3' fill='#fff' stroke='#888' stroke-width='1.5'/></svg>"
+    },
+    {
+      "num": 272,
+      "word": "prosecco",
+      "ipa": "/prəˈsɛkəʊ/",
+      "chinese": "普罗赛克气泡酒",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M40 14 L60 14 L62 26 L60 60 Q58 64 50 64 Q42 64 40 60 L38 26 Z' fill='#f8f0c0' stroke='#a08040' stroke-width='1.5' fill-opacity='0.85'/><rect x='38' y='14' width='24' height='6' fill='#a08040'/><circle cx='46' cy='40' r='1.5' fill='#fff' opacity='0.7'/><circle cx='54' cy='44' r='1.5' fill='#fff' opacity='0.7'/><circle cx='50' cy='52' r='1.5' fill='#fff' opacity='0.7'/></svg>"
+    },
+    {
+      "num": 273,
+      "word": "gin",
+      "ipa": "/dʒɪn/",
+      "chinese": "金酒",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='40' y='10' width='20' height='12' fill='#888' stroke='#444' stroke-width='1'/><path d='M38 22 L62 22 L66 36 L66 70 L34 70 L34 36 Z' fill='#a07040' stroke='#222' stroke-width='1.5'/><rect x='38' y='42' width='24' height='20' fill='#fff' stroke='#222' stroke-width='1'/></svg>"
+    },
+    {
+      "num": 274,
+      "word": "vodka",
+      "ipa": "/ˈvɒdkə/",
+      "chinese": "伏特加",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='40' y='10' width='20' height='12' fill='#888' stroke='#444' stroke-width='1'/><path d='M38 22 L62 22 L66 36 L66 70 L34 70 L34 36 Z' fill='#a07040' stroke='#222' stroke-width='1.5'/><rect x='38' y='42' width='24' height='20' fill='#fff' stroke='#222' stroke-width='1'/></svg>"
+    },
+    {
+      "num": 275,
+      "word": "whisky",
+      "ipa": "/ˈwɪski/",
+      "chinese": "威士忌",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='40' y='10' width='20' height='12' fill='#888' stroke='#444' stroke-width='1'/><path d='M38 22 L62 22 L66 36 L66 70 L34 70 L34 36 Z' fill='#a07040' stroke='#222' stroke-width='1.5'/><rect x='38' y='42' width='24' height='20' fill='#fff' stroke='#222' stroke-width='1'/></svg>"
+    },
+    {
+      "section": "15. Deli & Charcuterie"
+    },
+    {
+      "num": 276,
+      "word": "salami",
+      "ipa": "/səˈlɑːmi/",
+      "chinese": "意大利香肠",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><circle cx='30' cy='40' r='14' fill='#a02020' stroke='#600000' stroke-width='1.5'/><circle cx='30' cy='40' r='10' fill='#c84040'/><circle cx='26' cy='36' r='1.5' fill='#fff5e0'/><circle cx='34' cy='38' r='1.5' fill='#fff5e0'/><circle cx='32' cy='44' r='1.5' fill='#fff5e0'/><circle cx='70' cy='40' r='14' fill='#a02020' stroke='#600000' stroke-width='1.5'/><circle cx='70' cy='40' r='10' fill='#c84040'/><circle cx='66' cy='36' r='1.5' fill='#fff5e0'/><circle cx='74' cy='38' r='1.5' fill='#fff5e0'/><circle cx='72' cy='44' r='1.5' fill='#fff5e0'/></svg>"
+    },
+    {
+      "num": 277,
+      "word": "prosciutto",
+      "ipa": "/prəˈʃuːtəʊ/",
+      "chinese": "意式火腿",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M14 38 Q22 22 50 26 Q78 30 86 46 Q70 56 50 52 Q26 50 14 38 Z' fill='#e08080' stroke='#7a2020' stroke-width='1.5'/><path d='M30 36 Q38 32 46 36 M52 40 Q60 36 70 40' fill='none' stroke='#fff5e0' stroke-width='1.5'/></svg>"
+    },
+    {
+      "num": 278,
+      "word": "mortadella",
+      "ipa": "/ˌmɔːtəˈdɛlə/",
+      "chinese": "意式肉肠",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><circle cx='30' cy='40' r='14' fill='#a02020' stroke='#600000' stroke-width='1.5'/><circle cx='30' cy='40' r='10' fill='#c84040'/><circle cx='26' cy='36' r='1.5' fill='#fff5e0'/><circle cx='34' cy='38' r='1.5' fill='#fff5e0'/><circle cx='32' cy='44' r='1.5' fill='#fff5e0'/><circle cx='70' cy='40' r='14' fill='#a02020' stroke='#600000' stroke-width='1.5'/><circle cx='70' cy='40' r='10' fill='#c84040'/><circle cx='66' cy='36' r='1.5' fill='#fff5e0'/><circle cx='74' cy='38' r='1.5' fill='#fff5e0'/><circle cx='72' cy='44' r='1.5' fill='#fff5e0'/></svg>"
+    },
+    {
+      "num": 279,
+      "word": "pastrami",
+      "ipa": "/pəˈstrɑːmi/",
+      "chinese": "腌牛肉",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M16 26 Q14 18 22 18 L80 24 Q86 30 82 50 Q80 62 70 64 L20 60 Q12 56 16 26 Z' fill='#a04040' stroke='#5a1010' stroke-width='1.5'/><path d='M30 30 Q40 32 36 38 M50 32 Q58 36 54 42 M68 36 Q74 40 70 46' fill='none' stroke='#fff5e0' stroke-width='2'/></svg>"
+    },
+    {
+      "num": 280,
+      "word": "chorizo",
+      "ipa": "/tʃəˈriːzəʊ/",
+      "chinese": "西班牙香肠",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M14 38 Q14 22 30 22 L70 22 Q86 22 86 38 Q86 54 70 54 L30 54 Q14 54 14 38 Z' fill='#a04030' stroke='#5a1000' stroke-width='1.5'/><path d='M20 38 L26 36 M30 40 L36 38 M42 38 L48 36 M54 38 L60 36 M66 40 L72 38 M78 38 L82 36' stroke='#7a2000' stroke-width='1' opacity='0.7'/></svg>"
+    },
+    {
+      "num": 281,
+      "word": "olives",
+      "ipa": "/ˈɒlɪvz/",
+      "chinese": "橄榄",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><ellipse cx='30' cy='40' rx='10' ry='8' fill='#3a5a2a' stroke='#1a3a10' stroke-width='1.5'/><ellipse cx='50' cy='38' rx='10' ry='8' fill='#5a3010' stroke='#2a1000' stroke-width='1.5'/><ellipse cx='70' cy='40' rx='10' ry='8' fill='#3a5a2a' stroke='#1a3a10' stroke-width='1.5'/><circle cx='30' cy='40' r='3' fill='#e04040'/><circle cx='70' cy='40' r='3' fill='#e04040'/></svg>"
+    },
+    {
+      "num": 282,
+      "word": "antipasto",
+      "ipa": "/ˌæntiˈpæstəʊ/",
+      "chinese": "意式开胃菜",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><ellipse cx='30' cy='40' rx='10' ry='8' fill='#3a5a2a' stroke='#1a3a10' stroke-width='1.5'/><ellipse cx='50' cy='38' rx='10' ry='8' fill='#5a3010' stroke='#2a1000' stroke-width='1.5'/><ellipse cx='70' cy='40' rx='10' ry='8' fill='#3a5a2a' stroke='#1a3a10' stroke-width='1.5'/><circle cx='30' cy='40' r='3' fill='#e04040'/><circle cx='70' cy='40' r='3' fill='#e04040'/></svg>"
+    },
+    {
+      "num": 283,
+      "word": "pickle",
+      "ipa": "/ˈpɪk(ə)l/",
+      "chinese": "腌菜",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='32' y='10' width='36' height='8' fill='#888' stroke='#444' stroke-width='1'/><rect x='28' y='18' width='44' height='52' rx='2' fill='#9aba60' stroke='#444' stroke-width='1.5'/><rect x='34' y='34' width='32' height='24' fill='#fff' stroke='#444' stroke-width='0.5'/></svg>"
+    },
+    {
+      "num": 284,
+      "word": "gherkin",
+      "ipa": "/ˈɡɜːkɪn/",
+      "chinese": "小酸黄瓜",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='32' y='10' width='36' height='8' fill='#888' stroke='#444' stroke-width='1'/><rect x='28' y='18' width='44' height='52' rx='2' fill='#9aba60' stroke='#444' stroke-width='1.5'/><rect x='34' y='34' width='32' height='24' fill='#fff' stroke='#444' stroke-width='0.5'/></svg>"
+    },
+    {
+      "num": 285,
+      "word": "dip",
+      "ipa": "/dɪp/",
+      "chinese": "蘸料",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='32' y='10' width='36' height='8' fill='#888' stroke='#444' stroke-width='1'/><rect x='28' y='18' width='44' height='52' rx='2' fill='#f0c020' stroke='#444' stroke-width='1.5'/><rect x='34' y='34' width='32' height='24' fill='#fff' stroke='#444' stroke-width='0.5'/></svg>"
+    },
+    {
+      "num": 286,
+      "word": "pepperoni",
+      "ipa": "/ˌpɛpəˈrəʊni/",
+      "chinese": "辣味香肠",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><circle cx='30' cy='40' r='14' fill='#a02020' stroke='#600000' stroke-width='1.5'/><circle cx='30' cy='40' r='10' fill='#c84040'/><circle cx='26' cy='36' r='1.5' fill='#fff5e0'/><circle cx='34' cy='38' r='1.5' fill='#fff5e0'/><circle cx='32' cy='44' r='1.5' fill='#fff5e0'/><circle cx='70' cy='40' r='14' fill='#a02020' stroke='#600000' stroke-width='1.5'/><circle cx='70' cy='40' r='10' fill='#c84040'/><circle cx='66' cy='36' r='1.5' fill='#fff5e0'/><circle cx='74' cy='38' r='1.5' fill='#fff5e0'/><circle cx='72' cy='44' r='1.5' fill='#fff5e0'/></svg>"
+    },
+    {
+      "num": 287,
+      "word": "kabana",
+      "ipa": "/kəˈbænə/",
+      "chinese": "卡巴纳熏肠 (AUS)",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M14 38 Q14 22 30 22 L70 22 Q86 22 86 38 Q86 54 70 54 L30 54 Q14 54 14 38 Z' fill='#a04030' stroke='#5a1000' stroke-width='1.5'/><path d='M20 38 L26 36 M30 40 L36 38 M42 38 L48 36 M54 38 L60 36 M66 40 L72 38 M78 38 L82 36' stroke='#7a2000' stroke-width='1' opacity='0.7'/></svg>"
+    },
+    {
+      "section": "16. Asian Foods"
+    },
+    {
+      "num": 288,
+      "word": "sushi",
+      "ipa": "/ˈsuːʃi/",
+      "chinese": "寿司",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='14' y='28' width='20' height='30' fill='#fff' stroke='#888' stroke-width='1.5'/><rect x='14' y='28' width='20' height='4' fill='#222'/><rect x='14' y='54' width='20' height='4' fill='#222'/><rect x='14' y='34' width='20' height='8' fill='#e08070'/><rect x='40' y='28' width='20' height='30' fill='#fff' stroke='#888' stroke-width='1.5'/><rect x='40' y='28' width='20' height='4' fill='#222'/><rect x='40' y='54' width='20' height='4' fill='#222'/><rect x='40' y='34' width='20' height='8' fill='#4a8a30'/><rect x='66' y='28' width='20' height='30' fill='#fff' stroke='#888' stroke-width='1.5'/><rect x='66' y='28' width='20' height='4' fill='#222'/><rect x='66' y='54' width='20' height='4' fill='#222'/><rect x='66' y='34' width='20' height='8' fill='#c84040'/></svg>"
+    },
+    {
+      "num": 289,
+      "word": "sashimi",
+      "ipa": "/səˈʃiːmi/",
+      "chinese": "刺身",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='14' y='28' width='20' height='30' fill='#fff' stroke='#888' stroke-width='1.5'/><rect x='14' y='28' width='20' height='4' fill='#222'/><rect x='14' y='54' width='20' height='4' fill='#222'/><rect x='14' y='34' width='20' height='8' fill='#e08070'/><rect x='40' y='28' width='20' height='30' fill='#fff' stroke='#888' stroke-width='1.5'/><rect x='40' y='28' width='20' height='4' fill='#222'/><rect x='40' y='54' width='20' height='4' fill='#222'/><rect x='40' y='34' width='20' height='8' fill='#4a8a30'/><rect x='66' y='28' width='20' height='30' fill='#fff' stroke='#888' stroke-width='1.5'/><rect x='66' y='28' width='20' height='4' fill='#222'/><rect x='66' y='54' width='20' height='4' fill='#222'/><rect x='66' y='34' width='20' height='8' fill='#c84040'/></svg>"
+    },
+    {
+      "num": 290,
+      "word": "tofu",
+      "ipa": "/ˈtəʊfuː/",
+      "chinese": "豆腐",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='30' y='28' width='40' height='32' fill='#fff5e0' stroke='#a08070' stroke-width='1.5'/><rect x='30' y='28' width='40' height='10' fill='#f0e8d0'/></svg>"
+    },
+    {
+      "num": 291,
+      "word": "dumpling",
+      "ipa": "/ˈdʌmplɪŋ/",
+      "chinese": "饺子",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M22 50 Q22 32 50 28 Q78 32 78 50 Q66 56 50 56 Q34 56 22 50 Z' fill='#fff5e0' stroke='#a08050' stroke-width='1.5'/><path d='M30 36 Q34 30 38 36 M42 32 Q46 26 50 32 M54 32 Q58 26 62 32 M66 36 Q70 30 74 36' fill='none' stroke='#a08050' stroke-width='1.5'/></svg>"
+    },
+    {
+      "num": 292,
+      "word": "spring roll",
+      "ipa": "/sprɪŋ rəʊl/",
+      "chinese": "春卷",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='30' y='30' width='40' height='20' rx='10' fill='#f0c860' stroke='#a07010' stroke-width='1.5'/><path d='M30 36 L70 36 M30 42 L70 42' stroke='#a07010' stroke-width='0.5'/></svg>"
+    },
+    {
+      "num": 293,
+      "word": "dim sim",
+      "ipa": "/dɪm sɪm/",
+      "chinese": "点心 (AUS式)",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M22 50 Q22 32 50 28 Q78 32 78 50 Q66 56 50 56 Q34 56 22 50 Z' fill='#fff5e0' stroke='#a08050' stroke-width='1.5'/><path d='M30 36 Q34 30 38 36 M42 32 Q46 26 50 32 M54 32 Q58 26 62 32 M66 36 Q70 30 74 36' fill='none' stroke='#a08050' stroke-width='1.5'/></svg>"
+    },
+    {
+      "num": 294,
+      "word": "ramen",
+      "ipa": "/ˈrɑːmən/",
+      "chinese": "拉面",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><ellipse cx='50' cy='50' rx='34' ry='14' fill='#f0c060' stroke='#a07010' stroke-width='1.5'/><path d='M16 50 Q30 40 50 44 Q70 40 84 50' fill='none' stroke='#fff' stroke-width='2'/><circle cx='30' cy='42' r='4' fill='#fff5e0' stroke='#a08070'/><rect x='44' y='38' width='12' height='8' fill='#a04040'/><path d='M62 38 L70 38 L68 44 L60 44 Z' fill='#4a8a30'/></svg>"
+    },
+    {
+      "num": 295,
+      "word": "pho",
+      "ipa": "/fəʊ/",
+      "chinese": "越南河粉",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><circle cx='50' cy='50' r='30' fill='#c8a060' stroke='#7a4010' stroke-width='1.5'/><path d='M20 50 Q40 44 60 50 Q80 44 80 50' fill='none' stroke='#fff' stroke-width='2'/><path d='M22 50 Q40 56 60 50 Q80 56 78 50' fill='none' stroke='#fff' stroke-width='2'/><circle cx='40' cy='44' r='3' fill='#a04040'/><circle cx='58' cy='48' r='3' fill='#6abf50'/></svg>"
+    },
+    {
+      "num": 296,
+      "word": "pad thai",
+      "ipa": "/pæd taɪ/",
+      "chinese": "泰式炒河粉",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M14 24 Q30 30 22 40 Q14 48 30 54 Q50 50 70 56 Q86 50 78 40 Q86 28 70 24' fill='#f0d860' stroke='#a07010' stroke-width='1.5'/><path d='M20 30 Q34 36 28 44 M40 28 Q52 36 46 46 M58 30 Q68 38 62 46 M76 30 Q82 36 76 44' fill='none' stroke='#a07010' stroke-width='1'/></svg>"
+    },
+    {
+      "num": 297,
+      "word": "butter chicken",
+      "ipa": "/ˈbʌtə ˌtʃɪkɪn/",
+      "chinese": "黄油鸡咖喱",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><ellipse cx='50' cy='50' rx='30' ry='14' fill='#e08040' stroke='#7a3010' stroke-width='1.5'/><circle cx='40' cy='44' r='5' fill='#a05010'/><circle cx='56' cy='42' r='5' fill='#a05010'/><circle cx='48' cy='52' r='4' fill='#a05010'/></svg>"
+    },
+    {
+      "num": 298,
+      "word": "fried rice",
+      "ipa": "/fraɪd raɪs/",
+      "chinese": "炒饭",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><ellipse cx='30' cy='30' rx='4' ry='2' fill='#fff' stroke='#888' stroke-width='0.5'/><ellipse cx='40' cy='32' rx='4' ry='2' fill='#fff' stroke='#888' stroke-width='0.5'/><ellipse cx='50' cy='30' rx='4' ry='2' fill='#fff' stroke='#888' stroke-width='0.5'/><ellipse cx='60' cy='32' rx='4' ry='2' fill='#fff' stroke='#888' stroke-width='0.5'/><ellipse cx='70' cy='30' rx='4' ry='2' fill='#fff' stroke='#888' stroke-width='0.5'/><ellipse cx='34' cy='40' rx='4' ry='2' fill='#fff' stroke='#888' stroke-width='0.5'/><ellipse cx='46' cy='42' rx='4' ry='2' fill='#fff' stroke='#888' stroke-width='0.5'/><ellipse cx='58' cy='40' rx='4' ry='2' fill='#fff' stroke='#888' stroke-width='0.5'/><ellipse cx='30' cy='50' rx='4' ry='2' fill='#fff' stroke='#888' stroke-width='0.5'/><ellipse cx='42' cy='52' rx='4' ry='2' fill='#fff' stroke='#888' stroke-width='0.5'/><ellipse cx='54' cy='50' rx='4' ry='2' fill='#fff' stroke='#888' stroke-width='0.5'/><ellipse cx='66' cy='52' rx='4' ry='2' fill='#fff' stroke='#888' stroke-width='0.5'/><path d='M14 60 Q50 70 86 60' fill='none' stroke='#aaa' stroke-width='1.5'/></svg>"
+    },
+    {
+      "num": 299,
+      "word": "stir-fry",
+      "ipa": "/ˈstɜː fraɪ/",
+      "chinese": "炒菜",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><ellipse cx='50' cy='52' rx='34' ry='12' fill='#2a2a2a' stroke='#000' stroke-width='1.5'/><circle cx='38' cy='44' r='4' fill='#f0a020'/><circle cx='54' cy='42' r='4' fill='#6abf50'/><circle cx='62' cy='48' r='4' fill='#e04040'/><circle cx='46' cy='50' r='4' fill='#f0d860'/><path d='M40 30 Q40 22 46 22 M58 28 Q58 22 64 22' fill='none' stroke='#888' stroke-width='2'/></svg>"
+    },
+    {
+      "num": 300,
+      "word": "nori",
+      "ipa": "/ˈnɔːri/",
+      "chinese": "海苔",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='14' y='14' width='72' height='52' fill='#1a3a1a' stroke='#000' stroke-width='1.5'/><path d='M22 22 L78 22 M22 32 L78 32 M22 42 L78 42 M22 52 L78 52' stroke='#0a200a' stroke-width='0.5'/></svg>"
+    },
+    {
+      "num": 301,
+      "word": "edamame",
+      "ipa": "/ˌɛdəˈmɑːmeɪ/",
+      "chinese": "毛豆",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M14 30 Q14 22 22 22 L80 30 Q86 36 84 44 L24 50 Q14 46 14 30 Z' fill='#7aaa50' stroke='#3a6a20' stroke-width='1.5'/><circle cx='28' cy='38' r='5' fill='#9aca6a'/><circle cx='44' cy='40' r='5' fill='#9aca6a'/><circle cx='60' cy='42' r='5' fill='#9aca6a'/><circle cx='74' cy='44' r='5' fill='#9aca6a'/></svg>"
+    },
+    {
+      "num": 302,
+      "word": "miso soup",
+      "ipa": "/ˈmiːsəʊ suːp/",
+      "chinese": "味噌汤",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><ellipse cx='50' cy='52' rx='30' ry='10' fill='#a05010' stroke='#5a2000' stroke-width='1.5'/><rect x='44' y='38' width='12' height='10' fill='#fff5e0' stroke='#a08070' stroke-width='1'/><path d='M30 38 L34 38 L32 44 Z' fill='#3a6a3a'/><path d='M64 38 L68 38 L66 44 Z' fill='#3a6a3a'/></svg>"
+    },
+    {
+      "num": 303,
+      "word": "satay",
+      "ipa": "/ˈsɑːteɪ/",
+      "chinese": "沙嗲",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><line x1='10' y1='40' x2='90' y2='40' stroke='#5a3010' stroke-width='2'/><circle cx='30' cy='40' r='8' fill='#a05010' stroke='#5a2000' stroke-width='1'/><circle cx='50' cy='40' r='8' fill='#a05010' stroke='#5a2000' stroke-width='1'/><circle cx='70' cy='40' r='8' fill='#a05010' stroke='#5a2000' stroke-width='1'/></svg>"
+    },
+    {
+      "num": 304,
+      "word": "kimchi",
+      "ipa": "/ˈkɪmtʃi/",
+      "chinese": "泡菜",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><ellipse cx='50' cy='48' rx='30' ry='14' fill='#c84040' stroke='#7a1010' stroke-width='1.5'/><path d='M30 44 Q40 38 50 44 Q60 38 70 44' fill='none' stroke='#fff' stroke-width='1.5'/></svg>"
+    },
+    {
+      "num": 305,
+      "word": "wonton",
+      "ipa": "/ˌwɒnˈtɒn/",
+      "chinese": "馄饨",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M22 50 Q22 32 50 28 Q78 32 78 50 Q66 56 50 56 Q34 56 22 50 Z' fill='#fff5e0' stroke='#a08050' stroke-width='1.5'/><path d='M30 36 Q34 30 38 36 M42 32 Q46 26 50 32 M54 32 Q58 26 62 32 M66 36 Q70 30 74 36' fill='none' stroke='#a08050' stroke-width='1.5'/></svg>"
+    },
+    {
+      "section": "17. European / Western Dishes"
+    },
+    {
+      "num": 306,
+      "word": "pizza",
+      "ipa": "/ˈpiːtsə/",
+      "chinese": "披萨",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><circle cx='50' cy='44' r='30' fill='#f0c860' stroke='#7a4010' stroke-width='1.5'/><circle cx='50' cy='44' r='24' fill='#e04040' stroke='#a01010' stroke-width='1'/><circle cx='38' cy='38' r='3' fill='#fff5e0'/><circle cx='58' cy='36' r='3' fill='#fff5e0'/><circle cx='42' cy='50' r='3' fill='#fff5e0'/><circle cx='62' cy='48' r='3' fill='#fff5e0'/><circle cx='44' cy='42' r='2' fill='#4a8a30'/><circle cx='56' cy='44' r='2' fill='#4a8a30'/></svg>"
+    },
+    {
+      "num": 307,
+      "word": "burger",
+      "ipa": "/ˈbɜːɡə/",
+      "chinese": "汉堡",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M20 30 Q22 18 50 16 Q78 18 80 30 Z' fill='#c8a060' stroke='#7a4010' stroke-width='1.5'/><rect x='20' y='30' width='60' height='4' fill='#6abf50'/><rect x='20' y='34' width='60' height='6' fill='#a04040'/><rect x='20' y='40' width='60' height='4' fill='#f0c020'/><rect x='20' y='44' width='60' height='4' fill='#c84040'/><path d='M20 48 Q22 60 50 62 Q78 60 80 48 Z' fill='#c8a060' stroke='#7a4010' stroke-width='1.5'/><circle cx='35' cy='22' r='1.5' fill='#fff'/><circle cx='50' cy='20' r='1.5' fill='#fff'/><circle cx='65' cy='22' r='1.5' fill='#fff'/></svg>"
+    },
+    {
+      "num": 308,
+      "word": "risotto",
+      "ipa": "/rɪˈzɒtəʊ/",
+      "chinese": "意大利炖饭",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><ellipse cx='30' cy='30' rx='4' ry='2' fill='#fff' stroke='#888' stroke-width='0.5'/><ellipse cx='40' cy='32' rx='4' ry='2' fill='#fff' stroke='#888' stroke-width='0.5'/><ellipse cx='50' cy='30' rx='4' ry='2' fill='#fff' stroke='#888' stroke-width='0.5'/><ellipse cx='60' cy='32' rx='4' ry='2' fill='#fff' stroke='#888' stroke-width='0.5'/><ellipse cx='70' cy='30' rx='4' ry='2' fill='#fff' stroke='#888' stroke-width='0.5'/><ellipse cx='34' cy='40' rx='4' ry='2' fill='#fff' stroke='#888' stroke-width='0.5'/><ellipse cx='46' cy='42' rx='4' ry='2' fill='#fff' stroke='#888' stroke-width='0.5'/><ellipse cx='58' cy='40' rx='4' ry='2' fill='#fff' stroke='#888' stroke-width='0.5'/><ellipse cx='30' cy='50' rx='4' ry='2' fill='#fff' stroke='#888' stroke-width='0.5'/><ellipse cx='42' cy='52' rx='4' ry='2' fill='#fff' stroke='#888' stroke-width='0.5'/><ellipse cx='54' cy='50' rx='4' ry='2' fill='#fff' stroke='#888' stroke-width='0.5'/><ellipse cx='66' cy='52' rx='4' ry='2' fill='#fff' stroke='#888' stroke-width='0.5'/><path d='M14 60 Q50 70 86 60' fill='none' stroke='#aaa' stroke-width='1.5'/></svg>"
+    },
+    {
+      "num": 309,
+      "word": "bolognese",
+      "ipa": "/ˌbɒləˈneɪz/",
+      "chinese": "肉酱意面",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M16 14 Q22 40 18 70 M26 14 Q32 40 28 70 M36 14 Q42 40 38 70 M46 14 Q52 40 48 70 M56 14 Q62 40 58 70 M66 14 Q72 40 68 70 M76 14 Q82 40 78 70' fill='none' stroke='#f0d860' stroke-width='3' stroke-linecap='round'/></svg>"
+    },
+    {
+      "num": 310,
+      "word": "carbonara",
+      "ipa": "/ˌkɑːbəˈnɑːrə/",
+      "chinese": "培根奶油意面",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M16 14 Q22 40 18 70 M26 14 Q32 40 28 70 M36 14 Q42 40 38 70 M46 14 Q52 40 48 70 M56 14 Q62 40 58 70 M66 14 Q72 40 68 70 M76 14 Q82 40 78 70' fill='none' stroke='#f0d860' stroke-width='3' stroke-linecap='round'/></svg>"
+    },
+    {
+      "num": 311,
+      "word": "fish and chips",
+      "ipa": "/fɪʃ ən tʃɪps/",
+      "chinese": "炸鱼薯条",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='16' y='26' width='68' height='14' rx='2' fill='#f0a040' stroke='#a05010' stroke-width='1.5'/><rect x='16' y='44' width='68' height='14' rx='2' fill='#f0a040' stroke='#a05010' stroke-width='1.5'/><circle cx='30' cy='33' r='1' fill='#a05010'/><circle cx='50' cy='33' r='1' fill='#a05010'/><circle cx='70' cy='33' r='1' fill='#a05010'/><circle cx='30' cy='51' r='1' fill='#a05010'/><circle cx='50' cy='51' r='1' fill='#a05010'/><circle cx='70' cy='51' r='1' fill='#a05010'/></svg>"
+    },
+    {
+      "num": 312,
+      "word": "roast dinner",
+      "ipa": "/rəʊst ˈdɪnə/",
+      "chinese": "烤肉大餐",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><ellipse cx='50' cy='44' rx='32' ry='22' fill='#c8a060' stroke='#7a4010' stroke-width='1.5'/><ellipse cx='50' cy='38' rx='28' ry='18' fill='#a07040' stroke='#7a4010' stroke-width='1'/><path d='M30 32 L50 30 L50 50 L30 48 Z M50 30 L70 32 L70 48 L50 50 Z' fill='none' stroke='#7a4010' stroke-width='1'/><circle cx='40' cy='40' r='1.5' fill='#5a2010'/><circle cx='60' cy='42' r='1.5' fill='#5a2010'/></svg>"
+    },
+    {
+      "num": 313,
+      "word": "mashed potato",
+      "ipa": "/mæʃt pəˈteɪtəʊ/",
+      "chinese": "土豆泥",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M20 56 Q14 36 30 32 Q50 26 70 32 Q86 36 80 56 Q60 64 50 60 Q40 64 20 56 Z' fill='#fff5e0' stroke='#a08070' stroke-width='1.5'/><circle cx='44' cy='30' r='3' fill='#f0c020'/></svg>"
+    },
+    {
+      "num": 314,
+      "word": "schnitzel",
+      "ipa": "/ˈʃnɪts(ə)l/",
+      "chinese": "炸肉排",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M14 36 Q14 24 30 22 Q60 18 80 28 Q88 42 80 54 Q60 60 30 58 Q14 50 14 36 Z' fill='#e0a040' stroke='#a06010' stroke-width='1.5'/><circle cx='30' cy='34' r='1.5' fill='#a06010'/><circle cx='44' cy='36' r='1.5' fill='#a06010'/><circle cx='58' cy='34' r='1.5' fill='#a06010'/><circle cx='70' cy='38' r='1.5' fill='#a06010'/><circle cx='38' cy='48' r='1.5' fill='#a06010'/><circle cx='52' cy='50' r='1.5' fill='#a06010'/><circle cx='66' cy='48' r='1.5' fill='#a06010'/></svg>"
+    },
+    {
+      "num": 315,
+      "word": "parmigiana",
+      "ipa": "/ˌpɑːmɪˈdʒɑːnə/",
+      "chinese": "帕玛森芝士鸡肉 (AUS pub经典)",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M14 36 Q14 24 30 22 Q60 18 80 28 Q88 42 80 54 Q60 60 30 58 Q14 50 14 36 Z' fill='#e0a040' stroke='#a06010' stroke-width='1.5'/><ellipse cx='50' cy='38' rx='30' ry='10' fill='#c84040' stroke='#7a1010' stroke-width='1'/><path d='M30 36 Q40 30 50 36 Q60 30 70 36' fill='#fff5e0'/></svg>"
+    },
+    {
+      "num": 316,
+      "word": "bangers and mash",
+      "ipa": "/ˈbæŋəz ən mæʃ/",
+      "chinese": "香肠土豆泥 (UK)",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M14 38 Q14 22 30 22 L70 22 Q86 22 86 38 Q86 54 70 54 L30 54 Q14 54 14 38 Z' fill='#a04030' stroke='#5a1000' stroke-width='1.5'/><path d='M20 38 L26 36 M30 40 L36 38 M42 38 L48 36 M54 38 L60 36 M66 40 L72 38 M78 38 L82 36' stroke='#7a2000' stroke-width='1' opacity='0.7'/></svg>"
+    },
+    {
+      "num": 317,
+      "word": "shepherd's pie",
+      "ipa": "/ˈʃɛpədz paɪ/",
+      "chinese": "牧羊人派",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><ellipse cx='50' cy='44' rx='32' ry='22' fill='#c8a060' stroke='#7a4010' stroke-width='1.5'/><ellipse cx='50' cy='38' rx='28' ry='18' fill='#a07040' stroke='#7a4010' stroke-width='1'/><path d='M30 32 L50 30 L50 50 L30 48 Z M50 30 L70 32 L70 48 L50 50 Z' fill='none' stroke='#7a4010' stroke-width='1'/><circle cx='40' cy='40' r='1.5' fill='#5a2010'/><circle cx='60' cy='42' r='1.5' fill='#5a2010'/></svg>"
+    },
+    {
+      "num": 318,
+      "word": "paella",
+      "ipa": "/paɪˈɛlə/",
+      "chinese": "西班牙海鲜饭",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><ellipse cx='30' cy='30' rx='4' ry='2' fill='#fff' stroke='#888' stroke-width='0.5'/><ellipse cx='40' cy='32' rx='4' ry='2' fill='#fff' stroke='#888' stroke-width='0.5'/><ellipse cx='50' cy='30' rx='4' ry='2' fill='#fff' stroke='#888' stroke-width='0.5'/><ellipse cx='60' cy='32' rx='4' ry='2' fill='#fff' stroke='#888' stroke-width='0.5'/><ellipse cx='70' cy='30' rx='4' ry='2' fill='#fff' stroke='#888' stroke-width='0.5'/><ellipse cx='34' cy='40' rx='4' ry='2' fill='#fff' stroke='#888' stroke-width='0.5'/><ellipse cx='46' cy='42' rx='4' ry='2' fill='#fff' stroke='#888' stroke-width='0.5'/><ellipse cx='58' cy='40' rx='4' ry='2' fill='#fff' stroke='#888' stroke-width='0.5'/><ellipse cx='30' cy='50' rx='4' ry='2' fill='#fff' stroke='#888' stroke-width='0.5'/><ellipse cx='42' cy='52' rx='4' ry='2' fill='#fff' stroke='#888' stroke-width='0.5'/><ellipse cx='54' cy='50' rx='4' ry='2' fill='#fff' stroke='#888' stroke-width='0.5'/><ellipse cx='66' cy='52' rx='4' ry='2' fill='#fff' stroke='#888' stroke-width='0.5'/><path d='M14 60 Q50 70 86 60' fill='none' stroke='#aaa' stroke-width='1.5'/></svg>"
+    },
+    {
+      "section": "18. Mexican & Middle Eastern"
+    },
+    {
+      "num": 319,
+      "word": "taco",
+      "ipa": "/ˈtækəʊ/",
+      "chinese": "墨西哥卷饼",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M14 56 Q14 24 50 22 Q86 24 86 56 Z' fill='#f0c860' stroke='#a07010' stroke-width='1.5'/><path d='M22 56 Q22 38 50 36 Q78 38 78 56' fill='#7a3a3a'/><circle cx='34' cy='44' r='2' fill='#6abf50'/><circle cx='50' cy='40' r='2' fill='#e04040'/><circle cx='66' cy='44' r='2' fill='#f0c020'/><path d='M28 50 L34 46 M42 50 L50 44 M58 48 L66 44' stroke='#fff5e0' stroke-width='1.5'/></svg>"
+    },
+    {
+      "num": 320,
+      "word": "burrito",
+      "ipa": "/bəˈriːtəʊ/",
+      "chinese": "墨西哥卷",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M18 30 L82 26 L86 36 L84 50 L80 56 L20 60 L14 54 L14 38 Z' fill='#f0d8a0' stroke='#a07010' stroke-width='1.5'/><path d='M20 36 L80 32 M22 42 L80 40 M22 48 L80 48' fill='none' stroke='#a07010' stroke-width='0.5'/></svg>"
+    },
+    {
+      "num": 321,
+      "word": "quesadilla",
+      "ipa": "/ˌkeɪsəˈdiːə/",
+      "chinese": "墨西哥芝士饼",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M14 50 Q14 28 50 26 Q86 28 86 50 L50 64 Z' fill='#f0c860' stroke='#a07010' stroke-width='1.5'/><circle cx='50' cy='40' r='2' fill='#c84040'/><circle cx='40' cy='44' r='2' fill='#6abf50'/><circle cx='60' cy='44' r='2' fill='#6abf50'/></svg>"
+    },
+    {
+      "num": 322,
+      "word": "guacamole",
+      "ipa": "/ˌɡwɑːkəˈməʊli/",
+      "chinese": "牛油果酱",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='32' y='10' width='36' height='8' fill='#888' stroke='#444' stroke-width='1'/><rect x='28' y='18' width='44' height='52' rx='2' fill='#7aaa50' stroke='#444' stroke-width='1.5'/><rect x='34' y='34' width='32' height='24' fill='#fff' stroke='#444' stroke-width='0.5'/></svg>"
+    },
+    {
+      "num": 323,
+      "word": "salsa",
+      "ipa": "/ˈsælsə/",
+      "chinese": "莎莎酱",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='32' y='10' width='36' height='8' fill='#888' stroke='#444' stroke-width='1'/><rect x='28' y='18' width='44' height='52' rx='2' fill='#c84040' stroke='#444' stroke-width='1.5'/><rect x='34' y='34' width='32' height='24' fill='#fff' stroke='#444' stroke-width='0.5'/></svg>"
+    },
+    {
+      "num": 324,
+      "word": "falafel",
+      "ipa": "/fəˈlɑːf(ə)l/",
+      "chinese": "中东豆丸子",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><circle cx='30' cy='40' r='10' fill='#7aaa50' stroke='#3a6a20' stroke-width='1.5'/><circle cx='50' cy='38' r='10' fill='#7aaa50' stroke='#3a6a20' stroke-width='1.5'/><circle cx='70' cy='40' r='10' fill='#7aaa50' stroke='#3a6a20' stroke-width='1.5'/><circle cx='40' cy='56' r='10' fill='#7aaa50' stroke='#3a6a20' stroke-width='1.5'/><circle cx='60' cy='56' r='10' fill='#7aaa50' stroke='#3a6a20' stroke-width='1.5'/></svg>"
+    },
+    {
+      "num": 325,
+      "word": "kebab",
+      "ipa": "/kəˈbæb/",
+      "chinese": "烤肉串",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><line x1='10' y1='40' x2='90' y2='40' stroke='#5a3010' stroke-width='2'/><rect x='22' y='34' width='12' height='14' fill='#a04040' stroke='#5a1010' stroke-width='1'/><rect x='38' y='34' width='12' height='14' fill='#6abf50' stroke='#3a6a20' stroke-width='1'/><rect x='54' y='34' width='12' height='14' fill='#a04040' stroke='#5a1010' stroke-width='1'/><rect x='70' y='34' width='12' height='14' fill='#e04040' stroke='#7a1010' stroke-width='1'/></svg>"
+    },
+    {
+      "num": 326,
+      "word": "shawarma",
+      "ipa": "/ʃəˈwɑːmə/",
+      "chinese": "中东烤肉卷",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M18 30 L82 26 L86 36 L84 50 L80 56 L20 60 L14 54 L14 38 Z' fill='#f0d8a0' stroke='#a07010' stroke-width='1.5'/><rect x='30' y='38' width='40' height='8' fill='#a04040'/></svg>"
+    },
+    {
+      "num": 327,
+      "word": "baba ganoush",
+      "ipa": "/ˌbɑːbə ɡəˈnuːʃ/",
+      "chinese": "中东茄子泥",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='32' y='10' width='36' height='8' fill='#888' stroke='#444' stroke-width='1'/><rect x='28' y='18' width='44' height='52' rx='2' fill='#a08060' stroke='#444' stroke-width='1.5'/><rect x='34' y='34' width='32' height='24' fill='#fff' stroke='#444' stroke-width='0.5'/></svg>"
+    },
+    {
+      "num": 328,
+      "word": "baklava",
+      "ipa": "/ˈbækləvɑː/",
+      "chinese": "果仁蜜饼",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='20' y='30' width='60' height='30' fill='#f0c860' stroke='#a07010' stroke-width='1.5'/><path d='M20 30 L80 30 M20 36 L80 36 M20 42 L80 42 M20 48 L80 48 M20 54 L80 54' stroke='#a07010' stroke-width='0.5'/><circle cx='30' cy='40' r='2' fill='#3a1000'/><circle cx='50' cy='40' r='2' fill='#3a1000'/><circle cx='70' cy='40' r='2' fill='#3a1000'/></svg>"
+    },
+    {
+      "num": 329,
+      "word": "tzatziki",
+      "ipa": "/tsɑːˈtsiːki/",
+      "chinese": "希腊酸奶黄瓜酱",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='32' y='10' width='36' height='8' fill='#888' stroke='#444' stroke-width='1'/><rect x='28' y='18' width='44' height='52' rx='2' fill='#fff' stroke='#444' stroke-width='1.5'/><rect x='34' y='34' width='32' height='24' fill='#fff' stroke='#444' stroke-width='0.5'/></svg>"
+    },
+    {
+      "section": "19. Iconic Australian Foods"
+    },
+    {
+      "num": 330,
+      "word": "Vegemite on toast",
+      "ipa": "/ˈvɛdʒɪmaɪt ɒn təʊst/",
+      "chinese": "维吉麦烤面包 (AUS经典)",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='20' y='28' width='60' height='28' rx='3' fill='#d4a060' stroke='#7a4010' stroke-width='1.5'/><rect x='24' y='32' width='52' height='20' fill='#3a1000'/></svg>"
+    },
+    {
+      "num": 331,
+      "word": "smashed avo",
+      "ipa": "/smæʃt ˈævəʊ/",
+      "chinese": "牛油果泥吐司 (AUS hipster经典)",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='20' y='28' width='60' height='28' rx='3' fill='#d4a060' stroke='#7a4010' stroke-width='1.5'/><rect x='24' y='32' width='52' height='20' fill='#7aaa50' stroke='#3a6a20' stroke-width='1'/><circle cx='40' cy='42' r='2' fill='#3a6a20'/><circle cx='60' cy='42' r='2' fill='#3a6a20'/></svg>"
+    },
+    {
+      "num": 332,
+      "word": "damper",
+      "ipa": "/ˈdæmpə/",
+      "chinese": "丛林面包 (AUS bush food)",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M14 60 Q12 38 24 30 Q40 22 60 24 Q80 28 86 42 Q88 60 80 64 L20 64 Q12 64 14 60 Z' fill='#c8a060' stroke='#7a4010' stroke-width='1.5'/><path d='M28 32 Q34 26 40 32 M44 28 Q50 22 56 28 M60 30 Q66 24 72 30' fill='none' stroke='#7a4010' stroke-width='1'/></svg>"
+    },
+    {
+      "num": 333,
+      "word": "Weet-Bix",
+      "ipa": "/ˈwiːt bɪks/",
+      "chinese": "Weet-Bix 麦片 (AUS早餐)",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='14' y='28' width='32' height='32' fill='#c8a060' stroke='#7a4010' stroke-width='1.5'/><rect x='54' y='28' width='32' height='32' fill='#c8a060' stroke='#7a4010' stroke-width='1.5'/><path d='M14 32 L46 32 M14 40 L46 40 M14 48 L46 48 M14 56 L46 56' stroke='#7a4010' stroke-width='0.5'/><path d='M54 32 L86 32 M54 40 L86 40 M54 48 L86 48 M54 56 L86 56' stroke='#7a4010' stroke-width='0.5'/></svg>"
+    },
+    {
+      "num": 334,
+      "word": "Chiko Roll",
+      "ipa": "/ˈtʃɪkəʊ rəʊl/",
+      "chinese": "Chiko 卷 (AUS街头小吃)",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='16' y='30' width='68' height='20' rx='10' fill='#f0c860' stroke='#a07010' stroke-width='1.5'/><path d='M16 36 L84 36 M16 44 L84 44' stroke='#a07010' stroke-width='0.5'/></svg>"
+    },
+    {
+      "num": 335,
+      "word": "finger lime",
+      "ipa": "/ˈfɪŋɡə laɪm/",
+      "chinese": "指橙 (AUS本土)",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M40 14 Q38 30 38 50 Q42 64 50 70 Q58 64 62 50 Q62 30 60 14 Z' fill='#6abf50' stroke='#2a5a10' stroke-width='1.5'/></svg>"
+    },
+    {
+      "num": 336,
+      "word": "bush tucker",
+      "ipa": "/bʊʃ ˈtʌkə/",
+      "chinese": "丛林食物 (AUS原住民)",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M50 12 Q26 18 22 38 Q22 60 50 68 Q78 60 78 38 Q74 18 50 12 Z' fill='#4a8a30' stroke='#2a5a10' stroke-width='1.5'/><path d='M50 12 L50 68' stroke='#2a5a10' stroke-width='1.5'/><path d='M50 24 L34 28 M50 32 L30 38 M50 40 L30 46 M50 48 L34 56 M50 24 L66 28 M50 32 L70 38 M50 40 L70 46 M50 48 L66 56' stroke='#2a5a10' stroke-width='1' opacity='0.5'/></svg>"
+    },
+    {
+      "num": 337,
+      "word": "kangaroo steak",
+      "ipa": "/ˌkæŋɡəˈruː steɪk/",
+      "chinese": "袋鼠排 (AUS)",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M16 60 Q26 58 34 58 L40 30 Q44 18 56 22 Q62 32 56 50 L72 56 Q78 60 76 64 L40 66 Z' fill='#a07050' stroke='#5a3010' stroke-width='1.5'/><circle cx='48' cy='26' r='6' fill='#a07050' stroke='#5a3010' stroke-width='1.5'/><circle cx='50' cy='24' r='1' fill='#000'/><path d='M44 22 L46 16 M52 22 L54 16' stroke='#5a3010' stroke-width='2'/></svg>"
+    },
+    {
+      "num": 338,
+      "word": "dagwood dog",
+      "ipa": "/ˈdæɡwʊd dɒɡ/",
+      "chinese": "炸热狗串 (AUS show food)",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><line x1='50' y1='6' x2='50' y2='66' stroke='#5a3010' stroke-width='3'/><rect x='40' y='24' width='20' height='44' rx='10' fill='#c87040' stroke='#7a4010' stroke-width='1.5'/></svg>"
+    },
+    {
+      "num": 339,
+      "word": "macadamia",
+      "ipa": "/ˌmækəˈdeɪmiə/",
+      "chinese": "夏威夷果 (AUS本土)",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><circle cx='30' cy='34' r='10' fill='#f5e8c8' stroke='#a08050' stroke-width='1.5'/><circle cx='50' cy='32' r='10' fill='#f5e8c8' stroke='#a08050' stroke-width='1.5'/><circle cx='70' cy='34' r='10' fill='#f5e8c8' stroke='#a08050' stroke-width='1.5'/><circle cx='40' cy='52' r='10' fill='#f5e8c8' stroke='#a08050' stroke-width='1.5'/><circle cx='60' cy='52' r='10' fill='#f5e8c8' stroke='#a08050' stroke-width='1.5'/></svg>"
+    },
+    {
+      "num": 340,
+      "word": "Tim Tam Slam",
+      "ipa": "/ˈtɪm tæm slæm/",
+      "chinese": "Tim Tam 吸管喝法 (AUS doing)",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='14' y='20' width='72' height='40' fill='#3a1000' stroke='#3a1000' stroke-width='1.5'/><line x1='32' y1='20' x2='32' y2='60' stroke='#3a1000' stroke-width='1.5'/><line x1='50' y1='20' x2='50' y2='60' stroke='#3a1000' stroke-width='1.5'/><line x1='68' y1='20' x2='68' y2='60' stroke='#3a1000' stroke-width='1.5'/><line x1='14' y1='40' x2='86' y2='40' stroke='#3a1000' stroke-width='1.5'/></svg>"
+    },
+    {
+      "section": "20. Breakfast Foods"
+    },
+    {
+      "num": 341,
+      "word": "cereal",
+      "ipa": "/ˈsɪəriəl/",
+      "chinese": "麦片",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><ellipse cx='50' cy='50' rx='34' ry='16' fill='#fff' stroke='#888' stroke-width='1.5'/><ellipse cx='35' cy='44' rx='4' ry='2' fill='#c8a060'/><ellipse cx='50' cy='42' rx='4' ry='2' fill='#c8a060'/><ellipse cx='65' cy='44' rx='4' ry='2' fill='#c8a060'/><ellipse cx='42' cy='52' rx='4' ry='2' fill='#c8a060'/><ellipse cx='58' cy='52' rx='4' ry='2' fill='#c8a060'/></svg>"
+    },
+    {
+      "num": 342,
+      "word": "muesli",
+      "ipa": "/ˈmjuːzli/",
+      "chinese": "牛奶什锦",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><ellipse cx='50' cy='50' rx='34' ry='16' fill='#fff' stroke='#888' stroke-width='1.5'/><ellipse cx='35' cy='44' rx='4' ry='2' fill='#c8a060'/><ellipse cx='50' cy='42' rx='4' ry='2' fill='#c8a060'/><ellipse cx='65' cy='44' rx='4' ry='2' fill='#c8a060'/><ellipse cx='42' cy='52' rx='4' ry='2' fill='#c8a060'/><ellipse cx='58' cy='52' rx='4' ry='2' fill='#c8a060'/></svg>"
+    },
+    {
+      "num": 343,
+      "word": "granola",
+      "ipa": "/ɡrəˈnəʊlə/",
+      "chinese": "燕麦脆",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><ellipse cx='50' cy='50' rx='34' ry='16' fill='#fff' stroke='#888' stroke-width='1.5'/><ellipse cx='35' cy='44' rx='4' ry='2' fill='#c8a060'/><ellipse cx='50' cy='42' rx='4' ry='2' fill='#c8a060'/><ellipse cx='65' cy='44' rx='4' ry='2' fill='#c8a060'/><ellipse cx='42' cy='52' rx='4' ry='2' fill='#c8a060'/><ellipse cx='58' cy='52' rx='4' ry='2' fill='#c8a060'/></svg>"
+    },
+    {
+      "num": 344,
+      "word": "pancakes",
+      "ipa": "/ˈpænkeɪks/",
+      "chinese": "煎饼",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><ellipse cx='50' cy='54' rx='30' ry='6' fill='#c8a060' stroke='#7a4010' stroke-width='1.5'/><ellipse cx='50' cy='46' rx='30' ry='6' fill='#d4a060' stroke='#7a4010' stroke-width='1.5'/><ellipse cx='50' cy='38' rx='30' ry='6' fill='#e0b070' stroke='#7a4010' stroke-width='1.5'/><rect x='44' y='28' width='12' height='10' fill='#f0c020' stroke='#a07010' stroke-width='1'/></svg>"
+    },
+    {
+      "num": 345,
+      "word": "waffles",
+      "ipa": "/ˈwɒf(ə)lz/",
+      "chinese": "华夫饼",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='20' y='26' width='60' height='36' fill='#f0c860' stroke='#a07010' stroke-width='1.5'/><line x1='30' y1='26' x2='30' y2='62' stroke='#a07010' stroke-width='1'/><line x1='40' y1='26' x2='40' y2='62' stroke='#a07010' stroke-width='1'/><line x1='50' y1='26' x2='50' y2='62' stroke='#a07010' stroke-width='1'/><line x1='60' y1='26' x2='60' y2='62' stroke='#a07010' stroke-width='1'/><line x1='70' y1='26' x2='70' y2='62' stroke='#a07010' stroke-width='1'/><line x1='20' y1='35' x2='80' y2='35' stroke='#a07010' stroke-width='1'/><line x1='20' y1='44' x2='80' y2='44' stroke='#a07010' stroke-width='1'/><line x1='20' y1='53' x2='80' y2='53' stroke='#a07010' stroke-width='1'/></svg>"
+    },
+    {
+      "num": 346,
+      "word": "French toast",
+      "ipa": "/frɛn(t)ʃ təʊst/",
+      "chinese": "法式吐司",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='20' y='28' width='60' height='28' rx='3' fill='#e0b070' stroke='#7a4010' stroke-width='1.5'/><circle cx='35' cy='40' r='2' fill='#a05010'/><circle cx='55' cy='44' r='2' fill='#a05010'/><circle cx='65' cy='38' r='2' fill='#a05010'/></svg>"
+    },
+    {
+      "num": 347,
+      "word": "hash brown",
+      "ipa": "/hæʃ braʊn/",
+      "chinese": "土豆饼",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><ellipse cx='50' cy='44' rx='32' ry='14' fill='#c8a060' stroke='#7a4010' stroke-width='1.5'/><line x1='22' y1='40' x2='78' y2='40' stroke='#7a4010' stroke-width='0.5'/><line x1='22' y1='44' x2='78' y2='44' stroke='#7a4010' stroke-width='0.5'/><line x1='22' y1='48' x2='78' y2='48' stroke='#7a4010' stroke-width='0.5'/></svg>"
+    },
+    {
+      "num": 348,
+      "word": "baked beans",
+      "ipa": "/beɪkt biːnz/",
+      "chinese": "焗豆",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='28' y='30' width='44' height='32' rx='3' fill='#a04040' stroke='#600000' stroke-width='1.5'/><ellipse cx='38' cy='40' rx='4' ry='3' fill='#7a3010'/><ellipse cx='50' cy='42' rx='4' ry='3' fill='#7a3010'/><ellipse cx='62' cy='40' rx='4' ry='3' fill='#7a3010'/><ellipse cx='42' cy='50' rx='4' ry='3' fill='#7a3010'/><ellipse cx='58' cy='50' rx='4' ry='3' fill='#7a3010'/></svg>"
+    },
+    {
+      "num": 349,
+      "word": "scrambled eggs",
+      "ipa": "/ˈskræmb(ə)ld ɛɡz/",
+      "chinese": "炒蛋",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M14 56 Q14 36 30 32 Q50 26 70 32 Q86 36 86 56 Q60 64 50 60 Q40 64 14 56 Z' fill='#f0c020' stroke='#a07010' stroke-width='1.5'/><path d='M30 42 Q36 36 42 42 M50 38 Q56 32 62 38 M60 50 Q66 46 72 52' fill='none' stroke='#a07010' stroke-width='1'/></svg>"
+    },
+    {
+      "num": 350,
+      "word": "porridge",
+      "ipa": "/ˈpɒrɪdʒ/",
+      "chinese": "燕麦粥",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><ellipse cx='50' cy='50' rx='34' ry='14' fill='#f5e8d0' stroke='#a08070' stroke-width='1.5'/><circle cx='35' cy='44' r='2' fill='#a08070'/><circle cx='50' cy='42' r='2' fill='#a08070'/><circle cx='65' cy='44' r='2' fill='#a08070'/><ellipse cx='50' cy='38' rx='6' ry='3' fill='#5a3010'/></svg>"
+    },
+    {
+      "section": "21. Cooking States & Forms"
+    },
+    {
+      "num": 351,
+      "word": "raw",
+      "chinese": "生的"
+    },
+    {
+      "num": 352,
+      "word": "cooked",
+      "chinese": "煮熟的"
+    },
+    {
+      "num": 353,
+      "word": "fresh",
+      "chinese": "新鲜的"
+    },
+    {
+      "num": 354,
+      "word": "frozen",
+      "chinese": "冷冻的"
+    },
+    {
+      "num": 355,
+      "word": "tinned",
+      "chinese": "罐装的 (AUS)"
+    },
+    {
+      "num": 356,
+      "word": "canned",
+      "chinese": "罐装的"
+    },
+    {
+      "num": 357,
+      "word": "dried",
+      "chinese": "干的"
+    },
+    {
+      "num": 358,
+      "word": "pickled",
+      "chinese": "腌制的"
+    },
+    {
+      "num": 359,
+      "word": "smoked",
+      "chinese": "熏制的"
+    },
+    {
+      "num": 360,
+      "word": "cured",
+      "chinese": "腌渍的"
+    },
+    {
+      "num": 361,
+      "word": "roasted",
+      "chinese": "烤的"
+    },
+    {
+      "num": 362,
+      "word": "grilled",
+      "chinese": "烧烤的"
+    },
+    {
+      "num": 363,
+      "word": "baked",
+      "chinese": "烘焙的"
+    },
+    {
+      "num": 364,
+      "word": "fried",
+      "chinese": "油炸的"
+    },
+    {
+      "num": 365,
+      "word": "steamed",
+      "chinese": "蒸的"
+    },
+    {
+      "num": 366,
+      "word": "organic",
+      "chinese": "有机的"
+    },
+    {
+      "num": 367,
+      "word": "gluten-free",
+      "chinese": "无麸质的"
+    }
+  ]
+}
