@@ -1,0 +1,1053 @@
+{
+  "topic": "garden",
+  "title": "Garden & Backyard",
+  "words": [
+    {
+      "section": "1. Areas & layout"
+    },
+    {
+      "num": 1,
+      "word": "backyard",
+      "ipa": "/ˈbækjɑːd/",
+      "chinese": "后院",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='8' y='40' width='84' height='34' fill='#8cc56a'/><rect x='8' y='10' width='40' height='40' fill='#c89a6a' stroke='#8a6040' stroke-width='1.5'/><polygon points='8,10 28,2 48,10' fill='#a85040' stroke='#7a3020' stroke-width='1.5'/><rect x='22' y='28' width='12' height='22' fill='#6a4020'/><circle cx='72' cy='40' r='12' fill='#3a8a3a'/><rect x='70' y='50' width='4' height='14' fill='#6a4020'/></svg>"
+    },
+    {
+      "num": 2,
+      "word": "front yard",
+      "ipa": "/frʌnt jɑːd/",
+      "chinese": "前院",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='8' y='44' width='84' height='30' fill='#8cc56a'/><rect x='40' y='14' width='44' height='40' fill='#d8c0a0' stroke='#8a6040' stroke-width='1.5'/><polygon points='40,14 62,4 84,14' fill='#a85040' stroke='#7a3020' stroke-width='1.5'/><rect x='54' y='32' width='12' height='22' fill='#6a4020'/><path d='M30 74 L46 50 L54 50 L40 74 Z' fill='#c8b890'/><circle cx='18' cy='50' r='8' fill='#3a8a3a'/></svg>"
+    },
+    {
+      "num": 3,
+      "word": "garden bed",
+      "ipa": "/ˈɡɑːdn bed/",
+      "chinese": "花圃/苗床",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='10' y='40' width='80' height='30' rx='3' fill='#6a4a2a' stroke='#4a3018' stroke-width='2'/><rect x='14' y='44' width='72' height='22' fill='#3a2a18'/><path d='M26 44 L26 30 M26 30 L20 34 M26 30 L32 34' stroke='#3a8a3a' stroke-width='2'/><circle cx='26' cy='28' r='4' fill='#e05080'/><path d='M50 44 L50 28 M50 28 L44 32 M50 28 L56 32' stroke='#3a8a3a' stroke-width='2'/><circle cx='50' cy='26' r='4' fill='#f0c040'/><path d='M74 44 L74 30 M74 30 L68 34 M74 30 L80 34' stroke='#3a8a3a' stroke-width='2'/><circle cx='74' cy='28' r='4' fill='#a060c0'/></svg>"
+    },
+    {
+      "num": 4,
+      "word": "veggie patch",
+      "ipa": "/ˈvedʒi pætʃ/",
+      "chinese": "菜地 (AUS)",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='10' y='42' width='80' height='28' fill='#6a4a2a' stroke='#4a3018' stroke-width='1.5'/><path d='M14 42 L14 36 M22 42 L22 34 M30 42 L30 36' stroke='#3a8a3a' stroke-width='2'/><circle cx='44' cy='34' r='6' fill='#d04030'/><circle cx='60' cy='36' r='5' fill='#e0a020'/><ellipse cx='76' cy='34' rx='4' ry='8' fill='#f08020'/><path d='M44 28 L44 24 M60 31 L60 27 M76 26 L76 22' stroke='#3a8a3a' stroke-width='1.5'/></svg>"
+    },
+    {
+      "num": 5,
+      "word": "lawn",
+      "ipa": "/lɔːn/",
+      "chinese": "草坪",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='8' y='30' width='84' height='40' fill='#7cc04a' stroke='#4a8020' stroke-width='1.5'/><path d='M16 30 L16 22 M24 30 L24 24 M32 30 L32 22 M40 30 L40 24 M48 30 L48 22 M56 30 L56 24 M64 30 L64 22 M72 30 L72 24 M80 30 L80 22' stroke='#5aa030' stroke-width='2'/></svg>"
+    },
+    {
+      "num": 6,
+      "word": "deck",
+      "ipa": "/dek/",
+      "chinese": "(木)露台/平台",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='10' y='20' width='80' height='50' fill='#c89a5a' stroke='#8a6030' stroke-width='1.5'/><line x1='10' y1='30' x2='90' y2='30' stroke='#8a6030' stroke-width='1.5'/><line x1='10' y1='40' x2='90' y2='40' stroke='#8a6030' stroke-width='1.5'/><line x1='10' y1='50' x2='90' y2='50' stroke='#8a6030' stroke-width='1.5'/><line x1='10' y1='60' x2='90' y2='60' stroke='#8a6030' stroke-width='1.5'/></svg>"
+    },
+    {
+      "num": 7,
+      "word": "patio",
+      "ipa": "/ˈpætiəʊ/",
+      "chinese": "露台/天井",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='10' y='20' width='80' height='50' fill='#cfcabd' stroke='#999' stroke-width='1.5'/><line x1='30' y1='20' x2='30' y2='70' stroke='#aaa' stroke-width='1'/><line x1='50' y1='20' x2='50' y2='70' stroke='#aaa' stroke-width='1'/><line x1='70' y1='20' x2='70' y2='70' stroke='#aaa' stroke-width='1'/><line x1='10' y1='37' x2='90' y2='37' stroke='#aaa' stroke-width='1'/><line x1='10' y1='54' x2='90' y2='54' stroke='#aaa' stroke-width='1'/></svg>"
+    },
+    {
+      "num": 8,
+      "word": "pergola",
+      "ipa": "/ˈpɜːɡələ/",
+      "chinese": "凉棚/花架",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='14' y='20' width='6' height='50' fill='#8a6030'/><rect x='80' y='20' width='6' height='50' fill='#8a6030'/><rect x='10' y='16' width='80' height='6' fill='#a87840'/><line x1='24' y1='16' x2='24' y2='10' stroke='#a87840' stroke-width='3'/><line x1='38' y1='16' x2='38' y2='10' stroke='#a87840' stroke-width='3'/><line x1='52' y1='16' x2='52' y2='10' stroke='#a87840' stroke-width='3'/><line x1='66' y1='16' x2='66' y2='10' stroke='#a87840' stroke-width='3'/><path d='M14 30 Q30 26 50 30 Q70 34 86 30' stroke='#3a8a3a' stroke-width='2' fill='none'/></svg>"
+    },
+    {
+      "num": 9,
+      "word": "pathway",
+      "ipa": "/ˈpɑːθweɪ/",
+      "chinese": "小径",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='8' y='10' width='84' height='64' fill='#8cc56a'/><polygon points='40,10 60,10 70,74 30,74' fill='#cfcabd' stroke='#999' stroke-width='1'/><line x1='34' y1='30' x2='66' y2='30' stroke='#999' stroke-width='1'/><line x1='31' y1='50' x2='69' y2='50' stroke='#999' stroke-width='1'/></svg>"
+    },
+    {
+      "num": 10,
+      "word": "paving",
+      "ipa": "/ˈpeɪvɪŋ/",
+      "chinese": "铺路石/地砖",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='10' y='14' width='80' height='56' fill='#bdb8aa' stroke='#888' stroke-width='1.5'/><line x1='10' y1='32' x2='90' y2='32' stroke='#888' stroke-width='1.5'/><line x1='10' y1='52' x2='90' y2='52' stroke='#888' stroke-width='1.5'/><line x1='36' y1='14' x2='36' y2='32' stroke='#888' stroke-width='1.5'/><line x1='62' y1='14' x2='62' y2='32' stroke='#888' stroke-width='1.5'/><line x1='24' y1='32' x2='24' y2='52' stroke='#888' stroke-width='1.5'/><line x1='50' y1='32' x2='50' y2='52' stroke='#888' stroke-width='1.5'/><line x1='76' y1='32' x2='76' y2='52' stroke='#888' stroke-width='1.5'/><line x1='40' y1='52' x2='40' y2='70' stroke='#888' stroke-width='1.5'/><line x1='66' y1='52' x2='66' y2='70' stroke='#888' stroke-width='1.5'/></svg>"
+    },
+    {
+      "num": 11,
+      "word": "retaining wall",
+      "ipa": "/rɪˈteɪnɪŋ wɔːl/",
+      "chinese": "挡土墙",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='10' y='40' width='80' height='30' fill='#9a8a6a' stroke='#6a5a3a' stroke-width='1.5'/><line x1='10' y1='50' x2='90' y2='50' stroke='#6a5a3a' stroke-width='1.5'/><line x1='10' y1='60' x2='90' y2='60' stroke='#6a5a3a' stroke-width='1.5'/><line x1='30' y1='40' x2='30' y2='50' stroke='#6a5a3a' stroke-width='1.5'/><line x1='55' y1='40' x2='55' y2='50' stroke='#6a5a3a' stroke-width='1.5'/><line x1='80' y1='40' x2='80' y2='50' stroke='#6a5a3a' stroke-width='1.5'/><line x1='20' y1='50' x2='20' y2='60' stroke='#6a5a3a' stroke-width='1.5'/><line x1='45' y1='50' x2='45' y2='60' stroke='#6a5a3a' stroke-width='1.5'/><line x1='70' y1='50' x2='70' y2='60' stroke='#6a5a3a' stroke-width='1.5'/><rect x='10' y='20' width='80' height='20' fill='#7cc04a'/></svg>"
+    },
+    {
+      "num": 12,
+      "word": "garden shed",
+      "ipa": "/ˈɡɑːdn ʃed/",
+      "chinese": "园艺杂物棚",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='22' y='34' width='56' height='38' fill='#9aa0a8' stroke='#5a6068' stroke-width='1.5'/><polygon points='18,34 50,18 82,34' fill='#6a7078' stroke='#404850' stroke-width='1.5'/><rect x='42' y='48' width='16' height='24' fill='#5a6068'/><line x1='30' y1='42' x2='30' y2='72' stroke='#7a8088' stroke-width='1'/><line x1='70' y1='42' x2='70' y2='72' stroke='#7a8088' stroke-width='1'/></svg>"
+    },
+    {
+      "section": "2. Backyard structures"
+    },
+    {
+      "num": 13,
+      "word": "fence",
+      "ipa": "/fens/",
+      "chinese": "围栏",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='12' y='30' width='8' height='40' fill='#c89a5a' stroke='#8a6030' stroke-width='1'/><rect x='30' y='30' width='8' height='40' fill='#c89a5a' stroke='#8a6030' stroke-width='1'/><rect x='48' y='30' width='8' height='40' fill='#c89a5a' stroke='#8a6030' stroke-width='1'/><rect x='66' y='30' width='8' height='40' fill='#c89a5a' stroke='#8a6030' stroke-width='1'/><polygon points='12,30 16,24 20,30' fill='#c89a5a' stroke='#8a6030' stroke-width='1'/><polygon points='30,30 34,24 38,30' fill='#c89a5a' stroke='#8a6030' stroke-width='1'/><polygon points='48,30 52,24 56,30' fill='#c89a5a' stroke='#8a6030' stroke-width='1'/><polygon points='66,30 70,24 74,30' fill='#c89a5a' stroke='#8a6030' stroke-width='1'/><rect x='8' y='40' width='72' height='5' fill='#b88a4a'/><rect x='8' y='56' width='72' height='5' fill='#b88a4a'/></svg>"
+    },
+    {
+      "num": 14,
+      "word": "gate",
+      "ipa": "/ɡeɪt/",
+      "chinese": "门/栅门",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='14' y='20' width='6' height='50' fill='#8a6030'/><rect x='80' y='20' width='6' height='50' fill='#8a6030'/><rect x='24' y='28' width='52' height='38' fill='none' stroke='#a87840' stroke-width='3'/><line x1='24' y1='42' x2='76' y2='42' stroke='#a87840' stroke-width='3'/><line x1='24' y1='54' x2='76' y2='54' stroke='#a87840' stroke-width='3'/><line x1='24' y1='66' x2='76' y2='28' stroke='#a87840' stroke-width='3'/></svg>"
+    },
+    {
+      "num": 15,
+      "word": "clothesline",
+      "ipa": "/ˈkləʊðzlaɪn/",
+      "chinese": "晾衣绳/架",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='48' y='20' width='4' height='50' fill='#888'/><line x1='20' y1='30' x2='80' y2='30' stroke='#aaa' stroke-width='1'/><line x1='18' y1='38' x2='82' y2='38' stroke='#aaa' stroke-width='1'/><rect x='28' y='30' width='10' height='14' fill='#4a9ad4'/><rect x='44' y='30' width='10' height='16' fill='#f0c040'/><rect x='60' y='30' width='10' height='14' fill='#e05080'/><rect x='12' y='66' width='76' height='4' fill='#7cc04a'/></svg>"
+    },
+    {
+      "num": 16,
+      "word": "Hills hoist",
+      "ipa": "/hɪlz hɔɪst/",
+      "chinese": "旋转晾衣架 (AUS)",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='48' y='40' width='4' height='30' fill='#888'/><line x1='20' y1='24' x2='80' y2='24' stroke='#aaa' stroke-width='1'/><line x1='24' y1='32' x2='76' y2='32' stroke='#aaa' stroke-width='1'/><line x1='30' y1='40' x2='70' y2='40' stroke='#aaa' stroke-width='1'/><line x1='50' y1='40' x2='16' y2='20' stroke='#888' stroke-width='1.5'/><line x1='50' y1='40' x2='84' y2='20' stroke='#888' stroke-width='1.5'/><line x1='50' y1='40' x2='50' y2='14' stroke='#888' stroke-width='1.5'/><rect x='12' y='66' width='76' height='4' fill='#7cc04a'/></svg>"
+    },
+    {
+      "num": 17,
+      "word": "compost bin",
+      "ipa": "/ˈkɒmpɒst bɪn/",
+      "chinese": "堆肥桶",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M26 32 L74 32 L70 70 L30 70 Z' fill='#3a6a2a' stroke='#244018' stroke-width='1.5'/><rect x='24' y='26' width='52' height='8' rx='2' fill='#4a8a3a' stroke='#244018' stroke-width='1.5'/><circle cx='40' cy='50' r='4' fill='#8a6a3a'/><circle cx='56' cy='56' r='4' fill='#c08040'/><circle cx='48' cy='44' r='3' fill='#a05030'/><path d='M44 48 L42 44 M58 52 L60 48' stroke='#5a8a2a' stroke-width='1.5'/></svg>"
+    },
+    {
+      "num": 18,
+      "word": "rainwater tank",
+      "ipa": "/ˈreɪnwɔːtə tæŋk/",
+      "chinese": "雨水箱 (AUS)",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='28' y='20' width='44' height='50' rx='4' fill='#5a8a6a' stroke='#3a5a44' stroke-width='1.5'/><ellipse cx='50' cy='20' rx='22' ry='5' fill='#6a9a7a' stroke='#3a5a44' stroke-width='1.5'/><line x1='34' y1='28' x2='34' y2='66' stroke='#4a7a5a' stroke-width='1'/><line x1='66' y1='28' x2='66' y2='66' stroke='#4a7a5a' stroke-width='1'/><rect x='44' y='64' width='8' height='6' fill='#888'/><path d='M72 30 L82 30 L82 14' stroke='#888' stroke-width='3' fill='none'/></svg>"
+    },
+    {
+      "num": 19,
+      "word": "greenhouse",
+      "ipa": "/ˈɡriːnhaʊs/",
+      "chinese": "温室",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='20' y='34' width='60' height='36' fill='#cfeaf0' fill-opacity='0.6' stroke='#7aa0b0' stroke-width='1.5'/><polygon points='16,34 50,16 84,34' fill='#cfeaf0' fill-opacity='0.6' stroke='#7aa0b0' stroke-width='1.5'/><line x1='35' y1='34' x2='35' y2='70' stroke='#7aa0b0' stroke-width='1'/><line x1='50' y1='25' x2='50' y2='70' stroke='#7aa0b0' stroke-width='1'/><line x1='65' y1='34' x2='65' y2='70' stroke='#7aa0b0' stroke-width='1'/><path d='M28 60 L28 52 M28 52 L24 54 M28 52 L32 54' stroke='#3a8a3a' stroke-width='2'/><circle cx='60' cy='56' r='4' fill='#e05080'/></svg>"
+    },
+    {
+      "num": 20,
+      "word": "trellis",
+      "ipa": "/ˈtrelɪs/",
+      "chinese": "棚架/格架",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><line x1='20' y1='14' x2='20' y2='70' stroke='#a87840' stroke-width='2'/><line x1='35' y1='14' x2='35' y2='70' stroke='#a87840' stroke-width='2'/><line x1='50' y1='14' x2='50' y2='70' stroke='#a87840' stroke-width='2'/><line x1='65' y1='14' x2='65' y2='70' stroke='#a87840' stroke-width='2'/><line x1='80' y1='14' x2='80' y2='70' stroke='#a87840' stroke-width='2'/><line x1='14' y1='26' x2='86' y2='26' stroke='#a87840' stroke-width='2'/><line x1='14' y1='42' x2='86' y2='42' stroke='#a87840' stroke-width='2'/><line x1='14' y1='58' x2='86' y2='58' stroke='#a87840' stroke-width='2'/><path d='M50 70 Q40 50 50 40 Q60 30 50 14' stroke='#3a8a3a' stroke-width='2' fill='none'/><circle cx='46' cy='44' r='3' fill='#3a8a3a'/><circle cx='54' cy='32' r='3' fill='#3a8a3a'/></svg>"
+    },
+    {
+      "num": 21,
+      "word": "gazebo",
+      "ipa": "/ɡəˈziːbəʊ/",
+      "chinese": "凉亭",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='20' y='40' width='5' height='30' fill='#8a6030'/><rect x='75' y='40' width='5' height='30' fill='#8a6030'/><rect x='18' y='40' width='64' height='6' fill='#a87840'/><polygon points='14,40 50,18 86,40' fill='#6a8a4a' stroke='#3a5a2a' stroke-width='1.5'/><line x1='50' y1='18' x2='50' y2='12' stroke='#3a5a2a' stroke-width='2'/><circle cx='50' cy='11' r='2' fill='#3a5a2a'/></svg>"
+    },
+    {
+      "num": 22,
+      "word": "cubby house",
+      "ipa": "/ˈkʌbi haʊs/",
+      "chinese": "儿童游戏屋 (AUS)",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='26' y='38' width='48' height='32' fill='#e0a060' stroke='#a06030' stroke-width='1.5'/><polygon points='22,38 50,20 78,38' fill='#c05040' stroke='#803020' stroke-width='1.5'/><rect x='44' y='52' width='14' height='18' fill='#8a5020'/><rect x='30' y='46' width='10' height='10' fill='#a0d0e0' stroke='#a06030' stroke-width='1'/><rect x='62' y='46' width='8' height='10' fill='#a0d0e0' stroke='#a06030' stroke-width='1'/></svg>"
+    },
+    {
+      "num": 23,
+      "word": "trampoline",
+      "ipa": "/ˈtræmpəliːn/",
+      "chinese": "蹦床",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><ellipse cx='50' cy='40' rx='38' ry='14' fill='#2a2a2a' stroke='#444' stroke-width='1.5'/><ellipse cx='50' cy='38' rx='30' ry='10' fill='#3a5a8a'/><line x1='14' y1='44' x2='18' y2='70' stroke='#666' stroke-width='2'/><line x1='86' y1='44' x2='82' y2='70' stroke='#666' stroke-width='2'/><line x1='35' y1='52' x2='32' y2='72' stroke='#666' stroke-width='2'/><line x1='65' y1='52' x2='68' y2='72' stroke='#666' stroke-width='2'/></svg>"
+    },
+    {
+      "num": 24,
+      "word": "barbie / BBQ",
+      "ipa": "/ˈbɑːbi/",
+      "chinese": "烧烤架 (AUS)",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='26' y='34' width='48' height='16' rx='3' fill='#444' stroke='#222' stroke-width='1.5'/><ellipse cx='50' cy='34' rx='24' ry='5' fill='#666'/><line x1='34' y1='34' x2='66' y2='34' stroke='#888' stroke-width='1'/><line x1='34' y1='38' x2='66' y2='38' stroke='#888' stroke-width='1'/><rect x='30' y='50' width='5' height='20' fill='#555'/><rect x='65' y='50' width='5' height='20' fill='#555'/><rect x='40' y='28' width='8' height='4' rx='2' fill='#a05030'/><rect x='52' y='28' width='8' height='4' rx='2' fill='#a05030'/><path d='M44 24 Q46 20 44 18 M56 24 Q58 20 56 18' stroke='#bbb' stroke-width='1.5' fill='none'/></svg>"
+    },
+    {
+      "section": "3. Lawn & ground"
+    },
+    {
+      "num": 25,
+      "word": "turf",
+      "ipa": "/tɜːf/",
+      "chinese": "草皮",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='14' y='40' width='30' height='28' fill='#7cc04a' stroke='#4a8020' stroke-width='1.5'/><rect x='14' y='40' width='30' height='6' fill='#6a4a2a'/><path d='M20 40 L20 32 M28 40 L28 34 M36 40 L36 32' stroke='#5aa030' stroke-width='1.5'/><path d='M50 50 Q58 44 70 48 L82 46 L80 70 L52 70 Z' fill='#6a4a2a'/><path d='M56 48 L56 42 M64 48 L64 42 M72 46 L72 40' stroke='#5aa030' stroke-width='1.5'/></svg>"
+    },
+    {
+      "num": 26,
+      "word": "grass",
+      "ipa": "/ɡrɑːs/",
+      "chinese": "草",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M20 70 Q18 50 14 40 M26 70 Q28 48 24 38 M32 70 Q30 52 34 42 M40 70 Q40 46 36 36 M48 70 Q50 50 46 40 M56 70 Q54 48 58 38 M64 70 Q66 52 62 42 M72 70 Q70 46 74 38 M80 70 Q82 50 78 42' stroke='#4a9a30' stroke-width='2.5' fill='none'/></svg>"
+    },
+    {
+      "num": 27,
+      "word": "soil",
+      "ipa": "/sɔɪl/",
+      "chinese": "土壤",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='12' y='38' width='76' height='32' rx='2' fill='#6a4a2a'/><circle cx='24' cy='48' r='3' fill='#5a3a1a'/><circle cx='40' cy='56' r='3' fill='#5a3a1a'/><circle cx='56' cy='46' r='3' fill='#5a3a1a'/><circle cx='70' cy='58' r='3' fill='#5a3a1a'/><circle cx='34' cy='64' r='2.5' fill='#7a5a3a'/><circle cx='62' cy='64' r='2.5' fill='#7a5a3a'/><circle cx='78' cy='46' r='2.5' fill='#7a5a3a'/></svg>"
+    },
+    {
+      "num": 28,
+      "word": "mulch",
+      "ipa": "/mʌltʃ/",
+      "chinese": "覆盖物/地膜",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='12' y='42' width='76' height='28' rx='2' fill='#8a5a2a'/><path d='M18 50 L30 48 M34 56 L46 54 M50 50 L62 48 M66 56 L78 54 M22 62 L34 60 M54 62 L66 60' stroke='#6a3a1a' stroke-width='2.5' stroke-linecap='round'/><path d='M40 64 L52 62 M70 50 L82 48' stroke='#a06a3a' stroke-width='2' stroke-linecap='round'/></svg>"
+    },
+    {
+      "num": 29,
+      "word": "compost",
+      "ipa": "/ˈkɒmpɒst/",
+      "chinese": "堆肥",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><circle cx='50' cy='48' r='24' fill='#5a3a1a' stroke='#3a2410' stroke-width='1.5'/><circle cx='40' cy='44' r='4' fill='#3a8a3a'/><circle cx='58' cy='50' r='4' fill='#c08040'/><ellipse cx='50' cy='40' rx='5' ry='3' fill='#d04030'/><path d='M44 54 L46 48' stroke='#5a8a2a' stroke-width='1.5'/><circle cx='62' cy='42' r='2.5' fill='#a0703a'/><circle cx='38' cy='56' r='2.5' fill='#7a4a2a'/></svg>"
+    },
+    {
+      "num": 30,
+      "word": "fertiliser",
+      "ipa": "/ˈfɜːtəlaɪzə/",
+      "chinese": "肥料",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M34 30 L66 30 L70 70 L30 70 Z' fill='#d8c060' stroke='#a08020' stroke-width='1.5'/><rect x='38' y='40' width='24' height='20' fill='#fff' stroke='#a08020' stroke-width='1'/><text x='50' y='54' font-size='12' text-anchor='middle' fill='#3a8a3a' font-family='Arial' font-weight='bold'>NPK</text><path d='M40 30 L40 24 L60 24 L60 30' fill='none' stroke='#a08020' stroke-width='1.5'/></svg>"
+    },
+    {
+      "num": 31,
+      "word": "potting mix",
+      "ipa": "/ˈpɒtɪŋ mɪks/",
+      "chinese": "营养土",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M30 28 L70 28 L72 72 L28 72 Z' fill='#7a5a3a' stroke='#4a3018' stroke-width='1.5'/><path d='M30 28 Q50 20 70 28' fill='#8a6a4a' stroke='#4a3018' stroke-width='1.5'/><ellipse cx='44' cy='46' rx='5' ry='3' fill='#3a8a3a'/><ellipse cx='58' cy='54' rx='5' ry='3' fill='#3a8a3a'/><text x='50' y='66' font-size='8' text-anchor='middle' fill='#e8d8c0' font-family='Arial'>MIX</text></svg>"
+    },
+    {
+      "num": 32,
+      "word": "dead patch",
+      "ipa": "/ded pætʃ/",
+      "chinese": "枯死的一块草",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='10' y='30' width='80' height='40' fill='#7cc04a' stroke='#4a8020' stroke-width='1.5'/><ellipse cx='52' cy='50' rx='20' ry='13' fill='#b89a5a'/><path d='M40 48 L42 44 M50 46 L52 42 M60 50 L62 46' stroke='#9a7a3a' stroke-width='1.5'/></svg>"
+    },
+    {
+      "section": "4. Plants & types"
+    },
+    {
+      "num": 33,
+      "word": "shrub",
+      "ipa": "/ʃrʌb/",
+      "chinese": "灌木",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='46' y='52' width='8' height='18' fill='#6a4020'/><circle cx='50' cy='40' r='18' fill='#3a8a3a'/><circle cx='36' cy='46' r='12' fill='#4a9a40'/><circle cx='64' cy='46' r='12' fill='#4a9a40'/><circle cx='50' cy='52' r='12' fill='#3a8a3a'/></svg>"
+    },
+    {
+      "num": 34,
+      "word": "hedge",
+      "ipa": "/hedʒ/",
+      "chinese": "树篱",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='12' y='34' width='76' height='34' rx='6' fill='#3a8a3a' stroke='#2a6a2a' stroke-width='1.5'/><circle cx='24' cy='38' r='8' fill='#4a9a40'/><circle cx='40' cy='36' r='8' fill='#4a9a40'/><circle cx='56' cy='36' r='8' fill='#4a9a40'/><circle cx='72' cy='38' r='8' fill='#4a9a40'/></svg>"
+    },
+    {
+      "num": 35,
+      "word": "native plants",
+      "ipa": "/ˈneɪtɪv plɑːnts/",
+      "chinese": "本土植物 (AUS)",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='46' y='48' width='6' height='22' fill='#7a5030'/><path d='M49 48 Q30 40 26 24 M49 48 Q36 36 38 22 M49 48 Q49 30 49 20 M49 48 Q62 36 60 22 M49 48 Q68 40 72 24' stroke='#4a8a3a' stroke-width='2.5' fill='none'/><circle cx='26' cy='24' r='3' fill='#e0a040'/><circle cx='49' cy='20' r='3' fill='#e0a040'/><circle cx='72' cy='24' r='3' fill='#e0a040'/></svg>"
+    },
+    {
+      "num": 36,
+      "word": "gum tree",
+      "ipa": "/ɡʌm triː/",
+      "chinese": "桉树 (AUS)",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M48 70 L48 36 Q40 30 44 22 M48 40 Q58 34 56 24' stroke='#9aa0a0' stroke-width='4' fill='none'/><circle cx='40' cy='22' r='12' fill='#6a9a5a'/><circle cx='58' cy='20' r='13' fill='#5a8a4a'/><circle cx='50' cy='32' r='12' fill='#6a9a5a'/><circle cx='38' cy='34' r='9' fill='#5a8a4a'/></svg>"
+    },
+    {
+      "num": 37,
+      "word": "bottlebrush",
+      "ipa": "/ˈbɒtlbrʌʃ/",
+      "chinese": "红千层 (AUS)",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M50 70 L50 30' stroke='#6a4020' stroke-width='3'/><ellipse cx='50' cy='24' rx='10' ry='16' fill='#d83030'/><path d='M40 14 L40 10 M44 12 L44 7 M48 11 L48 6 M52 11 L52 6 M56 12 L56 7 M60 14 L60 10' stroke='#d83030' stroke-width='1.5'/><path d='M42 36 L36 40 M58 36 L64 40' stroke='#3a8a3a' stroke-width='2'/></svg>"
+    },
+    {
+      "num": 38,
+      "word": "grevillea",
+      "ipa": "/ɡrəˈvɪliə/",
+      "chinese": "银桦 (AUS)",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M50 70 L50 34' stroke='#6a4020' stroke-width='3'/><path d='M50 30 Q40 24 36 16 M50 30 Q50 22 50 14 M50 30 Q60 24 64 16' stroke='#e06020' stroke-width='2.5' fill='none'/><circle cx='36' cy='16' r='3' fill='#f0a020'/><circle cx='50' cy='14' r='3' fill='#f0a020'/><circle cx='64' cy='16' r='3' fill='#f0a020'/><path d='M44 38 L38 44 M56 38 L62 44' stroke='#3a8a3a' stroke-width='2'/></svg>"
+    },
+    {
+      "num": 39,
+      "word": "succulent",
+      "ipa": "/ˈsʌkjələnt/",
+      "chinese": "多肉植物",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M50 60 Q34 54 32 40 Q44 44 50 56 Q56 44 68 40 Q66 54 50 60 Z' fill='#6aaa6a' stroke='#4a8a4a' stroke-width='1'/><path d='M50 56 Q42 46 42 34 Q50 40 50 52 Q50 40 58 34 Q58 46 50 56 Z' fill='#7aba7a' stroke='#4a8a4a' stroke-width='1'/><path d='M50 50 Q46 40 50 30 Q54 40 50 50 Z' fill='#8aca8a'/><path d='M30 60 L70 60 L66 70 L34 70 Z' fill='#c87040' stroke='#8a4a20' stroke-width='1.5'/></svg>"
+    },
+    {
+      "num": 40,
+      "word": "fern",
+      "ipa": "/fɜːn/",
+      "chinese": "蕨类",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M50 70 Q48 40 44 18' stroke='#3a7a2a' stroke-width='2.5' fill='none'/><path d='M46 26 L36 22 M47 32 L37 30 M48 40 L39 40 M49 48 L41 50 M50 56 L43 60 M45 24 L54 18 M46 32 L56 28 M47 40 L57 40 M48 48 L57 50 M49 56 L57 60' stroke='#4a9a30' stroke-width='1.5'/></svg>"
+    },
+    {
+      "num": 41,
+      "word": "vine",
+      "ipa": "/vaɪn/",
+      "chinese": "藤蔓",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M20 70 Q30 50 24 36 Q40 44 44 28 Q50 40 60 30 Q66 44 80 34' stroke='#4a8a3a' stroke-width='2.5' fill='none'/><circle cx='24' cy='36' r='4' fill='#3a8a3a'/><circle cx='44' cy='28' r='4' fill='#3a8a3a'/><circle cx='60' cy='30' r='4' fill='#3a8a3a'/><circle cx='80' cy='34' r='4' fill='#3a8a3a'/></svg>"
+    },
+    {
+      "num": 42,
+      "word": "creeper",
+      "ipa": "/ˈkriːpə/",
+      "chinese": "攀缘植物",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='14' y='14' width='72' height='56' fill='none' stroke='#999' stroke-width='1.5'/><path d='M20 66 Q26 50 22 40 Q30 48 34 36 M40 66 Q46 50 42 38 Q50 46 54 34 M60 66 Q66 50 62 40 Q70 48 74 36' stroke='#4a8a3a' stroke-width='2' fill='none'/><circle cx='22' cy='40' r='3' fill='#3a8a3a'/><circle cx='42' cy='38' r='3' fill='#3a8a3a'/><circle cx='62' cy='40' r='3' fill='#3a8a3a'/></svg>"
+    },
+    {
+      "num": 43,
+      "word": "groundcover",
+      "ipa": "/ˈɡraʊndkʌvə/",
+      "chinese": "地被植物",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='10' y='52' width='80' height='18' fill='#6a4a2a'/><circle cx='22' cy='50' r='8' fill='#4a9a40'/><circle cx='38' cy='52' r='8' fill='#3a8a3a'/><circle cx='54' cy='50' r='8' fill='#4a9a40'/><circle cx='70' cy='52' r='8' fill='#3a8a3a'/><circle cx='30' cy='46' r='5' fill='#5aaa4a'/><circle cx='62' cy='46' r='5' fill='#5aaa4a'/><circle cx='46' cy='44' r='3' fill='#e0a0c0'/><circle cx='78' cy='46' r='3' fill='#e0a0c0'/></svg>"
+    },
+    {
+      "num": 44,
+      "word": "seedling",
+      "ipa": "/ˈsiːdlɪŋ/",
+      "chinese": "幼苗",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M30 70 L70 70 L66 56 L34 56 Z' fill='#a06030' stroke='#6a4020' stroke-width='1.5'/><path d='M50 56 L50 34' stroke='#4a9a30' stroke-width='2.5'/><path d='M50 42 Q40 38 36 30 Q46 30 50 40' fill='#5aaa4a'/><path d='M50 40 Q60 36 64 28 Q54 28 50 38' fill='#5aaa4a'/></svg>"
+    },
+    {
+      "num": 45,
+      "word": "herb",
+      "ipa": "/hɜːb/",
+      "chinese": "香草",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M34 70 L66 70 L62 50 L38 50 Z' fill='#c08040' stroke='#8a5020' stroke-width='1.5'/><path d='M44 50 Q40 36 42 24 M50 50 L50 20 M56 50 Q60 36 58 24' stroke='#3a8a3a' stroke-width='2' fill='none'/><circle cx='42' cy='24' r='4' fill='#4a9a40'/><circle cx='50' cy='20' r='4' fill='#4a9a40'/><circle cx='58' cy='24' r='4' fill='#4a9a40'/><circle cx='46' cy='34' r='3' fill='#4a9a40'/><circle cx='54' cy='34' r='3' fill='#4a9a40'/></svg>"
+    },
+    {
+      "num": 46,
+      "word": "rose bush",
+      "ipa": "/rəʊz bʊʃ/",
+      "chinese": "玫瑰丛",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='46' y='50' width='8' height='20' fill='#5a7a3a'/><circle cx='34' cy='38' r='7' fill='#e04060'/><circle cx='34' cy='38' r='3' fill='#f08090'/><circle cx='62' cy='34' r='7' fill='#e04060'/><circle cx='62' cy='34' r='3' fill='#f08090'/><circle cx='48' cy='26' r='7' fill='#e04060'/><circle cx='48' cy='26' r='3' fill='#f08090'/><path d='M40 46 L32 50 M60 44 L68 48' stroke='#3a8a3a' stroke-width='2'/></svg>"
+    },
+    {
+      "section": "5. Plant parts"
+    },
+    {
+      "num": 47,
+      "word": "root",
+      "ipa": "/ruːt/",
+      "chinese": "根",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='14' y='14' width='72' height='26' fill='#cfeaf0' fill-opacity='0.3'/><path d='M50 14 L50 40' stroke='#3a8a3a' stroke-width='3'/><path d='M50 40 Q40 50 30 54 Q22 58 18 68 M50 40 Q50 54 48 70 M50 40 Q60 50 68 56 Q76 60 80 70 M50 48 Q44 56 38 62 M50 48 Q58 56 64 62' stroke='#a06030' stroke-width='2' fill='none'/><line x1='14' y1='40' x2='86' y2='40' stroke='#8a6030' stroke-width='1' stroke-dasharray='3 2'/></svg>"
+    },
+    {
+      "num": 48,
+      "word": "stem",
+      "ipa": "/stem/",
+      "chinese": "茎",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M50 70 L50 16' stroke='#4a9a30' stroke-width='5'/><path d='M50 40 Q38 34 32 24 Q44 28 50 38' fill='#5aaa4a'/><path d='M50 50 Q62 44 68 34 Q56 38 50 48' fill='#5aaa4a'/></svg>"
+    },
+    {
+      "num": 49,
+      "word": "branch",
+      "ipa": "/brɑːntʃ/",
+      "chinese": "树枝",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M16 68 Q40 56 50 40 Q56 30 54 16 M50 40 Q62 34 76 32 M44 50 Q34 46 24 44' stroke='#7a5030' stroke-width='4' fill='none'/><circle cx='54' cy='16' r='4' fill='#4a9a40'/><circle cx='76' cy='32' r='4' fill='#4a9a40'/><circle cx='24' cy='44' r='4' fill='#4a9a40'/></svg>"
+    },
+    {
+      "num": 50,
+      "word": "bud",
+      "ipa": "/bʌd/",
+      "chinese": "花蕾/芽",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M50 70 L50 40' stroke='#4a9a30' stroke-width='3'/><path d='M44 40 Q40 24 50 14 Q60 24 56 40 Z' fill='#6aaa5a' stroke='#4a8a3a' stroke-width='1.5'/><path d='M50 16 Q50 28 50 40' stroke='#4a8a3a' stroke-width='1'/><path d='M48 38 Q42 34 40 28' stroke='#3a8a3a' stroke-width='1.5'/></svg>"
+    },
+    {
+      "num": 51,
+      "word": "blossom",
+      "ipa": "/ˈblɒsəm/",
+      "chinese": "花/开花",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><circle cx='50' cy='40' r='6' fill='#f0c040'/><ellipse cx='50' cy='24' rx='6' ry='11' fill='#f5b8d0'/><ellipse cx='50' cy='56' rx='6' ry='11' fill='#f5b8d0'/><ellipse cx='34' cy='40' rx='11' ry='6' fill='#f5b8d0'/><ellipse cx='66' cy='40' rx='11' ry='6' fill='#f5b8d0'/><ellipse cx='38' cy='28' rx='9' ry='6' fill='#f5b8d0' transform='rotate(-45 38 28)'/><ellipse cx='62' cy='28' rx='9' ry='6' fill='#f5b8d0' transform='rotate(45 62 28)'/></svg>"
+    },
+    {
+      "num": 52,
+      "word": "petal",
+      "ipa": "/ˈpetl/",
+      "chinese": "花瓣",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M50 14 Q34 30 50 66 Q66 30 50 14 Z' fill='#f08ab0' stroke='#c05080' stroke-width='1.5'/><path d='M50 18 L50 60' stroke='#c05080' stroke-width='1' opacity='0.5'/></svg>"
+    },
+    {
+      "num": 53,
+      "word": "thorn",
+      "ipa": "/θɔːn/",
+      "chinese": "刺",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M22 60 Q50 50 78 30' stroke='#5a7a3a' stroke-width='4' fill='none'/><path d='M36 52 L32 44 L40 50 Z' fill='#3a5a2a'/><path d='M52 44 L48 36 L56 42 Z' fill='#3a5a2a'/><path d='M68 36 L64 28 L72 34 Z' fill='#3a5a2a'/></svg>"
+    },
+    {
+      "num": 54,
+      "word": "bark",
+      "ipa": "/bɑːk/",
+      "chinese": "树皮",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='30' y='12' width='40' height='60' rx='4' fill='#8a6040' stroke='#5a3a20' stroke-width='1.5'/><path d='M38 14 Q36 40 40 70 M50 14 Q52 40 48 70 M62 14 Q60 40 64 70' stroke='#5a3a20' stroke-width='1.5' fill='none'/><path d='M38 28 L50 30 M50 44 L62 46 M40 56 L50 58' stroke='#5a3a20' stroke-width='1'/></svg>"
+    },
+    {
+      "num": 55,
+      "word": "sap",
+      "ipa": "/sæp/",
+      "chinese": "树液",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M34 12 L66 12 L62 50 L50 50 L50 12' fill='#8a6040' stroke='#5a3a20' stroke-width='1.5'/><rect x='30' y='10' width='40' height='6' fill='#9a7050'/><path d='M50 50 Q46 58 50 64 Q54 58 50 50 Z' fill='#e0a020'/><circle cx='50' cy='62' r='4' fill='#f0c040'/></svg>"
+    },
+    {
+      "num": 56,
+      "word": "seed",
+      "ipa": "/siːd/",
+      "chinese": "种子",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><ellipse cx='34' cy='44' rx='7' ry='10' fill='#a06030' stroke='#6a4020' stroke-width='1.5'/><ellipse cx='52' cy='52' rx='6' ry='9' fill='#b87040' stroke='#6a4020' stroke-width='1.5'/><ellipse cx='64' cy='36' rx='7' ry='10' fill='#8a5030' stroke='#6a4020' stroke-width='1.5'/><ellipse cx='48' cy='34' rx='5' ry='8' fill='#c08050' stroke='#6a4020' stroke-width='1'/></svg>"
+    },
+    {
+      "num": 57,
+      "word": "bulb",
+      "ipa": "/bʌlb/",
+      "chinese": "球茎",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M38 38 Q38 60 50 66 Q62 60 62 38 Q62 28 50 28 Q38 28 38 38 Z' fill='#d8b888' stroke='#a08858' stroke-width='1.5'/><path d='M50 28 L50 66 M44 30 Q44 50 48 64 M56 30 Q56 50 52 64' stroke='#a08858' stroke-width='1'/><path d='M46 28 L42 14 M50 28 L50 12 M54 28 L58 14' stroke='#4a9a30' stroke-width='2'/><path d='M50 66 L46 74 M50 66 L50 74 M50 66 L54 74' stroke='#c0a060' stroke-width='1'/></svg>"
+    },
+    {
+      "section": "6. Tools & equipment"
+    },
+    {
+      "num": 58,
+      "word": "lawnmower",
+      "ipa": "/ˈlɔːnməʊə/",
+      "chinese": "割草机",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='24' y='40' width='40' height='20' rx='3' fill='#3a8a4a' stroke='#1a5a2a' stroke-width='1.5'/><circle cx='32' cy='62' r='7' fill='#333' stroke='#000' stroke-width='1.5'/><circle cx='58' cy='62' r='7' fill='#333' stroke='#000' stroke-width='1.5'/><path d='M64 44 L82 22' stroke='#666' stroke-width='3'/><path d='M78 18 L86 22 L82 30' fill='none' stroke='#666' stroke-width='3'/><rect x='28' y='34' width='16' height='8' fill='#555'/></svg>"
+    },
+    {
+      "num": 59,
+      "word": "whipper snipper",
+      "ipa": "/ˈwɪpə snɪpə/",
+      "chinese": "打草机 (AUS)",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M24 18 L70 58' stroke='#e0a020' stroke-width='4'/><rect x='18' y='14' width='12' height='8' rx='2' fill='#333'/><circle cx='72' cy='60' r='8' fill='#444' stroke='#222' stroke-width='1.5'/><path d='M66 60 L58 56 M72 68 L70 76 M80 62 L88 64 M78 54 L84 48' stroke='#888' stroke-width='1.5'/><rect x='40' y='34' width='10' height='6' rx='2' fill='#555' transform='rotate(40 45 37)'/></svg>"
+    },
+    {
+      "num": 60,
+      "word": "leaf blower",
+      "ipa": "/liːf bləʊə/",
+      "chinese": "吹叶机",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='24' y='30' width='26' height='16' rx='4' fill='#f0a020' stroke='#a06010' stroke-width='1.5'/><path d='M50 34 L78 30 L78 42 L50 42 Z' fill='#555' stroke='#333' stroke-width='1.5'/><rect x='28' y='46' width='10' height='12' rx='2' fill='#333'/><path d='M78 32 L88 28 M78 36 L90 36 M78 40 L88 44' stroke='#aaa' stroke-width='1.5'/><circle cx='62' cy='52' r='2' fill='#a06a30'/><circle cx='70' cy='56' r='2' fill='#a06a30'/></svg>"
+    },
+    {
+      "num": 61,
+      "word": "hose",
+      "ipa": "/həʊz/",
+      "chinese": "水管",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M20 60 Q14 40 30 36 Q50 32 46 50 Q42 64 60 60 Q80 56 78 36' stroke='#3a8a5a' stroke-width='5' fill='none'/><path d='M78 36 L84 24' stroke='#666' stroke-width='4'/><polygon points='82,20 90,22 86,30' fill='#888'/></svg>"
+    },
+    {
+      "num": 62,
+      "word": "sprinkler",
+      "ipa": "/ˈsprɪŋklə/",
+      "chinese": "洒水器",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='42' y='52' width='16' height='14' fill='#555' stroke='#333' stroke-width='1.5'/><rect x='38' y='62' width='24' height='6' rx='2' fill='#777'/><path d='M50 52 L50 44' stroke='#888' stroke-width='2'/><path d='M50 44 Q36 36 26 38 M50 44 Q42 32 38 24 M50 44 Q50 30 50 22 M50 44 Q58 32 62 24 M50 44 Q64 36 74 38' stroke='#5ab0e0' stroke-width='1.5' fill='none'/><circle cx='26' cy='38' r='1.5' fill='#5ab0e0'/><circle cx='74' cy='38' r='1.5' fill='#5ab0e0'/></svg>"
+    },
+    {
+      "num": 63,
+      "word": "watering can",
+      "ipa": "/ˈwɔːtərɪŋ kæn/",
+      "chinese": "洒水壶",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M30 40 L62 40 L60 66 L34 66 Z' fill='#3a8ac4' stroke='#206090' stroke-width='1.5'/><path d='M62 44 L80 30' stroke='#206090' stroke-width='4'/><ellipse cx='82' cy='28' rx='5' ry='3' fill='#5aa0d0' stroke='#206090' stroke-width='1'/><path d='M30 46 Q22 42 26 34' stroke='#206090' stroke-width='3' fill='none'/><rect x='36' y='34' width='20' height='6' rx='2' fill='#206090'/></svg>"
+    },
+    {
+      "num": 64,
+      "word": "wheelbarrow",
+      "ipa": "/ˈwiːlbærəʊ/",
+      "chinese": "独轮手推车",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M22 38 L70 38 L62 56 L30 56 Z' fill='#3a6aa4' stroke='#204870' stroke-width='1.5'/><circle cx='32' cy='64' r='8' fill='#333' stroke='#000' stroke-width='1.5'/><path d='M62 50 L82 58' stroke='#888' stroke-width='3'/><path d='M70 40 L78 36' stroke='#888' stroke-width='3'/><path d='M30 56 L26 66 M58 54 L60 64' stroke='#666' stroke-width='2'/></svg>"
+    },
+    {
+      "num": 65,
+      "word": "rake",
+      "ipa": "/reɪk/",
+      "chinese": "耙子",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M50 16 L50 56' stroke='#a87840' stroke-width='3'/><path d='M30 56 L70 56' stroke='#666' stroke-width='3'/><path d='M32 56 L30 68 M40 56 L39 68 M50 56 L50 68 M60 56 L61 68 M68 56 L70 68' stroke='#888' stroke-width='2.5'/></svg>"
+    },
+    {
+      "num": 66,
+      "word": "spade",
+      "ipa": "/speɪd/",
+      "chinese": "铲子(平头)",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='47' y='14' width='6' height='34' fill='#a87840'/><path d='M44 14 L56 14 L56 8 L44 8 Z' fill='#a87840'/><path d='M40 48 L60 48 L56 68 Q50 74 44 68 Z' fill='#9aa0a8' stroke='#5a6068' stroke-width='1.5'/></svg>"
+    },
+    {
+      "num": 67,
+      "word": "shovel",
+      "ipa": "/ˈʃʌvl/",
+      "chinese": "铁锹",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='47' y='12' width='6' height='38' fill='#a87840'/><path d='M44 12 L56 12 L56 6 L44 6 Z' fill='#a87840'/><path d='M40 50 Q40 70 50 72 Q60 70 60 50 Z' fill='#9aa0a8' stroke='#5a6068' stroke-width='1.5'/></svg>"
+    },
+    {
+      "num": 68,
+      "word": "trowel",
+      "ipa": "/ˈtraʊəl/",
+      "chinese": "小铲子",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='44' y='14' width='12' height='14' rx='3' fill='#333'/><path d='M42 28 Q40 56 50 70 Q60 56 58 28 Z' fill='#9aa0a8' stroke='#5a6068' stroke-width='1.5'/><path d='M50 28 L50 64' stroke='#5a6068' stroke-width='1'/></svg>"
+    },
+    {
+      "num": 69,
+      "word": "garden fork",
+      "ipa": "/ˈɡɑːdn fɔːk/",
+      "chinese": "园艺叉",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='47' y='14' width='6' height='32' fill='#a87840'/><path d='M44 14 L56 14 L56 8 L44 8 Z' fill='#a87840'/><path d='M40 46 L40 70 M47 46 L47 72 M53 46 L53 72 M60 46 L60 70' stroke='#9aa0a8' stroke-width='3'/><rect x='38' y='44' width='24' height='5' fill='#7a8088'/></svg>"
+    },
+    {
+      "num": 70,
+      "word": "secateurs",
+      "ipa": "/ˈsekətɜːz/",
+      "chinese": "修枝剪",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M30 70 Q24 60 32 50 L52 30' stroke='#c83030' stroke-width='5' fill='none'/><path d='M44 70 Q50 60 42 50 L48 26' stroke='#333' stroke-width='4' fill='none'/><path d='M48 26 Q56 18 60 24 Q56 34 46 34 Z' fill='#9aa0a8' stroke='#5a6068' stroke-width='1.5'/><circle cx='40' cy='48' r='3' fill='#666'/></svg>"
+    },
+    {
+      "num": 71,
+      "word": "hedge trimmer",
+      "ipa": "/hedʒ ˈtrɪmə/",
+      "chinese": "绿篱修剪机",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='24' y='34' width='22' height='16' rx='3' fill='#f0a020' stroke='#a06010' stroke-width='1.5'/><rect x='46' y='38' width='38' height='8' fill='#888' stroke='#555' stroke-width='1'/><path d='M48 38 L48 34 M54 38 L54 33 M60 38 L60 34 M66 38 L66 33 M72 38 L72 34 M78 38 L78 33' stroke='#aaa' stroke-width='1.5'/><rect x='28' y='50' width='10' height='10' rx='2' fill='#333'/></svg>"
+    },
+    {
+      "num": 72,
+      "word": "gardening gloves",
+      "ipa": "/ˈɡɑːdnɪŋ ɡlʌvz/",
+      "chinese": "园艺手套",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M30 70 L30 40 Q30 36 34 36 L34 30 Q34 26 38 26 L38 36 L42 36 L42 24 Q42 20 46 20 L46 36 L50 36 L50 26 Q50 22 54 22 L54 38 L58 38 L58 32 Q58 28 62 30 L64 44 L64 70 Z' fill='#e0a040' stroke='#a06010' stroke-width='1.5'/><rect x='30' y='64' width='34' height='6' fill='#c08030'/></svg>"
+    },
+    {
+      "num": 73,
+      "word": "planter box",
+      "ipa": "/ˈplɑːntə bɒks/",
+      "chinese": "种植箱",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M22 36 L78 36 L72 70 L28 70 Z' fill='#a87840' stroke='#6a4a20' stroke-width='1.5'/><rect x='20' y='32' width='60' height='6' fill='#c89a5a'/><path d='M36 36 L36 22 M36 22 L30 26 M36 22 L42 26' stroke='#3a8a3a' stroke-width='2'/><circle cx='36' cy='20' r='4' fill='#e05080'/><path d='M58 36 L58 26' stroke='#3a8a3a' stroke-width='2'/><circle cx='58' cy='24' r='4' fill='#f0c040'/></svg>"
+    },
+    {
+      "num": 74,
+      "word": "hanging basket",
+      "ipa": "/ˈhæŋɪŋ ˈbɑːskɪt/",
+      "chinese": "吊篮",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M30 16 L50 36 L70 16' stroke='#888' stroke-width='1.5' fill='none'/><path d='M28 36 Q50 50 72 36 Z' fill='#6a4a2a' stroke='#4a3018' stroke-width='1.5'/><path d='M28 36 L72 36' stroke='#4a3018' stroke-width='1'/><path d='M34 40 Q26 54 22 64 M50 42 Q50 58 48 70 M66 40 Q74 54 78 64' stroke='#4a9a30' stroke-width='2.5' fill='none'/><circle cx='22' cy='64' r='4' fill='#e05080'/><circle cx='48' cy='68' r='4' fill='#f0c040'/><circle cx='78' cy='64' r='4' fill='#a060c0'/></svg>"
+    },
+    {
+      "section": "7. Jobs & actions"
+    },
+    {
+      "num": 75,
+      "word": "mow",
+      "ipa": "/məʊ/",
+      "chinese": "割(草)",
+      "svg": ""
+    },
+    {
+      "num": 76,
+      "word": "water",
+      "ipa": "/ˈwɔːtə/",
+      "chinese": "浇水",
+      "svg": ""
+    },
+    {
+      "num": 77,
+      "word": "weed",
+      "ipa": "/wiːd/",
+      "chinese": "除草",
+      "svg": ""
+    },
+    {
+      "num": 78,
+      "word": "prune",
+      "ipa": "/pruːn/",
+      "chinese": "修剪(枝)",
+      "svg": ""
+    },
+    {
+      "num": 79,
+      "word": "trim",
+      "ipa": "/trɪm/",
+      "chinese": "修剪",
+      "svg": ""
+    },
+    {
+      "num": 80,
+      "word": "dig",
+      "ipa": "/dɪɡ/",
+      "chinese": "挖",
+      "svg": ""
+    },
+    {
+      "num": 81,
+      "word": "plant",
+      "ipa": "/plɑːnt/",
+      "chinese": "种植",
+      "svg": ""
+    },
+    {
+      "num": 82,
+      "word": "sow",
+      "ipa": "/səʊ/",
+      "chinese": "播种",
+      "svg": ""
+    },
+    {
+      "num": 83,
+      "word": "transplant",
+      "ipa": "/trænsˈplɑːnt/",
+      "chinese": "移植",
+      "svg": ""
+    },
+    {
+      "num": 84,
+      "word": "repot",
+      "ipa": "/riːˈpɒt/",
+      "chinese": "换盆",
+      "svg": ""
+    },
+    {
+      "num": 85,
+      "word": "fertilise",
+      "ipa": "/ˈfɜːtəlaɪz/",
+      "chinese": "施肥",
+      "svg": ""
+    },
+    {
+      "num": 86,
+      "word": "rake (up)",
+      "ipa": "/reɪk/",
+      "chinese": "耙(树叶)",
+      "svg": ""
+    },
+    {
+      "num": 87,
+      "word": "harvest",
+      "ipa": "/ˈhɑːvɪst/",
+      "chinese": "收获",
+      "svg": ""
+    },
+    {
+      "num": 88,
+      "word": "deadhead",
+      "ipa": "/ˈdedhed/",
+      "chinese": "摘除残花",
+      "svg": ""
+    },
+    {
+      "num": 89,
+      "word": "stake",
+      "ipa": "/steɪk/",
+      "chinese": "立支柱",
+      "svg": ""
+    },
+    {
+      "num": 90,
+      "word": "hose down",
+      "ipa": "/həʊz daʊn/",
+      "chinese": "用水管冲洗",
+      "svg": ""
+    },
+    {
+      "section": "8. Pests & critters"
+    },
+    {
+      "num": 91,
+      "word": "weed",
+      "ipa": "/wiːd/",
+      "chinese": "杂草",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='12' y='58' width='76' height='12' fill='#6a4a2a'/><path d='M40 58 Q30 40 20 30 M40 58 Q38 38 36 22 M40 58 L40 18 M40 58 Q44 38 50 26 M40 58 Q52 42 62 34' stroke='#5a8a3a' stroke-width='2.5' fill='none'/><circle cx='20' cy='30' r='3' fill='#e0d040'/><circle cx='36' cy='22' r='3' fill='#e0d040'/><circle cx='40' cy='18' r='3' fill='#e0d040'/><circle cx='62' cy='34' r='3' fill='#e0d040'/></svg>"
+    },
+    {
+      "num": 92,
+      "word": "snail",
+      "ipa": "/sneɪl/",
+      "chinese": "蜗牛",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M20 60 Q18 50 28 50 L56 50' stroke='#a0905a' stroke-width='8' fill='none' stroke-linecap='round'/><circle cx='58' cy='46' r='16' fill='#c8a060' stroke='#8a6030' stroke-width='1.5'/><circle cx='58' cy='46' r='10' fill='none' stroke='#8a6030' stroke-width='1.5'/><circle cx='58' cy='46' r='4' fill='none' stroke='#8a6030' stroke-width='1.5'/><path d='M22 52 L18 42 M26 52 L24 42' stroke='#a0905a' stroke-width='2'/><circle cx='18' cy='42' r='2' fill='#333'/><circle cx='24' cy='42' r='2' fill='#333'/></svg>"
+    },
+    {
+      "num": 93,
+      "word": "slug",
+      "ipa": "/slʌɡ/",
+      "chinese": "鼻涕虫",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M16 56 Q16 46 28 46 L72 46 Q84 46 84 54 Q84 60 72 60 L24 60 Q16 60 16 56 Z' fill='#7a6a4a' stroke='#5a4a30' stroke-width='1.5'/><path d='M72 46 Q74 38 78 36 M76 46 Q80 40 84 40' stroke='#7a6a4a' stroke-width='2.5'/><circle cx='78' cy='35' r='1.5' fill='#333'/><circle cx='84' cy='39' r='1.5' fill='#333'/></svg>"
+    },
+    {
+      "num": 94,
+      "word": "aphid",
+      "ipa": "/ˈeɪfɪd/",
+      "chinese": "蚜虫",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><ellipse cx='50' cy='46' rx='16' ry='12' fill='#7aba4a' stroke='#4a8a2a' stroke-width='1.5'/><circle cx='62' cy='42' r='5' fill='#8aca5a'/><path d='M38 42 L30 36 M38 48 L30 50 M44 56 L40 64 M56 56 L60 64' stroke='#4a8a2a' stroke-width='1.5'/><path d='M64 38 L70 32 M66 42 L72 40' stroke='#4a8a2a' stroke-width='1.5'/></svg>"
+    },
+    {
+      "num": 95,
+      "word": "caterpillar",
+      "ipa": "/ˈkætəpɪlə/",
+      "chinese": "毛毛虫",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><circle cx='26' cy='48' r='9' fill='#7aba4a' stroke='#4a8a2a' stroke-width='1'/><circle cx='40' cy='50' r='9' fill='#6aaa3a' stroke='#4a8a2a' stroke-width='1'/><circle cx='54' cy='48' r='9' fill='#7aba4a' stroke='#4a8a2a' stroke-width='1'/><circle cx='68' cy='50' r='9' fill='#6aaa3a' stroke='#4a8a2a' stroke-width='1'/><circle cx='80' cy='46' r='8' fill='#8aca5a' stroke='#4a8a2a' stroke-width='1'/><circle cx='82' cy='44' r='1.5' fill='#333'/><path d='M80 38 L78 32 M84 38 L86 32' stroke='#4a8a2a' stroke-width='1.5'/></svg>"
+    },
+    {
+      "num": 96,
+      "word": "mozzie",
+      "ipa": "/ˈmɒzi/",
+      "chinese": "蚊子 (AUS)",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><ellipse cx='50' cy='48' rx='5' ry='12' fill='#555' stroke='#333' stroke-width='1'/><circle cx='50' cy='34' r='5' fill='#444'/><path d='M50 30 L46 18 M50 30 L54 18' stroke='#666' stroke-width='1'/><path d='M48 40 Q30 30 22 36 M52 40 Q70 30 78 36' fill='#cfeaf0' fill-opacity='0.5' stroke='#999' stroke-width='1'/><path d='M46 54 L34 64 M50 58 L50 70 M54 54 L66 64' stroke='#555' stroke-width='1.5'/></svg>"
+    },
+    {
+      "num": 97,
+      "word": "possum",
+      "ipa": "/ˈpɒsəm/",
+      "chinese": "负鼠 (AUS)",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><ellipse cx='44' cy='48' rx='20' ry='14' fill='#9a9a9a' stroke='#666' stroke-width='1.5'/><circle cx='24' cy='42' r='10' fill='#aaa' stroke='#666' stroke-width='1.5'/><path d='M18 34 L14 26 L22 32 Z' fill='#aaa' stroke='#666' stroke-width='1'/><circle cx='20' cy='40' r='2' fill='#333'/><path d='M14 42 L8 42' stroke='#666' stroke-width='1'/><path d='M62 50 Q78 50 80 62' stroke='#888' stroke-width='4' fill='none'/></svg>"
+    },
+    {
+      "num": 98,
+      "word": "magpie",
+      "ipa": "/ˈmæɡpaɪ/",
+      "chinese": "喜鹊 (AUS, 会俯冲)",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><ellipse cx='46' cy='48' rx='18' ry='11' fill='#1a1a1a'/><path d='M40 40 Q44 46 56 44 L62 50 L52 52 Z' fill='#fff'/><circle cx='30' cy='40' r='8' fill='#1a1a1a'/><path d='M22 38 L12 36 L22 42 Z' fill='#c8a020'/><circle cx='28' cy='38' r='1.5' fill='#fff'/><path d='M62 50 L80 54' fill='#fff' stroke='#1a1a1a' stroke-width='3'/><path d='M40 58 L38 68 M48 58 L48 68' stroke='#888' stroke-width='2'/></svg>"
+    },
+    {
+      "num": 99,
+      "word": "cockatoo",
+      "ipa": "/ˌkɒkəˈtuː/",
+      "chinese": "凤头鹦鹉 (AUS)",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><ellipse cx='48' cy='48' rx='16' ry='20' fill='#fff' stroke='#ccc' stroke-width='1.5'/><circle cx='42' cy='30' r='10' fill='#fff' stroke='#ccc' stroke-width='1.5'/><path d='M38 22 Q36 10 42 8 Q44 16 46 20 Q48 10 52 12 Q50 20 50 24 Z' fill='#f0d040'/><path d='M34 30 L26 28 L34 34 Z' fill='#555'/><circle cx='40' cy='30' r='1.5' fill='#333'/><path d='M44 66 L42 74 M52 66 L52 74' stroke='#888' stroke-width='2'/></svg>"
+    },
+    {
+      "section": "9. Describing the garden"
+    },
+    {
+      "num": 100,
+      "word": "lush",
+      "ipa": "/lʌʃ/",
+      "chinese": "茂盛的",
+      "svg": ""
+    },
+    {
+      "num": 101,
+      "word": "overgrown",
+      "ipa": "/ˌəʊvəˈɡrəʊn/",
+      "chinese": "长得过密的/荒芜的",
+      "svg": ""
+    },
+    {
+      "num": 102,
+      "word": "leafy",
+      "ipa": "/ˈliːfi/",
+      "chinese": "多叶的/绿树成荫的",
+      "svg": ""
+    },
+    {
+      "num": 103,
+      "word": "shady",
+      "ipa": "/ˈʃeɪdi/",
+      "chinese": "阴凉的",
+      "svg": ""
+    },
+    {
+      "num": 104,
+      "word": "drought-tolerant",
+      "ipa": "/draʊt ˈtɒlərənt/",
+      "chinese": "耐旱的 (AUS)",
+      "svg": ""
+    },
+    {
+      "num": 105,
+      "word": "wilting",
+      "ipa": "/ˈwɪltɪŋ/",
+      "chinese": "枯萎的",
+      "svg": ""
+    },
+    {
+      "num": 106,
+      "word": "thriving",
+      "ipa": "/ˈθraɪvɪŋ/",
+      "chinese": "茁壮的",
+      "svg": ""
+    },
+    {
+      "num": 107,
+      "word": "in bloom",
+      "ipa": "/ɪn bluːm/",
+      "chinese": "盛开的",
+      "svg": ""
+    },
+    {
+      "num": 108,
+      "word": "low maintenance",
+      "ipa": "/ləʊ ˈmeɪntənəns/",
+      "chinese": "易打理的",
+      "svg": ""
+    },
+    {
+      "section": "10. Phrases — lawn & mowing"
+    },
+    {
+      "num": 109,
+      "word": "the lawn needs a mow",
+      "chinese": "草坪该割了"
+    },
+    {
+      "num": 110,
+      "word": "give the lawn a mow",
+      "chinese": "割个草"
+    },
+    {
+      "num": 111,
+      "word": "the grass is getting long",
+      "chinese": "草长长了"
+    },
+    {
+      "num": 112,
+      "word": "mow the nature strip",
+      "chinese": "割人行道边的草 (AUS)"
+    },
+    {
+      "num": 113,
+      "word": "the mower won't start",
+      "chinese": "割草机发动不了"
+    },
+    {
+      "num": 114,
+      "word": "run the mower over the lawn",
+      "chinese": "把草坪割一遍"
+    },
+    {
+      "section": "11. Phrases — watering & weather"
+    },
+    {
+      "num": 115,
+      "word": "give the garden a water",
+      "chinese": "给花园浇点水"
+    },
+    {
+      "num": 116,
+      "word": "the plants are looking a bit dry",
+      "chinese": "植物看着有点干"
+    },
+    {
+      "num": 117,
+      "word": "everything's parched",
+      "chinese": "都干透了"
+    },
+    {
+      "num": 118,
+      "word": "we're on water restrictions",
+      "chinese": "我们在限水期 (AUS)"
+    },
+    {
+      "num": 119,
+      "word": "it could do with some rain",
+      "chinese": "正好需要下点雨"
+    },
+    {
+      "num": 120,
+      "word": "the garden's loving this weather",
+      "chinese": "这天气植物长得好"
+    },
+    {
+      "section": "12. Phrases — weeds & mess"
+    },
+    {
+      "num": 121,
+      "word": "the weeds are taking over",
+      "chinese": "杂草疯长/快占满了"
+    },
+    {
+      "num": 122,
+      "word": "pull out a few weeds",
+      "chinese": "拔几棵草"
+    },
+    {
+      "num": 123,
+      "word": "the garden's a bit of a jungle",
+      "chinese": "花园有点像丛林(太乱)"
+    },
+    {
+      "num": 124,
+      "word": "it's all overgrown",
+      "chinese": "全长荒了"
+    },
+    {
+      "num": 125,
+      "word": "tidy up the backyard",
+      "chinese": "收拾一下后院"
+    },
+    {
+      "num": 126,
+      "word": "give the garden a tidy-up",
+      "chinese": "整理一下花园"
+    },
+    {
+      "section": "13. Phrases — jobs & weekend chat"
+    },
+    {
+      "num": 127,
+      "word": "I've got a bit of gardening to do",
+      "chinese": "我有点园艺活要干"
+    },
+    {
+      "num": 128,
+      "word": "potter around in the garden",
+      "chinese": "在花园里随便弄弄"
+    },
+    {
+      "num": 129,
+      "word": "spend the arvo in the yard",
+      "chinese": "下午在院子里干活 (AUS)"
+    },
+    {
+      "num": 130,
+      "word": "get stuck into the garden",
+      "chinese": "开始认真打理花园 (AUS)"
+    },
+    {
+      "num": 131,
+      "word": "it's a big job",
+      "chinese": "这活儿不小"
+    },
+    {
+      "num": 132,
+      "word": "low maintenance garden",
+      "chinese": "省心好打理的花园"
+    },
+    {
+      "num": 133,
+      "word": "do up the garden",
+      "chinese": "整修花园"
+    },
+    {
+      "section": "14. Phrases — growing & plants"
+    },
+    {
+      "num": 134,
+      "word": "it's really taken off",
+      "chinese": "长得特别快/疯长"
+    },
+    {
+      "num": 135,
+      "word": "it's not doing very well",
+      "chinese": "长得不太好"
+    },
+    {
+      "num": 136,
+      "word": "it's coming along nicely",
+      "chinese": "长势不错"
+    },
+    {
+      "num": 137,
+      "word": "the tomatoes are ready to pick",
+      "chinese": "番茄可以摘了"
+    },
+    {
+      "num": 138,
+      "word": "it's in full bloom",
+      "chinese": "正盛开"
+    },
+    {
+      "num": 139,
+      "word": "it died off over winter",
+      "chinese": "冬天枯死了"
+    },
+    {
+      "num": 140,
+      "word": "it's starting to sprout",
+      "chinese": "开始发芽了"
+    },
+    {
+      "section": "15. Phrases — backyard life (AUS)"
+    },
+    {
+      "num": 141,
+      "word": "chuck a snag on the barbie",
+      "chinese": "烤根香肠 (AUS)"
+    },
+    {
+      "num": 142,
+      "word": "have a barbie out the back",
+      "chinese": "在后院烧烤 (AUS)"
+    },
+    {
+      "num": 143,
+      "word": "the kids are out the back",
+      "chinese": "孩子们在后院"
+    },
+    {
+      "num": 144,
+      "word": "sit out on the deck",
+      "chinese": "坐在露台上"
+    },
+    {
+      "num": 145,
+      "word": "enjoy the backyard",
+      "chinese": "享受后院时光"
+    },
+    {
+      "num": 146,
+      "word": "watch out for swooping magpies",
+      "chinese": "小心喜鹊俯冲 (AUS)"
+    },
+    {
+      "num": 147,
+      "word": "the possums got into the garden",
+      "chinese": "负鼠跑进花园了 (AUS)"
+    },
+    {
+      "section": "16. Phrases — pests & problems"
+    },
+    {
+      "num": 148,
+      "word": "the snails are eating everything",
+      "chinese": "蜗牛把什么都啃了"
+    },
+    {
+      "num": 149,
+      "word": "something's been at the veggies",
+      "chinese": "有东西啃了菜"
+    },
+    {
+      "num": 150,
+      "word": "the mozzies are out",
+      "chinese": "蚊子出来了 (AUS)"
+    },
+    {
+      "num": 151,
+      "word": "it's full of bugs",
+      "chinese": "满是虫子"
+    },
+    {
+      "section": "17. Phrases — compliments & small talk"
+    },
+    {
+      "num": 152,
+      "word": "you've got a green thumb",
+      "chinese": "你很会种花/有园艺天赋"
+    },
+    {
+      "num": 153,
+      "word": "your garden's looking great",
+      "chinese": "你花园看着真不错"
+    },
+    {
+      "num": 154,
+      "word": "what's your secret?",
+      "chinese": "你有什么诀窍?"
+    },
+    {
+      "num": 155,
+      "word": "it's a lovely spot",
+      "chinese": "这地方真不错"
+    },
+    {
+      "num": 156,
+      "word": "backyard cricket",
+      "chinese": "后院板球 (AUS)"
+    }
+  ]
+}

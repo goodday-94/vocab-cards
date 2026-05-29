@@ -83,6 +83,13 @@
       "icon": "💭",
       "count": 562,
       "updatedAt": "2026-05-28"
+    },
+    {
+      "id": "garden",
+      "title": "Garden & Backyard",
+      "icon": "🌳",
+      "count": 156,
+      "updatedAt": "2026-05-29"
     }
   ]
 }
