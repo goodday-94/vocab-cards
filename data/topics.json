@@ -90,6 +90,34 @@
       "icon": "🌳",
       "count": 156,
       "updatedAt": "2026-05-29"
+    },
+    {
+      "id": "football",
+      "title": "Football (World Cup)",
+      "icon": "⚽",
+      "count": 111,
+      "updatedAt": "2026-06-19"
+    },
+    {
+      "id": "tennis",
+      "title": "Tennis (Australian Open)",
+      "icon": "🎾",
+      "count": 87,
+      "updatedAt": "2026-06-19"
+    },
+    {
+      "id": "basketball",
+      "title": "Basketball (NBA)",
+      "icon": "🏀",
+      "count": 97,
+      "updatedAt": "2026-06-19"
+    },
+    {
+      "id": "afl",
+      "title": "AFL / Footy",
+      "icon": "🏉",
+      "count": 155,
+      "updatedAt": "2026-06-19"
     }
   ]
 }

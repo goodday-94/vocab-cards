@@ -1,0 +1,689 @@
+{
+  "topic": "basketball",
+  "title": "Basketball (NBA)",
+  "words": [
+    {
+      "section": "1. Court & gear"
+    },
+    {
+      "num": 1,
+      "word": "court",
+      "ipa": "/kɔːt/",
+      "chinese": "球场",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='10' y='14' width='80' height='52' fill='#d8a860' stroke='#fff' stroke-width='1.5'/><line x1='50' y1='14' x2='50' y2='66' stroke='#fff' stroke-width='1.5'/><circle cx='50' cy='40' r='9' fill='none' stroke='#fff' stroke-width='1.5'/><path d='M10 26 A22 22 0 0 1 10 54' fill='none' stroke='#fff' stroke-width='1.5'/><path d='M90 26 A22 22 0 0 0 90 54' fill='none' stroke='#fff' stroke-width='1.5'/><rect x='10' y='30' width='14' height='20' fill='none' stroke='#fff' stroke-width='1.5'/><rect x='76' y='30' width='14' height='20' fill='none' stroke='#fff' stroke-width='1.5'/></svg>"
+    },
+    {
+      "num": 2,
+      "word": "hoop / basket",
+      "ipa": "/huːp/",
+      "chinese": "篮筐",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='42' y='12' width='16' height='12' fill='#ccc' stroke='#888' stroke-width='1.5'/><rect x='38' y='24' width='24' height='3' rx='1' fill='#e06010'/><path d='M40 27 L42 40 M48 27 L48 42 M56 27 L56 42 M60 27 L58 40 M44 33 L54 33 M43 38 L55 38' stroke='#fff' stroke-width='1'/><line x1='50' y1='4' x2='50' y2='12' stroke='#888' stroke-width='2'/></svg>"
+    },
+    {
+      "num": 3,
+      "word": "rim",
+      "ipa": "/rɪm/",
+      "chinese": "篮圈",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><ellipse cx='50' cy='40' rx='24' ry='8' fill='none' stroke='#e06010' stroke-width='3'/><path d='M30 44 L34 60 M42 47 L44 64 M58 47 L56 64 M70 44 L66 60 M36 56 L64 56 M33 50 L67 50' stroke='#fff' stroke-width='1'/></svg>"
+    },
+    {
+      "num": 4,
+      "word": "backboard",
+      "ipa": "/ˈbækbɔːd/",
+      "chinese": "篮板",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='22' y='12' width='56' height='38' fill='#eef' stroke='#888' stroke-width='1.5'/><rect x='40' y='28' width='20' height='14' fill='none' stroke='#e03030' stroke-width='2'/><rect x='44' y='50' width='12' height='3' rx='1' fill='#e06010'/><path d='M45 53 L47 64 M50 53 L50 66 M55 53 L53 64' stroke='#fff' stroke-width='1'/></svg>"
+    },
+    {
+      "num": 5,
+      "word": "three-point line",
+      "ipa": "/ˈθriː pɔɪnt laɪn/",
+      "chinese": "三分线",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='10' y='14' width='80' height='52' fill='#d8a860'/><path d='M14 16 L14 28 A40 30 0 0 0 14 52 L14 64' fill='none' stroke='#fff' stroke-width='2'/><rect x='10' y='34' width='8' height='12' fill='#e06010'/><circle cx='14' cy='40' r='2' fill='#fff'/></svg>"
+    },
+    {
+      "num": 6,
+      "word": "free-throw line",
+      "ipa": "/ˈfriː θrəʊ laɪn/",
+      "chinese": "罚球线",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='10' y='14' width='80' height='52' fill='#d8a860' stroke='#fff' stroke-width='1'/><rect x='10' y='28' width='30' height='24' fill='none' stroke='#fff' stroke-width='1.5'/><path d='M40 40 m0 -10 a10 10 0 1 1 0 20 a10 10 0 1 1 0 -20' fill='none' stroke='#fff' stroke-width='1.5'/><line x1='40' y1='28' x2='40' y2='52' stroke='#fff' stroke-width='2'/></svg>"
+    },
+    {
+      "num": 7,
+      "word": "the paint / key",
+      "ipa": "/peɪnt/",
+      "chinese": "油漆区/禁区",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='10' y='14' width='80' height='52' fill='#d8a860' stroke='#fff' stroke-width='1'/><rect x='10' y='28' width='28' height='24' fill='#c83030' opacity='0.6' stroke='#fff' stroke-width='1.5'/><path d='M38 40 m-10 0 a10 10 0 1 0 20 0' fill='none' stroke='#fff' stroke-width='1.5'/></svg>"
+    },
+    {
+      "num": 8,
+      "word": "ball",
+      "ipa": "/bɔːl/",
+      "chinese": "篮球",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><circle cx='50' cy='40' r='24' fill='#e07020' stroke='#a04010' stroke-width='1.5'/><path d='M50 16 L50 64 M26 40 L74 40' stroke='#a04010' stroke-width='1.5'/><path d='M30 24 Q50 40 30 56 M70 24 Q50 40 70 56' fill='none' stroke='#a04010' stroke-width='1.5'/></svg>"
+    },
+    {
+      "section": "2. Scoring"
+    },
+    {
+      "num": 9,
+      "word": "layup",
+      "ipa": "/ˈleɪʌp/",
+      "chinese": "上篮",
+      "svg": ""
+    },
+    {
+      "num": 10,
+      "word": "dunk",
+      "ipa": "/dʌŋk/",
+      "chinese": "扣篮",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='42' y='10' width='16' height='10' fill='#ccc' stroke='#888' stroke-width='1.5'/><rect x='38' y='20' width='24' height='3' fill='#e06010'/><circle cx='50' cy='30' r='8' fill='#e07020' stroke='#a04010' stroke-width='1.5'/><circle cx='62' cy='42' r='6' fill='#f0c8a0'/><path d='M60 46 L66 64 M64 46 L62 64' stroke='#3a5a8a' stroke-width='4'/><path d='M56 38 L54 26' stroke='#3a5a8a' stroke-width='4'/></svg>"
+    },
+    {
+      "num": 11,
+      "word": "slam dunk",
+      "ipa": "/ˌslæm ˈdʌŋk/",
+      "chinese": "暴扣",
+      "svg": ""
+    },
+    {
+      "num": 12,
+      "word": "three-pointer",
+      "ipa": "/ˌθriː ˈpɔɪntə/",
+      "chinese": "三分球",
+      "svg": ""
+    },
+    {
+      "num": 13,
+      "word": "free throw",
+      "ipa": "/ˈfriː θrəʊ/",
+      "chinese": "罚球",
+      "svg": ""
+    },
+    {
+      "num": 14,
+      "word": "jump shot",
+      "ipa": "/ˈdʒʌmp ʃɒt/",
+      "chinese": "跳投",
+      "svg": ""
+    },
+    {
+      "num": 15,
+      "word": "buzzer-beater",
+      "ipa": "/ˈbʌzə biːtə/",
+      "chinese": "压哨球",
+      "svg": ""
+    },
+    {
+      "section": "3. Actions"
+    },
+    {
+      "num": 16,
+      "word": "dribble",
+      "ipa": "/ˈdrɪbl/",
+      "chinese": "运球",
+      "svg": ""
+    },
+    {
+      "num": 17,
+      "word": "pass",
+      "ipa": "/pɑːs/",
+      "chinese": "传球",
+      "svg": ""
+    },
+    {
+      "num": 18,
+      "word": "rebound",
+      "ipa": "/ˈriːbaʊnd/",
+      "chinese": "篮板球",
+      "svg": ""
+    },
+    {
+      "num": 19,
+      "word": "block",
+      "ipa": "/blɒk/",
+      "chinese": "盖帽",
+      "svg": ""
+    },
+    {
+      "num": 20,
+      "word": "steal",
+      "ipa": "/stiːl/",
+      "chinese": "抢断",
+      "svg": ""
+    },
+    {
+      "num": 21,
+      "word": "assist",
+      "ipa": "/əˈsɪst/",
+      "chinese": "助攻",
+      "svg": ""
+    },
+    {
+      "num": 22,
+      "word": "screen",
+      "ipa": "/skriːn/",
+      "chinese": "掩护",
+      "svg": ""
+    },
+    {
+      "num": 23,
+      "word": "drive",
+      "ipa": "/draɪv/",
+      "chinese": "突破",
+      "svg": ""
+    },
+    {
+      "num": 24,
+      "word": "fast break",
+      "ipa": "/ˌfɑːst ˈbreɪk/",
+      "chinese": "快攻",
+      "svg": ""
+    },
+    {
+      "num": 25,
+      "word": "crossover",
+      "ipa": "/ˈkrɒsəʊvə/",
+      "chinese": "交叉过人",
+      "svg": ""
+    },
+    {
+      "section": "4. Positions & people"
+    },
+    {
+      "num": 26,
+      "word": "point guard",
+      "ipa": "/ˈpɔɪnt ɡɑːd/",
+      "chinese": "控球后卫",
+      "svg": ""
+    },
+    {
+      "num": 27,
+      "word": "shooting guard",
+      "ipa": "/ˈʃuːtɪŋ ɡɑːd/",
+      "chinese": "得分后卫",
+      "svg": ""
+    },
+    {
+      "num": 28,
+      "word": "small forward",
+      "ipa": "/ˌsmɔːl ˈfɔːwəd/",
+      "chinese": "小前锋",
+      "svg": ""
+    },
+    {
+      "num": 29,
+      "word": "power forward",
+      "ipa": "/ˌpaʊə ˈfɔːwəd/",
+      "chinese": "大前锋",
+      "svg": ""
+    },
+    {
+      "num": 30,
+      "word": "centre",
+      "ipa": "/ˈsentə/",
+      "chinese": "中锋",
+      "svg": ""
+    },
+    {
+      "num": 31,
+      "word": "coach",
+      "ipa": "/kəʊtʃ/",
+      "chinese": "教练",
+      "svg": ""
+    },
+    {
+      "num": 32,
+      "word": "rookie",
+      "ipa": "/ˈrʊki/",
+      "chinese": "新秀",
+      "svg": ""
+    },
+    {
+      "num": 33,
+      "word": "MVP",
+      "ipa": "/ˌem viː ˈpiː/",
+      "chinese": "最有价值球员",
+      "svg": ""
+    },
+    {
+      "section": "5. Fouls & rules"
+    },
+    {
+      "num": 34,
+      "word": "foul",
+      "ipa": "/faʊl/",
+      "chinese": "犯规",
+      "svg": ""
+    },
+    {
+      "num": 35,
+      "word": "travelling",
+      "ipa": "/ˈtrævəlɪŋ/",
+      "chinese": "走步",
+      "svg": ""
+    },
+    {
+      "num": 36,
+      "word": "double dribble",
+      "ipa": "/ˌdʌbl ˈdrɪbl/",
+      "chinese": "二次运球",
+      "svg": ""
+    },
+    {
+      "num": 37,
+      "word": "shot clock",
+      "ipa": "/ˈʃɒt klɒk/",
+      "chinese": "进攻时限(24秒)",
+      "svg": ""
+    },
+    {
+      "num": 38,
+      "word": "timeout",
+      "ipa": "/ˈtaɪmaʊt/",
+      "chinese": "暂停",
+      "svg": ""
+    },
+    {
+      "num": 39,
+      "word": "turnover",
+      "ipa": "/ˈtɜːnəʊvə/",
+      "chinese": "失误(丢球权)",
+      "svg": ""
+    },
+    {
+      "num": 40,
+      "word": "technical foul",
+      "ipa": "/ˌteknɪkl ˈfaʊl/",
+      "chinese": "技术犯规",
+      "svg": ""
+    },
+    {
+      "num": 41,
+      "word": "out of bounds",
+      "ipa": "/ˌaʊt əv ˈbaʊndz/",
+      "chinese": "出界",
+      "svg": ""
+    },
+    {
+      "section": "6. Game structure"
+    },
+    {
+      "num": 42,
+      "word": "quarter",
+      "ipa": "/ˈkwɔːtə/",
+      "chinese": "一节",
+      "svg": ""
+    },
+    {
+      "num": 43,
+      "word": "overtime",
+      "ipa": "/ˈəʊvətaɪm/",
+      "chinese": "加时",
+      "svg": ""
+    },
+    {
+      "num": 44,
+      "word": "tip-off",
+      "ipa": "/ˈtɪp ɒf/",
+      "chinese": "跳球开场",
+      "svg": ""
+    },
+    {
+      "num": 45,
+      "word": "playoffs",
+      "ipa": "/ˈpleɪɒfs/",
+      "chinese": "季后赛",
+      "svg": ""
+    },
+    {
+      "num": 46,
+      "word": "the Finals",
+      "ipa": "/ˈfaɪnlz/",
+      "chinese": "总决赛",
+      "svg": ""
+    },
+    {
+      "num": 47,
+      "word": "regular season",
+      "ipa": "/ˌreɡjələ ˈsiːzn/",
+      "chinese": "常规赛",
+      "svg": ""
+    },
+    {
+      "num": 48,
+      "word": "draft",
+      "ipa": "/drɑːft/",
+      "chinese": "选秀",
+      "svg": ""
+    },
+    {
+      "section": "7. More scoring & moves"
+    },
+    {
+      "num": 49,
+      "word": "and-one",
+      "ipa": "/ˌænd ˈwʌn/",
+      "chinese": "打成加罚",
+      "svg": ""
+    },
+    {
+      "num": 50,
+      "word": "alley-oop",
+      "ipa": "/ˌæli ˈuːp/",
+      "chinese": "空中接力",
+      "svg": ""
+    },
+    {
+      "num": 51,
+      "word": "fadeaway",
+      "ipa": "/ˈfeɪdəweɪ/",
+      "chinese": "后仰跳投",
+      "svg": ""
+    },
+    {
+      "num": 52,
+      "word": "bank shot",
+      "ipa": "/ˈbæŋk ʃɒt/",
+      "chinese": "打板投篮",
+      "svg": ""
+    },
+    {
+      "num": 53,
+      "word": "putback",
+      "ipa": "/ˈpʊtbæk/",
+      "chinese": "补篮",
+      "svg": ""
+    },
+    {
+      "num": 54,
+      "word": "pick and roll",
+      "ipa": "/ˌpɪk ən ˈrəʊl/",
+      "chinese": "挡拆",
+      "svg": ""
+    },
+    {
+      "num": 55,
+      "word": "post up",
+      "ipa": "/ˈpəʊst ʌp/",
+      "chinese": "背身单打",
+      "svg": ""
+    },
+    {
+      "num": 56,
+      "word": "box out",
+      "ipa": "/ˈbɒks aʊt/",
+      "chinese": "卡位抢板",
+      "svg": ""
+    },
+    {
+      "section": "8. Fouls & rules (more)"
+    },
+    {
+      "num": 57,
+      "word": "backcourt violation",
+      "ipa": "/ˈbækkɔːt vaɪəleɪʃn/",
+      "chinese": "回场违例",
+      "svg": ""
+    },
+    {
+      "num": 58,
+      "word": "goaltending",
+      "ipa": "/ˈɡəʊltendɪŋ/",
+      "chinese": "干扰球",
+      "svg": ""
+    },
+    {
+      "num": 59,
+      "word": "charging",
+      "ipa": "/ˈtʃɑːdʒɪŋ/",
+      "chinese": "进攻撞人犯规",
+      "svg": ""
+    },
+    {
+      "num": 60,
+      "word": "blocking foul",
+      "ipa": "/ˈblɒkɪŋ faʊl/",
+      "chinese": "阻挡犯规",
+      "svg": ""
+    },
+    {
+      "num": 61,
+      "word": "flagrant foul",
+      "ipa": "/ˈfleɪɡrənt faʊl/",
+      "chinese": "恶意犯规",
+      "svg": ""
+    },
+    {
+      "num": 62,
+      "word": "foul out",
+      "ipa": "/ˌfaʊl ˈaʊt/",
+      "chinese": "六犯离场",
+      "svg": ""
+    },
+    {
+      "num": 63,
+      "word": "bonus (free throws)",
+      "ipa": "/ˈbəʊnəs/",
+      "chinese": "全队犯规罚球",
+      "svg": ""
+    },
+    {
+      "num": 64,
+      "word": "jump ball",
+      "ipa": "/ˈdʒʌmp bɔːl/",
+      "chinese": "争球",
+      "svg": ""
+    },
+    {
+      "section": "9. Stats"
+    },
+    {
+      "num": 65,
+      "word": "points (pts)",
+      "ipa": "/pɔɪnts/",
+      "chinese": "得分",
+      "svg": ""
+    },
+    {
+      "num": 66,
+      "word": "rebounds (reb)",
+      "ipa": "/ˈriːbaʊndz/",
+      "chinese": "篮板",
+      "svg": ""
+    },
+    {
+      "num": 67,
+      "word": "assists (ast)",
+      "ipa": "/əˈsɪsts/",
+      "chinese": "助攻",
+      "svg": ""
+    },
+    {
+      "num": 68,
+      "word": "steals",
+      "ipa": "/stiːlz/",
+      "chinese": "抢断数",
+      "svg": ""
+    },
+    {
+      "num": 69,
+      "word": "blocks",
+      "ipa": "/blɒks/",
+      "chinese": "盖帽数",
+      "svg": ""
+    },
+    {
+      "num": 70,
+      "word": "field goal",
+      "ipa": "/ˈfiːld ɡəʊl/",
+      "chinese": "投篮命中",
+      "svg": ""
+    },
+    {
+      "num": 71,
+      "word": "double-double",
+      "ipa": "/ˌdʌbl ˈdʌbl/",
+      "chinese": "两双",
+      "svg": ""
+    },
+    {
+      "num": 72,
+      "word": "triple-double",
+      "ipa": "/ˌtrɪpl ˈdʌbl/",
+      "chinese": "三双",
+      "svg": ""
+    },
+    {
+      "section": "10. Game & league"
+    },
+    {
+      "num": 73,
+      "word": "starter",
+      "ipa": "/ˈstɑːtə/",
+      "chinese": "首发",
+      "svg": ""
+    },
+    {
+      "num": 74,
+      "word": "bench",
+      "ipa": "/bentʃ/",
+      "chinese": "替补",
+      "svg": ""
+    },
+    {
+      "num": 75,
+      "word": "sixth man",
+      "ipa": "/ˌsɪksθ ˈmæn/",
+      "chinese": "第六人",
+      "svg": ""
+    },
+    {
+      "num": 76,
+      "word": "garbage time",
+      "ipa": "/ˈɡɑːbɪdʒ taɪm/",
+      "chinese": "垃圾时间",
+      "svg": ""
+    },
+    {
+      "num": 77,
+      "word": "conference (East/West)",
+      "ipa": "/ˈkɒnfərəns/",
+      "chinese": "分区(东/西部)",
+      "svg": ""
+    },
+    {
+      "num": 78,
+      "word": "seed",
+      "ipa": "/siːd/",
+      "chinese": "种子排名",
+      "svg": ""
+    },
+    {
+      "num": 79,
+      "word": "championship / ring",
+      "ipa": "/ˈtʃæmpiənʃɪp/",
+      "chinese": "总冠军/冠军戒指",
+      "svg": ""
+    },
+    {
+      "num": 80,
+      "word": "trade",
+      "ipa": "/treɪd/",
+      "chinese": "交易",
+      "svg": ""
+    },
+    {
+      "num": 81,
+      "word": "free agent",
+      "ipa": "/ˌfriː ˈeɪdʒənt/",
+      "chinese": "自由球员",
+      "svg": ""
+    },
+    {
+      "section": "11. Watching phrases"
+    },
+    {
+      "num": 82,
+      "word": "he's heating up",
+      "chinese": "他手感上来了"
+    },
+    {
+      "num": 83,
+      "word": "from way downtown",
+      "chinese": "超远三分"
+    },
+    {
+      "num": 84,
+      "word": "and the foul!",
+      "chinese": "还造了犯规!"
+    },
+    {
+      "num": 85,
+      "word": "for the win",
+      "chinese": "绝杀一球"
+    },
+    {
+      "num": 86,
+      "word": "at the buzzer",
+      "chinese": "压哨出手"
+    },
+    {
+      "num": 87,
+      "word": "he's got the hot hand",
+      "chinese": "他手感火烫"
+    },
+    {
+      "num": 88,
+      "word": "back-to-back",
+      "chinese": "连续两场/两连胜"
+    },
+    {
+      "num": 89,
+      "word": "posterized",
+      "chinese": "被扣篮羞辱"
+    },
+    {
+      "num": 90,
+      "word": "nothing but net",
+      "chinese": "空心入网"
+    },
+    {
+      "num": 91,
+      "word": "in the paint",
+      "chinese": "在内线"
+    },
+    {
+      "num": 92,
+      "word": "they're on a run",
+      "chinese": "他们打出一波连续得分"
+    },
+    {
+      "section": "12. Talking about it"
+    },
+    {
+      "num": 93,
+      "word": "who's winning?",
+      "chinese": "谁领先?"
+    },
+    {
+      "num": 94,
+      "word": "what's the score?",
+      "chinese": "比分多少?"
+    },
+    {
+      "num": 95,
+      "word": "did you see that dunk?",
+      "chinese": "你看到那记扣篮了吗?"
+    },
+    {
+      "num": 96,
+      "word": "they're up by ten",
+      "chinese": "他们领先10分"
+    },
+    {
+      "num": 97,
+      "word": "it went to overtime",
+      "chinese": "进加时了"
+    }
+  ]
+}

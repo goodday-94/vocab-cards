@@ -1,0 +1,614 @@
+{
+  "topic": "tennis",
+  "title": "Tennis (Australian Open)",
+  "words": [
+    {
+      "section": "1. Court & gear"
+    },
+    {
+      "num": 1,
+      "word": "court",
+      "ipa": "/kɔːt/",
+      "chinese": "球场",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='14' y='12' width='72' height='56' fill='#3a7ac0' stroke='#fff' stroke-width='1.5'/><rect x='22' y='12' width='56' height='56' fill='none' stroke='#fff' stroke-width='1.5'/><line x1='50' y1='12' x2='50' y2='28' stroke='#fff' stroke-width='1.5'/><line x1='50' y1='52' x2='50' y2='68' stroke='#fff' stroke-width='1.5'/><line x1='22' y1='28' x2='78' y2='28' stroke='#fff' stroke-width='1.5'/><line x1='22' y1='52' x2='78' y2='52' stroke='#fff' stroke-width='1.5'/><line x1='14' y1='40' x2='86' y2='40' stroke='#222' stroke-width='2'/></svg>"
+    },
+    {
+      "num": 2,
+      "word": "net",
+      "ipa": "/net/",
+      "chinese": "球网",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><line x1='14' y1='24' x2='86' y2='24' stroke='#fff' stroke-width='3'/><rect x='14' y='24' width='72' height='34' fill='none' stroke='#888' stroke-width='1.5'/><path d='M22 24 L22 58 M30 24 L30 58 M38 24 L38 58 M46 24 L46 58 M54 24 L54 58 M62 24 L62 58 M70 24 L70 58 M78 24 L78 58 M14 32 L86 32 M14 40 L86 40 M14 48 L86 48' stroke='#bbb' stroke-width='0.8'/><rect x='12' y='20' width='4' height='44' fill='#666'/><rect x='84' y='20' width='4' height='44' fill='#666'/></svg>"
+    },
+    {
+      "num": 3,
+      "word": "baseline",
+      "ipa": "/ˈbeɪslaɪn/",
+      "chinese": "底线",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='14' y='12' width='72' height='56' fill='#3a7ac0'/><line x1='14' y1='60' x2='86' y2='60' stroke='#fff' stroke-width='3'/><line x1='50' y1='60' x2='50' y2='66' stroke='#fff' stroke-width='2'/><circle cx='50' cy='40' r='4' fill='#dde040' stroke='#a0a020' stroke-width='1'/></svg>"
+    },
+    {
+      "num": 4,
+      "word": "service line",
+      "ipa": "/ˈsɜːvɪs laɪn/",
+      "chinese": "发球线",
+      "svg": ""
+    },
+    {
+      "num": 5,
+      "word": "tramlines",
+      "ipa": "/ˈtræmlaɪnz/",
+      "chinese": "双打边线通道",
+      "svg": ""
+    },
+    {
+      "num": 6,
+      "word": "racquet",
+      "ipa": "/ˈrækɪt/",
+      "chinese": "球拍",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><ellipse cx='44' cy='30' rx='20' ry='24' fill='none' stroke='#c83030' stroke-width='3'/><path d='M30 14 L58 14 M28 20 L60 20 M27 26 L61 26 M27 32 L61 32 M28 38 L60 38 M30 44 L58 44 M34 10 L34 50 M40 10 L40 52 M48 10 L48 52 M54 11 L54 49' stroke='#ccc' stroke-width='0.8'/><path d='M40 52 L56 74' stroke='#333' stroke-width='4'/><path d='M53 70 L59 76' stroke='#333' stroke-width='4'/></svg>"
+    },
+    {
+      "num": 7,
+      "word": "ball",
+      "ipa": "/bɔːl/",
+      "chinese": "网球",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><circle cx='50' cy='40' r='24' fill='#dde040' stroke='#b0b020' stroke-width='1.5'/><path d='M30 26 Q44 40 30 56' fill='none' stroke='#fff' stroke-width='2'/><path d='M70 26 Q56 40 70 56' fill='none' stroke='#fff' stroke-width='2'/></svg>"
+    },
+    {
+      "num": 8,
+      "word": "Rod Laver Arena",
+      "ipa": "/rɒd ˈleɪvə əˈriːnə/",
+      "chinese": "罗德·拉沃球场(AO主场)",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><ellipse cx='50' cy='44' rx='42' ry='26' fill='#7090b0' stroke='#405070' stroke-width='1.5'/><rect x='34' y='34' width='32' height='22' fill='#3a7ac0' stroke='#fff' stroke-width='1'/><line x1='34' y1='45' x2='66' y2='45' stroke='#fff' stroke-width='1.5'/><line x1='50' y1='34' x2='50' y2='56' stroke='#fff' stroke-width='0.8'/></svg>"
+    },
+    {
+      "section": "2. Scoring"
+    },
+    {
+      "num": 9,
+      "word": "love",
+      "ipa": "/lʌv/",
+      "chinese": "零分",
+      "svg": ""
+    },
+    {
+      "num": 10,
+      "word": "fifteen / thirty / forty",
+      "ipa": "/ˈθɜːti/",
+      "chinese": "15/30/40分",
+      "svg": ""
+    },
+    {
+      "num": 11,
+      "word": "deuce",
+      "ipa": "/djuːs/",
+      "chinese": "平分(40-40)",
+      "svg": ""
+    },
+    {
+      "num": 12,
+      "word": "advantage",
+      "ipa": "/ədˈvɑːntɪdʒ/",
+      "chinese": "占先",
+      "svg": ""
+    },
+    {
+      "num": 13,
+      "word": "game",
+      "ipa": "/ɡeɪm/",
+      "chinese": "一局",
+      "svg": ""
+    },
+    {
+      "num": 14,
+      "word": "set",
+      "ipa": "/set/",
+      "chinese": "一盘",
+      "svg": ""
+    },
+    {
+      "num": 15,
+      "word": "tiebreak",
+      "ipa": "/ˈtaɪbreɪk/",
+      "chinese": "抢七",
+      "svg": ""
+    },
+    {
+      "num": 16,
+      "word": "break point",
+      "ipa": "/ˈbreɪk pɔɪnt/",
+      "chinese": "破发点",
+      "svg": ""
+    },
+    {
+      "num": 17,
+      "word": "set point",
+      "ipa": "/ˈset pɔɪnt/",
+      "chinese": "盘点",
+      "svg": ""
+    },
+    {
+      "num": 18,
+      "word": "match point",
+      "ipa": "/ˈmætʃ pɔɪnt/",
+      "chinese": "赛点",
+      "svg": ""
+    },
+    {
+      "section": "3. Shots"
+    },
+    {
+      "num": 19,
+      "word": "serve",
+      "ipa": "/sɜːv/",
+      "chinese": "发球",
+      "svg": ""
+    },
+    {
+      "num": 20,
+      "word": "ace",
+      "ipa": "/eɪs/",
+      "chinese": "发球直接得分",
+      "svg": ""
+    },
+    {
+      "num": 21,
+      "word": "forehand",
+      "ipa": "/ˈfɔːhænd/",
+      "chinese": "正手",
+      "svg": ""
+    },
+    {
+      "num": 22,
+      "word": "backhand",
+      "ipa": "/ˈbækhænd/",
+      "chinese": "反手",
+      "svg": ""
+    },
+    {
+      "num": 23,
+      "word": "volley",
+      "ipa": "/ˈvɒli/",
+      "chinese": "截击",
+      "svg": ""
+    },
+    {
+      "num": 24,
+      "word": "smash",
+      "ipa": "/smæʃ/",
+      "chinese": "扣杀",
+      "svg": ""
+    },
+    {
+      "num": 25,
+      "word": "lob",
+      "ipa": "/lɒb/",
+      "chinese": "挑高球",
+      "svg": ""
+    },
+    {
+      "num": 26,
+      "word": "drop shot",
+      "ipa": "/ˈdrɒp ʃɒt/",
+      "chinese": "放小球",
+      "svg": ""
+    },
+    {
+      "num": 27,
+      "word": "rally",
+      "ipa": "/ˈræli/",
+      "chinese": "多拍来回",
+      "svg": ""
+    },
+    {
+      "num": 28,
+      "word": "return",
+      "ipa": "/rɪˈtɜːn/",
+      "chinese": "接发球",
+      "svg": ""
+    },
+    {
+      "section": "4. People & terms"
+    },
+    {
+      "num": 29,
+      "word": "umpire",
+      "ipa": "/ˈʌmpaɪə/",
+      "chinese": "主裁判",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='34' y='34' width='32' height='30' fill='#888' stroke='#555' stroke-width='1.5'/><rect x='38' y='20' width='24' height='16' rx='2' fill='#3a5a8a' stroke='#1a3a6a' stroke-width='1.5'/><circle cx='50' cy='14' r='6' fill='#f0c8a0'/><rect x='30' y='64' width='8' height='10' fill='#666'/><rect x='62' y='64' width='8' height='10' fill='#666'/><line x1='30' y1='40' x2='40' y2='36' stroke='#666' stroke-width='2'/></svg>"
+    },
+    {
+      "num": 30,
+      "word": "line judge",
+      "ipa": "/ˈlaɪn dʒʌdʒ/",
+      "chinese": "司线员",
+      "svg": ""
+    },
+    {
+      "num": 31,
+      "word": "ball kid",
+      "ipa": "/ˈbɔːl kɪd/",
+      "chinese": "球童",
+      "svg": ""
+    },
+    {
+      "num": 32,
+      "word": "seed (top seed)",
+      "ipa": "/siːd/",
+      "chinese": "种子选手",
+      "svg": ""
+    },
+    {
+      "num": 33,
+      "word": "opponent",
+      "ipa": "/əˈpəʊnənt/",
+      "chinese": "对手",
+      "svg": ""
+    },
+    {
+      "section": "5. Match terms"
+    },
+    {
+      "num": 34,
+      "word": "singles",
+      "ipa": "/ˈsɪŋɡlz/",
+      "chinese": "单打",
+      "svg": ""
+    },
+    {
+      "num": 35,
+      "word": "doubles",
+      "ipa": "/ˈdʌblz/",
+      "chinese": "双打",
+      "svg": ""
+    },
+    {
+      "num": 36,
+      "word": "fault",
+      "ipa": "/fɔːlt/",
+      "chinese": "发球失误",
+      "svg": ""
+    },
+    {
+      "num": 37,
+      "word": "double fault",
+      "ipa": "/ˌdʌbl ˈfɔːlt/",
+      "chinese": "双误",
+      "svg": ""
+    },
+    {
+      "num": 38,
+      "word": "let",
+      "ipa": "/let/",
+      "chinese": "重发(擦网)",
+      "svg": ""
+    },
+    {
+      "num": 39,
+      "word": "hold serve",
+      "ipa": "/ˌhəʊld ˈsɜːv/",
+      "chinese": "保发",
+      "svg": ""
+    },
+    {
+      "num": 40,
+      "word": "break (of serve)",
+      "ipa": "/breɪk/",
+      "chinese": "破发",
+      "svg": ""
+    },
+    {
+      "num": 41,
+      "word": "unforced error",
+      "ipa": "/ʌnˌfɔːst ˈerə/",
+      "chinese": "非受迫性失误",
+      "svg": ""
+    },
+    {
+      "num": 42,
+      "word": "winner",
+      "ipa": "/ˈwɪnə/",
+      "chinese": "制胜分",
+      "svg": ""
+    },
+    {
+      "section": "6. Tournament (AO)"
+    },
+    {
+      "num": 43,
+      "word": "Grand Slam",
+      "ipa": "/ˌɡrænd ˈslæm/",
+      "chinese": "大满贯",
+      "svg": ""
+    },
+    {
+      "num": 44,
+      "word": "seeded",
+      "ipa": "/ˈsiːdɪd/",
+      "chinese": "种子排位",
+      "svg": ""
+    },
+    {
+      "num": 45,
+      "word": "draw",
+      "ipa": "/drɔː/",
+      "chinese": "签表",
+      "svg": ""
+    },
+    {
+      "num": 46,
+      "word": "first round",
+      "ipa": "/ˌfɜːst ˈraʊnd/",
+      "chinese": "第一轮",
+      "svg": ""
+    },
+    {
+      "num": 47,
+      "word": "wildcard",
+      "ipa": "/ˈwaɪldkɑːd/",
+      "chinese": "外卡",
+      "svg": ""
+    },
+    {
+      "num": 48,
+      "word": "retire / retirement",
+      "ipa": "/rɪˈtaɪə/",
+      "chinese": "因伤退赛",
+      "svg": ""
+    },
+    {
+      "num": 49,
+      "word": "Hawk-Eye",
+      "ipa": "/ˈhɔːk aɪ/",
+      "chinese": "鹰眼(回放系统)",
+      "svg": ""
+    },
+    {
+      "section": "7. Surface & format"
+    },
+    {
+      "num": 50,
+      "word": "hard court",
+      "ipa": "/ˈhɑːd kɔːt/",
+      "chinese": "硬地(AO场地)",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='12' y='14' width='76' height='52' fill='#3a7ac0' stroke='#2a5a90' stroke-width='2'/><rect x='18' y='14' width='64' height='52' fill='none' stroke='#fff' stroke-width='1.5'/><line x1='50' y1='14' x2='50' y2='30' stroke='#fff' stroke-width='1.5'/><line x1='18' y1='40' x2='82' y2='40' stroke='#222' stroke-width='2'/><rect x='18' y='14' width='64' height='8' fill='#2a8a4a' opacity='0.5'/></svg>"
+    },
+    {
+      "num": 51,
+      "word": "clay",
+      "ipa": "/kleɪ/",
+      "chinese": "红土场",
+      "svg": ""
+    },
+    {
+      "num": 52,
+      "word": "grass",
+      "ipa": "/ɡrɑːs/",
+      "chinese": "草地场",
+      "svg": ""
+    },
+    {
+      "num": 53,
+      "word": "best of three / five sets",
+      "ipa": "/ˌbest əv ˈθriː/",
+      "chinese": "三盘/五盘两胜",
+      "svg": ""
+    },
+    {
+      "num": 54,
+      "word": "straight sets",
+      "ipa": "/ˌstreɪt ˈsets/",
+      "chinese": "直落(不丢盘)",
+      "svg": ""
+    },
+    {
+      "num": 55,
+      "word": "change ends",
+      "ipa": "/ˌtʃeɪndʒ ˈendz/",
+      "chinese": "交换场地",
+      "svg": ""
+    },
+    {
+      "num": 56,
+      "word": "night session",
+      "ipa": "/ˈnaɪt seʃn/",
+      "chinese": "夜场(AO)",
+      "svg": ""
+    },
+    {
+      "section": "8. More shots & play"
+    },
+    {
+      "num": 57,
+      "word": "first serve",
+      "ipa": "/ˌfɜːst ˈsɜːv/",
+      "chinese": "一发",
+      "svg": ""
+    },
+    {
+      "num": 58,
+      "word": "second serve",
+      "ipa": "/ˌsekənd ˈsɜːv/",
+      "chinese": "二发",
+      "svg": ""
+    },
+    {
+      "num": 59,
+      "word": "kick serve",
+      "ipa": "/ˈkɪk sɜːv/",
+      "chinese": "上旋发球",
+      "svg": ""
+    },
+    {
+      "num": 60,
+      "word": "passing shot",
+      "ipa": "/ˈpɑːsɪŋ ʃɒt/",
+      "chinese": "穿越球",
+      "svg": ""
+    },
+    {
+      "num": 61,
+      "word": "approach shot",
+      "ipa": "/əˈprəʊtʃ ʃɒt/",
+      "chinese": "上网衔接球",
+      "svg": ""
+    },
+    {
+      "num": 62,
+      "word": "footwork",
+      "ipa": "/ˈfʊtwɜːk/",
+      "chinese": "步法",
+      "svg": ""
+    },
+    {
+      "num": 63,
+      "word": "net play",
+      "ipa": "/ˈnet pleɪ/",
+      "chinese": "网前球",
+      "svg": ""
+    },
+    {
+      "num": 64,
+      "word": "baseline rally",
+      "ipa": "/ˈbeɪslaɪn ræli/",
+      "chinese": "底线相持",
+      "svg": ""
+    },
+    {
+      "section": "9. Scoring detail"
+    },
+    {
+      "num": 65,
+      "word": "break back",
+      "ipa": "/ˌbreɪk ˈbæk/",
+      "chinese": "回破",
+      "svg": ""
+    },
+    {
+      "num": 66,
+      "word": "comeback",
+      "ipa": "/ˈkʌmbæk/",
+      "chinese": "逆转",
+      "svg": ""
+    },
+    {
+      "num": 67,
+      "word": "championship point",
+      "ipa": "/ˈtʃæmpiənʃɪp pɔɪnt/",
+      "chinese": "冠军点",
+      "svg": ""
+    },
+    {
+      "num": 68,
+      "word": "two sets to love",
+      "ipa": "/ˌtuː sets tə ˈlʌv/",
+      "chinese": "两盘领先(2-0)",
+      "svg": ""
+    },
+    {
+      "num": 69,
+      "word": "medical timeout",
+      "ipa": "/ˈmedɪkl taɪmaʊt/",
+      "chinese": "医疗暂停",
+      "svg": ""
+    },
+    {
+      "num": 70,
+      "word": "cramp",
+      "ipa": "/kræmp/",
+      "chinese": "抽筋",
+      "svg": ""
+    },
+    {
+      "section": "10. Watching phrases"
+    },
+    {
+      "num": 71,
+      "word": "game, set, match",
+      "chinese": "一局、一盘、一场(获胜)"
+    },
+    {
+      "num": 72,
+      "word": "out!",
+      "chinese": "出界!"
+    },
+    {
+      "num": 73,
+      "word": "fault",
+      "chinese": "发球失误"
+    },
+    {
+      "num": 74,
+      "word": "net / let",
+      "chinese": "擦网,重发"
+    },
+    {
+      "num": 75,
+      "word": "c'mon! / let's go!",
+      "chinese": "加油!"
+    },
+    {
+      "num": 76,
+      "word": "what a comeback",
+      "chinese": "真是大逆转"
+    },
+    {
+      "num": 77,
+      "word": "he's two sets up",
+      "chinese": "他两盘领先"
+    },
+    {
+      "num": 78,
+      "word": "she's serving for the title",
+      "chinese": "她发球争冠"
+    },
+    {
+      "num": 79,
+      "word": "he's serving for the match",
+      "chinese": "他发球胜赛局"
+    },
+    {
+      "num": 80,
+      "word": "she broke his serve",
+      "chinese": "她破发了"
+    },
+    {
+      "num": 81,
+      "word": "it's going to a tiebreak",
+      "chinese": "要打抢七了"
+    },
+    {
+      "num": 82,
+      "word": "challenge the call",
+      "chinese": "挑战(鹰眼)判罚"
+    },
+    {
+      "section": "11. Talking about it"
+    },
+    {
+      "num": 83,
+      "word": "who's playing?",
+      "chinese": "谁在打?"
+    },
+    {
+      "num": 84,
+      "word": "what's the score?",
+      "chinese": "比分多少?"
+    },
+    {
+      "num": 85,
+      "word": "who won the first set?",
+      "chinese": "第一盘谁赢了?"
+    },
+    {
+      "num": 86,
+      "word": "he's the favourite",
+      "chinese": "他是夺冠热门"
+    },
+    {
+      "num": 87,
+      "word": "it's a five-setter",
+      "chinese": "这是五盘大战"
+    }
+  ]
+}

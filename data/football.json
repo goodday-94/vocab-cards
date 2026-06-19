@@ -1,0 +1,779 @@
+{
+  "topic": "football",
+  "title": "Football (World Cup)",
+  "words": [
+    {
+      "section": "1. The pitch & basics"
+    },
+    {
+      "num": 1,
+      "word": "pitch",
+      "ipa": "/pɪtʃ/",
+      "chinese": "(足球)球场",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='8' y='12' width='84' height='56' fill='#3a8a3a' stroke='#fff' stroke-width='1.5'/><line x1='50' y1='12' x2='50' y2='68' stroke='#fff' stroke-width='1.5'/><circle cx='50' cy='40' r='10' fill='none' stroke='#fff' stroke-width='1.5'/><circle cx='50' cy='40' r='1.5' fill='#fff'/><rect x='8' y='28' width='10' height='24' fill='none' stroke='#fff' stroke-width='1.5'/><rect x='82' y='28' width='10' height='24' fill='none' stroke='#fff' stroke-width='1.5'/></svg>"
+    },
+    {
+      "num": 2,
+      "word": "goal",
+      "ipa": "/ɡəʊl/",
+      "chinese": "球门;进球",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='20' y='20' width='60' height='40' fill='none' stroke='#fff' stroke-width='3'/><path d='M22 22 L78 22 M22 28 L78 28 M22 34 L78 34 M22 40 L78 40 M22 46 L78 46 M22 52 L78 52 M26 22 L26 58 M34 22 L34 58 M42 22 L42 58 M50 22 L50 58 M58 22 L58 58 M66 22 L66 58 M74 22 L74 58' stroke='#bbb' stroke-width='0.6'/><circle cx='50' cy='66' r='6' fill='#fff' stroke='#222' stroke-width='1'/><path d='M50 60 L54 66 L50 72 L46 66 Z' fill='#222'/></svg>"
+    },
+    {
+      "num": 3,
+      "word": "net",
+      "ipa": "/net/",
+      "chinese": "球网",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='18' y='16' width='64' height='48' fill='none' stroke='#888' stroke-width='2'/><path d='M18 24 L82 24 M18 32 L82 32 M18 40 L82 40 M18 48 L82 48 M18 56 L82 56 M26 16 L26 64 M34 16 L34 64 M42 16 L42 64 M50 16 L50 64 M58 16 L58 64 M66 16 L66 64 M74 16 L74 64' stroke='#aaa' stroke-width='1'/></svg>"
+    },
+    {
+      "num": 4,
+      "word": "crossbar",
+      "ipa": "/ˈkrɒsbɑː/",
+      "chinese": "横梁",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='14' y='22' width='72' height='6' fill='#fff' stroke='#888' stroke-width='1.5'/><rect x='16' y='28' width='5' height='38' fill='#fff' stroke='#888' stroke-width='1.5'/><rect x='79' y='28' width='5' height='38' fill='#fff' stroke='#888' stroke-width='1.5'/></svg>"
+    },
+    {
+      "num": 5,
+      "word": "penalty box",
+      "ipa": "/ˈpenəlti bɒks/",
+      "chinese": "禁区",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='8' y='10' width='84' height='60' fill='#3a8a3a' stroke='#fff' stroke-width='1.5'/><rect x='8' y='22' width='44' height='36' fill='none' stroke='#fff' stroke-width='2'/><rect x='8' y='32' width='18' height='16' fill='none' stroke='#fff' stroke-width='1.5'/><circle cx='38' cy='40' r='1.5' fill='#fff'/><path d='M52 30 A12 12 0 0 1 52 50' fill='none' stroke='#fff' stroke-width='1.5'/></svg>"
+    },
+    {
+      "num": 6,
+      "word": "halfway line",
+      "ipa": "/ˈhɑːfweɪ laɪn/",
+      "chinese": "中线",
+      "svg": ""
+    },
+    {
+      "num": 7,
+      "word": "corner flag",
+      "ipa": "/ˈkɔːnə flæɡ/",
+      "chinese": "角旗",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><line x1='34' y1='10' x2='34' y2='70' stroke='#888' stroke-width='2.5'/><path d='M34 12 L62 20 L34 28 Z' fill='#e03030' stroke='#a01010' stroke-width='1'/><path d='M20 70 A40 40 0 0 1 34 56' fill='none' stroke='#fff' stroke-width='1.5'/></svg>"
+    },
+    {
+      "num": 8,
+      "word": "kick-off",
+      "ipa": "/ˈkɪkɒf/",
+      "chinese": "开球",
+      "svg": ""
+    },
+    {
+      "num": 9,
+      "word": "half-time",
+      "ipa": "/ˈhɑːftaɪm/",
+      "chinese": "中场休息",
+      "svg": ""
+    },
+    {
+      "num": 10,
+      "word": "full-time",
+      "ipa": "/ˈfʊltaɪm/",
+      "chinese": "全场结束",
+      "svg": ""
+    },
+    {
+      "num": 11,
+      "word": "extra time",
+      "ipa": "/ˈekstrə taɪm/",
+      "chinese": "加时赛",
+      "svg": ""
+    },
+    {
+      "section": "2. People"
+    },
+    {
+      "num": 12,
+      "word": "referee (ref)",
+      "ipa": "/ˌrefəˈriː/",
+      "chinese": "裁判",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M22 38 L52 38 Q66 38 66 50 Q66 62 52 62 Q38 62 38 50 L38 44 L22 44 Z' fill='#333' stroke='#111' stroke-width='1.5'/><circle cx='52' cy='50' r='6' fill='#666'/><rect x='22' y='34' width='8' height='6' rx='2' fill='#555'/><path d='M30 30 Q40 26 50 28' stroke='#888' stroke-width='2' fill='none'/></svg>"
+    },
+    {
+      "num": 13,
+      "word": "goalkeeper (keeper)",
+      "ipa": "/ˈɡəʊlkiːpə/",
+      "chinese": "守门员",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><circle cx='50' cy='22' r='9' fill='#f0c8a0' stroke='#c89868' stroke-width='1.5'/><path d='M30 70 Q30 40 50 40 Q70 40 70 70 Z' fill='#2a8a4a' stroke='#1a5a2a' stroke-width='1.5'/><path d='M32 44 L14 56 L18 62 L34 52 Z' fill='#2a8a4a' stroke='#1a5a2a' stroke-width='1.5'/><path d='M68 44 L86 56 L82 62 L66 52 Z' fill='#2a8a4a' stroke='#1a5a2a' stroke-width='1.5'/><rect x='10' y='54' width='10' height='8' rx='2' fill='#f0c8a0'/><rect x='80' y='54' width='10' height='8' rx='2' fill='#f0c8a0'/></svg>"
+    },
+    {
+      "num": 14,
+      "word": "defender",
+      "ipa": "/dɪˈfendə/",
+      "chinese": "后卫",
+      "svg": ""
+    },
+    {
+      "num": 15,
+      "word": "midfielder",
+      "ipa": "/ˈmɪdfiːldə/",
+      "chinese": "中场",
+      "svg": ""
+    },
+    {
+      "num": 16,
+      "word": "striker",
+      "ipa": "/ˈstraɪkə/",
+      "chinese": "前锋",
+      "svg": ""
+    },
+    {
+      "num": 17,
+      "word": "winger",
+      "ipa": "/ˈwɪŋə/",
+      "chinese": "边锋",
+      "svg": ""
+    },
+    {
+      "num": 18,
+      "word": "captain",
+      "ipa": "/ˈkæptɪn/",
+      "chinese": "队长",
+      "svg": ""
+    },
+    {
+      "num": 19,
+      "word": "manager / coach",
+      "ipa": "/ˈmænɪdʒə/",
+      "chinese": "主教练",
+      "svg": ""
+    },
+    {
+      "num": 20,
+      "word": "substitute (sub)",
+      "ipa": "/ˈsʌbstɪtjuːt/",
+      "chinese": "替补",
+      "svg": ""
+    },
+    {
+      "section": "3. Actions"
+    },
+    {
+      "num": 21,
+      "word": "pass",
+      "ipa": "/pɑːs/",
+      "chinese": "传球",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><circle cx='50' cy='40' r='24' fill='#fff' stroke='#222' stroke-width='1.5'/><path d='M50 22 L60 30 L56 42 L44 42 L40 30 Z' fill='#222'/><path d='M50 22 L40 30 M50 22 L60 30 M40 30 L28 34 M60 30 L72 34 M44 42 L38 54 M56 42 L62 54' stroke='#222' stroke-width='1.5'/></svg>"
+    },
+    {
+      "num": 22,
+      "word": "shoot",
+      "ipa": "/ʃuːt/",
+      "chinese": "射门",
+      "svg": ""
+    },
+    {
+      "num": 23,
+      "word": "tackle",
+      "ipa": "/ˈtækl/",
+      "chinese": "抢断/铲球",
+      "svg": ""
+    },
+    {
+      "num": 24,
+      "word": "dribble",
+      "ipa": "/ˈdrɪbl/",
+      "chinese": "盘球",
+      "svg": ""
+    },
+    {
+      "num": 25,
+      "word": "head the ball",
+      "ipa": "/hed ðə bɔːl/",
+      "chinese": "头球",
+      "svg": ""
+    },
+    {
+      "num": 26,
+      "word": "cross",
+      "ipa": "/krɒs/",
+      "chinese": "传中",
+      "svg": ""
+    },
+    {
+      "num": 27,
+      "word": "save",
+      "ipa": "/seɪv/",
+      "chinese": "扑救",
+      "svg": ""
+    },
+    {
+      "num": 28,
+      "word": "clear",
+      "ipa": "/klɪə/",
+      "chinese": "解围",
+      "svg": ""
+    },
+    {
+      "num": 29,
+      "word": "mark",
+      "ipa": "/mɑːk/",
+      "chinese": "盯人防守",
+      "svg": ""
+    },
+    {
+      "section": "4. Scoring & key events"
+    },
+    {
+      "num": 30,
+      "word": "score",
+      "ipa": "/skɔː/",
+      "chinese": "得分",
+      "svg": ""
+    },
+    {
+      "num": 31,
+      "word": "own goal",
+      "ipa": "/ˌəʊn ˈɡəʊl/",
+      "chinese": "乌龙球",
+      "svg": ""
+    },
+    {
+      "num": 32,
+      "word": "penalty",
+      "ipa": "/ˈpenəlti/",
+      "chinese": "点球",
+      "svg": ""
+    },
+    {
+      "num": 33,
+      "word": "free kick",
+      "ipa": "/ˌfriː ˈkɪk/",
+      "chinese": "任意球",
+      "svg": ""
+    },
+    {
+      "num": 34,
+      "word": "corner (kick)",
+      "ipa": "/ˈkɔːnə/",
+      "chinese": "角球",
+      "svg": ""
+    },
+    {
+      "num": 35,
+      "word": "throw-in",
+      "ipa": "/ˈθrəʊ ɪn/",
+      "chinese": "界外球",
+      "svg": ""
+    },
+    {
+      "num": 36,
+      "word": "offside",
+      "ipa": "/ˌɒfˈsaɪd/",
+      "chinese": "越位",
+      "svg": ""
+    },
+    {
+      "num": 37,
+      "word": "hat-trick",
+      "ipa": "/ˈhæt trɪk/",
+      "chinese": "帽子戏法(一人进3球)",
+      "svg": ""
+    },
+    {
+      "num": 38,
+      "word": "equaliser",
+      "ipa": "/ˈiːkwəlaɪzə/",
+      "chinese": "扳平球",
+      "svg": ""
+    },
+    {
+      "num": 39,
+      "word": "clean sheet",
+      "ipa": "/ˌkliːn ˈʃiːt/",
+      "chinese": "零封(不失球)",
+      "svg": ""
+    },
+    {
+      "section": "5. Cards & fouls"
+    },
+    {
+      "num": 40,
+      "word": "yellow card",
+      "ipa": "/ˌjeləʊ ˈkɑːd/",
+      "chinese": "黄牌",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='34' y='16' width='32' height='48' rx='3' fill='#f0d020' stroke='#b09000' stroke-width='2' transform='rotate(8 50 40)'/></svg>"
+    },
+    {
+      "num": 41,
+      "word": "red card",
+      "ipa": "/ˌred ˈkɑːd/",
+      "chinese": "红牌",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='34' y='16' width='32' height='48' rx='3' fill='#e03030' stroke='#a01010' stroke-width='2' transform='rotate(8 50 40)'/></svg>"
+    },
+    {
+      "num": 42,
+      "word": "booking",
+      "ipa": "/ˈbʊkɪŋ/",
+      "chinese": "出示黄牌",
+      "svg": ""
+    },
+    {
+      "num": 43,
+      "word": "sent off",
+      "ipa": "/ˌsent ˈɒf/",
+      "chinese": "被罚下场",
+      "svg": ""
+    },
+    {
+      "num": 44,
+      "word": "foul",
+      "ipa": "/faʊl/",
+      "chinese": "犯规",
+      "svg": ""
+    },
+    {
+      "num": 45,
+      "word": "handball",
+      "ipa": "/ˈhændbɔːl/",
+      "chinese": "手球",
+      "svg": ""
+    },
+    {
+      "num": 46,
+      "word": "dive",
+      "ipa": "/daɪv/",
+      "chinese": "假摔",
+      "svg": ""
+    },
+    {
+      "num": 47,
+      "word": "VAR",
+      "ipa": "/ˌviː eɪ ˈɑː/",
+      "chinese": "视频助理裁判",
+      "svg": ""
+    },
+    {
+      "section": "6. World Cup structure"
+    },
+    {
+      "num": 48,
+      "word": "group stage",
+      "ipa": "/ˈɡruːp steɪdʒ/",
+      "chinese": "小组赛",
+      "svg": ""
+    },
+    {
+      "num": 49,
+      "word": "knockout stage",
+      "ipa": "/ˈnɒkaʊt steɪdʒ/",
+      "chinese": "淘汰赛",
+      "svg": ""
+    },
+    {
+      "num": 50,
+      "word": "round of 16",
+      "ipa": "/raʊnd əv sɪkˈstiːn/",
+      "chinese": "16强",
+      "svg": ""
+    },
+    {
+      "num": 51,
+      "word": "quarter-final",
+      "ipa": "/ˌkwɔːtə ˈfaɪnl/",
+      "chinese": "八强/四分之一决赛",
+      "svg": ""
+    },
+    {
+      "num": 52,
+      "word": "semi-final",
+      "ipa": "/ˌsemi ˈfaɪnl/",
+      "chinese": "半决赛",
+      "svg": ""
+    },
+    {
+      "num": 53,
+      "word": "final",
+      "ipa": "/ˈfaɪnl/",
+      "chinese": "决赛",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M38 16 L62 16 L60 36 Q50 44 40 36 Z' fill='#f0c040' stroke='#a08010' stroke-width='1.5'/><path d='M38 20 Q26 20 26 30 Q26 38 38 38' fill='none' stroke='#a08010' stroke-width='2'/><path d='M62 20 Q74 20 74 30 Q74 38 62 38' fill='none' stroke='#a08010' stroke-width='2'/><rect x='46' y='40' width='8' height='12' fill='#d0a020'/><rect x='38' y='52' width='24' height='6' rx='2' fill='#c09020'/><rect x='34' y='58' width='32' height='8' rx='2' fill='#a08010'/></svg>"
+    },
+    {
+      "num": 54,
+      "word": "qualifier",
+      "ipa": "/ˈkwɒlɪfaɪə/",
+      "chinese": "预选赛",
+      "svg": ""
+    },
+    {
+      "num": 55,
+      "word": "host nation",
+      "ipa": "/ˌhəʊst ˈneɪʃn/",
+      "chinese": "东道主",
+      "svg": ""
+    },
+    {
+      "num": 56,
+      "word": "group of death",
+      "ipa": "/ˌɡruːp əv ˈdeθ/",
+      "chinese": "死亡之组",
+      "svg": ""
+    },
+    {
+      "section": "7. Stadium & atmosphere"
+    },
+    {
+      "num": 57,
+      "word": "stadium",
+      "ipa": "/ˈsteɪdiəm/",
+      "chinese": "体育场",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><ellipse cx='50' cy='44' rx='42' ry='26' fill='#7aa0c0' stroke='#4a7090' stroke-width='1.5'/><ellipse cx='50' cy='44' rx='26' ry='15' fill='#3a8a3a' stroke='#fff' stroke-width='1'/><line x1='50' y1='29' x2='50' y2='59' stroke='#fff' stroke-width='1'/><circle cx='50' cy='44' r='4' fill='none' stroke='#fff' stroke-width='1'/><path d='M8 44 Q8 30 24 24 M92 44 Q92 30 76 24' stroke='#4a7090' stroke-width='2' fill='none'/></svg>"
+    },
+    {
+      "num": 58,
+      "word": "stand",
+      "ipa": "/stænd/",
+      "chinese": "看台",
+      "svg": ""
+    },
+    {
+      "num": 59,
+      "word": "the crowd",
+      "ipa": "/kraʊd/",
+      "chinese": "观众",
+      "svg": ""
+    },
+    {
+      "num": 60,
+      "word": "fans / supporters",
+      "ipa": "/fænz/",
+      "chinese": "球迷",
+      "svg": ""
+    },
+    {
+      "num": 61,
+      "word": "chant",
+      "ipa": "/tʃɑːnt/",
+      "chinese": "助威歌/呼喊",
+      "svg": ""
+    },
+    {
+      "num": 62,
+      "word": "home / away",
+      "ipa": "/həʊm/",
+      "chinese": "主场/客场",
+      "svg": ""
+    },
+    {
+      "num": 63,
+      "word": "kit / strip",
+      "ipa": "/kɪt/",
+      "chinese": "队服",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M28 18 L40 12 Q44 20 50 20 Q56 20 60 12 L72 18 L80 28 L70 34 L70 66 L30 66 L30 34 L20 28 Z' fill='#d03030' stroke='#901010' stroke-width='1.5'/><text x='50' y='52' font-size='18' text-anchor='middle' fill='#fff' font-weight='bold' font-family='Arial'>10</text></svg>"
+    },
+    {
+      "num": 64,
+      "word": "the bench",
+      "ipa": "/bentʃ/",
+      "chinese": "替补席",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><rect x='14' y='30' width='72' height='14' rx='2' fill='#3a5a8a' stroke='#1a3a6a' stroke-width='1.5'/><rect x='18' y='44' width='6' height='20' fill='#555'/><rect x='76' y='44' width='6' height='20' fill='#555'/><circle cx='28' cy='24' r='5' fill='#f0c8a0'/><circle cx='44' cy='24' r='5' fill='#f0c8a0'/><circle cx='60' cy='24' r='5' fill='#f0c8a0'/><circle cx='76' cy='24' r='5' fill='#f0c8a0'/><rect x='6' y='14' width='88' height='4' fill='#888'/></svg>"
+    },
+    {
+      "num": 65,
+      "word": "dugout",
+      "ipa": "/ˈdʌɡaʊt/",
+      "chinese": "教练席",
+      "svg": ""
+    },
+    {
+      "section": "8. Match flow"
+    },
+    {
+      "num": 66,
+      "word": "line-up",
+      "ipa": "/ˈlaɪn ʌp/",
+      "chinese": "首发阵容",
+      "svg": ""
+    },
+    {
+      "num": 67,
+      "word": "formation",
+      "ipa": "/fɔːˈmeɪʃn/",
+      "chinese": "阵型(如4-4-2)",
+      "svg": ""
+    },
+    {
+      "num": 68,
+      "word": "possession",
+      "ipa": "/pəˈzeʃn/",
+      "chinese": "控球",
+      "svg": ""
+    },
+    {
+      "num": 69,
+      "word": "stoppage time",
+      "ipa": "/ˈstɒpɪdʒ taɪm/",
+      "chinese": "补时",
+      "svg": ""
+    },
+    {
+      "num": 70,
+      "word": "the whistle",
+      "ipa": "/ˈwɪsl/",
+      "chinese": "哨声",
+      "svg": "<svg viewBox='0 0 100 80' xmlns='http://www.w3.org/2000/svg'><path d='M22 38 L52 38 Q66 38 66 50 Q66 62 52 62 Q38 62 38 50 L38 44 L22 44 Z' fill='#333' stroke='#111' stroke-width='1.5'/><circle cx='52' cy='50' r='6' fill='#666'/><rect x='22' y='34' width='8' height='6' rx='2' fill='#555'/><path d='M30 30 Q40 26 50 28' stroke='#888' stroke-width='2' fill='none'/></svg>"
+    },
+    {
+      "num": 71,
+      "word": "counter-attack",
+      "ipa": "/ˈkaʊntər ətæk/",
+      "chinese": "反击",
+      "svg": ""
+    },
+    {
+      "num": 72,
+      "word": "set piece",
+      "ipa": "/ˈset piːs/",
+      "chinese": "定位球",
+      "svg": ""
+    },
+    {
+      "num": 73,
+      "word": "build-up",
+      "ipa": "/ˈbɪld ʌp/",
+      "chinese": "进攻组织",
+      "svg": ""
+    },
+    {
+      "section": "9. More positions & play"
+    },
+    {
+      "num": 74,
+      "word": "centre-back",
+      "ipa": "/ˌsentə ˈbæk/",
+      "chinese": "中后卫",
+      "svg": ""
+    },
+    {
+      "num": 75,
+      "word": "full-back",
+      "ipa": "/ˈfʊl bæk/",
+      "chinese": "边后卫",
+      "svg": ""
+    },
+    {
+      "num": 76,
+      "word": "playmaker",
+      "ipa": "/ˈpleɪmeɪkə/",
+      "chinese": "组织核心",
+      "svg": ""
+    },
+    {
+      "num": 77,
+      "word": "through ball",
+      "ipa": "/ˈθruː bɔːl/",
+      "chinese": "直塞球",
+      "svg": ""
+    },
+    {
+      "num": 78,
+      "word": "volley",
+      "ipa": "/ˈvɒli/",
+      "chinese": "凌空抽射",
+      "svg": ""
+    },
+    {
+      "num": 79,
+      "word": "header",
+      "ipa": "/ˈhedə/",
+      "chinese": "头球",
+      "svg": ""
+    },
+    {
+      "num": 80,
+      "word": "chip",
+      "ipa": "/tʃɪp/",
+      "chinese": "吊射",
+      "svg": ""
+    },
+    {
+      "num": 81,
+      "word": "nutmeg",
+      "ipa": "/ˈnʌtmeɡ/",
+      "chinese": "穿裆过人",
+      "svg": ""
+    },
+    {
+      "num": 82,
+      "word": "one-on-one",
+      "ipa": "/ˌwʌn ɒn ˈwʌn/",
+      "chinese": "单刀",
+      "svg": ""
+    },
+    {
+      "section": "10. Results & standings"
+    },
+    {
+      "num": 83,
+      "word": "win",
+      "ipa": "/wɪn/",
+      "chinese": "赢",
+      "svg": ""
+    },
+    {
+      "num": 84,
+      "word": "lose",
+      "ipa": "/luːz/",
+      "chinese": "输",
+      "svg": ""
+    },
+    {
+      "num": 85,
+      "word": "draw",
+      "ipa": "/drɔː/",
+      "chinese": "平局",
+      "svg": ""
+    },
+    {
+      "num": 86,
+      "word": "league table",
+      "ipa": "/ˈliːɡ teɪbl/",
+      "chinese": "积分榜",
+      "svg": ""
+    },
+    {
+      "num": 87,
+      "word": "points",
+      "ipa": "/pɔɪnts/",
+      "chinese": "积分",
+      "svg": ""
+    },
+    {
+      "num": 88,
+      "word": "goal difference",
+      "ipa": "/ˈɡəʊl dɪfrəns/",
+      "chinese": "净胜球",
+      "svg": ""
+    },
+    {
+      "num": 89,
+      "word": "go through / advance",
+      "ipa": "/ɡəʊ ˈθruː/",
+      "chinese": "晋级",
+      "svg": ""
+    },
+    {
+      "num": 90,
+      "word": "knocked out",
+      "ipa": "/ˌnɒkt ˈaʊt/",
+      "chinese": "被淘汰",
+      "svg": ""
+    },
+    {
+      "num": 91,
+      "word": "penalty shootout",
+      "ipa": "/ˈpenəlti ʃuːtaʊt/",
+      "chinese": "点球大战",
+      "svg": ""
+    },
+    {
+      "section": "11. Commentator phrases"
+    },
+    {
+      "num": 92,
+      "word": "back of the net",
+      "chinese": "进球了!"
+    },
+    {
+      "num": 93,
+      "word": "they're 2-nil up",
+      "chinese": "他们2比0领先"
+    },
+    {
+      "num": 94,
+      "word": "it's a draw",
+      "chinese": "打平了"
+    },
+    {
+      "num": 95,
+      "word": "into extra time",
+      "chinese": "进入加时赛"
+    },
+    {
+      "num": 96,
+      "word": "what a screamer",
+      "chinese": "一记世界波!"
+    },
+    {
+      "num": 97,
+      "word": "he's on fire",
+      "chinese": "他状态火热"
+    },
+    {
+      "num": 98,
+      "word": "they bottled it",
+      "chinese": "他们关键时刻掉链子"
+    },
+    {
+      "num": 99,
+      "word": "against the run of play",
+      "chinese": "逆着场上形势进球"
+    },
+    {
+      "num": 100,
+      "word": "what a finish!",
+      "chinese": "漂亮的终结!"
+    },
+    {
+      "num": 101,
+      "word": "he's through on goal",
+      "chinese": "他单刀了"
+    },
+    {
+      "num": 102,
+      "word": "off the post",
+      "chinese": "打在门柱上"
+    },
+    {
+      "num": 103,
+      "word": "denied by the keeper",
+      "chinese": "被门将扑出"
+    },
+    {
+      "num": 104,
+      "word": "ruled out for offside",
+      "chinese": "因越位判无效"
+    },
+    {
+      "num": 105,
+      "word": "in the dying minutes",
+      "chinese": "在最后几分钟"
+    },
+    {
+      "num": 106,
+      "word": "they're going through",
+      "chinese": "他们要晋级了"
+    },
+    {
+      "section": "12. Talking about the match"
+    },
+    {
+      "num": 107,
+      "word": "did you watch the game?",
+      "chinese": "你看比赛了吗?"
+    },
+    {
+      "num": 108,
+      "word": "what's the score?",
+      "chinese": "比分多少?"
+    },
+    {
+      "num": 109,
+      "word": "who's winning?",
+      "chinese": "谁领先?"
+    },
+    {
+      "num": 110,
+      "word": "who are you supporting?",
+      "chinese": "你支持哪队?"
+    },
+    {
+      "num": 111,
+      "word": "it went to penalties",
+      "chinese": "进入点球大战了"
+    }
+  ]
+}
